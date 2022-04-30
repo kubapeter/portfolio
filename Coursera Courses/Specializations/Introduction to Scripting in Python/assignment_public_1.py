@@ -18,7 +18,7 @@ functions:
 
 In this example cmath library is used. The main goal is 
 to see that due to floating point calculations sometimes 
-rounding errors occure, but these can be handeled with 
+rounding errors occur, but these can be handeled with 
 cmath.isclose() function
 """
 
