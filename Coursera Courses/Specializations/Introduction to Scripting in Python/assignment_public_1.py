@@ -31,7 +31,7 @@ def cube_root(cplx_rect, nth):
 		nth - an integer index in [1, 3] telling which cube root to calculate
 	
 	Returns:
-		the 1st, 2nd or 3rd complex cube roots of cplx_rect
+		the n-th (1st, 2nd or 3rd) complex cube roots of cplx_rect
 	"""
 	radius, phase = cmath.polar(cplx_rect)
 	root_radius = radius ** (1/3)
