@@ -1,6 +1,6 @@
 /*
-Note that for etical reasons this is not the assignment submitted. I use 
-roughly the same knowledge that I used for the assignment, but the problem 
+Note that for etical reasons this is not the assignment submitted in the course. 
+I use roughly the same knowledge that I used for the assignment, but the problem 
 I solve is my own creation.
 
 The program prompts the user to enter a string that is a one digit number 
