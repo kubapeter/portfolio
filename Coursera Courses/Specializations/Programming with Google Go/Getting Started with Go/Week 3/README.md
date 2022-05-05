@@ -1,8 +1,6 @@
 Week 3 is about composite data types
-- arrays
-- slices
-- hash tables
-- maps
+- arrays and slices
+- hash tables and maps
 - structs
 
 
