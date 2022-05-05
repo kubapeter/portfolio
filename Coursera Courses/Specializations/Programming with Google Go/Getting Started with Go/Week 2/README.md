@@ -6,6 +6,7 @@ The second week is about
 - some basic packages
 - constants
 - control flow
+
 Two assignments: 
 1. **Simple type conversion**. "Write a program which prompts the user to enter a floating point number and prints the integer which is a truncated version of the floating point number that was entered. Truncation is the process of removing the digits to the right of the decimal place."
 and
