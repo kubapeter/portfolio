@@ -1,4 +1,4 @@
-The second week is about
+Week 2 is about
 - pointers
 - variable scope
 - garbage collection
