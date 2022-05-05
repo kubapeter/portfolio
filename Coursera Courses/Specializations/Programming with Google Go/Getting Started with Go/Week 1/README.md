@@ -3,3 +3,4 @@ The first week is mainly about
 - installation
 - packages
 - variables
+One assignment only to see if compilation and run are successful
