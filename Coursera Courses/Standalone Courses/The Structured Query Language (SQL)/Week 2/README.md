@@ -3,3 +3,11 @@ Week 2 is about the basic SELECT statement
   - \*, FROM, AS, CONCAT, ||, to_char, date_part, --, /* */
 - WHERE (specifies rows)
   - LIKE, IN, BETWEEN, AND, OR, NOT
+- ORDER BY and DISTINCT
+  - count(), ASC, DESC. LIMIT
+- date datatype
+  - DATE, TIMESTAMP, TIMESTAMPTZ, TIME, INTERVAL (PostgreSQL)
+  - CAST (<A> AS <B>), <A>::<B>
+  - now(), age(), other date functions
+- NULL
+    - IS NULL, IS NOT NULL
