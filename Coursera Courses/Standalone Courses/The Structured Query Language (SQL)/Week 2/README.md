@@ -8,6 +8,6 @@ Week 2 is about the basic SELECT statement
 - date datatype
   - DATE, TIMESTAMP, TIMESTAMPTZ, TIME, INTERVAL (PostgreSQL)
   - CAST (<A> AS <B>), <A>::<B>
-  - now(), age(), date functions in general
+  -** **now(), age(), date functions in general
 - NULL
     - IS NULL, IS NOT NULL
