@@ -6,7 +6,7 @@ assignment, but the problem I solve is my own creation.
 The user can bulid a fleet of airplanes (slice of structs), and put a captain 
 and a first officer in the cockpit (both structs). When the build is finished
 the program finds the youngest and oldest of all the crews (sorting of slice) 
-and prints their name, age and the plane they are on. 
+and prints their name, age and the name of the plane they are on. 
 */
 
 package main
