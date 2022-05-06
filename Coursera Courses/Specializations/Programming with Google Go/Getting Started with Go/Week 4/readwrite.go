@@ -1,3 +1,14 @@
+/*
+Please note that for etical reasons this is not the assignment submitted 
+in the course. I use roughly the same knowledge that I used for the 
+assignment, but the problem I solve is my own creation.
+
+The program reads JSON objects from a txt file, unmarshals them to go
+structs, asks the user to choose one of the fields, gives back all the 
+existing values on the field asks the user to choose one of the values and
+writes all the objects that has the chosen value at the chosen field to a 
+csv file. 
+*/
 package main
  
 import (
