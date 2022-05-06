@@ -1,0 +1,25 @@
+[{
+    "departure": "London",
+    "arrival": "Berlin",
+    "airline": "Wizz Air"
+}, {
+    "departure": "London",
+    "arrival": "Paris",
+    "airline": "easyJet"
+}, {
+    "departure": "Berlin",
+    "arrival": "London",
+    "airline": "Ryanair"
+}, {
+    "departure": "Berlin",
+    "arrival": "Paris",
+    "airline": "Wizz Air"
+}, {
+    "departure": "Paris",
+    "arrival": "London",
+    "airline": "easyJet"
+}, {
+    "departure": "Paris",
+    "arrival": "Berlin",
+    "airline": "Ryanair"
+}]
