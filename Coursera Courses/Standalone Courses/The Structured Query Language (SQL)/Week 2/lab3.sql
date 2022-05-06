@@ -1,4 +1,5 @@
---2.1 List the employeeid, firstname + lastname concatenated as ‘employee’, and the age of the employee  when they were hired. 
+--2.1 List the employeeid, firstname + lastname concatenated as ‘employee’, 
+--and the age of the employee when they were hired. 
 
 SELECT employeeid, firstname || ' ' || lastname AS "employee",
     age(hiredate, birthdate)::text
@@ -8,7 +9,8 @@ SELECT employeeid, firstname || ' ' || lastname AS "employee",
 
 SELECT age(now(), '19770701')::text
 
---2.3 List the customerid, companyname and country for all customers whose region is NULL.    
+--2.3 List the customerid, companyname and country 
+--for all customers whose region is NULL.    
 
 SELECT customerid, companyname, country 
   FROM "alanparadise/nw"."customers"
