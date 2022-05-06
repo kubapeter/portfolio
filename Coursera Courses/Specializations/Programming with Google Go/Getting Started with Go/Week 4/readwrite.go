@@ -9,19 +9,20 @@ existing values on the field asks the user to choose one of the values and
 writes all the objects that has the chosen value at the chosen field to a 
 csv file. 
 */
+
 package main
  
 import (
     "encoding/json"
     "io/ioutil"
-	  "fmt"
-	  "bufio"
-	  "os"
+    "fmt"
+    "bufio"
+    "os"
 )
  
 type Flight struct {
     Departure string
-    Arrival   string
+    Arrival string
     Airline string
 }
 
@@ -38,7 +39,7 @@ func contains(slice []string, element string) bool {
 func getUserInputFrom(pleaseChoose string, from []string) string {
     scanner := bufio.NewScanner(os.Stdin)
     var chosen string
-	  fmt.Println(pleaseChoose)
+    fmt.Println(pleaseChoose)
     for {
         scanner.Scan()
         chosen = scanner.Text()
@@ -86,13 +87,12 @@ func selectAndPrintFlights(allFlights []Flight, category, attribute string) ([]F
 }
 
 func writeFlights(flightsToWrite []Flight) {
-	  stringToWrite := "Departure, Arrival, Airline \n"
+    stringToWrite := "Departure, Arrival, Airline \n"
     for _, flight := range flightsToWrite {
         stringToWrite = stringToWrite + flight.Departure + ", " + flight.Arrival + ", " + flight.Airline + "\n"
     }
     stringToByte := []byte(stringToWrite)
-
-	  ioutil.WriteFile("outfile.txt", stringToByte, 0644)
+    ioutil.WriteFile("outfile.txt", stringToByte, 0644)
 }
  
 func main() {
@@ -109,10 +109,10 @@ func main() {
         fmt.Println("Error during Unmarshal(): ", err)
     }
 
-	  // Greeting user
+    // Greeting user
     fmt.Println("The flights are read from infile.txt and now are structs")
-	  fmt.Println("Choose which ones to write to outfile.txt")
-	  fmt.Println("You can choose by departure, by arrival and by airline")
+    fmt.Println("Choose which ones to write to outfile.txt")
+    fmt.Println("You can choose by departure, by arrival and by airline")
 
     // Ask to choose field
     pleaseChoose := "Which one will it be? Type \"departure\", \"arrival\" or \"airline\"\n"
