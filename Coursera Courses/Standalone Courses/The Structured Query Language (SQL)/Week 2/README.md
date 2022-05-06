@@ -7,7 +7,7 @@ Week 2 is about the basic SELECT statement
   - count(), ASC, DESC. LIMIT
 - date datatype
   - DATE, TIMESTAMP, TIMESTAMPTZ, TIME, INTERVAL (PostgreSQL)
-  - CAST (<A> AS <B>), <A>\:\:<B>
+  - CAST (\<A\> AS \<B\>), \<A\>::\<B\>
   - now(), age(), date functions in general
 - NULL
     - IS NULL, IS NOT NULL
