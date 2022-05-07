@@ -36,6 +36,6 @@ SELECT productid, productname, unitprice
 --in December 1996 through the end of  January 1997.
   
 SELECT orderid, customerid, shippeddate
-	    FROM "alanparadise/nw"."orders"
-	    WHERE shipcountry = 'Canada'
+	FROM "alanparadise/nw"."orders"
+	WHERE shipcountry = 'Canada'
 		AND shippeddate BETWEEN '1996-12-01' AND '1997-01-31';
