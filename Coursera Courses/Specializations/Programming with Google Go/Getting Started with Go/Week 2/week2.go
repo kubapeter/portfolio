@@ -20,32 +20,32 @@ func main() {
 	fmt.Scan(&numAsString)
 	
 	switch numAsString {
-        case "zero":
-        numAsInt = 0
-        case "one":
-        numAsInt = 1
-        case "two":
-        numAsInt = 2
-        case "three":
-        numAsInt = 3
-        case "four":
-        numAsInt = 4
-        case "five":
-        numAsInt = 5
-        case "six":
-        numAsInt = 6
-        case "seven":
-        numAsInt = 7
-        case "eight":
-        numAsInt = 8
-        case "nine":
-        numAsInt = 9
-        default:
-        numAsInt = -1
-        fmt.Println("Cannot identify the string")
-    }
+		case "zero":
+		numAsInt = 0
+		case "one":
+		numAsInt = 1
+		case "two":
+		numAsInt = 2
+		case "three":
+		numAsInt = 3
+		case "four":
+		numAsInt = 4
+		case "five":
+		numAsInt = 5
+		case "six":
+		numAsInt = 6
+		case "seven":
+		numAsInt = 7
+		case "eight":
+		numAsInt = 8
+		case "nine":
+		numAsInt = 9
+		default:
+		numAsInt = -1
+		fmt.Println("Cannot identify the string")
+	}
     
-    if numAsInt != -1 {
-        fmt.Println("The entered number is an int:", numAsInt)
-    }
+        if numAsInt != -1 {
+                fmt.Println("The entered number is an int:", numAsInt)
+        }
 }
