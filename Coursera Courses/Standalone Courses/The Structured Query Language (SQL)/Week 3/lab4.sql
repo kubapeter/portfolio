@@ -1,4 +1,6 @@
---2.1 List the total (unitprice * quantity) as “Total Value”  by orderid for the top 5 orders.  (That is, the five orders with the highest Total Value.)  
+--2.1 List the total (unitprice * quantity) as “Total Value” 
+--by orderid for the top 5 orders.  
+--(That is, the five orders with the highest Total Value.)  
 
 SELECT OrderID, 
 		SUM(UnitPrice * Quantity) AS "Total Value" 
