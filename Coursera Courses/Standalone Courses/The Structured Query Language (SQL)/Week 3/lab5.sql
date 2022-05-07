@@ -42,8 +42,8 @@ SELECT productname,
 
 SELECT 
     orderid,
-    ROUND(CAST(sum(total_cost) AS numeric),2) total_value,
-    TRUNC(sum(discount)*100) total_discounts
+    ROUND(CAST(sum(total_cost) AS numeric), 2) total_value,
+    TRUNC(sum(discount) * 100) total_discounts
 FROM
   (
       SELECT  orderid, (quantity*unitprice) total_cost, discount
