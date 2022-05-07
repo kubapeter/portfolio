@@ -3,3 +3,5 @@ In this course you will learn all about the Structured Query Language ("SQL".)  
 Lab: https://bit.io/alanparadise/nw
 
 TODO: https://towardsdatascience.com/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098
+
+TODO: https://github.com/github/markup/issues/348
