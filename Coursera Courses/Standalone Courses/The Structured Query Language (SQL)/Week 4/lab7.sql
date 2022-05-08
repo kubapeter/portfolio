@@ -19,14 +19,14 @@ SELECT
     lastname, 
     firstname, 
     count(orderid)
-	FROM 
+  FROM 
     "alanparadise/nw"."employees" E  
     LEFT OUTER JOIN
     "alanparadise/nw"."orders" O 
     ON
-		E.employeeid = O.employeeid 
-	GROUP BY E.employeeid, lastname, firstname
-	ORDER BY E.employeeid;
+    E.employeeid = O.employeeid 
+  GROUP BY E.employeeid, lastname, firstname
+  ORDER BY E.employeeid;
 
 --the count is not 0 in any of the rows
 
