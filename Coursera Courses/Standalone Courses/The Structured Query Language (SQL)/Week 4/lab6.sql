@@ -31,9 +31,9 @@ SELECT LastName, Firstname, SUM(unitprice * quantity) as "Total Sales"
     "alanparadise/nw"."employees" E 
     JOIN
     "alanparadise/nw"."orders" O 
-		ON E.employeeid  =  O.employeeid
+    ON E.employeeid  =  O.employeeid
     JOIN 
     "alanparadise/nw"."orderdetails" D 
-		ON O.orderid  =  D.orderid
-	GROUP BY LastName, FirstName
-	  HAVING  sum(unitprice * quantity) < 100000
+    ON O.orderid  =  D.orderid
+  GROUP BY LastName, FirstName
+    HAVING  sum(unitprice * quantity) < 100000
