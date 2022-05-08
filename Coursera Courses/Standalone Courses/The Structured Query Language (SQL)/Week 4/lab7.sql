@@ -107,12 +107,12 @@ SELECT DISTINCT SH.shipperid, companyname, shipvia
 --or
 
 SELECT S.shipperid, companyname, count(orderid)
-	FROM 
+  FROM 
     "alanparadise/nw"."shippers" S 
     LEFT OUTER JOIN
     "alanparadise/nw"."orders" O 
     ON
-		S.shipperid = O.shipvia 
-	GROUP BY S.shipperid, companyname;
+    S.shipperid = O.shipvia 
+  GROUP BY S.shipperid, companyname;
 
 --no zero in count column se the answer is NO
