@@ -8,4 +8,4 @@ Learning Objectives
 - Use functions and a slice to implement a sorting routine for integers.
 
 There is one assignment for this week. Bubble sort algorithm. [^1]
-[^1]: This is the first footnote.
+[^1]: Write a Bubble Sort program in Go. The program should prompt the user to type in a sequence of up to 10 integers. The program should print the integers out on one line, in sorted order, from least to greatest. Use your favorite search tool to find a description of how the bubble sort algorithm works.
