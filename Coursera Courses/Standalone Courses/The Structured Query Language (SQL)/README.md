@@ -2,8 +2,6 @@ In this course you will learn all about the Structured Query Language ("SQL".)  
 
 The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 
-Lab: https://bit.io/alanparadise/nw
-
 TODO: https://towardsdatascience.com/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098
 
 TODO: https://github.com/github/markup/issues/348
