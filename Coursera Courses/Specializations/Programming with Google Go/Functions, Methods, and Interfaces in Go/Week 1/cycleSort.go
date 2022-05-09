@@ -71,7 +71,7 @@ func orderWithGivenGap(slice []int, gap int, isSorted bool) bool{
 func adjustGap(gap int, shrink float64, maybeFinalLoop bool) (int, bool) {
 	gap = int(math.Floor((float64(gap) / shrink)))
 	if gap <= 1 {
-		gap = 1
+		gap = 1 
 		maybeFinalLoop = true
 	}
 	return gap, maybeFinalLoop
