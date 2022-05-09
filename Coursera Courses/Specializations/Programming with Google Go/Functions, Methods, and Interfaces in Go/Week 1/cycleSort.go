@@ -28,7 +28,7 @@ func scanInput(input string) (int, bool){
 			return userInt, false
 		}
 	}
-}
+} 
 
 func scanAllUserInput() []int {
 	var userInput string
