@@ -6,7 +6,7 @@ SELECT *
 --2. Change the name of the ‘items’ table to ‘demo’
 
 ALTER TABLE "anon_UnmatchedEloquentClimate/demo_repo"."items" 
-  RENAME TO "alters"
+  RENAME TO "demo"
 
 --3. Change the name of the ‘itemcode’ column to ‘itemclass’  
 
@@ -16,7 +16,7 @@ ALTER TABLE "anon_UnmatchedEloquentClimate/demo_repo"."demo"
 --4. Add a new column ‘iteminfo’ to your ‘demo’ table  
 
 ALTER TABLE "anon_UnmatchedEloquentClimate/demo_repo"."demo" 
-  ADD COLUMN "iteminfo" varchar(5)
+  ADD COLUMN "iteminfo" varchar(5) NULL
 
 --5. Add some data to your new column, copying the values from the itemclass column
 
