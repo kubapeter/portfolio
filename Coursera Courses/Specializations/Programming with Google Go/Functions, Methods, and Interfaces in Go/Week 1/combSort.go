@@ -1,3 +1,12 @@
+/*
+Please note that for etical reasons this is not the assignment submitted 
+in the course. I use roughly the same knowledge that I used for the 
+assignment, but the problem I solve is my own creation.
+
+Instead of bubble sort method this program asks for integer entries,
+and sort them with comb sort (https://en.wikipedia.org/wiki/Comb_sort) method. 
+*/
+
 package main
 
 import (
