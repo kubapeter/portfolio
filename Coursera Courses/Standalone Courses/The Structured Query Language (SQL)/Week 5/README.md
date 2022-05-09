@@ -2,7 +2,7 @@ Week 5 is about DDL and DML
 - Data Definition Language
   - CREATE
   - ALTER
-  - DROP
+  - DROP 
 - Data Manipulation Language
   - INSERT
   - UPDATE
