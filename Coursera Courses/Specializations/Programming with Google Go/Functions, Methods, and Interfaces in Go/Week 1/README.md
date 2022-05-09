@@ -12,6 +12,7 @@ There is one assignment for this week. **Bubble sort algorithm**. [^assignment_d
   -  (re)usable
   -  understandable
 - giving descriptive function and variable names. 
+
 The code you can find here is good to practice these same principles, but it is not the one I submitted. It solves a similar problem: sorts the user input, but with [comb sort](https://en.wikipedia.org/wiki/Comb_sort) algorithm. 
 [^assignment_detailed]: "Write a Bubble Sort program in Go. The program should prompt the user to type in a sequence of up to 10 integers. The program should print the integers out on one line, in sorted order, from least to greatest. 
   As part of this program, you should write a function called BubbleSort() which takes a slice of integers as an argument and returns nothing. The BubbleSort()  function should modify the slice so that the elements are in sorted order.
