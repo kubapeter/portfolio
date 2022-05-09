@@ -1,13 +1,7 @@
 Week 5 is about DDL and DML
-- Data Definition Language
-  - CREATE
-  - ALTER
-  - DROP 
-- Data Manipulation Language
-  - INSERT
-  - UPDATE
-  - DELETE
-  - TRUNCATE
+- Data Definition Language (CREATE, ALTER, DROP)
+- Data Manipulation Language (INSERT, UPDATE, DELETE, TRUNCATE)
+- Constraints (table level, column level)
 
 Learning Objectives
 - Demonstrate understanding of the SQL Commands that modify database STRUCTURES
