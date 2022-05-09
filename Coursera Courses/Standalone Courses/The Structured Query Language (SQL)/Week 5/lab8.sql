@@ -6,7 +6,7 @@ CREATE TABLE "anon_UnmatchedEloquentClimate/demo_repo"."items"
     itemcode   VARCHAR(5)  NULL,
     itemname   VARCHAR(40) NOT NULL DEFAULT ' ',
     quantity   INT         NOT NULL DEFAULT 0,
-    price      REAL	    NOT NULL DEFAULT 0
+    price      REAL	   NOT NULL DEFAULT 0
 )
 
 --2. Populate your new table with data from the Products table, 
