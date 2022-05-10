@@ -180,3 +180,61 @@ SELECT customername, SUM(quantityordered) AS totalq
     ON O.ordernumber = D.ordernumber 
 GROUP BY customername  
 HAVING SUM(quantityordered) > 1650;
+
+--15. Create a NEW table named “TopCustomers” with three columns: 
+--CustomerNumber (integer), 
+--ContactDate (DATE) and 
+--OrderTotal (a real number.)  None of these columns can be NULL.  
+
+CREATE TABLE IF NOT EXISTS TopCustomers ( 
+ 	Customernumber int NOT NULL,  
+	ContactDate DATE NOT NULL, 
+  OrderTotal decimal(9,2) NOT NULL DEFAULT 0, constraint PKTopCustomers primary key (CustomerNumber) 
+ );
+
+--16. Populate the new table “TopCustomers” with 
+--the CustomerNumber, today’s date, and the total value of all their orders 
+--(PriceEach * quantityOrdered) 
+--for those customers whose order total value is greater than $140,000. 
+--(should insert 10 rows )  
+
+INSERT INTO TopCustomers 
+	SELECT 
+    c.customernumber, 
+    CURRENT_date,
+    SUM(priceEach * Quantityordered) 
+  FROM Customers c, Orders o,OrderDetails d
+  WHERE 
+    c.Customernumber = o.Customernumber  
+    AND 
+    o.Ordernumber = d.Ordernumber 
+  GROUP BY c.Customernumber 
+    HAVING SUM(priceEach * Quantityordered) > 140000;
+
+--17. List the contents of the TopCustomers table 
+--in descending OrderTotal sequence. (10) 
+
+SELECT * FROM topcustomers ORDER BY 3 DESC; 
+
+--18. Add a new column to the TopCustomers table called OrderCount (integer).
+
+ALTER TABLE topcustomers 
+  ADD COLUMN OrderCount integer ; 
+
+--19. Update the Top Customers table, 
+--setting the OrderCount to a random number between 1 and 10. 
+--Hint: use (RANDOM() *10)
+
+UPDATE topcustomers 
+  SET ordercount = floor((rand()*18));
+
+--20. List the contents of the TopCustomers table 
+--in descending OrderCount sequence. (10 rows)
+
+SELECT * 
+  FROM topcustomers 
+  ORDER BY 4 DESC;
+
+--21. Drop the TopCustomers table. (no answer set)  
+
+DROP TABLE topcustomers; 
