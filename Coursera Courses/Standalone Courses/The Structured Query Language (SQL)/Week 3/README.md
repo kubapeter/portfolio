@@ -1,4 +1,4 @@
-Week 3 is about group functions, subTotals, and subqueries
+Week 3 is about **group functions, subTotals, and subqueries**
 
 Subjects covered:
 - SUM(), AVG(), COUNT(), MIN(), MAX()
