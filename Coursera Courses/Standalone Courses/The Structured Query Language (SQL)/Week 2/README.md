@@ -5,7 +5,7 @@ Learning Objectives
 - Use the WHERE clause to retrieve a subset of rows
 - Demonstrate how to include literals and expressions in the SELECT clause
 
-In more detail:
+Subjects covered:
 - SELECT (specifies columns)
   - \*, FROM, AS, CONCAT, ||, to_char, date_part, --, /* */
 - WHERE (specifies rows)
