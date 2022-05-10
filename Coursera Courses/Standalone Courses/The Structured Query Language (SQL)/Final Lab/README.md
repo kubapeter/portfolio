@@ -1,0 +1,1 @@
+This is the final lab for the course. From this one can get an overall impression of what is covered by the course. This last lab uses a different database repo. The following diagram shows its structure 
