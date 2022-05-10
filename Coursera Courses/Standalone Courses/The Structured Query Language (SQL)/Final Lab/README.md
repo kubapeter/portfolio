@@ -4,4 +4,4 @@ This is the final lab for the course. From this one can get an overall impressio
 
 <img title="a title" alt="Alt text" src="/CourseraCourses/StandaloneCourses/TheStructuredQueryLanguage(SQL)/img/ClassicModelsDataModel.png">
 
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![MarineGEO circle logo](/CourseraCourses/StandaloneCourses/TheStructuredQueryLanguage(SQL)/img/ClassicModelsDataModel.png "MarineGEO logo")
