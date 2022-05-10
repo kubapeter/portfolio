@@ -12,5 +12,5 @@ Subjects covered:
   - anonymous functions
   - functions as return values
 - Environmen and closure of a function
-- Ellipsis e. g.: ```golang ...int``` to define variable number of arguments (variadic function)
+- Ellipsis e. g.: ```...int``` to define variable number of arguments (variadic function)
 - Deferred function calls: `defer f(x)`
