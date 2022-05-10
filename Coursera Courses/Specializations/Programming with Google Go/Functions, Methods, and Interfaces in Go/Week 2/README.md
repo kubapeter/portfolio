@@ -12,4 +12,4 @@ Subjects covered:
   - anonymous functions
   - functions as return values
 - Environmen and closure of a function
-- Ellipsis i. e.: `...` to define variable number of arguments
+- Ellipsis e. g.: `...int` to define variable number of arguments
