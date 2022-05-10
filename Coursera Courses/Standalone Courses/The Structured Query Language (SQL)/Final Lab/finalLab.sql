@@ -79,8 +79,7 @@ SELECT
     "alanparadise/cm"."products" PR
     JOIN 
     "alanparadise/cm"."orderdetails" OD
-    ON
-    PR.productcode = OD.productcode     
+    ON PR.productcode = OD.productcode     
   GROUP BY PR.productcode, productname 
     HAVING COUNT(ordernumber) = 25;
 
@@ -96,8 +95,7 @@ SELECT
     "alanparadise/cm"."employees" E
     JOIN 
     "alanparadise/cm"."employees" R
-    ON
-    E.reportsto = R.employeenumber
+    ON E.reportsto = R.employeenumber
   WHERE 
     (R.firstname = 'Diane' AND R.lastname = 'Murphy')
     OR
@@ -107,8 +105,8 @@ SELECT
 
 SELECT 
     employeenumber, 
-		CONCAT(firstname,' ',lastname) AS name 
- 	FROM "alanparadise/cm"."employees" 
+    CONCAT(firstname,' ',lastname) AS name 
+  FROM "alanparadise/cm"."employees" 
   WHERE reportsto IN ('1002', '1102');
 
 --9. List the EmployeeNumber, LastName, FirstName of 
@@ -118,7 +116,7 @@ SELECT
     employeenumber, 
     lastname, 
     firstname
- 	FROM "alanparadise/cm"."employees" 
+  FROM "alanparadise/cm"."employees" 
   WHERE reportsto IS NULL
 
 --10. List the ProductName for all products 
@@ -173,13 +171,12 @@ SELECT customername, ordernumber
 --for customers who have ordered more than 1650 products across all their orders.  (8) 
 
 SELECT customername, SUM(quantityordered) AS totalq 
-	FROM 
+  FROM 
     "alanparadise/cm"."Customers" CUS  
-		JOIN 
+    JOIN 
     "alanparadise/cm"."orders" O 
     ON CUS.customernumber = O.customernumber 
     JOIN "alanparadise/cm"."orderdetails" D 
     ON O.ordernumber = D.ordernumber 
 GROUP BY customername  
 HAVING SUM(quantityordered) > 1650;
-
