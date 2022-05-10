@@ -1,7 +1,7 @@
-Week 1 is about theoretical background and history
+Week 1 is about theoretical **background and history**
 
-- Classification of SQL
-- History of SQL
-- SQL standards
-- Query execution
-- Relations as tables
+Learning Objectives
+- Understand the historical origins of SQL
+- Describe the Relational Algebra and its relationship to SQL
+- Describe ANSI standard SQL
+- Explain how the DBMS prepares a query for execution
