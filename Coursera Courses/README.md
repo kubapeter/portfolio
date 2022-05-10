@@ -5,7 +5,8 @@
 </p>
 
 <div style="width:150px; height:100px">
-![Kitten]("https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg")
+![Kitten](<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg">
+)
 </div>
 
 Container of my finished Coursera courses. You can find
