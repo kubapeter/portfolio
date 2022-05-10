@@ -12,4 +12,4 @@ Subjects covered:
   - anonymous functions
   - functions as return values
 - Environmen and closure of a function
-- Ellipsis ('...')
+- Ellipsis (`nano`) to define variable number of arguments
