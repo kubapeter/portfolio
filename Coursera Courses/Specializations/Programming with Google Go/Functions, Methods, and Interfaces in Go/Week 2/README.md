@@ -12,7 +12,7 @@ Subjects covered:
   - anonymous functions
   - functions as return values
 - Environment and closure of a function
-- Ellipsis e. g.: ```...int``` to define variable number of arguments (variadic function)
+- Ellipsis e. g.: `...int` to define variable number of arguments (variadic function)
 - Deferred function calls: `defer f(x)`
 
 Assignment: **Function as a return value**. [^1]
