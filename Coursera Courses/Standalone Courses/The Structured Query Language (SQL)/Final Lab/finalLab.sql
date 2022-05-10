@@ -81,8 +81,8 @@ SELECT
     "alanparadise/cm"."orderdetails" OD
     ON
     PR.productcode = OD.productcode     
-GROUP BY PR.productcode, productname 
-  HAVING COUNT(ordernumber) = 25;
+	GROUP BY PR.productcode, productname 
+		HAVING COUNT(ordernumber) = 25;
 
 --8. List the EmployeeNumber, Firstname + Lastname  
 --(concatenated into one column in the answer set, separated by a blank and referred to as ‘name’) 
