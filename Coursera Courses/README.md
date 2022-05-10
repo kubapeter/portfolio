@@ -1,3 +1,19 @@
+<style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+# Markdown heading styles {#identifier .heading1}
+## Markdown heading styles {#identifier .heading2}
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="100" height="100" style="float: right;">
 
 <p style="max-width: 50%; float: right;">
