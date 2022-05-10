@@ -1,5 +1,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" style="float:right;width:100px;height:100px;">
 
+<p style="max-width: 50%; float: right;">
+![Hello](something.png "The Caption Of Something")
+</p>
+
 Container of my finished Coursera courses. You can find
 - the certificates
 - short descriptions
