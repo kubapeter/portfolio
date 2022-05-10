@@ -1,5 +1,5 @@
 This is the final lab for the course. From this one can get an overall impression of what is covered by the course. This last lab uses a different database repo. The following diagram shows its structure. 
 
-![data structure diagram](Coursera Courses/Standalone Courses/The Structured Query Language (SQL)/img/Classic Models Data Model.png "a title")
+![data structure diagram](Classic Models Data Model.png "a title")
 
 <img title="a title" alt="Alt text" src="/CourseraCourses/StandaloneCourses/TheStructuredQueryLanguage(SQL)/img/ClassicModelsDataModel.png">
