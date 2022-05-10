@@ -1,15 +1,12 @@
-<div style="color:green">
-    Markdown inline css styles
-</div>
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="100" height="100" style="float: right;">
 
 <p style="max-width: 50%; float: right;">
 ![Hello](<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="100" height="100"> "The Caption Of Something")
 </p>
 
-![image alt >](https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg)
+<div style="width:150px; height:100px">
+![Kitten](https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg)
+</div>
 
 Container of my finished Coursera courses. You can find
 - the certificates
