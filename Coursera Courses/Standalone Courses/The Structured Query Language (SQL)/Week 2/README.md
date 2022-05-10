@@ -1,4 +1,11 @@
-Week 2 is about the basic SELECT statement
+Week 2 is about the **basic SELECT statement**
+
+Learning Objectives
+- Construct basic SQL queries to retrieve columns from tables
+- Use the WHERE clause to retrieve a subset of rows
+- Demonstrate how to include literals and expressions in the SELECT clause
+
+In more detail:
 - SELECT (specifies columns)
   - \*, FROM, AS, CONCAT, ||, to_char, date_part, --, /* */
 - WHERE (specifies rows)
