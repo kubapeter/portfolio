@@ -1,6 +1,4 @@
 Week 6 is about **Advanced SQL Commands**
-- VIEW
-- CASE
 
 Learning Objectives
 - Understand the VIEW and demonstrate ability to create and use a VIEW
