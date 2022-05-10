@@ -11,8 +11,13 @@
 }
 </style>
 
-# Markdown heading styles {#identifier .heading1}
-## Markdown heading styles {#identifier .heading2}
+<h1 id="identifier" class="heading1">
+    Markdown h1 styles
+</h1>
+<h2 id="identifier" class="heading2">
+    Markdown h2 styles
+</h2>
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="100" height="100" style="float: right;">
 
