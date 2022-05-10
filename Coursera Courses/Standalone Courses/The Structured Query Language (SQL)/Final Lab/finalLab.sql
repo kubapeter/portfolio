@@ -187,8 +187,8 @@ HAVING SUM(quantityordered) > 1650;
 --OrderTotal (a real number.)  None of these columns can be NULL.  
 
 CREATE TABLE IF NOT EXISTS TopCustomers ( 
- 	Customernumber int NOT NULL,  
-	ContactDate DATE NOT NULL, 
+  Customernumber int NOT NULL,  
+  ContactDate DATE NOT NULL, 
   OrderTotal decimal(9,2) NOT NULL DEFAULT 0, constraint PKTopCustomers primary key (CustomerNumber) 
  );
 
@@ -199,7 +199,7 @@ CREATE TABLE IF NOT EXISTS TopCustomers (
 --(should insert 10 rows )  
 
 INSERT INTO TopCustomers 
-	SELECT 
+  SELECT 
     c.customernumber, 
     CURRENT_date,
     SUM(priceEach * Quantityordered) 
