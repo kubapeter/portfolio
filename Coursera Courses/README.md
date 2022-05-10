@@ -4,12 +4,9 @@
 ![Hello](<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="100" height="100"> "The Caption Of Something")
 </p>
 
-<div style="width:150px; height:100px">
-![Kitten](<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg">
-)
-</div>
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg">
 
-Container of my finished Coursera courses. You can find
+Folder for my finished Coursera courses. You can find
 - the certificates
 - short descriptions
 - code 
