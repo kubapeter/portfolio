@@ -15,7 +15,12 @@ Subjects covered:
 - Ellipsis e. g.: `...int` to define variable number of arguments (variadic function)
 - Deferred function calls: `defer f(x)`
 
-Assignment: **Function as a return value**. [^1]
+Assignment: **Function as a return value**. [^1] The main emphasis is on using the possibility of functions as return values. The code I present [in this repo](https://github.com/kubapeter/portfolio/blob/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/Week%201/combSort.go) also concentrates on this, but it is not the one I submitted. It has
+- function as a return value
+- function as a variable and also
+- function as an argument
+
+The problem it solves seems to be quite different on the surface: asks the user for a regular German or Spanish verb, finds out the language then conjugates accordingly. 
 
 [^1]: Let us assume the following formula for displacement *s* as a function of time *t*, acceleration *a*, initial velocity *v*<sub>0</sub>,
 and initial displacement *s*<sub>0</sub> is the following: 
