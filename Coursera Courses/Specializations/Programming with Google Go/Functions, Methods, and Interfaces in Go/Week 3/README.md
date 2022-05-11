@@ -15,3 +15,4 @@ Subjects covered
   - method cannot modify the data of the receiver (only copy is passed)
 - Pointer receivers: `func (p *Point) OffsetX(v float64) {p.x = p.x + v}` calls by reference
   - no need for referencing (`{p.x = p.x + v}`) and dereferencing (can write `p1.OffsetX(5)`)
+- Best practice: **all** methods have pointer receivers or **none of them**.
