@@ -1,6 +1,6 @@
 /*
 Please note that for etical reasons this is not the assignment submitted 
-in the course. I use roughly the same knowledge that I used for the 
+in the course. I use approximately the same knowledge that I used for the 
 assignment, but the problem I solve is my own creation.
 
 Instead of bubble sort method this program asks for integer entries,
