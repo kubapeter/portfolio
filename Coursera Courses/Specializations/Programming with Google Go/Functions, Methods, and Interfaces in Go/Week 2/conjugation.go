@@ -1,6 +1,6 @@
 /*
 Please note that for etical reasons this is not the assignment submitted 
-in the course. I use more or less the same knowledge that I used for the 
+in the course. I use approximately the same knowledge that I used for the 
 assignment, but the problem I solve is my own creation.
 
 The program asks for a regular German or Spanish verb, and conjugates it. The 
