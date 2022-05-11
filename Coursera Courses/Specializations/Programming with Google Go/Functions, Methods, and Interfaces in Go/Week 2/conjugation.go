@@ -3,11 +3,12 @@ Please note that for etical reasons this is not the assignment submitted
 in the course. I use approximately the same knowledge that I used for the 
 assignment, but the problem I solve is my own creation.
 
-The program asks for a regular German or Spanish verb, and conjugates it. The 
-main goal is to practice such functional programming principles as 
-functions aas return values, 
-functions as variables and 
-functions as arguments.
+The program asks for a regular German or Spanish verb, identifies the 
+language and conjugates the verb. The main goal is to practice such basic 
+functional programming principles as 
+- functions aas return values, 
+- functions as variables and 
+- functions as arguments.
 */
 
 
