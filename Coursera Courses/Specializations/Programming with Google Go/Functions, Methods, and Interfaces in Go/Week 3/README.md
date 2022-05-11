@@ -8,5 +8,6 @@ Learning Objectives
 
 Subjects covered
 - Encapsulation
-- no `class` keyword
-- receiver type: `func (mo MyStruct) AssociatedMethod () int {}` can only be called on structs of type `MyStruct`
+- No `class` keyword
+- Receiver type: `func (mo MyStruct) AssociatedMethod () int {}` can only be called on structs of type `MyStruct`
+- Implicit method argument (e. g.: `struct.AssociatedMethod()` where `struct` is of type `MyStruct`, the argument is `struct`)
