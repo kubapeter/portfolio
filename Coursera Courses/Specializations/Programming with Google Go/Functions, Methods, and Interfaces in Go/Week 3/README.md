@@ -9,3 +9,4 @@ Learning Objectives
 Subjects covered
 - Encapsulation
 - no `class` keyword
+- receiver type: `func (mo MyStruct) AssociatedMethod () int {}` can only be called on structs of type `MyStruct`
