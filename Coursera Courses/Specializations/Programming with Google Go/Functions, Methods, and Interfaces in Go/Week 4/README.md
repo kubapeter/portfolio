@@ -17,5 +17,6 @@ Subjects covered
 - Ways to use an interface
   - function with multiple types of parameters
   - concealing type differences
+  - error handling `type error interface { Error() string }`
 - Empty interface: `interface{}`
 - Exposing type differences: `rect, ok := shape.(Rectangle)` returns a `Rectangle` (if possible) and a `bool`.
