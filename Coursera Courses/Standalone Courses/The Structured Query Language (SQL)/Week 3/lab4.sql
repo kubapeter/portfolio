@@ -2,11 +2,10 @@
 --by orderid for the top 5 orders.  
 --(That is, the five orders with the highest Total Value.)  
 
-SELECT OrderID, 
-		SUM(UnitPrice * Quantity) AS "Total Value" 
-	    FROM "alanparadise/nw"."orderdetails"
-	GROUP BY OrderID
-	ORDER BY 2 DESC LIMIT 5;
+SELECT OrderID, SUM(UnitPrice * Quantity) AS "Total Value" 
+  FROM "alanparadise/nw"."orderdetails"
+  GROUP BY OrderID
+  ORDER BY 2 DESC LIMIT 5;
 
 --2.2 How many products does Northwinds have in inventory?    
 
