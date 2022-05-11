@@ -4,6 +4,6 @@ In this course you will learn all about the Structured Query Language ("SQL".)  
 
 The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 
-[Certificate](/Certificate/Coursera Certificate The Structured Query Language (SQL).pdf)([Verify](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
+[Certificate](/Certificate/CourseraCertificateTheStructuredQueryLanguage(SQL).pdf)([Verify](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
 
 TODO: https://towardsdatascience.com/five-best-practices-for-writing-clean-and-professional-sql-code-2b081d8f7098
