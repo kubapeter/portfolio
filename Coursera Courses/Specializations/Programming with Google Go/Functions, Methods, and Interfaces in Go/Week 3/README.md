@@ -18,7 +18,11 @@ Subjects covered
 - Best practice: **all** methods have pointer receivers or **none of them**.
 
 Assignment
-The assignment for this week is a program that calls field values from a struct[^1]. 
+
+The assignment for this week is a program that calls field values from a struct[^1]. The main emphasis is on using Go in an object-oriented manner, so
+- to use structs as containers of related data
+- use receiver functions to associate functions with ontainers of data they are related to
+- use receiver functions to get field values from a struct (basically as `getField()` methods in other OO languages)
 
 
 [^1]: "Write a program which allows the user to get information about a predefined set of animals. Three animals are predefined, cow, bird, and snake. Each animal can eat, move, and speak. The user can issue a request to find out one of three things about an animal: 1) the food that it eats, 2) its method of locomotion, and 3) the sound it makes when it speaks. The following table contains the three animals and their associated data which should be hard-coded into your program. \[...\] 
