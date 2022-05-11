@@ -8,6 +8,8 @@ Learning Objectives
 
 Subjects covered
 - Encapsulation
-- No `class` keyword
-- Receiver type: `func (mo MyStruct) AssociatedMethod () int {}` can only be called on structs of type `MyStruct`
-- Implicit method argument (e. g.: `struct.AssociatedMethod()` where `struct` is of type `MyStruct`, the argument is `struct`)
+  - controll of access through public functions (`function(x)` and `Function(x)`)
+- No `class` keyword, but possible to associate methods with a dataset (with structs)
+  - Receiver type: `func (p Point) DistToOrig() {...}` can only be called on structs of type `Point`
+  - Implicit method argument (e. g.: `p1.DistToOrig()` where `p1` is of type `Point`, the argument is `p1`)
+- 
