@@ -1,3 +1,16 @@
+/*
+Please note that for etical reasons this is not the assignment submitted 
+in the course. I use roughly the same knowledge that I used for the 
+assignment, but the problem I solve is my own creation.
+
+The program asks for a regular German or Spanish verb, and conjugates it. The 
+main goal is to practice such functional programming principles as 
+functions aas return values, 
+functions as variables and 
+functions as arguments.
+*/
+
+
 package main
 
 import(
@@ -23,7 +36,7 @@ func validateVerb(verb string) bool {
 }
 
 func askForVerb() string {
-	fmt.Println("\nEnter a regular german or spanish verb.")
+	fmt.Println("\nEnter a regular German or Spanish verb.")
 	fmt.Println("(You can try \"singen\" (\"to sing\" in German)" + 
 		" or \"hablar\" (\"to speak\" in Spanish).)")
 	
