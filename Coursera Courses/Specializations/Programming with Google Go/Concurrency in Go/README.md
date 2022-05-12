@@ -25,7 +25,7 @@ Learn how to implement concurrent programming in Go. Explore the roles of channe
 
 ## Content
 This folder contains 
-- [x] source code for assignments
+- [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
 - [x] slides 
 - [x] certificate 
@@ -35,3 +35,7 @@ This folder contains
 - Week 2: CONCURRENCY BASICS
 - Week 3: THREADS IN GO
 - Week 4: SYNCHRONIZED COMMUNICATION
+
+More details on [website](https://www.coursera.org/learn/golang-concurrency)
+
+[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check and I source code for another similar problem. The publicly available source code uses approximately the same principles and techniques, sometimes a bit more. 
