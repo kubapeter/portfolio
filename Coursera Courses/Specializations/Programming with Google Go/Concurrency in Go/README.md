@@ -1,13 +1,14 @@
+<a href="https://www.coursera.org/learn/golang-concurrency">
 <img src="../../../../img/Concurrency_in_Go_logo.avif" width="120" height="120" align="right">
-
+</a>
 # Concurrency in Go
 
 ## Offered by
 The University of California, Irvine
 
-<a href="https://www.coursera.org/learn/golang-concurrency">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/University_of_California%2C_Irvine_logo.svg" width="100" height="100" align="left">
-</a>
+
 
 ## Course description
 
