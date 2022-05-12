@@ -15,6 +15,10 @@ Subjects covered
   - Power wall
   - Dennard Scaling: voltage should scale (downward) with transistor size (also cannot continue)
 - Concurrent execution - start and end times overlap
+  - hides latency (**using** wait period of a task)
+- Mapping tasks to hardware is not the porgrammers responsibility
+  - only decides what CAN be parallelized
+  - os decides what really happens
 
 
 physical limitations
