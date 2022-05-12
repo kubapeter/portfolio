@@ -9,7 +9,7 @@
 Offered by 
 ### *The University of California, Irvine*
 
-Taught by: Ian Harris
+Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 ---
 
