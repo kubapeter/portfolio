@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/golang-concurrency">
-<img src="../../../../img/Concurrency_in_Go_logo.avif" width="120" height="120" align="right">
+<img src="../../../../img/Concurrency_in_Go_logo.avif" width="150" height="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/University_of_California%2C_Irvine_logo.svg" width="120" height="120" align="left">
