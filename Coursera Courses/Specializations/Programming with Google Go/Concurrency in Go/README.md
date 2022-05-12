@@ -31,7 +31,7 @@ This folder contains
 - [x] certificate 
 
 ## Syllabus
-- [Week 1](/Week 1): Why Use Concurrency?
+- [Week 1](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%201): Why Use Concurrency?
 - Week 2: CONCURRENCY BASICS
 - Week 3: THREADS IN GO
 - Week 4: SYNCHRONIZED COMMUNICATION
