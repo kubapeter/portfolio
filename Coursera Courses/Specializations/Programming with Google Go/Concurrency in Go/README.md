@@ -13,7 +13,7 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 ---
 
-9 hours to complete
+**9 hours** to complete
 
 Course 3 of the [Programming with Google Go Specialization](../) 
 
@@ -25,10 +25,10 @@ Learn how to implement concurrent programming in Go. Explore the roles of channe
 
 ## Content
 This folder contains 
-- [ ] source code for assignments
-- [ ] short descriptions of the modules 
-- [ ] slides 
-- [ ] certificate 
+- [x] source code for assignments
+- [x] short descriptions of the modules 
+- [x] slides 
+- [x] certificate 
 
 ## Syllabus
 - Week 1: Why Use Concurrency?
