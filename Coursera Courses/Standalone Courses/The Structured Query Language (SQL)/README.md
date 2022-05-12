@@ -34,7 +34,7 @@ This folder contains
 
 
 ## Syllabus
-- [Week 1](../The%20Structured%20Query%20Language%20(SQL)/Week%201): Introduction to SQL - Structured Query Language
+- [Week 1](./Week%201): Introduction to SQL - Structured Query Language
 - [Week 2](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%202): The Basic SELECT Statement
 - [Week 3](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%203): Group Functions, SubTotals, and Subqueries
 - [Week 4](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): Getting Data from Multiple Tables
