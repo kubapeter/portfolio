@@ -6,7 +6,8 @@
 
 # Concurrency in Go
 
-### Offered by *The University of California, Irvine*
+Offered by 
+###*The University of California, Irvine*
 
 ---
 
