@@ -9,6 +9,8 @@
 Offered by 
 ### *The University of California, Irvine*
 
+Taught by: Ian Harris
+
 ---
 
 9 hours to complete
