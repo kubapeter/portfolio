@@ -23,6 +23,8 @@ Course 3 of the [Programming with Google Go Specialization](../)
 
 Learn how to implement concurrent programming in Go. Explore the roles of channels and goroutines in implementing concurrency. Topics include writing goroutines and implementing channels for communications between goroutines. Course activities will allow you to exercise Go’s capabilities for concurrent programming by developing several example programs.
 
+More details on [website](https://www.coursera.org/learn/golang-concurrency)
+
 ## Content
 This folder contains 
 - [x] source code for assignments[^1]
@@ -31,11 +33,9 @@ This folder contains
 - [x] certificate 
 
 ## Syllabus
-- [Week 1](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%201): Why Use Concurrency?
+- [Week 1](/Week%201): Why Use Concurrency?
 - Week 2: CONCURRENCY BASICS
 - Week 3: THREADS IN GO
 - Week 4: SYNCHRONIZED COMMUNICATION
-
-More details on [website](https://www.coursera.org/learn/golang-concurrency)
 
 [^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check and I source code for another similar problem. The publicly available source code uses approximately the same principles and techniques, sometimes a bit more. 
