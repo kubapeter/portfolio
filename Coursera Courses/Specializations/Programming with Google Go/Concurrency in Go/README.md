@@ -17,7 +17,7 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 Course 3 of the [Programming with Google Go Specialization](../) 
 
-
+---
 
 ## Course description
 
@@ -29,13 +29,13 @@ More details on [website](https://www.coursera.org/learn/golang-concurrency)
 This folder contains 
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
-- [x] [slides](../Concurrency%20in%20Go/Slides) 
+- [x] [slides](./Slides) 
 - [x] certificate 
 
 ## Syllabus
-- [Week 1](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%201): Why Use Concurrency?
-- [Week 2](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%202): CONCURRENCY BASICS
-- [Week 3](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%203): THREADS IN GO
-- [Week 4](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): SYNCHRONIZED COMMUNICATION
+- [Week 1](./Week%201): Why Use Concurrency?
+- [Week 2](./Week%202): CONCURRENCY BASICS
+- [Week 3](./Week%203): THREADS IN GO
+- [Week 4](./Week%204): SYNCHRONIZED COMMUNICATION
 
 [^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
