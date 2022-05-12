@@ -8,6 +8,8 @@
 
 ### Offered by **The University of California, Irvine**
 
+---
+
 9 hours to complete
 
 Course 3 of the [Programming with Google Go Specialization](../) 
