@@ -2,6 +2,9 @@
 
 # Concurrency in Go
 
+## Offered by
+The University of California, Irvine
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/University_of_California%2C_Irvine_logo.svg" width="100" height="100" align="left">
 
 
