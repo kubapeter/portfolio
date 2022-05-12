@@ -2,9 +2,13 @@
 <img src="../../../../img/Concurrency_in_Go_logo.avif" width="150" height="150" align="right">
 </a>
 
+# Concurrency in Go
+
+---
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/University_of_California%2C_Irvine_logo.svg" width="120" height="120" align="left">
 
-# Concurrency in Go
+
 
 Offered by 
 ### *The University of California, Irvine*
