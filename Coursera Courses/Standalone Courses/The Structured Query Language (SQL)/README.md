@@ -30,9 +30,6 @@ This folder contains
 - [x] [slides](./Slides) 
 - [x] [certificate](https://github.com/kubapeter/portfolio/blob/dab6021b5e87789f9740d03afbb441a5a5a72a2f/Coursera%20Courses/Standalone%20Courses/The%20Structured%20Query%20Language%20(SQL)/Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([Verify](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
 
-../The%20Structured%20Query%20Language%20(SQL)/Slides
-
-
 ## Syllabus
 - [Week 1](./Week%201): Introduction to SQL - Structured Query Language
 - [Week 2](./Week%202): The Basic SELECT Statement
