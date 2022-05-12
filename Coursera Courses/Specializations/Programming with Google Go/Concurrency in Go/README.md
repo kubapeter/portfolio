@@ -12,7 +12,7 @@ Learn how to implement concurrent programming in Go. Explore the roles of channe
 
 Approx. 9 hours to complete
 
-Course 3 of the Programming with Google Go Specialization 
+Course 3 of the [Programming with Google Go Specialization](../) 
 
 ### Content
 This folder contains 
