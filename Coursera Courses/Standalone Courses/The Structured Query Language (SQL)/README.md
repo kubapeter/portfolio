@@ -23,6 +23,13 @@ Course 2 of the Databases for Data Scientists Specialization
 
 More details on [website](https://www.coursera.org/learn/the-structured-query-language-sql)
 
+## Content
+This folder contains 
+- [x] source code for assignments
+- [x] short descriptions of the modules 
+- [x] [slides](../Concurrency%20in%20Go/Slides) 
+- [x] certificate 
+
 The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 
 [Certificate](https://github.com/kubapeter/portfolio/blob/dab6021b5e87789f9740d03afbb441a5a5a72a2f/Coursera%20Courses/Standalone%20Courses/The%20Structured%20Query%20Language%20(SQL)/Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf)([Verify](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
