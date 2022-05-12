@@ -31,10 +31,12 @@ This folder contains
 - [x] [certificate](https://github.com/kubapeter/portfolio/blob/dab6021b5e87789f9740d03afbb441a5a5a72a2f/Coursera%20Courses/Standalone%20Courses/The%20Structured%20Query%20Language%20(SQL)/Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([Verify](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
 
 ## Syllabus
-- [Week 1](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%201): Why Use Concurrency?
-- [Week 2](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%202): CONCURRENCY BASICS
-- [Week 3](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%203): THREADS IN GO
-- [Week 4](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): SYNCHRONIZED COMMUNICATION
+- [Week 1](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%201): Introduction to SQL - Structured Query Language
+- [Week 2](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%202): The Basic SELECT Statement
+- [Week 3](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%203): Group Functions, SubTotals, and Subqueries
+- [Week 4](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): Getting Data from Multiple Tables
+- [Week 5](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): DDL and DML
+- [Week 6](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): Advanced SQL Commands
 
 The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 
