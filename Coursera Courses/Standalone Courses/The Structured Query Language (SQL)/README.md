@@ -1,5 +1,3 @@
-<img src="img/The_Structured_Query_Language(SQL)_logo.avif" width="120" height="120" align="right">
-
 <a href="https://www.coursera.org/learn/golang-concurrency">
 <img src="../../../img/The_Structured_Query_Language(SQL)_logo.avif" width="150" height="150" align="right">
 </a>
