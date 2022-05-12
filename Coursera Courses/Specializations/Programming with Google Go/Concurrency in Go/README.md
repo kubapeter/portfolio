@@ -15,8 +15,6 @@ Offered by
 
 Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
----
-
 **9 hours** to complete
 
 Course 3 of the [Programming with Google Go Specialization](../) 
