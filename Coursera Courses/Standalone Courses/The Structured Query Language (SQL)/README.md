@@ -17,6 +17,8 @@ Taught by: [Alan Paradise](https://www.coursera.org/instructor/alan-paradise)
 
 Course 2 of the Databases for Data Scientists Specialization
 
+---
+
 ## Course description
 
 "In this course you will learn all about the Structured Query Language ("SQL".)   We will review the origins of the language and its conceptual foundations.   But primarily, we will focus on learning all the standard SQL commands, their syntax, and how to use these commands to conduct analysis of the data within a relational database.  Our scope includes not only the SELECT statement for retrieving data and creating analytical reports, but also includes the DDL ("Data Definition Language") and DML ("Data Manipulation Language") commands necessary to create and maintain database objects."
