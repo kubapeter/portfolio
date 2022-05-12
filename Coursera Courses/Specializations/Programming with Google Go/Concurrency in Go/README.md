@@ -4,6 +4,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/University_of_California%2C_Irvine_logo.svg" width="120" height="120" align="left">
 
+---
 
 # Concurrency in Go
 
@@ -11,9 +12,7 @@
 
 The University of California, Irvine
 
-
-
-Approx. 9 hours to complete
+9 hours to complete
 
 Course 3 of the [Programming with Google Go Specialization](../) 
 
