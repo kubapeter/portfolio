@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="100" height="100" align="right">
+<img src="../../../../img/Concurrency_in_Go_logo.avif" width="100" height="100" align="right">
 <img src="https://github.com/kubapeter/portfolio/blob/7aa34dc3c3a5223895ecbcc61d62d69126a15f28/img/Concurrency_in_Go_logo.avif" width="100" height="100" align="left">
 
 Concurrency in Go
