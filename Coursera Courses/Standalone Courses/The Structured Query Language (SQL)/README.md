@@ -34,12 +34,12 @@ This folder contains
 
 
 ## Syllabus
-- [Week 1](./Week 1): Introduction to SQL - Structured Query Language
-- [Week 2](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%202): The Basic SELECT Statement
-- [Week 3](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%203): Group Functions, SubTotals, and Subqueries
-- [Week 4](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): Getting Data from Multiple Tables
-- [Week 5](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): DDL and DML
-- [Week 6](https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Concurrency%20in%20Go/Week%204): Advanced SQL Commands
+- [Week 1](./Week%201): Introduction to SQL - Structured Query Language
+- [Week 2](./Week%202): The Basic SELECT Statement
+- [Week 3](./Week%203): Group Functions, SubTotals, and Subqueries
+- [Week 4](./Week%204): Getting Data from Multiple Tables
+- [Week 5](./Week%205): DDL and DML
+- [Week 6](./Week%206): Advanced SQL Commands
 
 The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 
