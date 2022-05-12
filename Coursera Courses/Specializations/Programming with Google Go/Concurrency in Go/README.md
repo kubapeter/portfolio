@@ -30,5 +30,8 @@ This folder contains
 - [ ] slides 
 - [ ] certificate 
 
-##Syllabus
--
+## Syllabus
+- Week 1: Why Use Concurrency?
+- Week 2: CONCURRENCY BASICS
+- Week 3: THREADS IN GO
+- Week 4: SYNCHRONIZED COMMUNICATION
