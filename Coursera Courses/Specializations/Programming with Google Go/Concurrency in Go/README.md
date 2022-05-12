@@ -31,7 +31,7 @@ This folder contains
 - [x] certificate 
 
 ## Syllabus
-- [Week 1]("/Week 1"): Why Use Concurrency?
+- [Week 1](/Week 1): Why Use Concurrency?
 - Week 2: CONCURRENCY BASICS
 - Week 3: THREADS IN GO
 - Week 4: SYNCHRONIZED COMMUNICATION
