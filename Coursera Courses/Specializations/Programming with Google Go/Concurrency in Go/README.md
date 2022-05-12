@@ -1,6 +1,6 @@
 <img src="../../../../img/Concurrency_in_Go_logo.avif" width="120" height="120" align="right">
 
-#Concurrency in Go
+# Concurrency in Go
 
 <img src="../../../../img/Concurrency_in_Go_logo.avif" width="100" height="100" align="left">
 
