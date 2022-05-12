@@ -4,7 +4,8 @@
 
 # Concurrency in Go
 
-## Offered by
+Offered by 
+
 The University of California, Irvine
 
 
