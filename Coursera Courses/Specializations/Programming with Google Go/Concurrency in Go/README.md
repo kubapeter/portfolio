@@ -29,7 +29,7 @@ More details on [website](https://www.coursera.org/learn/golang-concurrency)
 This folder contains 
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
-- [x] [slides](../Concurrency%20in%20Go) 
+- [x] [slides](../Concurrency%20in%20Go/Slides) 
 - [x] certificate 
 
 ## Syllabus
