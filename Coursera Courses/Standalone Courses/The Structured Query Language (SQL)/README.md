@@ -2,7 +2,7 @@
 <img src="../../../img/The_Structured_Query_Language(SQL)_logo.avif" width="150" height="150" align="right">
 </a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/UC_Boulder_logo.svg" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Colorado_Buffaloes_wordmark.svg" width="120" height="120" align="left">
 
 
 In this course you will learn all about the Structured Query Language ("SQL".)   We will review the origins of the language and its conceptual foundations.   But primarily, we will focus on learning all the standard SQL commands, their syntax, and how to use these commands to conduct analysis of the data within a relational database.  Our scope includes not only the SELECT statement for retrieving data and creating analytical reports, but also includes the DDL ("Data Definition Language") and DML ("Data Manipulation Language") commands necessary to create and maintain database objects.
