@@ -14,6 +14,12 @@ Approx. 9 hours to complete
 
 Course 3 of the Programming with Google Go Specialization 
 
-Short descriptions of modules, slides, certificate, source code for assignments
+### Content
+This folder contains 
+- source code for assignments
+- short descriptions of the modules 
+- slides 
+- certificate 
+- 
 
 Syllabus
