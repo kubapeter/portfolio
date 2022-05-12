@@ -7,13 +7,14 @@ Learning Objectives
 
 Subjects covered
 - Concurrency is built into Go
-- Parallel execution
+- Parallel execution - execute at the same time
   - non parallelizable or hardly parallelizable tasks
 - Von Neumann bottleneck: the slower memory access delays execution even if the CPU is very fast
   - to mitigate this: cache memory (~100 times faster)
 - Moore's law
   - Power wall
-  - Dennard Scaling: voltage should scale (downward) with transistor size
+  - Dennard Scaling: voltage should scale (downward) with transistor size (also cannot continue)
+- Concurrent execution - start and end times overlap
 
 
 physical limitations
@@ -24,4 +25,6 @@ physical limitations
   - liquid cooling is not an option for desktop or laptop
   - reduced voltage can lead to reduced power (Dennard), but must be higher than threshold voltage of transistor
     - plus noise problems
-  - ghdfgh
+  - leakage power - scaling the voltage does not reduces this, as a matter of fact this grows over time
+  - So Dennard scaling must stop
+- -> cannot increase frequency
