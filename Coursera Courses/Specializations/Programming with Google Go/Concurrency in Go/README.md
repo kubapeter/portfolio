@@ -1,6 +1,7 @@
 <a href="https://www.coursera.org/learn/golang-concurrency">
 <img src="../../../../img/Concurrency_in_Go_logo.avif" width="120" height="120" align="right">
 </a>
+
 # Concurrency in Go
 
 ## Offered by
