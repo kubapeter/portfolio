@@ -28,9 +28,8 @@ Course 1 of the [Software Product Management Specialization](../)
 ## Content
 This folder contains 
 - [x] [course map](./Resources/Course-Map---Introduction-to-Software-Product-Management.pdf) (detailed descriptions of the modules)
-- [x] course notes (pdf document of 11 pages)
-- [x] glossary
-- [x] definition of the main concepts
+- [x] [course notes](./Resources/Course-Notes---Introduction-to-Software-Product-Management.pdf) (pdf document of 11 pages)
+- [x] [glossary](./Resources/Glossary---Introduction-to-Software-Product-Management.pdf) (definitions of the main concepts)
 - [x] [certificate](./Certificate/Coursera%20Certificate%20Getting%20Started%20with%20Go.pdf) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
 
 ## Syllabus
