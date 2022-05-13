@@ -13,6 +13,12 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 ---
 
+**9 hours** to complete
+
+The specialization consists of 3 courses. 
+
+---
+
 This specialization introduces the Go programming language from Google and provides learners with an overview of Go's special features. Upon completing the three-course sequence, learners will have gained the knowledge and skills needed to create concise, efficient, and clean applications using Go.
 
 ![vd](/img/Programming%20with%20Google%20Go%20Specialization%20logo.avif)
