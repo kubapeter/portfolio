@@ -25,11 +25,11 @@ The specialization consists of 6 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/product-management">website</a></p>
 
-<img src="/img/Software%20Product%20Management%20Capstone%20logo.avif" width="80" height="80" align="right"> 
-<img src="/img/Reviews%20%26%20Metrics%20for%20Software%20Improvements%20logo.avif" width="80" height="80" align="right"> 
-<img src="/img/Agile%20Planning%20for%20Software%20Products%20logo.avif" width="80" height="80" align="right"> 
-<img src="/img/Client%20Needs%20and%20Software%20Requirements%20logo.avif" width="80" height="80" align="right"> 
-<img src="/img/Software%20Processes%20and%20Agile%20Practices%20logo.avif" width="80" height="80" align="right"> 
+<img src="/img/Software%20Product%20Management%20Capstone%20logo.avif" width="75" align="right"> 
+<img src="/img/Reviews%20%26%20Metrics%20for%20Software%20Improvements%20logo.avif" width="75" align="right"> 
+<img src="/img/Agile%20Planning%20for%20Software%20Products%20logo.avif" width="75" align="right"> 
+<img src="/img/Client%20Needs%20and%20Software%20Requirements%20logo.avif" width="75" align="right"> 
+<img src="/img/Software%20Processes%20and%20Agile%20Practices%20logo.avif" width="75" align="right"> 
 <img src="/img/Introduction%20to%20Software%20Product%20Management%20logo.avif" width="75" align="right"> 
 
 ## Courses of the specialization
