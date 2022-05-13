@@ -25,6 +25,8 @@ The specialization consists of 3 courses.
 
 More details on [website](https://www.coursera.org/specializations/google-golang)
 
-![vd](/img/Programming%20with%20Google%20Go%20Specialization%20logo.avif)
+## Courses of the specialization
 
-Details: [hompage of the specialization](https://www.coursera.org/specializations/google-golang)
+Getting Started with Go
+Functions, Methods, and Interfaces in Go
+Concurrency in Go
