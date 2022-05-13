@@ -25,9 +25,11 @@ The specialization consists of 3 courses.
 
 More details on [website](https://www.coursera.org/specializations/google-golang)
 
+<img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="40" height="40" align="left"> 
+
 ## Courses of the specialization
 
-### <img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="40" height="40"> Getting Started with Go
+Getting Started with Go
 
 Functions, Methods, and Interfaces in Go
 
