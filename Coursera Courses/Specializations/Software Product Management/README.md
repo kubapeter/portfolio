@@ -23,9 +23,7 @@ The specialization consists of 6 courses.
 
 >"In this Software Product Management Specialization, you will master Agile software management practices to lead a team of developers and interact with clients. In the final Capstone Project, you will practice and apply management techniques to realistic scenarios that you will face as a Software Product Manager. You will have the opportunity to share your experiences and learn from the insights of others as part of a Software Product Management."
 
-More details on [website](https://www.coursera.org/specializations/product-management)
-
-<p align="right">More details on <a href="https://www.coursera.org/learn/golang-getting-started">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/specializations/product-management">website</a></p>
 
 
 <img src="/img/Concurrency_in_Go_logo.avif" width="80" height="80" align="right"> 
