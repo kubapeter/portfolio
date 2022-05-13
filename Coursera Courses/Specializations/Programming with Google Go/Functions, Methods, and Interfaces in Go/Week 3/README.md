@@ -21,7 +21,7 @@ Assignment
 
 The assignment for this week is a program that calls field values from a struct[^1]. The main emphasis is on the basics of using Go in an object-oriented manner, namely
 - to use structs as containers of related data
-- to use receiver functions to associate functions with containers of data they are related to
+- to use receiver functions to dataset with methods (basically: create an object)
 - to use receiver functions to get field values from a struct (basically as `getField()` methods in other OO languages)
 
 
