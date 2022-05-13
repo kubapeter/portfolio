@@ -27,14 +27,14 @@ Course 1 of the [Software Product Management Specialization](../)
 
 ## Content
 This folder contains 
-- [x] short descriptions of the modules 
+- [x] [course map](./Resources/Course-Map---Introduction-to-Software-Product-Management.pdf) (detailed descriptions of the modules)
 - [x] course notes (pdf document of 11 pages)
 - [x] glossary
 - [x] definition of the main concepts
 - [x] [certificate](./Certificate/Coursera%20Certificate%20Getting%20Started%20with%20Go.pdf) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
 
 ## Syllabus
-- [Week 1](./Week%201): Software Product Management - The Discipline
-- [Week 2](./Week%202): Foundations of Software Product Management
+- Week 1: Software Product Management - The Discipline
+- Week 2: Foundations of Software Product Management
 
 
