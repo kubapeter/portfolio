@@ -33,8 +33,8 @@ More details on [website](https://www.coursera.org/specializations/product-manag
 
 ---
 
-1. [Introduction to Software Product Management](./Getting%20Started%20with%20Go)
-2. [Software Processes and Agile Practices](./Functions,%20Methods,%20and%20Interfaces%20in%20Go)
+1. [Introduction to Software Product Management](./Introduction%20to%20Software%20Product%20Management)
+2. [Software Processes and Agile Practices](./Software%20Processes%20and%20Agile%20Practices)
 3. Client Needs and Software Requirements
 4. Agile Planning for Software Products
 5. Reviews & Metrics for Software Improvements
