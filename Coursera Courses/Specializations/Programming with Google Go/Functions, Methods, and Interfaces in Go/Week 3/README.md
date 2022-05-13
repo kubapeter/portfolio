@@ -28,8 +28,6 @@ The assignment for this week is a program that calls field values from a struct[
 - to use receiver functions to bind dataset with methods (basically create an object)
 - to use receiver functions to get field values from a struct (basically as `getField()` methods in other OO languages)
 
-https://github.com/kubapeter/portfolio/tree/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Getting%20Started%20with%20Go
-
 The code I present in [this repo](./quasiObjects.go) also fulfills these requirements, but it is not the one I submitted. It solves a bit more complicated problem. In the [previous course](../../Getting%20Started%20with%20Go) I shared [my own version](../../Getting%20Started%20with%20Go/Week%204/readwrite.go) of the assignemnt of [week 4](../../Getting%20Started%20with%20Go/Week%204) which already 
 - contained data as structs
 - used a special `get()` function to acces fields of the struct
