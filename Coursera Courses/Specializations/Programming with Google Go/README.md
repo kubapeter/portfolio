@@ -25,9 +25,9 @@ The specialization consists of 3 courses.
 
 More details on [website](https://www.coursera.org/specializations/google-golang)
 
-<img src="/img/Concurrency_in_Go_logo.avif" width="80" height="80" align="right"> 
-<img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="80" height="80" align="right"> 
-<img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="80" height="80" align="right"> 
+<img src="/img/Concurrency_in_Go_logo.avif" width="75" align="right"> 
+<img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="75" align="right"> 
+<img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="75" align="right"> 
 
 ## Courses of the specialization
 
