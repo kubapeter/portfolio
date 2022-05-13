@@ -41,4 +41,4 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 
 ## Personal impressions
 
-The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on their module. Lecturer hands out all the slides of the courses. It is interesting how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
+The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on their module. Lecturer hands out all the slides of the courses. It is interesting to see how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
