@@ -1,3 +1,7 @@
+<a href="https://www.coursera.org/learn/golang-concurrency">
+<img src="/img/Concurrency_in_Go_logo.avif" width="80" height="80" align="right">
+</a>
+
 # Week 1 <br> Why Use Concurrency?
 
 ## Learning Objectives
