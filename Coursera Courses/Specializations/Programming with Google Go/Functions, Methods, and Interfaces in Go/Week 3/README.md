@@ -15,7 +15,7 @@
   - Receiver type: `func (p Point) DistToOrig() {...}` can only be called on structs of type `Point` (calls by value)
   - Implicit method argument (e. g.: `p1.DistToOrig()` where `p1` is of type `Point`, the argument is `p1`)
 - Encapsulation
-  - controll of access through public functions (`function(x)` and `Function(x)`)
+  - controll of access through public functions (`function(x)` vs. `Function(x)`)
   - method cannot modify the data of the receiver (only copy is passed)
 - Pointer receivers: `func (p *Point) OffsetX(v float64) {p.x = p.x + v}` calls by reference
   - no need for referencing (`{p.x = p.x + v}`) and dereferencing (can write `p1.OffsetX(5)`)
