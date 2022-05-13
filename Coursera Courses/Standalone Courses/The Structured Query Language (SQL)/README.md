@@ -21,16 +21,16 @@ Course 2 of the Databases for Data Scientists Specialization
 
 ## Course description
 
-"In this course you will learn all about the Structured Query Language ("SQL".)   We will review the origins of the language and its conceptual foundations.   But primarily, we will focus on learning all the standard SQL commands, their syntax, and how to use these commands to conduct analysis of the data within a relational database.  Our scope includes not only the SELECT statement for retrieving data and creating analytical reports, but also includes the DDL ("Data Definition Language") and DML ("Data Manipulation Language") commands necessary to create and maintain database objects."
+>"In this course you will learn all about the Structured Query Language ("SQL".)   We will review the origins of the language and its conceptual foundations.  But primarily, we will focus on learning all the standard SQL commands, their syntax, and how to use these commands to conduct analysis of the data within a relational database.  Our scope includes not only the SELECT statement for retrieving data and creating analytical reports, but also includes the DDL ("Data Definition Language") and DML ("Data Manipulation Language") commands necessary to create and maintain database objects."
 
-More details on [website](https://www.coursera.org/learn/the-structured-query-language-sql)
+<p align="right">More details on <a href="https://https://www.coursera.org/learn/the-structured-query-language-sql">website</a></p>
 
 ## Content
 This folder contains 
 - [x] source code for assignments
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([Verify](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
+- [x] [certificate](./Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([verification](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
 
 ## Syllabus
 - [Week 1](./Week%201): Introduction to SQL - Structured Query Language
