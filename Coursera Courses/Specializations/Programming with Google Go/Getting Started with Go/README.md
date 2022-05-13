@@ -30,7 +30,7 @@ This folder contains
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate)
+- [x] [certificate](./Certificate) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
 
 ## Syllabus
 - [Week 1](./Week%201): Why Use Concurrency?
@@ -39,5 +39,3 @@ This folder contains
 - [Week 4](./Week%204): SYNCHRONIZED COMMUNICATION
 
 [^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
-
-[Certificate](https://github.com/kubapeter/portfolio/blob/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Getting%20Started%20with%20Go/Coursera%20Certificate%20Getting%20Started%20with%20Go.pdf)
