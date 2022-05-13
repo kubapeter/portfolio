@@ -2,7 +2,7 @@
 <img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="120" align="right">
 </a>
 
-# Week 3: **OBJECT ORIENTATION IN GO**
+# Week 3: <br> **OBJECT ORIENTATION IN GO**
 
 ## Learning Objectives
 - Identify the basic properties and uses of objects and classes.
