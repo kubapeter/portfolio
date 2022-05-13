@@ -29,7 +29,7 @@ Course 2 of the [Programming with Google Go Specialization](../)
 This folder contains 
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
-- [x] slides (./Slides) 
+- [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/Coursera%20Certificate%20Getting%20Started%20with%20Go.pdf) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
 
 ## Syllabus
