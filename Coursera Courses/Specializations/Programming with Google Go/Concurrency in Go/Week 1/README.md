@@ -1,11 +1,11 @@
 # Week 1 <br> Why Use Concurrency?
 
-##Learning Objectives
+## Learning Objectives
 - Identify basic terms and concepts related to concurrency.
 - Identify hardware limitations that affect the design of future architectures.
 - Explain Moore’s Law and how it affects the future of microprocessor design.
 
-##Subjects covered
+## Subjects covered
 - Concurrency is built into Go
 - Parallel execution - execute at the same time
   - non parallelizable or hardly parallelizable tasks
