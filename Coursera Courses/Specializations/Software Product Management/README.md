@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/specializations/product-management">
-<img src="/img/Programming%20with%20Google%20Go%20Specialization%20logo.avif" width="150" height="150" align="right">
+<img src="/img/Software%20Product%20Management%20Specialization%20logo.avif.avif" width="150" height="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/e/e8/University_of_Alberta_Logo_%282021%29.svg" width="120" height="120" align="left">
