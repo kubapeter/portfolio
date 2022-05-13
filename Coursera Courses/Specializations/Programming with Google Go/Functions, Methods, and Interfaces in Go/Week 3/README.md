@@ -36,7 +36,7 @@ The code I share in [this repo](./quasiObjects.go) also fulfills these requireme
 I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the field values anyway (`valueAtField := Struct.field`). The code I share here has these "getter" functions too, but it also has a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
 
 The shared program 
-- reads flights sored in JSON format (they have 3 fields) 
+- reads `Flight` `struct`s sored in JSON format (they have 3 fields) 
 - asks the user to choose a field 
 - lists all the values of the chosen field across the loaded planes 
 - ask the user to choose one of these values 
