@@ -25,7 +25,9 @@ The specialization consists of 6 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/product-management">website</a></p>
 
-
+<img src="/img/Software%20Product%20Management%20Capstone%20logo.avif" width="80" height="80" align="right"> 
+<img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="80" height="80" align="right"> 
+<img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="80" height="80" align="right"> 
 <img src="/img/Concurrency_in_Go_logo.avif" width="80" height="80" align="right"> 
 <img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="80" height="80" align="right"> 
 <img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="80" height="80" align="right"> 
