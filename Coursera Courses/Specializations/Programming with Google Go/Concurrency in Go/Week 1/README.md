@@ -10,7 +10,6 @@ Subjects covered
 - Parallel execution - execute at the same time
   - non parallelizable or hardly parallelizable tasks
 - Von Neumann bottleneck: the slower memory access delays execution even if the CPU is very fast
-  - to mitigate this: cache memory (~100 times faster)
 - Moore's law vs. 
   - von Neumann bottleneck: memory access time is a performance bottleneck
   - Power wall
