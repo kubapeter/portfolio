@@ -1,5 +1,4 @@
-# Week 1: 
-# Why Use Concurrency?
+# Week 1: <br> Why Use Concurrency?
 
 Learning Objectives
 - Identify basic terms and concepts related to concurrency.
