@@ -1,4 +1,4 @@
-<a href="https://www.coursera.org/learn/golang-concurrency">
+<a href="../">
 <img src="/img/Concurrency_in_Go_logo.avif" width="120" height="120" align="right">
 </a>
 
