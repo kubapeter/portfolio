@@ -28,5 +28,7 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 ## Courses of the specialization
 
 Getting Started with Go
+
 Functions, Methods, and Interfaces in Go
+
 Concurrency in Go
