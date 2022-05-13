@@ -161,7 +161,7 @@ func main() {
     flightFields := []string{"departure", "arrival", "airline"}
     choosenField := getUserInputFrom(pleaseChooseField, flightFields)
 
-    //Ask to choose value
+    // Ask to choose value
     possibleValues := selectDistinctValues(flights, choosenField)
     printMessageAndOptions("\nThe "+choosenField+"s of the flights are", possibleValues)
     pleaseChooseValue := fmt.Sprintf("Choose one of these %ss\n", choosenField)
