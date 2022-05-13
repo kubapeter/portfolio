@@ -15,7 +15,7 @@ Subjects covered:
 - Ellipsis e. g.: `...int` to define variable number of arguments (variadic function)
 - Deferred function calls: `defer f(x)`
 
-Assignment: **Function as a return value**. [^1] The main emphasis is on using the possibility of functions as return values. The code I present [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
+Assignment: **Function as return value**. [^1] The main emphasis is on using the possibility of functions as return values. The code I present [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
 - function as a return value
 - function as a variable and also
 - function as an argument
