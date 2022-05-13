@@ -27,7 +27,7 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 
 ## Courses of the specialization
 
-![1](/img/Getting%20Started%20with%20Go.avif)Getting Started with Go
+![1](/img/Getting%20Started%20with%20Go%20logo.avif)Getting Started with Go
 
 Functions, Methods, and Interfaces in Go
 
