@@ -33,9 +33,14 @@ The code I present in [this repo](./) also fulfills these requirements, but it i
 - used a special `get()` function to acces fields of the struct
 - but it was **not** a receiver function
 
-I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the field values anyway (`valueAtField := Struct.field`). THe code I share here has these "getter" functions too, but it also has a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
+I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the field values anyway (`valueAtField := Struct.field`). The code I share here has these "getter" functions too, but it also has a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
 
-The shared program reads flights sored in JSON format. These are objects with 3 fields. Asks the user to choose a field, lists all the values of the chosen field across the loaded planes, ask the user to choose one of them, and writes all the planes that have the chosen value at the chosen field into a csv file. 
+The shared program 
+- reads flights sored in JSON format (they have 3 fields) 
+- asks the user to choose a field 
+- lists all the values of the chosen field across the loaded planes 
+- ask the user to choose one of these values 
+- writes all the planes that have the chosen value at the chosen field into a csv file. 
 
 
 [^1]: "Write a program which allows the user to get information about a predefined set of animals. Three animals are predefined, cow, bird, and snake. Each animal can eat, move, and speak. The user can issue a request to find out one of three things about an animal: 1) the food that it eats, 2) its method of locomotion, and 3) the sound it makes when it speaks. The following table contains the three animals and their associated data which should be hard-coded into your program. \[...\] 
