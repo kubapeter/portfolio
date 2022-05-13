@@ -28,6 +28,15 @@ The assignment for this week is a program that calls field values from a struct[
 - to use receiver functions to bind dataset with methods (basically create an object)
 - to use receiver functions to get field values from a struct (basically as `getField()` methods in other OO languages)
 
+The code I present in [this repo](./) also fulfills these requirements, but it is not the one I submitted. It solves a bit more complicated problem. In the [previous course] I shared [my own version] of the assignemnt of [week 4] which already 
+- contained data as structs
+- used a special `get()` function to acces fields of the struct
+- but it was **not** a receiver function
+
+I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the filed values (`valueAtField := Struct.field`). In this shared code there are these "getter" functions, but also a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
+
+The shared program reads flights sored in JSON format. These are objects with 3 fields. Asks the user to choose a field, lists all the values of the chosen field across the loaded planes, ask the user to choose one of them, and writes all the planes that have the chosen value at the chosen field into a csv file. 
+
 
 [^1]: "Write a program which allows the user to get information about a predefined set of animals. Three animals are predefined, cow, bird, and snake. Each animal can eat, move, and speak. The user can issue a request to find out one of three things about an animal: 1) the food that it eats, 2) its method of locomotion, and 3) the sound it makes when it speaks. The following table contains the three animals and their associated data which should be hard-coded into your program. \[...\] 
   Your program should present the user with a prompt, “>”, to indicate that the user can type a request. Your program accepts one request at a time from the user, prints out the answer to the request, and prints out a new prompt. Your program should continue in this loop forever. Every request from the user must be a single line containing 2 strings. The first string is the name of an animal, either “cow”, “bird”, or “snake”. The second string is the name of the information requested about the animal, either “eat”, “move”, or “speak”. Your program should process each request by printing out the requested data.
