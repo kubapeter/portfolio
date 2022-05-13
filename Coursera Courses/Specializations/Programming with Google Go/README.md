@@ -33,7 +33,7 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 
 ---
 
-1. [Getting Started with Go](./Getting Started with Go)
+1. [Getting Started with Go](./Getting%20Started%20with%20Go)
 
 2. Functions, Methods, and Interfaces in Go
 
