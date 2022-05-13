@@ -23,7 +23,9 @@ Course 3 of the [Programming with Google Go Specialization](../)
 
 "Learn how to implement concurrent programming in Go. Explore the roles of channels and goroutines in implementing concurrency. Topics include writing goroutines and implementing channels for communications between goroutines. Course activities will allow you to exercise Go’s capabilities for concurrent programming by developing several example programs."
 
-<p align="right">More details on [website](https://www.coursera.org/learn/golang-concurrency)</p>
+<p align="right">More details on 
+<a href="https://www.coursera.org/learn/golang-concurrency">website</a>
+</p>
 
 ## Content
 This folder contains 
