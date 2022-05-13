@@ -15,7 +15,7 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 **11 hours** to complete
 
-Course 3 of the [Programming with Google Go Specialization](../) 
+Course 1 of the [Programming with Google Go Specialization](../) 
 
 ---
 
@@ -24,5 +24,20 @@ Course 3 of the [Programming with Google Go Specialization](../)
 >"Learn the basics of Go, an open source programming language originally developed by a team at Google and enhanced by many contributors from the open source community. This course is designed for individuals with previous programming experience using such languages as C, Python, or Java, and covers the fundamental elements of Go. Topics include data types, protocols, formats, and writing code that incorporates RFCs and JSON. Most importantly, you’ll have a chance to practice writing Go programs and receive feedback from your peers. Upon completing this course, you'll be able to implement simple Go programs, which will prepare you for subsequent study at a more advanced level"
 >
 <p align="right">More details on <a href="https://www.coursera.org/learn/golang-getting-started">website</a></p>
+
+## Content
+This folder contains 
+- [x] source code for assignments[^1]
+- [x] short descriptions of the modules 
+- [x] [slides](./Slides) 
+- [x] [certificate](./Certificate)
+
+## Syllabus
+- [Week 1](./Week%201): Why Use Concurrency?
+- [Week 2](./Week%202): CONCURRENCY BASICS
+- [Week 3](./Week%203): THREADS IN GO
+- [Week 4](./Week%204): SYNCHRONIZED COMMUNICATION
+
+[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
 
 [Certificate](https://github.com/kubapeter/portfolio/blob/main/Coursera%20Courses/Specializations/Programming%20with%20Google%20Go/Getting%20Started%20with%20Go/Coursera%20Certificate%20Getting%20Started%20with%20Go.pdf)
