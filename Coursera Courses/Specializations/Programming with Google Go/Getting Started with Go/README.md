@@ -13,7 +13,7 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 ---
 
-**11 hours** to complete
+**11 hours** to complete - 4 quizzes, 5 programming assignments to pass
 
 Course 1 of the [Programming with Google Go Specialization](../) 
 
