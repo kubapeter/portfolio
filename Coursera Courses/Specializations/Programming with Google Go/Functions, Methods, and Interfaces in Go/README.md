@@ -30,7 +30,7 @@ This folder contains
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/Coursera%20Certificate%20Functions,%20Methods,%20and%20Interfaces%20in%20Go.pdf) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
+- [x] [certificate](./Certificate/Coursera%20Certificate%20Functions,%20Methods,%20and%20Interfaces%20in%20Go.pdf) ([verification](https://coursera.org/verify/V3AJVHPEHDLF))
 
 ## Syllabus
 - [Week 1](./Week%201): FUNCTIONS AND ORGANIZATION
