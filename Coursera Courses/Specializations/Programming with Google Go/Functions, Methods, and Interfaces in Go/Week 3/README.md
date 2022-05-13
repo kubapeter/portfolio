@@ -33,7 +33,7 @@ The code I present in [this repo](./) also fulfills these requirements, but it i
 - used a special `get()` function to acces fields of the struct
 - but it was **not** a receiver function
 
-I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the filed values anyway (`valueAtField := Struct.field`). In this shared code there are these "getter" functions, but also a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
+I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the field values anyway (`valueAtField := Struct.field`). In this shared code there are these "getter" functions, but also a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
 
 The shared program reads flights sored in JSON format. These are objects with 3 fields. Asks the user to choose a field, lists all the values of the chosen field across the loaded planes, ask the user to choose one of them, and writes all the planes that have the chosen value at the chosen field into a csv file. 
 
