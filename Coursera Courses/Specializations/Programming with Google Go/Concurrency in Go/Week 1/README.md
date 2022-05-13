@@ -22,14 +22,3 @@ Subjects covered
   - os decides what really happens
 
 
-physical limitations
-- Von Neumann bottleneck: Memory access time is a performance bottleneck
-- processor density doubles, smaller transistor faster, exponential density increase -> exponential speed increase 
-- power wall: smaller transistor uses less power but density scaling much faster -> high temperature -> 
-  - more of a temperature wall, but power is problem because of battery run out
-  - liquid cooling is not an option for desktop or laptop
-  - reduced voltage can lead to reduced power (Dennard), but must be higher than threshold voltage of transistor
-    - plus noise problems
-  - leakage power - scaling the voltage does not reduces this, as a matter of fact this grows over time
-  - So Dennard scaling must stop
-- -> cannot increase frequency
