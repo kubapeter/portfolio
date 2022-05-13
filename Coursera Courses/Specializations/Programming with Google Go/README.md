@@ -31,6 +31,8 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 
 ## Courses of the specialization
 
+---
+
 1. Getting Started with Go
 
 2. Functions, Methods, and Interfaces in Go
