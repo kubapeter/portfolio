@@ -33,9 +33,9 @@ This folder contains
 - [x] [certificate](./Certificate) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
 
 ## Syllabus
-- [Week 1](./Week%201): Why Use Concurrency?
-- [Week 2](./Week%202): CONCURRENCY BASICS
-- [Week 3](./Week%203): THREADS IN GO
-- [Week 4](./Week%204): SYNCHRONIZED COMMUNICATION
+- [Week 1](./Week%201): Getting Started with Go
+- [Week 2](./Week%202): Basic Data Types
+- [Week 3](./Week%203): Composite Data Types
+- [Week 4](./Week%204): Protocols and Formats
 
 [^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
