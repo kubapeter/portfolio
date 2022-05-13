@@ -27,15 +27,14 @@ Course 1 of the [Software Product Management Specialization](../)
 
 ## Content
 This folder contains 
-- [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
+- [x] course notes (pdf document of 11 pages)
+- [x] glossary
+- [x] definition of the main concepts
 - [x] [certificate](./Certificate/Coursera%20Certificate%20Getting%20Started%20with%20Go.pdf) ([verification](https://coursera.org/verify/97SDDKB9SQPV))
 
 ## Syllabus
-- [Week 1](./Week%201): Getting Started with Go
-- [Week 2](./Week%202): Basic Data Types
-- [Week 3](./Week%203): Composite Data Types
-- [Week 4](./Week%204): Protocols and Formats
+- [Week 1](./Week%201): Software Product Management - The Discipline
+- [Week 2](./Week%202): Foundations of Software Product Management
 
-[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
 
