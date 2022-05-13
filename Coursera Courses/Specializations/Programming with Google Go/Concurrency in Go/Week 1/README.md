@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/golang-concurrency">
-<img src="/img/Concurrency_in_Go_logo.avif" width="110" height="110" align="right">
+<img src="/img/Concurrency_in_Go_logo.avif" width="120" height="120" align="right">
 </a>
 
 # Week 1 <br> Why Use Concurrency?
