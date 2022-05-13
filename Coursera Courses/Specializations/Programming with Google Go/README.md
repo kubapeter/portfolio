@@ -38,3 +38,7 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 2. [Functions, Methods, and Interfaces in Go](./Functions,%20Methods,%20and%20Interfaces%20in%20Go)
 
 3. [Concurrency in Go](./Concurrency%20in%20Go)
+
+## Personal impressions
+
+The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on the module they are closing. Lecturer hands out all the slides of the courses. It is interesting how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
