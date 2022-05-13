@@ -34,10 +34,10 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 ---
 
 1. [Getting Started with Go](./Getting%20Started%20with%20Go)
-
 2. [Functions, Methods, and Interfaces in Go](./Functions,%20Methods,%20and%20Interfaces%20in%20Go)
-
 3. [Concurrency in Go](./Concurrency%20in%20Go)
+
+(Interestingly enough the logos of the courses suggest that the specialization might have been planned to be a 4 course specialization. It indeed consists only of these 3 courses.)
 
 ## Personal impressions
 
