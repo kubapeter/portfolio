@@ -15,7 +15,7 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 **8 hours** to complete - 4 quizzes, 4 programming assignments to pass
 
-Course [**\<**](Getting%20Started%20wit%20Go) 2 [**\>**](../Concurrency%20in%20Go) of the [Programming with Google Go Specialization](../) 
+Course [**\<**](../Getting%20Started%20wit%20Go) 2 [**\>**](../Concurrency%20in%20Go) of the [Programming with Google Go Specialization](../) 
 
 ---
 
