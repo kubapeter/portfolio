@@ -17,6 +17,8 @@ Taught by: [Scott Rixner](https://www.coursera.org/instructor/~726142) and [Joe 
 
 The specialization consists of 4 courses. 
 
+<p align="right"><a href="Coursera_Certificate_Introduction_to_Scripting in_Python_Specialization.pdf">Certificate</a></p>
+
 ---
 
 ## Description of the specialization
