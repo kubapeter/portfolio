@@ -13,10 +13,11 @@ Taught by: [Scott Rixner](https://www.coursera.org/instructor/~726142) and [Joe 
 
 ---
 
-**37 hours** to complete ([certificate](./Certificate/Coursera_Certificate_Introduction_to_Scripting in_Python_Specialization.pdf)), [verification](https://coursera.org/verify/specialization/DWWUF5UABHYM))
+**37 hours** to complete ([certificate](Coursera Courses/Specializations/Introduction to Scripting in Python/Certificate/Coursera_Certificate_Introduction_to_Scripting in_Python_Specialization.pdf)), [verification](https://coursera.org/verify/specialization/DWWUF5UABHYM))
 
 The specialization consists of 4 courses. 
 
+https://github.com/kubapeter/portfolio/blob/2c6a1f21d8120ae201ff7919ea318f980c667187/Coursera%20Courses/Specializations/Introduction%20to%20Scripting%20in%20Python/Certificate/Coursera_Certificate_Introduction_to_Scripting%20in_Python_Specialization.pdf
 Coursera Courses/Specializations/Introduction to Scripting in Python/Certificate/Coursera_Certificate_Introduction_to_Scripting in_Python_Specialization.pdf
 
 ---
