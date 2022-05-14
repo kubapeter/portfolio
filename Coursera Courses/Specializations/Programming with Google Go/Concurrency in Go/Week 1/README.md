@@ -24,4 +24,6 @@
   - only decides what CAN be parallelized
   - os decides what really happens
 
+## Assignment
 
+There is only written assignment for this week. It is about what factors challenge Moore's law today. 
