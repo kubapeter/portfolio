@@ -13,7 +13,7 @@ Taught by: [Scott Rixner](https://www.coursera.org/instructor/~726142) and [Joe 
 
 ---
 
-**37 hours** to complete ([certificate](./Certificate/Coursera_Certificate_Introduction_to_Scripting in_Python_Specialization.pdf), [verification](https://coursera.org/verify/specialization/DWWUF5UABHYM))
+**37 hours** to complete ([certificate](./Certificate), [verification](https://coursera.org/verify/specialization/DWWUF5UABHYM))
 
 The specialization consists of 4 courses. 
 
