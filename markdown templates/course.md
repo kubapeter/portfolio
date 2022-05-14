@@ -13,7 +13,7 @@ Taught by: [Lecturer](lecturer_link)
 
 ---
 
-**? hours** to complete - ? quizzes and ? coding assignments
+**? hours** to complete - ? quizzes, ? written and ? coding assignments
 
 Course ? of the [spec_title](../) 
 
