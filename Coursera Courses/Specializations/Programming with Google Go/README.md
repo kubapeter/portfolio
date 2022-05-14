@@ -25,6 +25,8 @@ The specialization consists of 3 courses.
 
 More details on [website](https://www.coursera.org/specializations/google-golang)
 
+<p align="right">More details on <a href="https://www.coursera.org/specializations/google-golang">website</a></p>
+
 <a href="https://www.coursera.org/learn/golang-concurrency">
   <img src="/img/Concurrency_in_Go_logo.avif" width="75" align="right"> 
 </a>
