@@ -4,24 +4,25 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Rice_Logo_280_Blue.svg" width="120" height="120" align="left">
 
-# Specialization Title
+# Introduction to Scripting in Python Specialization
 
 Offered by 
-### *Uni*
+### *Rice University*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Scott Rixner](https://www.coursera.org/instructor/~726142) and [Joe Warren](https://www.coursera.org/instructor/~527518)
 
 ---
 
-**? hours** to complete
+**37 hours** to complete
 
-The specialization consists of ? courses. 
+The specialization consists of 4 courses. 
 
 ---
 
 ## Description of the specialization
 
->"description"
+>"Developed by Rice University's world-class Computer Science & Data Science faculty, this specialization is intended for beginners who would like to master essential programming skills.   
+  Through four courses, you will cover key programming concepts in Python 3 which will prepare you to use Python to perform common scripting tasks.  This knowledge will provide a solid foundation towards a career in data science, software engineering, or other disciplines involving programming."
 
 <p align="right">More details on <a href="spec_homepage">website</a></p>
 
