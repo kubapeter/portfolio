@@ -1,5 +1,5 @@
 <a href="spec_homepage">
-<img src="/img/spec_logo" width="150" align="right">
+  <img src="/img/spec_logo" width="150" align="right">
 </a>
 
 <img src="uni_logo" width="120" height="120" align="left">
@@ -25,12 +25,24 @@ The specialization consists of ? courses.
 
 <p align="right">More details on <a href="spec_homepage">website</a></p>
 
-<img src="/img/course6_logo" width="75" align="right"> 
-<img src="/img/course5_logo" width="75" align="right"> 
-<img src="/img/course4_logo" width="75" align="right"> 
-<img src="/img/course3_logo" width="75" align="right"> 
-<img src="/img/course2_logo" width="75" align="right"> 
-<img src="/img/course1_logo" width="75" align="right"> 
+<a href="course6_homepage">
+  <img src="/img/course6_logo" width="75" align="right">
+</a>
+<a href="course5_homepage">
+  <img src="/img/course5_logo" width="75" align="right">
+</a>
+<a href="course4_homepage">
+  <img src="/img/course4_logo" width="75" align="right">
+</a>
+<a href="course3_homepage">
+  <img src="/img/course3_logo" width="75" align="right">
+</a>
+<a href="course2_homepage">
+  <img src="/img/course2_logo" width="75" align="right">
+</a>
+<a href="course1_homepage">
+  <img src="/img/course1_logo" width="75" align="right">
+</a>
 
 ## Courses of the specialization
 
