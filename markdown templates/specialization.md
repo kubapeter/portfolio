@@ -9,11 +9,11 @@
 Offered by 
 ### *Uni*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Lecturer](lecturer_link) and [Lecturer](lecturer_link)
 
 ---
 
-**? hours** to complete
+**? hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
 
 The specialization consists of ? courses. 
 
