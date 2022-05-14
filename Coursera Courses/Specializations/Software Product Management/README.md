@@ -1,4 +1,4 @@
-<a href="https://www.coursera.org/specializations/product-management" target="_blank">
+<a href="https://www.coursera.org/specializations/product-management">
   <img src="/img/Software%20Product%20Management%20Specialization%20logo.avif" width="150" height="150" align="right">
 </a>
 
