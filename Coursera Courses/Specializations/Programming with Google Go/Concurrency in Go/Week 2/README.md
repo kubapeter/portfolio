@@ -17,3 +17,6 @@
   - today scheduling is done on thread level 
 - Goroutines ~ a thread in Go
   - Go Runtime Scheduler: schedules goroutines inside an OS thread (~ OS in OS)
+- Interleavings
+  - Race condition: outcome of the program depends on the interleaving (non-deterministic ordering)
+  - those tasks should be on different threads that are highly independent
