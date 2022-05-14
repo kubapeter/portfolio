@@ -24,37 +24,16 @@ The specialization consists of 4 courses.
 >"Developed by Rice University's world-class Computer Science & Data Science faculty, this specialization is intended for beginners who would like to master essential programming skills.   
   Through four courses, you will cover key programming concepts in Python 3 which will prepare you to use Python to perform common scripting tasks.  This knowledge will provide a solid foundation towards a career in data science, software engineering, or other disciplines involving programming."
 
-<p align="right">More details on <a href="spec_homepage">website</a></p>
-
-<a href="course6_homepage">
-  <img src="/img/course6_logo" width="75" align="right">
-</a>
-<a href="course5_homepage">
-  <img src="/img/course5_logo" width="75" align="right">
-</a>
-<a href="course4_homepage">
-  <img src="/img/course4_logo" width="75" align="right">
-</a>
-<a href="course3_homepage">
-  <img src="/img/course3_logo" width="75" align="right">
-</a>
-<a href="course2_homepage">
-  <img src="/img/course2_logo" width="75" align="right">
-</a>
-<a href="course1_homepage">
-  <img src="/img/course1_logo" width="75" align="right">
-</a>
+<p align="right">More details on <a href="https://www.coursera.org/specializations/introduction-scripting-in-python">website</a></p>
 
 ## Courses of the specialization
 
 ---
 
-1. [Course1](./course1_folder)
-2. [Course2](./course2_folder)
-3. [Course2](./course3_folder)
-4. [Course2](./course4_folder)
-5. [Course2](./course5_folder)
-6. [Course2](./course6_folder)
+1. [Course1](./Python Programming Essentials)
+2. [Course2](./Python Data Representations)
+3. [Course2](./Python Data Analysis)
+4. [Course2](./Python Data Visualization)
 
 ## Personal impressions
 
