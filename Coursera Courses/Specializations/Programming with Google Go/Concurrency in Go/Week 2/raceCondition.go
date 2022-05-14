@@ -27,7 +27,7 @@ func main(){
 	//     go func () { str += "_"} ()
 	//     go func () { str += "+"} ()
 	// }
-
-    time.Sleep(1 * time.Second)
+	
+	time.Sleep(1 * time.Second)
 	fmt.Println(str)
 }
