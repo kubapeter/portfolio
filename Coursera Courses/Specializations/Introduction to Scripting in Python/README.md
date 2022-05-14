@@ -30,10 +30,10 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Python Programming Essentials](./Python Programming Essentials)
-2. [Python Data Representations](./Python Data Representations)
-3. [Python Data Analysis](./Python Data Analysis)
-4. [Python Data Visualization](./Python Data Visualization)
+1. [Python Programming Essentials](./Python%20Programming%20Essentials)
+2. [Python Data Representations](./Python%20Data%20Representations)
+3. [Python Data Analysis](./Python%20Data%20Analysis)
+4. [Python Data Visualization](./Python%20Data%20Visualization)
 
 ## Personal impressions
 
