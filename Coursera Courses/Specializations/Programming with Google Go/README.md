@@ -23,8 +23,6 @@ The specialization consists of 3 courses.
 
 >"This specialization introduces the Go programming language from Google and provides learners with an overview of Go's special features. Upon completing the three-course sequence, learners will have gained the knowledge and skills needed to create concise, efficient, and clean applications using Go."
 
-More details on [website](https://www.coursera.org/specializations/google-golang)
-
 <p align="right">More details on <a href="https://www.coursera.org/specializations/google-golang">website</a></p>
 
 <a href="https://www.coursera.org/learn/golang-concurrency">
@@ -49,4 +47,4 @@ More details on [website](https://www.coursera.org/specializations/google-golang
 
 ## Personal impressions
 
-The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on their module. Lecturer hands out all the slides of the last two courses. It is interesting to see how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
+The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on their module. Lecturer hands out all the slides of the last two courses. The specialization assumes that the students are familiar with at least one other programming language. Often comparisons are made between Go and other languages, and not every concept is built from the ground up. It is interesting to see how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
