@@ -25,31 +25,24 @@ The specialization consists of 6 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/product-management">website</a></p>
 
-<a href="course6_homepage">
+<a href="https://www.coursera.org/learn/software-product-management-capstone">
   <img src="/img/Software%20Product%20Management%20Capstone%20logo.avif" width="75" align="right">
 </a>
-<a href="course5_homepage">
+<a href="https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements">
   <img src="/img/Reviews%20%26%20Metrics%20for%20Software%20Improvements%20logo.avif" width="75" align="right">
 </a>
-<a href="course4_homepage">
+<a href="https://www.coursera.org/learn/agile-planning-for-software-products">
   <img src="/img/Agile%20Planning%20for%20Software%20Products%20logo.avif" width="75" align="right">
 </a>
-<a href="course3_homepage">
+<a href="https://www.coursera.org/learn/client-needs-and-software-requirements">
   <img src="/img/Client%20Needs%20and%20Software%20Requirements%20logo.avif" width="75" align="right">
 </a>
-<a href="course2_homepage">
+<a href="https://www.coursera.org/learn/software-processes-and-agile-practices">
   <img src="/img/Software%20Processes%20and%20Agile%20Practices%20logo.avif" width="75" align="right">
 </a>
-<a href="course1_homepage">
+<a href="https://www.coursera.org/learn/introduction-to-software-product-management">
   <img src="/img/Introduction%20to%20Software%20Product%20Management%20logo.avif" width="75" align="right">
-</a>
-
-<img src="/img/Software%20Product%20Management%20Capstone%20logo.avif" width="75" align="right"> 
-<img src="/img/Reviews%20%26%20Metrics%20for%20Software%20Improvements%20logo.avif" width="75" align="right"> 
-<img src="/img/Agile%20Planning%20for%20Software%20Products%20logo.avif" width="75" align="right"> 
-<img src="/img/Client%20Needs%20and%20Software%20Requirements%20logo.avif" width="75" align="right"> 
-<img src="/img/Software%20Processes%20and%20Agile%20Practices%20logo.avif" width="75" align="right"> 
-<img src="/img/Introduction%20to%20Software%20Product%20Management%20logo.avif" width="75" align="right"> 
+</a> 
 
 ## Courses of the specialization
 
