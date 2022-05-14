@@ -30,7 +30,7 @@ This folder contains
 - [x] [course map](./Resources/Course-Map---Introduction-to-Software-Product-Management.pdf) (detailed descriptions of the modules)
 - [x] [course notes](./Resources/Course-Notes---Introduction-to-Software-Product-Management.pdf) (pdf document of 11 pages)
 - [x] [glossary](./Resources/Glossary---Introduction-to-Software-Product-Management.pdf) (definitions of the main concepts)
-- [x] [certificate](./Certificate/Coursera_Certificate_Introduction_to_Software_Product_Management.pdf) ([verification](https://coursera.org/verify/BCTAZQGH5AHE))
+- [x] [certificate](./Certificate/Coursera_Certificate_Introduction_to_Software_Product_Management.pdf) ([verification](https://coursera.org/verify/HE2XQHEMY4X2))
 
 ## Syllabus
 - Week 1: Introduction to Processes
