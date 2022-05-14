@@ -24,8 +24,8 @@ func main(){
 	go func () { str += "+"} ()
 
 	// for i := 0; i < 60; i++ {
-	// 	go func () { str += "_"} ()
-	// 	go func () { str += "+"} ()
+	//     go func () { str += "_"} ()
+	//     go func () { str += "+"} ()
 	// }
 
     time.Sleep(1 * time.Second)
