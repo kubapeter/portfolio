@@ -20,3 +20,7 @@
 - Interleavings
   - Race condition: outcome of the program depends on the interleaving (non-deterministic ordering)
   - those tasks should be on different threads that are highly independent
+
+## Assignment
+
+>"Write two goroutines which have a race condition when executed concurrently. Explain what the race condition is and how it can occur."
