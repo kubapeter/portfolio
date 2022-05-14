@@ -17,7 +17,7 @@ Taught by: [Ian Harris](https://www.coursera.org/instructor/ianharris)
 
 Course [**\<**]() 2 [**\>**]() of the [Programming with Google Go Specialization](../) 
 
-Course 2 of the [Programming with Google Go Specialization](../) ([previouscourse](), [next course]())
+Course 2 of the [Programming with Google Go Specialization](../) ([previous course](), [next course]())
 
 ---
 
