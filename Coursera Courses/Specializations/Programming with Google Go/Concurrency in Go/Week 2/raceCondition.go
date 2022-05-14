@@ -1,5 +1,5 @@
 // There are two goroutines in main(). Go runtime scheduler decides the 
-//order of the execution. Each time it can be different. For most runs 
+// order of the execution. Each time it can be different. For most runs 
 // it prints "_+", but sometimes it prints "+_". This is due to the fact 
 // that both goroutines are communicating through variable str. Race 
 // condition occures because the access of this shared variable is 
