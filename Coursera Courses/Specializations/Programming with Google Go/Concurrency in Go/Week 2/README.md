@@ -25,4 +25,4 @@
 
 >"Write two goroutines which have a race condition when executed concurrently. Explain what the race condition is and how it can occur."
 
-Quite surprisingly the lecturer does not provide any technical details at all about how one can wirte the program. The video lectures do not give any clue about how can one define routines in Go. The solution itself is not very complicated, but it is surprising, that every little detail about it must be learnt from outside sources. Might as well say "Please learn Go language from somewhere and write a code to prove that you learnt it". 
+Quite surprisingly the lecturer **does not provide any practical detail at all** about how one can wirte the program. The video lectures do not even give any clue about how can one define routines in Go. The [solution](./raceCondition.go) itself is not very complicated, but it is surprising, that every little detail about it must be learnt from outside sources. Might as well say "Please learn Go language from somewhere and write a code to prove that you learnt it". 
