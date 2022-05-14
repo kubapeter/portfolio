@@ -1,10 +1,10 @@
 <a href="spec_homepage">
-<img src="spec_logo" width="150" align="right">
+<img src="/img/spec_logo" width="150" align="right">
 </a>
 
 <img src="uni_logo" width="120" height="120" align="left">
 
-# Title
+# Specialization Title
 
 Offered by 
 ### *Uni*
