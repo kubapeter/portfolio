@@ -25,4 +25,4 @@
 
 >"Write two goroutines which have a race condition when executed concurrently. Explain what the race condition is and how it can occur."
 
-This is the only major inconsistency in the specializatino. The practical details needed to solve this problem are only discussed in the lectures of the next week. The [solution](./raceCondition.go) itself is not very complicated. In fact, it is so simple, that I cloud not write a different shareable version. Basically any solution of this problem can be submitted no matter how it twist it. 
+This is the only major inconsistency in the specialization. The practical details needed to solve this problem are only discussed in the lectures of the next week. The [solution](./raceCondition.go) itself is not very complicated. In fact, it is so simple, that I cloud not write a different shareable version. Basically any solution of this problem can be submitted no matter how it twist it. 
