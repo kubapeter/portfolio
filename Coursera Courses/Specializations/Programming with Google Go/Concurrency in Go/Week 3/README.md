@@ -16,12 +16,15 @@
 - Threads
   - communication of threads: channels 
   ```go
-    c := make(chan int); 
+    c := make(chan int)
     c <- 3;   // send data
     x := <- 3 // receive data
   ```
   - sending blocks thread until data is received and receiving blocks thread until data is sent
     - Sychronization using channels (threadA: `c <- 3` threadB: `<- c`)
+  - buffered channels: `c := make(chan int, 3)`
+    - sending only blocks if buffer is full (now `3` elements)
+    - receiving only blocks if buffer is empty
 
 ## Assignment
 
