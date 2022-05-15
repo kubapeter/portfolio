@@ -15,7 +15,7 @@
 - Sychronization (`sync.WaitGroup`)
 - Threads
   - communication of threads: channels 
-  ```
+  ```go
   c := make(chan int); 
   c <- 3; 
   x := <- 3
