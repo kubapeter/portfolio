@@ -6,15 +6,15 @@ Learning Objectives
 - Demonstrate how to include literals and expressions in the SELECT clause
 
 Subjects covered:
-- SELECT (specifies columns)
+- `SELECT` (specifies columns)
   - `*`, `FROM`, `AS`, `CONCAT()`, `||`, `to_char`, `date_part`, `--`, `/* */`
-- WHERE (specifies rows)
-  - LIKE, IN, BETWEEN, AND, OR, NOT
-- ORDER BY and DISTINCT
-  - count(), ASC, DESC. LIMIT
+- `WHERE` (specifies rows)
+  - `LIKE`, `IN`, `BETWEEN`, `AND`, `OR`, `NOT`
+- `ORDER BY` and `DISTINCT`
+  - `count()`, `ASC`, `DESC`, `LIMIT`
 - date datatype
-  - DATE, TIMESTAMP, TIMESTAMPTZ, TIME, INTERVAL (PostgreSQL)
-  - CAST (\<A\> AS \<B\>), \<A\>::\<B\>
-  - now(), age(), date functions in general
-- NULL
-    - IS NULL, IS NOT NULL
+  - `DATE`, `TIMESTAMP`, `TIMESTAMPTZ`, `TIME`, `INTERVAL` (PostgreSQL)
+  - `CAST (<A> AS <B>)`, `<A>::<B>`
+  - `now()`, `age()`, date functions in general
+- `NULL`
+    - `IS NULL`, `IS NOT NULL`
