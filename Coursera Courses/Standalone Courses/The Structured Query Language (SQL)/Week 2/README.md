@@ -7,7 +7,7 @@ Learning Objectives
 
 Subjects covered:
 - SELECT (specifies columns)
-  - \*, FROM, AS, CONCAT, ||, to_char, date_part, --, /* */
+  - `*`, `FROM`, `AS`, `CONCAT()`, `||`, `to_char`, `date_part`, `--`, `/* */`
 - WHERE (specifies rows)
   - LIKE, IN, BETWEEN, AND, OR, NOT
 - ORDER BY and DISTINCT
