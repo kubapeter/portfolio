@@ -11,7 +11,14 @@
 - Develop a goroutine that makes use of concurrent algorithms and addresses synchronization issues.
 
 ## Subjects covered
-- subjects
+- Iterating through a channel: `for i := range c { ... }` reads from channel continually
+  - stops on `close(c)`
+- Select: first-come first-served 
+```go
+select {
+  case a = <- c1: { ... }
+  case b = <- c2: { ... }
+```
 
 ## Assignment
 
