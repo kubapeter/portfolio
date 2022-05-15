@@ -12,15 +12,16 @@
 ## Subjects covered
 - `go` keyword to create goroutines
 - Exiting goroutines
-- Sychronization (`sync.WaitGroup`)
+- Sychronization (e. g. `sync.WaitGroup`)
 - Threads
   - communication of threads: channels 
   ```go
     c := make(chan int); 
-    c <- 3; 
-    x := <- 3
+    c <- 3;   // send data
+    x := <- 3 // receive data
   ```
-  - 
+  - sending blocks thread until data is received and receiving blocks thread until data is sent
+    - it is possible to synchronize just by channels (threadA: `c <- 3` theadB: `<- c`)
 
 ## Assignment
 
