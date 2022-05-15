@@ -13,21 +13,37 @@ package main
 
 import(
 	"fmt"
-	"time"
+	"sync"
 ) 
 
 var str string
 
-func main(){
+func underscore(wg *sync.WaitGroup) { 
+	str += "_"
+	wg.Done()
+}
 
-	go func () { str += "_"} ()
-	go func () { str += "+"} ()
+func plus(wg *sync.WaitGroup) { 
+	str += "+"
+	wg.Done()
+}
+
+func main(){
+	var wg sync.WaitGroup
+
+	wg.Add(1)
+	go underscore(&wg)
+
+	wg.Add(1)
+	go plus(&wg)
 
 	// for i := 0; i < 60; i++ {
-	//     go func () { str += "_"} ()
-	//     go func () { str += "+"} ()
+	// 	wg.Add(1)
+	// 	go underscore(&wg)
+	// 	wg.Add(1)
+	// 	go plus(&wg)
 	// }
 	
-	time.Sleep(1 * time.Second)
+	wg.Wait()
 	fmt.Println(str)
 }
