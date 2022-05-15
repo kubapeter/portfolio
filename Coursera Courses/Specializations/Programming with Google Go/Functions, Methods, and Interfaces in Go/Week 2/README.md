@@ -21,12 +21,12 @@
 
 ## Assignment 
 
-**Function as return value**.[^1] The main emphasis is on using the possibility of functions as return values. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
+**First-class functions**.[^1] The main concept the assignment checks is one of the fundamental principles of functional programming. Namely the use of first-class functions. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
 - function as a return value
 - function as a variable and also
 - function as an argument
 
-The problem it solves seems to be quite different on the surface: asks the user for a regular German or Spanish verb, finds out the language then conjugates accordingly. 
+The problem it solves seems to be quite different at first glance: asks the user for a regular German or Spanish verb, finds out the language then conjugates accordingly. 
 
 [^1]: "Let us assume the following formula for displacement *s* as a function of time *t*, acceleration *a*, initial velocity *v*<sub>0</sub>,
 and initial displacement *s*<sub>0</sub> is the following: 
