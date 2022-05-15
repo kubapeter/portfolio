@@ -1,11 +1,15 @@
-Week2: **FUNCTION TYPES**
+<a href="../">
+<img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="120" align="right">
+</a>
 
-Learning Objectives
+# Week 2 <br> FUNCTION TYPES
+
+## Learning Objectives
 - Identify advanced types, properties, and uses of functions.
 - Identify the output that would result from running a given code block containing functions.
 - Develop a routine containing functions in Go that solves a practical physics problem.
 
-Subjects covered: 
+## Subjects covered: 
 - Functions as first-calls values (functional programming)
   - variables as functions
   - functions as arguments
@@ -15,7 +19,9 @@ Subjects covered:
 - Ellipsis e. g.: `...int` to define variable number of arguments (variadic function)
 - Deferred function calls: `defer f(x)`
 
-Assignment: **Function as return value**. [^1] The main emphasis is on using the possibility of functions as return values. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
+## Assignment 
+
+**Function as return value**. [^1] The main emphasis is on using the possibility of functions as return values. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
 - function as a return value
 - function as a variable and also
 - function as an argument
