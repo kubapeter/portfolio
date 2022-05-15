@@ -15,10 +15,10 @@
   - stops on `close(c)`
 - Select: first-come first-served 
 ```go
-  select {
-    case a = <- c1: { ... }
-    case b = <- c2: { ... }
-  }
+    select {
+      case a = <- c1: { ... }
+      case b = <- c2: { ... }
+    }
 ```
 
 ## Assignment
