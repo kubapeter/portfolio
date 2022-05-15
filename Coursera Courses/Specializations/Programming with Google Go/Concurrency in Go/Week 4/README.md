@@ -44,8 +44,8 @@
       default: fmt.Println("I'm not blocking")
     }
 ```
- - Concurrency-safe function
- - Mutex (mutual exclusion): no access to shared variables at the same time
+- Concurrency-safe function
+- Mutex (mutual exclusion): no access to shared variables at the same time
 ```go
     var i int = 0
     var mutx = sync.Mutex  // without Mutex inc() is not concurrency-safe
@@ -55,7 +55,9 @@
       mutx.Unlock() // I'm finished with x anyone can use it
     }
 ```
-
+- Synchronous Initialization: `sync.Once.Do(f)`
+- Deadlock: circular dependencies between threads block the execution
+- Dining philosophers problem
 
 
 ## Assignment
