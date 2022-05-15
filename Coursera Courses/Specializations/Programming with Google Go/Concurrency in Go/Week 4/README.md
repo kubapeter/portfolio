@@ -27,7 +27,15 @@
       case outchan <- b: { ... }
     }    
 ```
-- 
+- Abort channel to exit continual select
+```go
+    for {
+      select {
+        case a = <- c1: { ... }
+        case b = <- abort: return
+      }
+    }
+```
 
 ## Assignment
 
