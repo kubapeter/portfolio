@@ -27,8 +27,7 @@
       case outchan <- b: { ... }
     }    
 ```
--
-  - Abort channel to exit continual select
+- - Abort channel to exit continual select
 ```go
     for {
       select {
