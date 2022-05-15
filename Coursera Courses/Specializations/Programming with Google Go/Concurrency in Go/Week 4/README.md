@@ -27,7 +27,7 @@
       case outchan <- b: { ... }
     }    
 ```
-- - Abort channel to exit continual select
+- Abort channel to exit continual select
 ```go
     for {
       select {
@@ -36,7 +36,7 @@
       }
     }
 ```
-  - Default select to exit avoid blocking
+- Default select to exit avoid blocking
 ```go
     select {
       case a = <- c1: { ... }
@@ -45,8 +45,16 @@
     }
 ```
  - Concurrency-safe function
- - Mutex
-
+ - Mutex (mutual exclusion): no access to shared variables at the same time
+```go
+    var i int = 0
+    var mutx = sync.Mutex  // without Mutex inc() is not concurrency-safe
+    func inc() {
+      mutx.Lock()   // I use x, please don't touch it
+      i = i + 1
+      mutx.Unlock() // I'm finished with x anyone can use it
+    }
+```
 
 
 
