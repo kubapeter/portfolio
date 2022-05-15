@@ -14,7 +14,11 @@
 - Exiting goroutines
 - Sychronization (`sync.WaitGroup`)
 - Threads
-  - communication of threads: channels `c := make(chan int); c <- 3; x := <- 3`
+  - communication of threads: channels ```
+  c := make(chan int); 
+  c <- 3; 
+  x := <- 3
+  ```
   - 
 
 ## Assignment
