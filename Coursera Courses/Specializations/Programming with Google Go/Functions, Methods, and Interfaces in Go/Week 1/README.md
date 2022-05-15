@@ -1,3 +1,21 @@
+<a href="../">
+<img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="120" align="right">
+</a>
+
+# Week 1 <br> FUNCTIONS AND ORGANIZATION
+
+## Learning Objectives
+- Identify the basic features and purposes of functions.
+- Identify the benefits of using pointers when working with functions.
+- Identify the difference between passing a slice and an array as function arguments.
+- Use functions and a slice to implement a sorting routine for integers.
+
+## Assignment
+
+>"The goal of this assignment is to create a routine that sorts a series of ten integers using the bubble sort algorithm. Click the "My Submission" tab to view specific instructions for this activity."
+
+Main points, and own [shared code](./code.language) 
+
 Week 1: FUNCTIONS AND ORGANIZATION
 
 Learning Objectives
