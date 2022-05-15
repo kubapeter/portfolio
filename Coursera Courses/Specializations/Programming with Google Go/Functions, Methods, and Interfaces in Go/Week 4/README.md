@@ -1,12 +1,16 @@
-Week 4: **INTERFACES FOR ABSTRACTION**
+<a href="../">
+  <img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="120" align="right">
+</a>
 
-Learning Objectives
+# Week 4 <br> INTERFACES FOR ABSTRACTION
+
+## Learning Objectives
 - Identify the basic characteristics and features of interfaces in Go.
 - Identify the characteristics of polymorphism.
 - Identify the features associated with overriding and inheritance.
 - Develop an interactive Go routine that uses classes, objects, instances, structs, and methods to create new class instances and later query their properties.
 
-Subjects covered
+## Subjects covered
 - Polymorphism, overriding
 - Absence of inheritance in Go 
 - Interfaces in Go, no need for expicit declaration of extension
@@ -20,3 +24,9 @@ Subjects covered
   - error handling `type error interface { Error() string }`
 - Empty interface: `interface{}`
 - Exposing type differences: `rect, ok := shape.(Rectangle)` returns a `Rectangle` (if possible) and a `bool`.
+
+## Assignment
+
+>"quote"
+
+Main points, and own [shared code](./code.language) 
