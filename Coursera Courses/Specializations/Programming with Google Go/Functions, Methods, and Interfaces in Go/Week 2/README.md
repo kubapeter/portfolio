@@ -1,5 +1,5 @@
 <a href="../">
-<img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="120" align="right">
+  <img src="/img/Functions,%20Methods,%20and%20Interfaces%20in%20Go%20logo.avif" width="120" align="right">
 </a>
 
 # Week 2 <br> FUNCTION TYPES
