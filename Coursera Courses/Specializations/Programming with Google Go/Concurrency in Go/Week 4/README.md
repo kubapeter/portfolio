@@ -19,7 +19,15 @@
       case a = <- c1: { ... }
       case b = <- c2: { ... }
     }
+    
+    //or
+    
+    select {
+      case a = <- inchan: { ... }
+      case outchan <- b: { ... }
+    }    
 ```
+- 
 
 ## Assignment
 
