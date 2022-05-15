@@ -5,7 +5,7 @@
 // condition occures because the access of this shared variable is 
 // non-deterministic.
 //
-// If you "comment back" the outcommented section, you will get a visually 
+// If you uncomment the outcommented section, you will get a visually 
 // very convincing representation of the race condition. (Although this uses 
 // 120 go routines (122 in fact) instead of the required 2.)
 
