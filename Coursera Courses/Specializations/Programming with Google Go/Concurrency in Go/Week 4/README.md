@@ -27,7 +27,7 @@
       case outchan <- b: { ... }
     }    
 ```
-- Abort channel to exit continual select
+  - Abort channel to exit continual select
 ```go
     for {
       select {
@@ -36,6 +36,17 @@
       }
     }
 ```
+  - Default select to exit avoid blocking
+```go
+    select {
+      case a = <- c1: { ... }
+      case b = <- c2: { ... }
+      default: fmt.Println("I'm not blocking")
+    }
+```
+
+
+
 
 ## Assignment
 
