@@ -21,7 +21,7 @@
     x := <- 3 // receive data
   ```
   - sending blocks thread until data is received and receiving blocks thread until data is sent
-    - Sychronization using channels (threadA: `c <- 3` theadB: `<- c`)
+    - Sychronization using channels (threadA: `c <- 3` threadB: `<- c`)
 
 ## Assignment
 
