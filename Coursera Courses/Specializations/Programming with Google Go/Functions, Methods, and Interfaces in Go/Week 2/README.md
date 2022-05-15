@@ -21,7 +21,7 @@
 
 ## Assignment 
 
-**Function as return value**. [^1] The main emphasis is on using the possibility of functions as return values. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
+**Function as return value**.[^1] The main emphasis is on using the possibility of functions as return values. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
 - function as a return value
 - function as a variable and also
 - function as an argument
