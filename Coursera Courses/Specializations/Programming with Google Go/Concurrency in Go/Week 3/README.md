@@ -10,7 +10,10 @@
 - Write a goroutine that uses threads to sort integers via four sub-arrays that are then merged into a single array.
 
 ## Subjects covered
-- subjects
+- `go` keyword to create goroutines
+- Exiting goroutines
+- Sychronization (`sync.WaitGroup`)
+- Threads
 
 ## Assignment
 
