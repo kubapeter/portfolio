@@ -7,8 +7,8 @@ Learning Objectives
 - Demonstrate how to load data into a table
 
 Subjects covered
-- Data Definition Language (CREATE, ALTER, DROP)
-- Data Manipulation Language (INSERT, UPDATE, DELETE, TRUNCATE)
+- Data Definition Language (`CREATE`, `ALTER`, `DROP`)
+- Data Manipulation Language (`INSERT`, `UPDATE`, `DELETE`, `TRUNCATE`)
 - Constraints 
-  - table level (PRIMARY KEY, FOREIGN KEY)
-  - column level (NOT NULL, CHECK, DEFAULT, UNIQUE, PRIMARY KEY)
+  - table level (`PRIMARY KEY`, `FOREIGN KEY`)
+  - column level (`NOT NULL`, `CHECK`, `DEFAULT`, `UNIQUE`, `PRIMARY KEY`)
