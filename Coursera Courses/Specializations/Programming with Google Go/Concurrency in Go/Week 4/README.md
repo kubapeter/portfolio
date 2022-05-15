@@ -44,6 +44,8 @@
       default: fmt.Println("I'm not blocking")
     }
 ```
+ - Concurrency-safe function
+ - Mutex
 
 
 
