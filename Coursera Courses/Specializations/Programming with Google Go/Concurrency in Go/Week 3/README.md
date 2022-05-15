@@ -16,9 +16,9 @@
 - Threads
   - communication of threads: channels 
   ```go
-  c := make(chan int); 
-  c <- 3; 
-  x := <- 3
+    c := make(chan int); 
+    c <- 3; 
+    x := <- 3
   ```
   - 
 
