@@ -13,9 +13,9 @@ Taught by: [Lecturer](lecturer_link)
 
 ---
 
-**? hours** to complete - ? quizzes, ? written and ? coding assignments
+**? hours** to complete - ? quizzes, ? written and ? [coding assignments]
 
-Course [**\<**](../prev_course_folder) ? [**\>**](../next_course_folder) of the [spec_title](../) 
+Course ? of the [spec_title](../) 
 
 ---
 
