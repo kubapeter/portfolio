@@ -29,7 +29,7 @@ Course 2 of the [Introduction to Scripting in Python Specialization](../)
 
 ## Content
 This folder contains 
-- [x] source code for [assignment]()[^1]
+- [x] source code for the [assignment]()[^1]
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
