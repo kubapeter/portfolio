@@ -1,43 +1,41 @@
-<a href="course_homepage">
-  <img src="/img/course_logo" width="150" align="right">
+<a href="https://www.coursera.org/learn/python-representation">
+  <img src="/img/Introduction_to_Scripting_in_Python_Specialization_logo.avif" width="150" align="right">
 </a>
 
-<img src="uni_logo" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Rice_Logo_280_Blue.svg" width="120" height="120" align="left">
 
-# Course Title
+# Python Data Representations
 
 Offered by 
-### *Uni*
+### *Rice University*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Scott Rixner](https://www.coursera.org/instructor/~726142) and [Joe Warren](https://www.coursera.org/instructor/~527518)
 
 ---
 
-**? hours** to complete - ? quizzes, ? written and ? coding assignments
+**9 hours** to complete - 3 quizzes, 1 [coding assignment]
 
-Course [**\<**](../prev_course_folder) ? [**\>**](../next_course_folder) of the [spec_title](../) 
+Course 2 of the [Introduction to Scripting in Python Specialization](../) 
 
 ---
 
 ## Course description
 
->"descripton"
+>"This course will continue the introduction to Python programming that started with Python Programming Essentials. We'll learn about different data representations, including strings, lists, and tuples, that form the core of all Python programs. We will also teach you how to access files, which will allow you to store and retrieve data within your programs. These concepts and skills will help you to manipulate data and write more complex Python programs.
 
-<p align="right">More details on <a href="course_homepage">website</a></p>
+By the end of the course, you will be able to write Python programs that can manipulate data stored in files. This will extend your Python programming expertise, enabling you to write a wide range of scripts using Python"
+
+<p align="right">More details on <a href="https://www.coursera.org/learn/python-representation">website</a></p>
 
 ## Content
 This folder contains 
-- [x] source code for assignments[^1]
-- [x] short descriptions of the modules 
-- [x] [course map](./Resources/course_map) (detailed description of the modules)
-- [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
-- [x] [glossary](./Resources/glossary) (definitions of the main concepts)
-- [x] [slides](./Slides) 
+- [x] source code for assignment[^1]
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- [Week 1](./Week%201): week1_title
-- [Week 2](./Week%202): week2_title
-- [Week 3](./Week%203): week3_title
-- [Week 4](./Week%204): week4_title
+- Week 1: Strings - "This module will teach you about Python's string data type and its capabilities. Strings are used to represent text within programs."
+- Week 2: Basics of Lists - "This module will teach you the basics of Python's list data type. Lists are used to hold a sequence of data within programs."
+- Week 3: List Manipulation - "This module will dive further into the use of lists. You will learn how about mutating the contents of a list and the implications of doing so."
+- Week 4: File Access - "This module will teach you how to access files in Python."
+
 [^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
