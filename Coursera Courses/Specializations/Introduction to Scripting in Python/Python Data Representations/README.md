@@ -33,7 +33,7 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- Week 1: **Strings** <br> >"This module will teach you about Python's string data type and its capabilities. Strings are used to represent text within programs."
+- Week 1: **Strings** <br> "This module will teach you about Python's string data type and its capabilities. Strings are used to represent text within programs."
 - Week 2: **Basics of Lists** <br> "This module will teach you the basics of Python's list data type. Lists are used to hold a sequence of data within programs."
 - Week 3: **List Manipulation** <br> "This module will dive further into the use of lists. You will learn how about mutating the contents of a list and the implications of doing so."
 - Week 4: **File Access** <br> "This module will teach you how to access files in Python."
