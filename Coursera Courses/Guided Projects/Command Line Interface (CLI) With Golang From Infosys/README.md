@@ -25,7 +25,7 @@ Taught by: [Meghna Brijesh Kartha](https://www.coursera.org/instructor/~89194807
 
 ## Content
 This folder contains 
-- [x] source code 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [source code](./CLIUsingGoLang.go) 
+- [x] [certificate](./certificate.pdf) ([verification](certificate_link))
 
 
