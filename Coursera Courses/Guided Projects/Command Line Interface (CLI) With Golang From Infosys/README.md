@@ -26,6 +26,6 @@ Taught by: [Meghna Brijesh Kartha](https://www.coursera.org/instructor/~89194807
 ## Content
 This folder contains 
 - [x] [source code](./CLIUsingGoLang.go) 
-- [x] [certificate](./certificate.pdf) ([verification](https://coursera.org/verify/F9GEHZ3YS6UC))
+- [x] [certificate](./Coursera_Certification_Command_Line_Interface_(CLI)_With_Golang_From_Infosys.pdf) ([verification](https://coursera.org/verify/F9GEHZ3YS6UC))
 
 
