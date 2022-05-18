@@ -33,9 +33,9 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- Week 1: **Strings** <br> "This module will teach you about Python's string data type and its capabilities. Strings are used to represent text within programs."
-- Week 2: **Basics of Lists** <br> "This module will teach you the basics of Python's list data type. Lists are used to hold a sequence of data within programs."
-- Week 3: **List Manipulation** <br> "This module will dive further into the use of lists. You will learn how about mutating the contents of a list and the implications of doing so."
-- Week 4: **File Access** <br> "This module will teach you how to access files in Python."
+- [Week 1](./Week%201): Strings
+- [Week 2](./Week%202): Basics of Lists
+- [Week 3](./Week%203): List Manipulation
+- [Week 4](./Week%204): File Access
 
 [^1]: For ethical reasons I do not make my assignment publicly available. It may be tempting to submit it to Coursera by others. However, I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (maybe a bit more). 
