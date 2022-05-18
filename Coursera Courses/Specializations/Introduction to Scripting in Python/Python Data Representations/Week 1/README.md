@@ -1,17 +1,14 @@
 <a href="../">
-  <img src="/img/course_logo.avif" width="120" align="right">
+  <img src="/img/Introduction_to_Scripting_in_Python_Specialization_logo.avif" width="120" align="right">
 </a>
 
-# Week ? <br> Week_Title
+# Week 1 <br> Strings
 
 ## Learning Objectives
-- objectives
+- Define strings in Python programs
+- Demonstrate how to extract substrings from strings
+- Demonstrate how to find substrings within strings
 
-## Subjects covered
-- subjects
+## Exercises
 
-## Assignment
-
->"quote"
-
-Main points, and own [shared code](./code.language) 
+There are 9 [practice exercises](./exercises.py) with solutions for this week.  
