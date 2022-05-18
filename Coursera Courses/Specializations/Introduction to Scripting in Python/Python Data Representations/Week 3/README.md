@@ -7,7 +7,7 @@
 ## Learning Objectives
 - Demonstrate how to modify lists
 - Discuss the difference between mutable and immutable objects
--  Give examples of how objects and references impact program behavior
+- Give examples of how objects and references impact program behavior
 
 ## Exercises
 
