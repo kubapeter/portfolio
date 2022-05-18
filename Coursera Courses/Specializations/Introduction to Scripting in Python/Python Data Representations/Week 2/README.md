@@ -6,7 +6,7 @@
 
 ## Learning Objectives
 - Create and access Python lists
-- emonstrate an understanding of iteration over lists
+- Demonstrate an understanding of iteration over lists
 - Use lists to facilitate splitting and joining strings
 
 ## Exercises
