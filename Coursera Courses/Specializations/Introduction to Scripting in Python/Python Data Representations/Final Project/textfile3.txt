@@ -1,0 +1,5 @@
+Lorem ipsum dolor sit [deletion]
+consectetur adipiscing elit, 
+sed do eiusmod tempor [deletion]
+minim veniam, 
+quis nostrud exercitation [deletion]
