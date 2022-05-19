@@ -9,8 +9,8 @@
 >
 >If the lines are different lengths, but the entire shorter line matches the beginning of the longer line, then the first difference is located at the index that is one past the last character in the shorter line. In other words, no character after the end of the shorter line is defined to be different than whatever character exists in the longer line at that location.
 >Here is the signature of the s`singleline_diff` function:
-
-```python
+>
+>```python
 def singleline_diff(line1, line2):
     """
     Inputs:
