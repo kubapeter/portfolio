@@ -32,7 +32,7 @@ This folder contains
 - [x] source code for [assignment](./)[^1]
 - [x] short descriptions of the modules 
 - [x] all practice exercises
-- [x] [certificate](./Certificate/Coursera_Certificate_Python_Programming_Essentials.pdf) ([verification]([certificate_link](https://coursera.org/verify/U9HPJMEYRNXT)))
+- [x] [certificate](./Certificate/Coursera_Certificate_Python_Programming_Essentials.pdf) ([verification](https://coursera.org/verify/U9HPJMEYRNXT))
 
 ## Syllabus
 - [Week 1](./Week%201): Python as a Calculator
