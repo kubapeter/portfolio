@@ -9,8 +9,8 @@
 >
 >If the lines are different lengths, but the entire shorter line matches the beginning of the longer line, then the first difference is located at the index that is one past the last character in the shorter line. In other words, no character after the end of the shorter line is defined to be different than whatever character exists in the longer line at that location.
 >Here is the signature of the s`singleline_diff` function:
->
->```python
+
+```python
 def singleline_diff(line1, line2):
     """
     Inputs:
@@ -24,8 +24,8 @@ def singleline_diff(line1, line2):
     """
 ```
 
-## Problem 2: Presenting the differences between two lines in a nicely formatted way
-
+>## Problem 2: Presenting the differences between two lines in a nicely formatted way
+>
 >Next, you will write a function called `singleline_diff_format` that takes two single line strings and the index of the first difference and will generate a formatted string that will allow a user to clearly see where the first difference between two lines is located. A user is likely going to want to see where the difference is in the context of the lines, not just see a number. Your function will return a three line string that looks as follows:
 ```
 abcd
@@ -61,8 +61,8 @@ def singleline_diff_format(line1, line2, idx):
     """
 ```
 
-## Problem 3: Finding the first difference across multiple lines
-
+>## Problem 3: Finding the first difference across multiple lines
+>
 >Next, you will write a function called `multiline_diff` that takes two lists of single line strings. You may assume that the strings within the lists are all single lines. The function returns a tuple that indicates the line and index within that line where the first difference between the two lists occurs.  If the contents of the two lists are the same, the function should return the tuple `(IDENTICAL, IDENTICAL)`.  (Recall that the constant `IDENTICAL` is already defined to be `−1` in the provided template file.)
 >
 >The definition of whether two lines are the same or different and the resulting index for location of a difference is the same as it was for `singleline_diff`.
@@ -86,8 +86,8 @@ def multiline_diff(lines1, lines2):
     """
 ```
 
-## Problem 4: Getting lines from a file
-
+>## Problem 4: Getting lines from a file
+>
 >Next, you will write a function called `get_file_lines` that takes a filename as input. You may assume that the input names a file that exists and is readable. The function returns a list of single line strings, where each element of the list is one line from the file. The strings within the returned list should not contain any newline or carriage return ("\n" or "\r") characters.
 >
 >Here is the signature of the `get_file_lines` function:
@@ -107,8 +107,8 @@ def get_file_lines(filename):
     """
 ```
 
-## Problem 5: Finding and formatting the first difference between two files
-
+>## Problem 5: Finding and formatting the first difference between two files
+>
 >Finally, you will write a function called `file_diff_format` that takes two filenames as input. You may assume that the inputs name files that exist and are readable. The function returns a formatted string that will allow a user to clearly see where the first difference between two files is located. Your function will return a four line string that looks as follows:
 ```
 Line 3:
