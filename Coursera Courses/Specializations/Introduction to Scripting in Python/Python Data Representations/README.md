@@ -13,7 +13,7 @@ Taught by: [Scott Rixner](https://www.coursera.org/instructor/~726142) and [Joe 
 
 ---
 
-**9 hours** to complete - 3 quizzes, 1 [coding assignment]()
+**9 hours** to complete - 3 quizzes, 1 [coding assignment](./Final%20Project/plagiarism_detector.py)
 
 Course 2 of the [Introduction to Scripting in Python Specialization](../) 
 
@@ -29,7 +29,7 @@ Course 2 of the [Introduction to Scripting in Python Specialization](../)
 
 ## Content
 This folder contains 
-- [x] source code for the [assignment]()[^1]
+- [x] source code for the [assignment](./Final%20Project/plagiarism_detector.py)[^1]
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
