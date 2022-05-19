@@ -35,8 +35,8 @@ The specialization consists of 4 courses.
 <a href="course3_homepage">
   <img src="/img/course3_logo" width="75" align="right">
 </a>
-<a href="course2_homepage">
-  <img src="/img/course2_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/data-wrangling-analysis-abtesting">
+  <img src="/img/Data_Wrangling,_Analysis_and_AB_Testing_with_SQL_logo.avif" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/sql-for-data-science">
   <img src="/img/SQL_for_Data_Science_logo.avif" width="75" align="right">
