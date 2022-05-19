@@ -1,5 +1,43 @@
-This course will introduce you to the wonderful world of Python programming!  We'll learn about the essential elements of programming and how to construct basic Python programs. We will cover expressions, variables, functions, logic, and conditionals, which are foundational concepts in computer programming. We will also teach you how to use Python modules, which enable you to benefit from the vast array of functionality that is already a part of the Python language. These concepts and skills will help you to begin to think like a computer programmer and to understand how to go about writing Python programs.
+<a href="course_homepage">
+  <img src="/img/course_logo" width="150" align="right">
+</a>
 
-By the end of the course, you will be able to write short Python programs that are able to accomplish real, practical tasks. This course is the foundation for building expertise in Python programming. As the first course in a specialization, it provides the necessary building blocks for you to succeed at learning to write more complex Python programs.
+<img src="uni_logo" width="120" height="120" align="left">
 
-This course uses Python 3.  While many Python programs continue to use Python 2, Python 3 is the future of the Python programming language. This first course will use a Python 3 version of the CodeSkulptor development environment, which is specifically designed to help beginning programmers learn quickly.  CodeSkulptor runs within any modern web browser and does not require you to install any software, allowing you to start writing and running small programs immediately.  In the later courses in this specialization,  we will help you to move to more sophisticated desktop development environments.
+# Course Title
+
+Offered by 
+### *Uni*
+
+Taught by: [Lecturer](lecturer_link)
+
+---
+
+**? hours** to complete - ? quizzes, ? written and ? [coding assignments]
+
+Course ? of the [spec_title](../) 
+
+---
+
+## Course description
+
+>"descripton"
+
+<p align="right">More details on <a href="course_homepage">website</a></p>
+
+## Content
+This folder contains 
+- [x] source code for assignments[^1]
+- [x] short descriptions of the modules 
+- [x] [course map](./Resources/course_map) (detailed description of the modules)
+- [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
+- [x] [glossary](./Resources/glossary) (definitions of the main concepts)
+- [x] [slides](./Slides) 
+- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+
+## Syllabus
+- [Week 1](./Week%201): week1_title
+- [Week 2](./Week%202): week2_title
+- [Week 3](./Week%203): week3_title
+- [Week 4](./Week%204): week4_title
+[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
