@@ -111,4 +111,4 @@ SELECT *
 --+-----------+------------+---------------------+---------------------------+---------------+--------------+----------------+-------------------+-------+
 --(Output limit exceeded, 25 of 412 total rows shown)
 
-194A Chain Lake Drive
+194A Chain Lake Drive, Halifax, NS, CANADA B3S 1C5
