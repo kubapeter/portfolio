@@ -11,5 +11,4 @@
 
 ## Assignment
 
-Instead of practice exercises there is one final addignment for the last week.  
-
+Instead of practice exercises there is one [final assignment](../Final%20Project) for the last week.  
