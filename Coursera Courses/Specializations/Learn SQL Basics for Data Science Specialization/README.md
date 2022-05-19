@@ -29,8 +29,8 @@ The specialization consists of 4 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/learn-sql-basics-data-science">website</a></p>
 
-<a href="course4_homepage">
-  <img src="/img/course4_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/sql-data-science-capstone">
+  <img src="/img/SQL_for_Data_Science_Capstone_Project_logo.avif" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/spark-sql">
   <img src="/img/Distributed_Computing_with_Spark_SQL_logo.avif" width="75" align="right">
