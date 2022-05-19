@@ -11,4 +11,4 @@
 
 # Exercises
 
-There are 9 [practice exercises](./exercises.py) with solutions for this week.  
+There are 21 [practice exercises](./exercises.py) with solutions for this week.  
