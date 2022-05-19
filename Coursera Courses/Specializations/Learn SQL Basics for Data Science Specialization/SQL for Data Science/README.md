@@ -15,7 +15,7 @@ Taught by: [Sadie St. Lawrence](https://www.coursera.org/instructor/sadie-stlawr
 
 **14 hours** to complete - 4 quizzes, 5 [coding assignments]
 
-Course 1 of the [spec_title](../) 
+Course 1 of the [Learn SQL Basics for Data Science Specialization](../) 
 
 ---
 
