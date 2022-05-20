@@ -13,4 +13,4 @@
 
 ## Practice Exercises
 
-For ethical reasons I do not share the correct answers for the coding quiz. But I share the [code for the practice quiz](./exercise.sql). From this, one can get a more detailed insight of what is covered in week 3. 
+For ethical reasons I do not share the correct answers for the coding quiz. But I share the [code for the practice quiz](./exercise.sql), which is quite similar but not graded. From this, one can get a more detailed insight of what is covered in week 3. 
