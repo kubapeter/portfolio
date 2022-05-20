@@ -36,8 +36,8 @@ SELECT *
 
 AC/DC
 
--- 2. Retrieve all data from the artists table. Look at the list of artists, how many artists are you familiar with (there is no wrong answer here)?
 
+-- 2. Retrieve all data from the artists table. Look at the list of artists, how many artists are you familiar with (there is no wrong answer here)?
 
 SELECT *
   FROM Artists;
@@ -73,7 +73,6 @@ SELECT *
 --+----------+---------------------------------+
 --(Output limit exceeded, 25 of 275 total rows shown)
 
-More than ten
 
 -- 3. Retrieve all data from the invoices table. What is the billing address for customer 31?
 
@@ -112,3 +111,245 @@ SELECT *
 --(Output limit exceeded, 25 of 412 total rows shown)
 
 194A Chain Lake Drive, Halifax, NS, CANADA B3S 1C5
+
+
+-- 4. Return the playlist id, and name from the playlists table. How many playlists are there? Which would you classify is your favorite from this list?
+
+SELECT Playlistid, Name
+  FROM Playlists;
+
+-- +------------+----------------------------+
+--| PlaylistId | Name                       |
+--+------------+----------------------------+
+--|          1 | Music                      |
+--|          2 | Movies                     |
+--|          3 | TV Shows                   |
+--|          4 | Audiobooks                 |
+--|          5 | 90’s Music                 |
+--|          6 | Audiobooks                 |
+--|          7 | Movies                     |
+--|          8 | Music                      |
+--|          9 | Music Videos               |
+--|         10 | TV Shows                   |
+--|         11 | Brazilian Music            |
+--|         12 | Classical                  |
+--|         13 | Classical 101 - Deep Cuts  |
+--|         14 | Classical 101 - Next Steps |
+--|         15 | Classical 101 - The Basics |
+--|         16 | Grunge                     |
+--|         17 | Heavy Metal Classic        |
+--|         18 | On-The-Go 1                |
+--+------------+----------------------------+
+
+
+-- 5. Return the Customer Id, Invoice Date, and Billing City 
+-- from the Invoices table. 
+-- What city is associated with Customer ID number 42? 
+-- What was the invoice date for the customer in Santiago?
+
+SELECT 
+    CustomerId,
+    InvoiceDate, 
+    BillingCity 
+  FROM Invoices;
+
+--+------------+---------------------+---------------+
+--| CustomerId | InvoiceDate         | BillingCity   |
+--+------------+---------------------+---------------+
+--|          2 | 2009-01-01 00:00:00 | Stuttgart     |
+--|          4 | 2009-01-02 00:00:00 | Oslo          |
+--|          8 | 2009-01-03 00:00:00 | Brussels      |
+--|         14 | 2009-01-06 00:00:00 | Edmonton      |
+--|         23 | 2009-01-11 00:00:00 | Boston        |
+--|         37 | 2009-01-19 00:00:00 | Frankfurt     |
+--|         38 | 2009-02-01 00:00:00 | Berlin        |
+--|         40 | 2009-02-01 00:00:00 | Paris         |
+--|         42 | 2009-02-02 00:00:00 | Bordeaux      |
+--|         46 | 2009-02-03 00:00:00 | Dublin        |
+--|         52 | 2009-02-06 00:00:00 | London        |
+--|          2 | 2009-02-11 00:00:00 | Stuttgart     |
+--|         16 | 2009-02-19 00:00:00 | Mountain View |
+--|         17 | 2009-03-04 00:00:00 | Redmond       |
+--|         19 | 2009-03-04 00:00:00 | Cupertino     |
+--|         21 | 2009-03-05 00:00:00 | Reno          |
+--|         25 | 2009-03-06 00:00:00 | Madison       |
+--|         31 | 2009-03-09 00:00:00 | Halifax       |
+--|         40 | 2009-03-14 00:00:00 | Paris         |
+--|         54 | 2009-03-22 00:00:00 | Edinburgh     |
+--|         55 | 2009-04-04 00:00:00 | Sidney        |
+--|         57 | 2009-04-04 00:00:00 | Santiago      |
+--|         59 | 2009-04-05 00:00:00 | Bangalore     |
+--|          4 | 2009-04-06 00:00:00 | Oslo          |
+--|         10 | 2009-04-09 00:00:00 | São Paulo     |
+--+------------+---------------------+---------------+
+--(Output limit exceeded, 25 of 412 total rows shown)
+
+Bordeaux
+2009-04-04
+
+
+-- 6. Return the First Name, Last Name, Email, and Phone, from the Customers table. What is the telephone number for Jennifer Peterson?
+
+SELECT 
+    FirstName, 
+    LastName, 
+    Email, 
+    Phone
+  FROM Customers;
+
+--+-----------+-------------+-------------------------------+--------------------+
+--| FirstName | LastName    | Email                         | Phone              |
+--+-----------+-------------+-------------------------------+--------------------+
+--| Luís      | Gonçalves   | luisg@embraer.com.br          | +55 (12) 3923-5555 |
+--| Leonie    | Köhler      | leonekohler@surfeu.de         | +49 0711 2842222   |
+--| François  | Tremblay    | ftremblay@gmail.com           | +1 (514) 721-4711  |
+--| Bjørn     | Hansen      | bjorn.hansen@yahoo.no         | +47 22 44 22 22    |
+--| František | Wichterlová | frantisekw@jetbrains.com      | +420 2 4172 5555   |
+--| Helena    | Holý        | hholy@gmail.com               | +420 2 4177 0449   |
+--| Astrid    | Gruber      | astrid.gruber@apple.at        | +43 01 5134505     |
+--| Daan      | Peeters     | daan_peeters@apple.be         | +32 02 219 03 03   |
+--| Kara      | Nielsen     | kara.nielsen@jubii.dk         | +453 3331 9991     |
+--| Eduardo   | Martins     | eduardo@woodstock.com.br      | +55 (11) 3033-5446 |
+--| Alexandre | Rocha       | alero@uol.com.br              | +55 (11) 3055-3278 |
+--| Roberto   | Almeida     | roberto.almeida@riotur.gov.br | +55 (21) 2271-7000 |
+--| Fernanda  | Ramos       | fernadaramos4@uol.com.br      | +55 (61) 3363-5547 |
+--| Mark      | Philips     | mphilips12@shaw.ca            | +1 (780) 434-4554  |
+--| Jennifer  | Peterson    | jenniferp@rogers.ca           | +1 (604) 688-2255  |
+--| Frank     | Harris      | fharris@google.com            | +1 (650) 253-0000  |
+--| Jack      | Smith       | jacksmith@microsoft.com       | +1 (425) 882-8080  |
+--| Michelle  | Brooks      | michelleb@aol.com             | +1 (212) 221-3546  |
+--| Tim       | Goyer       | tgoyer@apple.com              | +1 (408) 996-1010  |
+--| Dan       | Miller      | dmiller@comcast.com           | +1 (650) 644-3358  |
+--| Kathy     | Chase       | kachase@hotmail.com           | +1 (775) 223-7665  |
+--| Heather   | Leacock     | hleacock@gmail.com            | +1 (407) 999-7788  |
+--| John      | Gordon      | johngordon22@yahoo.com        | +1 (617) 522-1333  |
+--| Frank     | Ralston     | fralston@gmail.com            | +1 (312) 332-3232  |
+--| Victor    | Stevens     | vstevens@yahoo.com            | +1 (608) 257-0597  |
+--+-----------+-------------+-------------------------------+--------------------+
+--(Output limit exceeded, 25 of 59 total rows shown)
+
++1 (604) 688-2255
+
+
+-- 7. Return the Track Id, Genre Id, Composer, Unit Price from the Tracks table. How much do these tracks cost?
+
+SELECT 
+    TrackId, 
+    GenreId, 
+    Composer, 
+    UnitPrice 
+  FROM Tracks;
+
+--+---------+---------+------------------------------------------------------------------------+-----------+
+--| TrackId | GenreId | Composer                                                               | UnitPrice |
+--+---------+---------+------------------------------------------------------------------------+-----------+
+--|       1 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|       2 |       1 | None                                                                   |      0.99 |
+--|       3 |       1 | F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman                    |      0.99 |
+--|       4 |       1 | F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman |      0.99 |
+--|       5 |       1 | Deaffy & R.A. Smith-Diesel                                             |      0.99 |
+--|       6 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|       7 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|       8 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|       9 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|      10 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|      11 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|      12 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|      13 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|      14 |       1 | Angus Young, Malcolm Young, Brian Johnson                              |      0.99 |
+--|      15 |       1 | AC/DC                                                                  |      0.99 |
+--|      16 |       1 | AC/DC                                                                  |      0.99 |
+--|      17 |       1 | AC/DC                                                                  |      0.99 |
+--|      18 |       1 | AC/DC                                                                  |      0.99 |
+--|      19 |       1 | AC/DC                                                                  |      0.99 |
+--|      20 |       1 | AC/DC                                                                  |      0.99 |
+--|      21 |       1 | AC/DC                                                                  |      0.99 |
+--|      22 |       1 | AC/DC                                                                  |      0.99 |
+--|      23 |       1 | Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw                       |      0.99 |
+--|      24 |       1 | Steven Tyler, Joe Perry                                                |      0.99 |
+--|      25 |       1 | Steven Tyler, Joe Perry, Jim Vallance, Holly Knight                    |      0.99 |
+--+---------+---------+------------------------------------------------------------------------+-----------+
+--(Output limit exceeded, 25 of 3503 total rows shown)
+
+0.99
+
+-- 8. Select all the columns from the Playlist Track table and limit the results to 10 records. How might this information be used?
+
+SELECT *
+  FROM Playlist_track 
+  LIMIT 10;
+
+--+------------+---------+
+--| PlaylistId | TrackId |
+--+------------+---------+
+--|          1 |    3402 |
+--|          1 |    3389 |
+--|          1 |    3390 |
+--|          1 |    3391 |
+--|          1 |    3392 |
+--|          1 |    3393 |
+--|          1 |    3394 |
+--|          1 |    3395 |
+--|          1 |    3396 |
+--|          1 |    3397 |
+--+------------+---------+
+
+
+-- 9. Select all the columns from the Media Types table and limit the results to 50 records. 
+-- What happened when you ran this query? Were you able to get all 50 records?
+
+SELECT *
+  FROM Media_types
+  LIMIT 50;
+
+--+-------------+-----------------------------+
+--| MediaTypeId | Name                        |
+--+-------------+-----------------------------+
+--|           1 | MPEG audio file             |
+--|           2 | Protected AAC audio file    |
+--|           3 | Protected MPEG-4 video file |
+--|           4 | Purchased AAC audio file    |
+--|           5 | AAC audio file              |
+--+-------------+-----------------------------+
+
+only 5 rows because there are no more
+
+-- 10. Select all the columns from the Albums table and limit the results to 5 records. How many columns are in the albums table? 
+-- What is the name of the 9th album in this list?
+
+SELECT *
+  FROM Albums;
+
+--+---------+--------------------------------------------------+----------+
+--| AlbumId | Title                                            | ArtistId |
+--+---------+--------------------------------------------------+----------+
+--|       1 | For Those About To Rock We Salute You            |        1 |
+--|       2 | Balls to the Wall                                |        2 |
+--|       3 | Restless and Wild                                |        2 |
+--|       4 | Let There Be Rock                                |        1 |
+--|       5 | Big Ones                                         |        3 |
+--|       6 | Jagged Little Pill                               |        4 |
+--|       7 | Facelift                                         |        5 |
+--|       8 | Warner 25 Anos                                   |        6 |
+--|       9 | Plays Metallica By Four Cellos                   |        7 |
+--|      10 | Audioslave                                       |        8 |
+--|      11 | Out Of Exile                                     |        8 |
+--|      12 | BackBeat Soundtrack                              |        9 |
+--|      13 | The Best Of Billy Cobham                         |       10 |
+--|      14 | Alcohol Fueled Brewtality Live! [Disc 1]         |       11 |
+--|      15 | Alcohol Fueled Brewtality Live! [Disc 2]         |       11 |
+--|      16 | Black Sabbath                                    |       12 |
+--|      17 | Black Sabbath Vol. 4 (Remaster)                  |       12 |
+--|      18 | Body Count                                       |       13 |
+--|      19 | Chemical Wedding                                 |       14 |
+--|      20 | The Best Of Buddy Guy - The Millenium Collection |       15 |
+--|      21 | Prenda Minha                                     |       16 |
+--|      22 | Sozinho Remix Ao Vivo                            |       16 |
+--|      23 | Minha Historia                                   |       17 |
+--|      24 | Afrociberdelia                                   |       18 |
+--|      25 | Da Lama Ao Caos                                  |       18 |
+--+---------+--------------------------------------------------+----------+
+--(Output limit exceeded, 25 of 347 total rows shown)
+
+Plays Metallica By Four Cellos
+
