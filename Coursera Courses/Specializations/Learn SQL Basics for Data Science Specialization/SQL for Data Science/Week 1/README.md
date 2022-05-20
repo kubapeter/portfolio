@@ -12,8 +12,6 @@
 - Create an analysis environment and use INSERT to put data into a table.
 - Add effective comments in your queries so that one, you can remember what you're doing, and two, so others can review your work.
 
-## Assignment
+## Practice Exercises
 
->"quote"
-
-Main points, and own [shared code](./code.language) 
+For ethical reasons I do not share the correct answers for the coding quiz. But I share the [code for the practice quiz](./exercise.sql). From this, one can get an insight of what is covered in week 1. 
