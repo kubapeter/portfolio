@@ -19,4 +19,4 @@ For ethical reasons I do not share the correct answers for the coding quiz. But 
 All of the questions in the practice quiz pull from the open source Chinook Database. Its ER Diagram can be seen below. 
 ![ER Diagram of the Chinook Database](../img/Chinook%20Database.png)
 
-<img src="../img/Chinook%20Database.png" align="right">
+<img src="../img/Chinook%20Database.png" align="center">
