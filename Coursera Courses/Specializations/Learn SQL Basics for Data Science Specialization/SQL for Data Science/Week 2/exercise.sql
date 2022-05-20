@@ -21,10 +21,6 @@
 SELECT DISTINCT Extended_step
   FROM salary_range_by_job_classification
 
--- Which of the following values is not a distinct value?
-
-5
-
 
 -- 3. Excluding $0.00, what is the minimum bi-weekly high rate of pay (please include the dollar sign and decimal point in your answer)? 
 
@@ -34,6 +30,9 @@ SELECT MIN(Biweekly_high_Rate)
 
 
 -- 4. What is the maximum biweekly high rate of pay (please include the dollar sign and decimal point in your answer)?
+
+SELECT MAX(Biweekly_high_Rate) 
+  FROM salary_range_by_job_classification 
 
 
 -- 5. What is the pay type for all the job codes that start with '03'?
@@ -102,5 +101,3 @@ SELECT
     Union_code = 990 
     AND 
     (SetID = 'SFMTA' OR SetID = 'COMMN')
-
-
