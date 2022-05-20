@@ -273,6 +273,7 @@ SELECT
 
 0.99
 
+
 -- 8. Select all the columns from the Playlist Track table and limit the results to 10 records. How might this information be used?
 
 SELECT *
@@ -314,6 +315,7 @@ SELECT *
 
 only 5 rows because there are no more
 
+
 -- 10. Select all the columns from the Albums table and limit the results to 5 records. How many columns are in the albums table? 
 -- What is the name of the 9th album in this list?
 
@@ -352,4 +354,3 @@ SELECT *
 --(Output limit exceeded, 25 of 347 total rows shown)
 
 Plays Metallica By Four Cellos
-
