@@ -23,6 +23,12 @@ Taught by: [Meghna Brijesh Kartha](https://www.coursera.org/instructor/~89194807
 
 <p align="right">More details on <a href="https://www.coursera.org/projects/command-line-interface-golang-infosys">website</a></p>
 
+## Learning Objectives
+- Verify the Golang installation on a windows machine
+- Write Golang scripts to connect to a machine in the cloud
+- Build and implement a Command Line Interface for cloud services
+- Showcase this hands-on experience in an interview
+
 ## Content
 This folder contains 
 - [x] [source code](./CLIUsingGoLang.go) 
