@@ -6,10 +6,10 @@
 
 ## Learning Objectives
 - Retrieve data from multiple tables using subqueries.
-- Join tables using an Inner Join and table aliases.
+- Join tables using an `INNER JOIN` and table aliases.
 - Filter a given data set using set theory by joining tables using Natural, Outer, and Self Joins.
 - Assess the risk versus benefit of using a Cross Join or Cartesian Join on a set of data.
-- Create an analysis table from multiple queries using the UNION operator.
+- Create an analysis table from multiple queries using the `UNION` operator.
 
 ## Practice Exercises
 
