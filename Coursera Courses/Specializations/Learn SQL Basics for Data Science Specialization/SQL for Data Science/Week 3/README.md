@@ -2,7 +2,7 @@
   <img src="/img/SQL_for_Data_Science_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> Subqueries and Joins in SQL
+# Week 3 <br> Subqueries and Joins in SQL
 
 ## Learning Objectives
 - Retrieve data from multiple tables using subqueries.
