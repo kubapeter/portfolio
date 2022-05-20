@@ -2,7 +2,7 @@
   <img src="/img/Command_Line_Interface_(CLI)_With_Golang_From_Infosys_logo.avif" width="150" align="right">
 </a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" width="120" height="120" align="left">
+<img src="/img/Coursera_Project_Network_logo.avif" width="120" height="120" align="left">
 
 # Command Line Interface (CLI) With Golang From Infosys
 
