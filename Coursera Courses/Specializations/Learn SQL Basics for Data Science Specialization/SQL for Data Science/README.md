@@ -38,3 +38,6 @@ This folder contains
 - [Week 2](./Week%202): Filtering, Sorting, and Calculating Data with SQL
 - [Week 3](./Week%203): Subqueries and Joins in SQL
 - [Week 4](./Week%204): Modifying and Analyzing Data with SQL
+
+## Remarks
+- The course teaches SQLite
