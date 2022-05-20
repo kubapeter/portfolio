@@ -31,7 +31,7 @@ Course 1 of the [Learn SQL Basics for Data Science Specialization](../)
 This folder contains 
 - [x] practice exercises
 - [x] short descriptions of the modules 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Certificate/Coursera_Certificate_SQL_for_Data_Science.pdf) ([verification](https://coursera.org/verify/2A8YYC8MFUAZ))
 
 ## Syllabus
 - [Week 1](./Week%201): Getting Started and Selecting & Retrieving Data with SQL
