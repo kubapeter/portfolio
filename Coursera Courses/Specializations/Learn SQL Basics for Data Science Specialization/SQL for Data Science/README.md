@@ -38,5 +38,3 @@ This folder contains
 - [Week 2](./Week%202): Filtering, Sorting, and Calculating Data with SQL
 - [Week 3](./Week%203): Subqueries and Joins in SQL
 - [Week 4](./Week%204): Modifying and Analyzing Data with SQL
-
-[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
