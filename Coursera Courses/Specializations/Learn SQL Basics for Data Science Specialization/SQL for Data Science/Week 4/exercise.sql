@@ -8,3 +8,59 @@ SELECT
     Address, 
     UPPER(City || ' ' || Country)
   FROM Customers
+
+
+-- 2. Create a new employee user id by combining the first 4 letters of the employee’s first name 
+-- with the first 2 letters of the employee’s last name. Make the new field lower case 
+-- and pull each individual step to show your work.
+
+SELECT 
+    FirstName, 
+    LastName, 
+    LOWER(SUBSTR(FirstName,1,4) || SUBSTR(LastName,1,2)) AS newEmpID
+  FROM employees
+  
+  
+-- 3. Show a list of employees who have worked for the company for 15 or more years 
+-- using the current date function. Sort by lastname ascending.
+
+SELECT 
+    LastName, 
+    HireDate, 
+    STRFTIME('%Y %m %d', HireDate) AS HireYMD, 
+    STRFTIME('%Y %m %d', 'now') AS NowYMD, 
+    DATE(STRFTIME('%Y %m %d', 'now') - STRFTIME('%Y %m %d', HireDate)) AS Years
+  FROM employees
+  ORDER BY LastName
+  
+  
+-- 4. Profiling the Customers table, answer the following question.
+-- Are there any columns with null values?
+
+SELECT 
+    COUNT(*),
+    COUNT(*) - COUNT(CustomerId),
+    COUNT(*) - COUNT(FirstName),
+    COUNT(*) - COUNT(LastName),
+    COUNT(*) - COUNT(Company),
+    COUNT(*) - COUNT(Address),
+    COUNT(*) - COUNT(City),
+    COUNT(*) - COUNT(State),
+    COUNT(*) - COUNT(Country),
+    COUNT(*) - COUNT(PostalCode),
+    COUNT(*) - COUNT(Phone),
+    COUNT(*) - COUNT(Fax),
+    COUNT(*) - COUNT(Email),
+    COUNT(*) - COUNT(SupportRepId)
+  FROM Customers
+  
+  
+  -- 5. Find the cities with the most customers and rank in descending order. 
+  -- Which of the following cities indicate having 2 customers?
+  
+SELECT 
+    City, 
+    COUNT(CustomerID)
+  FROM customers
+  GROUP BY City
+    HAVING COUNT(CustomerID) == 2
