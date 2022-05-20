@@ -55,8 +55,8 @@ SELECT
   FROM Customers
   
   
-  -- 5. Find the cities with the most customers and rank in descending order. 
-  -- Which of the following cities indicate having 2 customers?
+-- 5. Find the cities with the most customers and rank in descending order. 
+-- Which of the following cities indicate having 2 customers?
   
 SELECT 
     City, 
@@ -64,3 +64,20 @@ SELECT
   FROM customers
   GROUP BY City
     HAVING COUNT(CustomerID) == 2
+
+
+-- 6. Create a new customer invoice id by combining a customer’s invoice id with their first and last name 
+-- while ordering your query in the following order: firstname, lastname, and invoiceID.
+-- Select all of the correct "AstridGruber" entries that are returned in your results below. 
+
+SELECT
+    i.invoiceid, 
+    c.firstname, 
+    c.lastname, 
+    c.firstname||c.lastname||i.invoiceid AS newinvoiceID
+  FROM 
+    Customers c 
+      INNER JOIN 
+    Invoices i 
+      ON c.customerID = i.customerID
+  WHERE newinvoiceID LIKE 'AstridGruber%'
