@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/database-design-postgresql">
-  <img src="/img/Database_Design_and_Basic_SQL_in_PostgreSQL_logo.avif" width="150" align="right">
+  <img src="./Certificate/Coursera_Certificate_Database_Design_and_Basic_SQL_in_PostgreSQL.pdf" width="150" align="right">
 </a>
 
 <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width="120" height="120" align="left">
