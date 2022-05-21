@@ -11,10 +11,15 @@
 
 ## Subjects covered
 - `INSERT`, `DELETE`, `UPDATE`
-- `SELECT`, `FROM`, `WHERE`, `OERDER BY`, `LIKE`, `%`
+- `SELECT`, `FROM`, `WHERE`, `ORDER BY`, `LIKE`
 - `LIMIT`, `OFFSET` (from row 0)
 - `COUNT()`
-
+- Data types
+  - `CHAR(16)`, `VARCHAR(200)`, `TEXT`
+  - `BYTEA`
+  - `SMALLINT`, `INTEGER`, `BIGINT`
+  - `REAL`, `DOUBLE PRECISION`, `NUMERIC(accuracy, decimal)`
+  - `TIMESTAMP`, `DATE`, `TIME`, `NOW()`
 
 ## Assignment
 
