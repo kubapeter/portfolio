@@ -30,7 +30,8 @@ This folder contains
 - [x] source code for assignments
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Certificate/Coursera_Certificate_Database_Design_and_Basic_SQL_in_PostgreSQL.pdf) 
+([verification](https://coursera.org/verify/CMWDKZR9P2N9))
 
 ## Syllabus
 - [Week 1](./Week%201): Introduction to SQL
