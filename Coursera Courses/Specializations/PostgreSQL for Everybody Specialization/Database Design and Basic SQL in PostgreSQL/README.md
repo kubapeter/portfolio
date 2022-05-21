@@ -21,18 +21,14 @@ Course 1 of the [PostgreSQL for Everybody Specialization](../)
 
 ## Course description
 
->"In this course you will learn more about the historical design of databases and the use of SQL in the PostgreSQL environment. Using SQL techniques and common commands (INSERT INTO, WHERE, ORDER BY, ON DELETE CASCADE, etc) will enable you to create tables, column types and define the schema of your data in PostgreSQL.    You will learn about data modeling and how to represent one-to-many and many-to-many relationships in PostgreSQL.   Students will do hands-on assignments creating tables, inserting data, designing data models, creating relational structures and inserting and querying relational data in tables."
+>"In this course you will learn more about the historical design of databases and the use of SQL in the PostgreSQL environment. Using SQL techniques and common commands (INSERT INTO, WHERE, ORDER BY, ON DELETE CASCADE, etc) will enable you to create tables, column types and define the schema of your data in PostgreSQL. You will learn about data modeling and how to represent one-to-many and many-to-many relationships in PostgreSQL. Students will do hands-on assignments creating tables, inserting data, designing data models, creating relational structures and inserting and querying relational data in tables."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/database-design-postgresql">website</a></p>
 
 ## Content
 This folder contains 
-- [x] source code for assignments[^1]
-- [x] all practice exercises
+- [x] source code for assignments
 - [x] short descriptions of the modules 
-- [x] [course map](./Resources/course_map) (detailed description of the modules)
-- [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
-- [x] [glossary](./Resources/glossary) (definitions of the main concepts)
 - [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
@@ -42,4 +38,7 @@ This folder contains
 - [Week 3](./Week%203): One-To-Many Data Models
 - [Week 4](./Week%204): Many-To-Many Data Models
 
-[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
+## Remarks
+- command line
+- pythonanywhere
+- not a basic course
