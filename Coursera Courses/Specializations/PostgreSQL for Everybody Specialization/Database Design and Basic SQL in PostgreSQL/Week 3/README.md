@@ -15,7 +15,10 @@
 - Keys: primary, logical, foreign 
   - naming conventions: `id`, `artist_id`
 - Database normalization
-- `CREATE DATABASE`, 
+- `CREATE DATABASE`
+- `REFERENCES`, `ON DELETE CASCADE`, `UNIQUE(album, track)`
+- Inner `JOIN`, `ON`, `CROSS JOIN`
+- Other `ON DELETE` choices: `RESTRICT`, `SET NULL`
 
 ## Assignment
 
