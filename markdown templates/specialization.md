@@ -55,6 +55,6 @@ The specialization consists of ? courses.
 5. [Course2](./course5_folder)
 6. [Course2](./course6_folder)
 
-## Personal impressions
+## Remarks
 
 The 
