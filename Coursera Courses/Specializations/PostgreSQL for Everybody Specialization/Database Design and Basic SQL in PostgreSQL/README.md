@@ -43,3 +43,4 @@ This folder contains
 - command line
 - pythonanywhere
 - not a basic course
+- emphasis more on modelling, and one-to-many m-t-m than querying from existing tables
