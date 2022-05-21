@@ -14,6 +14,9 @@
 - History of Relational Databases
 - CRUD operations
 - Basic terminology (database, relation or table, tuple or row, attribute or column or field)
+- Common database systems
+- SQL architechture
+- Creating user and database
 
 ## Assignment
 
