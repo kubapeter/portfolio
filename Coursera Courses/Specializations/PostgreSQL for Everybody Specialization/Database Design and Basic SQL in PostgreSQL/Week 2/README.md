@@ -12,7 +12,7 @@
 ## Subjects covered
 - `INSERT`, `DELETE`, `UPDATE`
 - `SELECT`, `FROM`, `WHERE`, `ORDER BY`, `LIKE`
-- `LIMIT`, `OFFSET` (from row 0)
+- `LIMIT`, `OFFSET` 
 - `COUNT()`
 - Data types
   - `CHAR(16)`, `VARCHAR(200)`, `TEXT`
