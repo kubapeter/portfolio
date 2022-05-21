@@ -2,7 +2,7 @@
   <img src="/img/Database_Design_and_Basic_SQL_in_PostgreSQL_logo.avif" width="120" align="right">
 </a>
 
-# Week 3 <br> Single Table SQL
+# Week 3 <br> One-To-Many Data Models
 
 ## Learning Objectives
 - Identify and utilize the functions of primary, logical, and foreign keys within a database.
