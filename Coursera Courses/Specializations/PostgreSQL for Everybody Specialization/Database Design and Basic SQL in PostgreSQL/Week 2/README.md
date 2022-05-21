@@ -20,6 +20,8 @@
   - `SMALLINT`, `INTEGER`, `BIGINT`
   - `REAL`, `DOUBLE PRECISION`, `NUMERIC(accuracy, decimal)`
   - `TIMESTAMP`, `DATE`, `TIME`, `NOW()`
+- Keys, `SERIAL`, ` PRIMARY KEY(id)`, `UNIQUE` (logical key)
+- Indexes, b-trees, hashes
 
 ## Assignment
 
