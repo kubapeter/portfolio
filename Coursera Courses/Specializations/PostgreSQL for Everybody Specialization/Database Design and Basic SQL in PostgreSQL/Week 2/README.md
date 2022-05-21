@@ -13,6 +13,7 @@
 - `INSERT`, `DELETE`, `UPDATE`
 - `SELECT`, `FROM`, `WHERE`, `OERDER BY`, `LIKE`, `%`
 - `LIMIT`, `OFFSET` (from row 0)
+- `COUNT()`
 
 
 ## Assignment
