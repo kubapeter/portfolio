@@ -9,7 +9,8 @@
 - Normalize and insert data items into a connected set of many-to-many tables.
 
 ## Subjects covered
-
+- Junciton table
+- `REFERENCES`, `PRIMARY KEY(student_id, course_id)`
 
 ## Assignment
 
