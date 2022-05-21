@@ -2,7 +2,7 @@
   <img src="/img/PostgreSQL_for_Everybody_Specialization_logo.avif" width="150" align="right">
 </a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/University_of_Michigan_logo.svg" width="120" height="120" align="left">
+<img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width="120" height="120" align="left">
 
 # PostgreSQL for Everybody Specialization
 
