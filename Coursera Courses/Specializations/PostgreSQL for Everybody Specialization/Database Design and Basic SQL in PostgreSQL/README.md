@@ -15,7 +15,7 @@ Taught by: [Charles Russell Severance](https://www.coursera.org/instructor/drchu
 
 **14 hours** to complete - 4 quizzes, 7 coding practices
 
-Course ? of the [PostgreSQL for Everybody Specialization](../) 
+Course 1 of the [PostgreSQL for Everybody Specialization](../) 
 
 ---
 
