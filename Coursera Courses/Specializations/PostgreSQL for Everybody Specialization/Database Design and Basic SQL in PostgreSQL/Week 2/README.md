@@ -22,6 +22,7 @@
   - `TIMESTAMP`, `DATE`, `TIME`, `NOW()`
 - Keys, `SERIAL`, ` PRIMARY KEY(id)`, `UNIQUE` (logical key)
 - Indexes, b-trees, hashes
+- Create table from CSV file
 
 ## Assignment
 
