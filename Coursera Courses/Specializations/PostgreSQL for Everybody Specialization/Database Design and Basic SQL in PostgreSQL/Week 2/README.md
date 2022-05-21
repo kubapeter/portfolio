@@ -10,7 +10,7 @@
 - Utilize common SQL commands, including INSERT INTO, WHERE, and ORDER BY.
 
 ## Subjects covered
-- `INSERT INTO`, `DELETE`, `UPDATE`
+- `INSERT INTO`, `DELETE`, `UPDATE`, `SET`
 - `SELECT`, `FROM`, `WHERE`, `ORDER BY`, `LIKE`
 - `LIMIT`, `OFFSET` 
 - `COUNT()`
