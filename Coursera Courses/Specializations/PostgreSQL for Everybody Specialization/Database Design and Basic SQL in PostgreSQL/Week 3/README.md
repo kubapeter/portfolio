@@ -24,4 +24,4 @@
 
 >"quote"
 
-Main points, and own [shared code](./code.language) 
+Main points, and own [shared code](./code.language)
