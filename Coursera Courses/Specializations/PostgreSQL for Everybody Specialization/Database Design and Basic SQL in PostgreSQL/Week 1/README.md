@@ -11,7 +11,9 @@
 - Utilize psql and SQL commands to create, read, update, and delete tables in a PostgreSQL database.
 
 ## Subjects covered
-- subjects
+- History of Relational Databases
+- CRUD operations
+- Basic terminology (database, relation or table, tuple or row, attribute or column or field)
 
 ## Assignment
 
