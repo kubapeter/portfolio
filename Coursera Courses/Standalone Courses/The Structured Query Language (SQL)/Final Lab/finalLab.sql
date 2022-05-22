@@ -10,13 +10,17 @@ SELECT city
 --for all employees 
 --working out of the Paris office. (5)  
 
-SELECT employeenumber, lastname, firstname, extension
+SELECT 
+    employeenumber, 
+    lastname, 
+    firstname, 
+    extension
   FROM 
     "alanparadise/cm"."employees" E
-    JOIN
+      JOIN
     "alanparadise/cm"."offices" O
-    ON E.officecode = O.officecode
-  WHERE O.city = 'Paris'
+      ON E.officecode = O.officecode
+  WHERE O.city = 'Paris';
 
 --3. List the ProductCode, ProductName, ProductVendor, QuantityInStock and ProductLine 
 --for all products 
@@ -29,7 +33,7 @@ SELECT
     quantityinstock, 
     productline
   FROM "alanparadise/cm"."products" 
-  WHERE quantityinstock BETWEEN 200 AND 1200
+  WHERE quantityinstock BETWEEN 200 AND 1200;
 
 --4. (Use a SUBQUERY) List the ProductCode, ProductName, ProductVendor, BuyPrice and MSRP 
 --for the least expensive (lowest MSRP) product 
@@ -44,28 +48,32 @@ SELECT
   FROM "alanparadise/cm"."products" 
   WHERE msrp = 
     (
-      SELECT MIN(msrp)
-        FROM "alanparadise/cm"."products"
-    )
+    SELECT MIN(msrp)
+      FROM "alanparadise/cm"."products"
+    );
 
 --5. What is the ProductName and Profit 
 --of the product that has the highest profit 
 --(profit = MSRP minus BuyPrice). (1)   
 
-SELECT productname, (msrp - buyprice) AS profit
+SELECT 
+    productname, 
+    (msrp - buyprice) AS profit
   FROM "alanparadise/cm"."products" 
-  ORDER BY profit DESC LIMIT 1
+  ORDER BY profit DESC LIMIT 1;
 
 --6. List the country and the number of customers from that country 
 --for all countries having just two customers. 
 --List the countries sorted in ascending alphabetical order. 
 --Title the column heading for the count of customers as “Customers”. (7)   
 
-SELECT country, COUNT(customernumber) AS "Customers"
+SELECT 
+    country, 
+    COUNT(customernumber) AS "Customers"
   FROM "alanparadise/cm"."Customers"
   GROUP BY country
     HAVING COUNT(customernumber) = 2
-  ORDER BY country
+  ORDER BY country;
 
 --7. List the ProductCode, ProductName, and number of orders 
 --for the products with exactly 25 orders. 
@@ -77,9 +85,9 @@ SELECT
     COUNT(ordernumber) AS "Order Count"
   FROM
     "alanparadise/cm"."products" PR
-    JOIN 
+      JOIN 
     "alanparadise/cm"."orderdetails" OD
-    ON PR.productcode = OD.productcode     
+      ON PR.productcode = OD.productcode     
   GROUP BY PR.productcode, productname 
     HAVING COUNT(ordernumber) = 25;
 
@@ -93,13 +101,13 @@ SELECT
     E.firstname || ' ' || E.lastname AS "name"
   FROM
     "alanparadise/cm"."employees" E
-    JOIN 
+      JOIN 
     "alanparadise/cm"."employees" R
-    ON E.reportsto = R.employeenumber
+      ON E.reportsto = R.employeenumber
   WHERE 
     (R.firstname = 'Diane' AND R.lastname = 'Murphy')
-    OR
-    (R.firstname = 'Gerard' AND R.lastname = 'Bondur')
+      OR
+    (R.firstname = 'Gerard' AND R.lastname = 'Bondur');
 
 --or
 
@@ -117,7 +125,7 @@ SELECT
     lastname, 
     firstname
   FROM "alanparadise/cm"."employees" 
-  WHERE reportsto IS NULL
+  WHERE reportsto IS NULL;
 
 --10. List the ProductName for all products 
 --in the “Classic Cars” product line from the 1950’s.  (6)
@@ -127,8 +135,8 @@ SELECT
   FROM "alanparadise/cm"."products" 
   WHERE 
     productline = 'Classic Cars' 
-    AND 
-    productname LIKE '195%' 
+      AND 
+    productname LIKE '195%';
 
 --11. List the month name and the total number of orders 
 --for the month in 2004 
@@ -140,7 +148,7 @@ SELECT
   FROM "alanparadise/cm"."orders" 
   WHERE orderdate LIKE '2004%'
   GROUP BY TO_CHAR(orderdate :: DATE, 'Month')
-  ORDER BY COUNT(*) DESC LIMIT 1
+  ORDER BY COUNT(*) DESC LIMIT 1;
 
 --12. List the firstname, lastname of employees 
 --who are Sales Reps who have no assigned customers.  (2) 
@@ -148,13 +156,13 @@ SELECT
 SELECT firstname, lastname 
   FROM 
     "alanparadise/cm"."employees" E
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/cm"."Customers" CUS
-    ON E.employeenumber = CUS.salesrepemployeenumber
+      ON E.employeenumber = CUS.salesrepemployeenumber
   WHERE 
     jobtitle = 'Sales Rep' 
-    AND 
-    customernumber IS NULL
+      AND 
+    customernumber IS NULL;
 
 --13. List the customername of customers 
 --from Switzerland with no orders. (2)  
@@ -162,10 +170,13 @@ SELECT firstname, lastname
 SELECT customername, ordernumber
   FROM 
     "alanparadise/cm"."Customers" CUS
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/cm"."orders" O
-    ON CUS.customernumber = O.customernumber
-  WHERE country = 'Switzerland' AND ordernumber IS NULL
+      ON CUS.customernumber = O.customernumber
+  WHERE 
+    country = 'Switzerland' 
+      AND 
+    ordernumber IS NULL;
 
 --14. List the customername and total quantity of products ordered 
 --for customers who have ordered more than 1650 products across all their orders.  (8) 
@@ -173,11 +184,12 @@ SELECT customername, ordernumber
 SELECT customername, SUM(quantityordered) AS totalq 
   FROM 
     "alanparadise/cm"."Customers" CUS  
-    JOIN 
+      JOIN 
     "alanparadise/cm"."orders" O 
-    ON CUS.customernumber = O.customernumber 
-    JOIN "alanparadise/cm"."orderdetails" D 
-    ON O.ordernumber = D.ordernumber 
+      ON CUS.customernumber = O.customernumber 
+      JOIN 
+    "alanparadise/cm"."orderdetails" D 
+      ON O.ordernumber = D.ordernumber 
 GROUP BY customername  
 HAVING SUM(quantityordered) > 1650;
 
@@ -190,7 +202,7 @@ CREATE TABLE IF NOT EXISTS TopCustomers (
   Customernumber int NOT NULL,  
   ContactDate DATE NOT NULL, 
   OrderTotal decimal(9,2) NOT NULL DEFAULT 0, constraint PKTopCustomers primary key (CustomerNumber) 
- );
+);
 
 --16. Populate the new table “TopCustomers” with 
 --the CustomerNumber, today’s date, and the total value of all their orders 
@@ -206,7 +218,7 @@ INSERT INTO TopCustomers
   FROM Customers c, Orders o,OrderDetails d
   WHERE 
     c.Customernumber = o.Customernumber  
-    AND 
+      AND 
     o.Ordernumber = d.Ordernumber 
   GROUP BY c.Customernumber 
     HAVING SUM(priceEach * Quantityordered) > 140000;
@@ -219,7 +231,7 @@ SELECT * FROM topcustomers ORDER BY 3 DESC; 
 --18. Add a new column to the TopCustomers table called OrderCount (integer).
 
 ALTER TABLE topcustomers 
-  ADD COLUMN OrderCount integer ; 
+  ADD COLUMN OrderCount integer; 
 
 --19. Update the Top Customers table, 
 --setting the OrderCount to a random number between 1 and 10. 
