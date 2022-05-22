@@ -120,3 +120,29 @@ SELECT
   GROUP BY abbrev
     HAVING COUNT(abbrev) > 10
   ORDER BY COUNT(abbrev) DESC;
+
+
+-- SUBQUERIES 
+
+-- Look at racing table
+SELECT * 
+  FROM racing;
+  
+-- Find the highest number of makes
+SELECT COUNT(make), make
+  FROM racing
+  GROUP BY make
+  ORDER BY COUNT(make) DESC
+  LIMIT 1;
+
+-- Show only those rows where the make is the highest through the table
+SELECT * 
+  FROM racing
+  WHERE make = 
+    (
+    SELECT make
+      FROM racing
+      GROUP BY make
+      ORDER BY COUNT(make) DESC
+      LIMIT 1
+    );
