@@ -24,7 +24,7 @@
 - Indexes, b-trees, hashes
 - Create table from CSV file
 
-## Assignment
+## Assignment[^1]
 
 >" Create a table named automagic with the following fields: 
 >- An id field that is an auto-incrementing serial field. 
@@ -34,3 +34,5 @@
 and
 
 >"**Musical Track Database (CSV)**. This application will read an iTunes library in comma-separated values (CSV) and load the data into a table."
+
+[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](../Final%20Demonstration/final_demo.sql) of the final demonstration of the course. This gives a code-level insight into the course. It covers everything that is needed to get through the assignments with 100% of the points.
