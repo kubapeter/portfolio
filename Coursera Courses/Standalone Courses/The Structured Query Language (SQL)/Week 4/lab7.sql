@@ -3,12 +3,11 @@
 SELECT DISTINCT E.employeeid, O.employeeid
   FROM 
     "alanparadise/nw"."employees" E
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."orders" O
-    ON
-    E.employeeid = O.employeeid
+      ON E.employeeid = O.employeeid
   WHERE O.employeeid IS NULL
-  ORDER BY 1
+  ORDER BY 1;
 
 --returns empty table so there is no employee who has no orders
 
@@ -21,10 +20,9 @@ SELECT
     count(orderid)
   FROM 
     "alanparadise/nw"."employees" E  
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."orders" O 
-    ON
-    E.employeeid = O.employeeid 
+      ON E.employeeid = O.employeeid 
   GROUP BY E.employeeid, lastname, firstname
   ORDER BY E.employeeid;
 
@@ -36,12 +34,11 @@ SELECT
 SELECT DISTINCT Cus.customerid, O.employeeid
   FROM 
     "alanparadise/nw"."customers" Cus
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."orders" O
-    ON
-    Cus.customerid = O.customerid
+      ON Cus.customerid = O.customerid
   WHERE O.customerid IS NULL
-  ORDER BY 1
+  ORDER BY 1;
 
 --returns 3 customer ids
 
@@ -53,10 +50,9 @@ SELECT
     count(orderid)
   FROM 
     "alanparadise/nw"."customers" C  
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."orders" O  
-    ON
-    C.customerid = O.customerid 
+      ON C.customerid = O.customerid 
   GROUP BY C.customerid, companyname
   HAVING count(orderid) = 0;
   
@@ -68,12 +64,11 @@ SELECT
 SELECT DISTINCT Cus.customerid, O.customerid
   FROM 
     "alanparadise/nw"."customers" Cus
-    RIGHT OUTER JOIN
+      RIGHT OUTER JOIN
     "alanparadise/nw"."orders" O
-    ON
-    Cus.customerid = O.customerid
+      ON Cus.customerid = O.customerid
   WHERE Cus.customerid IS NULL
-  ORDER BY 1
+  ORDER BY 1;
 
 --returns 4 customer ids
 
@@ -82,10 +77,9 @@ SELECT DISTINCT Cus.customerid, O.customerid
 SELECT DISTINCT O.customerid, count(orderid)
   FROM 
     "alanparadise/nw"."orders" O 
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."customers" C 
-    ON
-    C.customerid = O.customerid 
+      ON C.customerid = O.customerid 
   WHERE C.customerid is NULL
   GROUP BY O.customerid;
 
@@ -96,11 +90,10 @@ SELECT DISTINCT O.customerid, count(orderid)
 SELECT DISTINCT SH.shipperid, companyname, shipvia
   FROM 
     "alanparadise/nw"."shippers" SH
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."orders" O
-    ON
-    SH.shipperid = O.shipvia
-  WHERE shipvia IS NULL
+      ON SH.shipperid = O.shipvia
+  WHERE shipvia IS NULL;
     
 --returns empty table, so the answer is NO
 
@@ -109,10 +102,9 @@ SELECT DISTINCT SH.shipperid, companyname, shipvia
 SELECT S.shipperid, companyname, count(orderid)
   FROM 
     "alanparadise/nw"."shippers" S 
-    LEFT OUTER JOIN
+      LEFT OUTER JOIN
     "alanparadise/nw"."orders" O 
-    ON
-    S.shipperid = O.shipvia 
+      ON S.shipperid = O.shipvia 
   GROUP BY S.shipperid, companyname;
 
 --no zero in count column se the answer is NO
