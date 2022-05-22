@@ -188,3 +188,37 @@ SELECT howmuch FROM fav WHERE account_id = 1 AND post_id = 1 FOR UPDATE OF fav;
 UPDATE fav SET howmuch = 999 WHERE account_id = 1 AND post_id = 1;
 COMMIT;
 SELECT howmuch FROM fav WHERE account_id = 1 AND post_id = 1;
+
+
+-- STORED PROCEDURES 
+
+UPDATE fav SET howmuch = howmuch + 1
+  WHERE post_id = 1 AND account_id = 1
+RETURNING *;
+
+-- Stored procedure is defined here
+CREATE OR REPLACE FUNCTION trigger_set_timestamp()
+RETURNS TRIGGER AS $$
+BEGIN
+  NEW.updated_at = NOW();
+  RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Triggers that trigger the stored procedure
+CREATE TRIGGER set_timestamp
+BEFORE UPDATE ON post
+FOR EACH ROW
+EXECUTE PROCEDURE trigger_set_timestamp();
+
+
+CREATE TRIGGER set_timestamp
+BEFORE UPDATE ON post
+FOR EACH ROW
+EXECUTE PROCEDURE trigger_set_timestamp();
+
+
+CREATE TRIGGER set_timestamp
+BEFORE UPDATE ON post
+FOR EACH ROW
+EXECUTE PROCEDURE trigger_set_timestamp();
