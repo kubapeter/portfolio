@@ -25,7 +25,7 @@ Course 2 of the [PostgreSQL for Everybody Specialization](../)
 >
 >Specifically, students will do assignments that alter table schemas, create stored procedures, construct advanced queries, explore sorting and grouping query data, and techniques for working with text in databases including regular expressions."
 
-<p align="right">More details on <a href="https://www.coursera.org/learn/database-design-postgresql">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/intermediate-postgresql">website</a></p>
 
 ## Content
 This folder contains 
