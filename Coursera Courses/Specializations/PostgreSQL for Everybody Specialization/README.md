@@ -43,7 +43,7 @@ The specialization consists of 4 courses.
 ---
 
 1. [Database Design and Basic SQL in PostgreSQL](./Database%20Design%20and%20Basic%20SQL%20in%20PostgreSQL)
-2. [Course2](./course2_folder)
+2. [Intermediate PostgreSQL](./Intermediate%20PostgreSQL)
 3. [Course2](./course3_folder)
 4. [Course2](./course4_folder)
 
