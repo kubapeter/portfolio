@@ -26,6 +26,6 @@
 - Initial database setup (get used to the course settings)
 - Alter table
 - Use `SELECT DISTINCT`
-- >"Add a stored procedure so that every time a record is updated, the updated_at variable is automatically set to the current time. "
+- Add a stored procedure so that every time a record is updated, the updated_at variable is automatically set to the current time. 
 
-[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](../Final%20Demonstration/final_demo.sql) of the final demonstration of the course. This gives a code-level insight into the course. It covers everything that is needed to get through the assignments with 100% of the points.
+[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
