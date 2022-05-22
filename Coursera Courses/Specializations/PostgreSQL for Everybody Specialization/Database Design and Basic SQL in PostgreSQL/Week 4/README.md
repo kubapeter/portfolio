@@ -14,6 +14,4 @@
 
 ## Assignment
 
->"quote"
-
-Main points, and own [shared code](./code.language) 
+>"**Building a Many-to-Many Roster**. You will normalize a small set of user/role/course data and insert it into a properly connected set of many-to-many tables."
