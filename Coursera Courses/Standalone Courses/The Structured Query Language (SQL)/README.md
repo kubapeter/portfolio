@@ -13,7 +13,7 @@ Taught by: [Alan Paradise](https://www.coursera.org/instructor/alan-paradise)
 
 ---
 
-**25 hours** to complete - 5 quizzes, 11 lab practices
+**25 hours** to complete - 5 quizzes, 13 lab practices
 
 Course 2 of the Databases for Data Scientists Specialization
 
