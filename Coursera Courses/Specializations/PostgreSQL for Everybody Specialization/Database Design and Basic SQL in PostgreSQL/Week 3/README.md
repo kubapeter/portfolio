@@ -22,6 +22,5 @@
 
 ## Assignment
 
->"quote"
+>"**Entering Many-to-One Data**. \[...\] \[C\]reate two tables, and hand-load a small amount of data in the the tables while properly normalizing the data."
 
-Main points, and own [shared code](./code.language)
