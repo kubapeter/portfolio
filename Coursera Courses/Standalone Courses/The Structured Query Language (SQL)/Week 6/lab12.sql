@@ -8,12 +8,14 @@ SELECT *
 DROP VIEW "your_bit.io_account/demo_repo"."TopCustomers";
 
 CREATE VIEW "your_bit.io_account/demo_repo"."TopCustomers" AS 
-  SELECT companyname, sum(unitprice * quantity) AS "Total Sales",
+  SELECT 
+      companyname, 
+      sum(unitprice * quantity) AS "Total Sales",
     CASE  
       WHEN sum(unitprice * quantity) < 60000 THEN 'NeedsFocus'
       WHEN sum(unitprice * quantity) < 110000 THEN 'Average'
       ELSE 'Outstanding'
-    END  Assessment
+    END Assessment
 
     FROM 
       "alanparadise/nw"."customers" C 
