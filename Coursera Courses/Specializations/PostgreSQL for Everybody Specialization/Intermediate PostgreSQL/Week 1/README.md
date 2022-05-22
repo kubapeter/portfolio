@@ -20,6 +20,7 @@
 - Subqueries and performance
 - Concurrency, atomicity, locking 
 - `RETURNING *`, `ON CONFLICT`
+- Stored procedures (plpgsql)
 
 ## Assignment[^1]
 - Initial database setup (get used to the course settings)
