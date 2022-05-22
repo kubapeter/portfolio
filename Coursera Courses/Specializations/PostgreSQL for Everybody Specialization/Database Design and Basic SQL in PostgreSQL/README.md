@@ -40,7 +40,7 @@ This folder contains
 - [Week 4](./Week%204): Many-To-Many Data Models
 
 ## Remarks
-- command line
-- pythonanywhere
-- not a basic course
-- emphasis more on modelling, and one-to-many m-t-m than querying from existing tables
+- The main focus of this course the on database desing, one-to-many, many-to-many relations, and not on querying information from existing tables. 
+- This is not really an introductory course to SQL. The basics (e. g. how `SELECT` works) are not detailed, or not mentioned at all. For example the student almost certainly has to use `DROP` at one point or another, but this command is not discussed. Some really basic functionality is not discussed either, like `GROUP BY`. 
+- All SQL commands are run from command line in this course. 
+- The lecturer did a very careful job to make submission of the assignments technically easy. An autograder checks the assignments. 
