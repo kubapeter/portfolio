@@ -17,6 +17,7 @@
 - Performance and full table scans
 - `DISTINCT ON`, `GROUP BY`
 - `WHERE` vs. `HAVING`
+- Subqueries and performance
 
 ## Assignment[^1]
 - Initial database setup (get used to the course settings)
