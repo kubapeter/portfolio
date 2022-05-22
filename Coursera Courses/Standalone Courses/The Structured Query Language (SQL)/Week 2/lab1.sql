@@ -1,8 +1,13 @@
 --2.1 List all the products in the Northwinds database showing 
 --productid, productname, quantity per unit, unitprice, and unitsinstock.
 
-SELECT productid, productname, quantityperunit, unitprice, unitsinstock
-	FROM "alanparadise/nw"."products";
+SELECT 
+    productid, 
+    productname, 
+    quantityperunit, 
+    unitprice, 
+    unitsinstock
+  FROM "alanparadise/nw"."products";
 
 --2.2 For all employees at Northwinds, list the first name and last name 
 --concatenated together with a blank space in-between, 
