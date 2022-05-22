@@ -82,7 +82,7 @@ SELECT
       CROSS JOIN
     genre;
 
--- meaningful version of the one above
+-- meaningful version of the table above
 SELECT 
     track.title, 
     genre.name
