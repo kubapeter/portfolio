@@ -16,7 +16,7 @@
 - `CAST`
 - Performance and full table scans
 - `DISTINCT ON`, `GROUP BY`
-- Differene between `WHERE` and `HAVING`
+- `WHERE` vs. `HAVING`
 
 ## Assignment[^1]
 - Initial database setup (get used to the course settings)
