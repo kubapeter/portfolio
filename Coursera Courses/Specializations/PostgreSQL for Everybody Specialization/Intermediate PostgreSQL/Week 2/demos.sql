@@ -87,3 +87,23 @@ INSERT INTO comment (content, post_id, account_id) VALUES
 
 
 -- Load a CSV file and automatically normalize into none-to-many
+
+-- Download 
+-- wget https://www.pg4e.com/lectures/03-Techniques.csv
+
+-- x,y
+-- Zap,A
+-- Zip,A
+-- One,B
+-- Two,B
+
+DROP TABLE IF EXISTS xy_raw;
+DROP TABLE IF EXISTS y;
+DROP TABLE IF EXISTS xy;
+
+CREATE TABLE xy_raw(x TEXT, y TEXT, y_id INTEGER);
+CREATE TABLE y (id SERIAL, PRIMARY KEY(id), y TEXT);
+CREATE TABLE xy(id SERIAL, PRIMARY KEY(id), x TEXT, y_id INTEGER, UNIQUE(x,y_id));
+
+\d xy_raw
+\d+ y
