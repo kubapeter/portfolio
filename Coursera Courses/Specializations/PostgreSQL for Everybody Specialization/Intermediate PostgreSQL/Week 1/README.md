@@ -22,7 +22,7 @@
 - `RETURNING *`, `ON CONFLICT`
 - Stored procedures (plpgsql)
 
-## Assignment[^1]
+## Assignments[^1]
 - Initial database setup (get used to the course settings)
 - Alter table
 - Use `SELECT DISTINCT`
