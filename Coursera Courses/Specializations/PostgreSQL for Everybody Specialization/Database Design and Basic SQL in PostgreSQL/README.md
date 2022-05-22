@@ -27,7 +27,7 @@ Course 1 of the [PostgreSQL for Everybody Specialization](../)
 
 ## Content
 This folder contains 
-- [x] source code for assignments
+- [x] source code of the [final demonstration](./Final%20Demonstration)
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/Coursera_Certificate_Database_Design_and_Basic_SQL_in_PostgreSQL.pdf) 
