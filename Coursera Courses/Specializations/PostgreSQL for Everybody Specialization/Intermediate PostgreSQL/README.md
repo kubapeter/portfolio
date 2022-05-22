@@ -29,8 +29,8 @@ Course 2 of the [PostgreSQL for Everybody Specialization](../)
 
 ## Content
 This folder contains 
-- [x] source code of the [final demonstration](./Final%20Demonstration)
 - [x] short descriptions of the modules 
+- [x] source code of the coding demonstrations for code-level insight to the course material
 - [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/c.pdf) 
 ([verification](https://v))
