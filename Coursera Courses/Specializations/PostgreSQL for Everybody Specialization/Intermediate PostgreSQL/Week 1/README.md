@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/Database_Design_and_Basic_SQL_in_PostgreSQL_logo.avif" width="120" align="right">
+  <img src="/img/Intermediate_PostgreSQL_logo.avif" width="120" align="right">
 </a>
 
 # Week 1 <br> SQL Techniques
