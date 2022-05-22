@@ -5,7 +5,7 @@
 # Week 2 <br> Using SQL Techniques
 
 ## Learning Objectives
-- Produced properly normalized tables from CSV files.
+- Produce properly normalized tables from CSV files.
 - Utilize the ALTER TABLE command to adjust the schema of tables.
 
 ## Subjects covered
