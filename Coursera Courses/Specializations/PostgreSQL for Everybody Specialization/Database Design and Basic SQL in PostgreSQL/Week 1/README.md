@@ -23,4 +23,4 @@
 - Creating tables
 - Inserting data into a table
 
-[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the source code of the final demonstration of the course. This gives a code-level insight into the course. It covers everything that is needed to get through the assignments with 100% of the points.
+[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](../Final%20Demonstration/final_demo.sql) of the final demonstration of the course. This gives a code-level insight into the course. It covers everything that is needed to get through the assignments with 100% of the points.
