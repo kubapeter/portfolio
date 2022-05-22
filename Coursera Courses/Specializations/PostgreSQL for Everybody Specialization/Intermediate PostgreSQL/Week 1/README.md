@@ -18,6 +18,8 @@
 - `DISTINCT ON`, `GROUP BY`
 - `WHERE` vs. `HAVING`
 - Subqueries and performance
+- Concurrency, atomicity, locking 
+- `RETURNING *`, `ON CONFLICT`
 
 ## Assignment[^1]
 - Initial database setup (get used to the course settings)
