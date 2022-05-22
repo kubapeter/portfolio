@@ -213,12 +213,12 @@ EXECUTE PROCEDURE trigger_set_timestamp();
 
 
 CREATE TRIGGER set_timestamp
-BEFORE UPDATE ON post
+BEFORE UPDATE ON fav
 FOR EACH ROW
 EXECUTE PROCEDURE trigger_set_timestamp();
 
 
 CREATE TRIGGER set_timestamp
-BEFORE UPDATE ON post
+BEFORE UPDATE ON comment
 FOR EACH ROW
 EXECUTE PROCEDURE trigger_set_timestamp();
