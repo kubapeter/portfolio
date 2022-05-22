@@ -19,7 +19,6 @@
 - Creating user and database
 
 ## Assignment
-
->"quote"
-
-Main points, and own [shared code](./code.language) 
+- Initial database setup (get used to the course settings)
+- Creating tables
+- Inserting data into a table
