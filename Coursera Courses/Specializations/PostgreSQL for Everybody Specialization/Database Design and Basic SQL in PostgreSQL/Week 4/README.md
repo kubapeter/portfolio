@@ -2,7 +2,7 @@
   <img src="/img/Database_Design_and_Basic_SQL_in_PostgreSQL_logo.avif" width="120" align="right">
 </a>
 
-# Week 2 <br> Many-To-Many Data Models
+# Week 4 <br> Many-To-Many Data Models
 
 ## Learning Objectives
 - Differentiate between one-to-many and many-to-many relationships.
