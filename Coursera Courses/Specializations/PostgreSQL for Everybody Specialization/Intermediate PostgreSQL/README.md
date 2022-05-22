@@ -21,7 +21,8 @@ Course 2 of the [PostgreSQL for Everybody Specialization](../)
 
 ## Course description
 
->"In this course you will learn more about the historical design of databases and the use of SQL in the PostgreSQL environment. Using SQL techniques and common commands (INSERT INTO, WHERE, ORDER BY, ON DELETE CASCADE, etc) will enable you to create tables, column types and define the schema of your data in PostgreSQL. You will learn about data modeling and how to represent one-to-many and many-to-many relationships in PostgreSQL. Students will do hands-on assignments creating tables, inserting data, designing data models, creating relational structures and inserting and querying relational data in tables."
+>"This course covers a wide range of SQL techniques, beyond basic CRUD (Create, Read, Update, and Delete) operations in PostgreSQL. You will learn the specifics of aggregation, transactions, reading and parsing CSV files and inserting data into a database. You’ll also take a look at how PostgreSQL handles and indexes text data.
+Specifically, students will do assignments that alter table schemas, create stored procedures, construct advanced queries, explore sorting and grouping query data, and techniques for working with text in databases including regular expressions."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/database-design-postgresql">website</a></p>
 
