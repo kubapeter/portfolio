@@ -146,3 +146,45 @@ SELECT *
       ORDER BY COUNT(make) DESC
       LIMIT 1
     );
+
+
+-- CONCURRENCY 
+
+-- Do this twice
+INSERT INTO fav (post_id, account_id, howmuch) 
+  VALUES (1, 1, 1)
+RETURNING *;
+--complains because of UNIQUE(post_id, account_id)
+
+-- We can check the changes
+UPDATE fav SET howmuch = howmuch + 1
+  WHERE post_id = 1 AND account_id = 1
+RETURNING *;
+
+-- If insert is not possible, then row exists, so do accodingly
+INSERT INTO fav (post_id, account_id, howmuch) 
+  VALUES (1, 1, 1)
+  ON CONFLICT (post_id, account_id)
+  DO UPDATE SET howmuch = fav.howmuch + 1
+RETURNING *;
+
+
+-- TRANSACTIONS (try in two windows)
+
+-- FOR UPDATE OF grabs a lock on the row, ROLLBACK withdraws the update
+BEGIN;
+SELECT howmuch FROM fav WHERE account_id = 1 AND post_id = 1 FOR UPDATE OF fav; 
+-- Time passes...
+UPDATE fav SET howmuch = 999 WHERE account_id = 1 AND post_id = 1;
+ROLLBACK;
+SELECT howmuch FROM fav WHERE account_id = 1 AND post_id = 1;
+RETURNING *;
+
+-- FOR UPDATE OF grabs a lock on the row, COMMIT enforces the update to happen
+-- This waits until the other finishes
+BEGIN;
+SELECT howmuch FROM fav WHERE account_id = 1 AND post_id = 1 FOR UPDATE OF fav; 
+-- Time passes...
+UPDATE fav SET howmuch = 999 WHERE account_id = 1 AND post_id = 1;
+COMMIT;
+SELECT howmuch FROM fav WHERE account_id = 1 AND post_id = 1;
