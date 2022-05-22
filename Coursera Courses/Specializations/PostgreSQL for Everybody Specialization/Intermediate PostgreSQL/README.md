@@ -32,14 +32,14 @@ This folder contains
 - [x] source code of the [final demonstration](./Final%20Demonstration)
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/Coursera_Certificate_Database_Design_and_Basic_SQL_in_PostgreSQL.pdf) 
-([verification](https://coursera.org/verify/CMWDKZR9P2N9))
+- [x] [certificate](./Certificate/c.pdf) 
+([verification](https://v))
 
 ## Syllabus
-- [Week 1](./Week%201): Introduction to SQL
-- [Week 2](./Week%202): Single Table SQL
-- [Week 3](./Week%203): One-To-Many Data Models
-- [Week 4](./Week%204): Many-To-Many Data Models
+- [Week 1](./Week%201): SQL Techniques
+- [Week 2](./Week%202): Using SQL Techniques
+- [Week 3](./Week%203): Text in PostgreSQL
+- [Week 4](./Week%204): Regular Expressions
 
 ## Remarks
 - The main focus of this course the on database desing, one-to-many, many-to-many relations, and not on querying information from existing tables. 
