@@ -26,8 +26,11 @@
 
 ## Assignment
 
-1. >" Create a table named automagic with the following fields: 
+>" Create a table named automagic with the following fields: 
 >- An id field that is an auto-incrementing serial field. 
 >- A name field that allows up to 32 characters but no more. This field is required. 
 >- A height field that is a floating point number that is required. "
 
+and
+
+>"**Musical Track Database (CSV)**. This application will read an iTunes library in comma-separated values (CSV) and load the data into a table."
