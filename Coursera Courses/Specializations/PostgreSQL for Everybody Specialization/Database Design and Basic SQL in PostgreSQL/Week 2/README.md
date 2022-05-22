@@ -26,6 +26,8 @@
 
 ## Assignment
 
->"quote"
+>" Create a table named automagic with the following fields: 
+>- An id field that is an auto-incrementing serial field. 
+>- A name field that allows up to 32 characters but no more. This field is required. 
+>- A height field that is a floating point number that is required. "
 
-Main points, and own [shared code](./code.language) 
