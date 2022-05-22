@@ -4,7 +4,7 @@
 
 SELECT city
   FROM "alanparadise/cm"."offices"
-  ORDER BY city
+  ORDER BY city;
 
 --2. List the EmployeeNumber, LastName, FirstName, Extension 
 --for all employees 
