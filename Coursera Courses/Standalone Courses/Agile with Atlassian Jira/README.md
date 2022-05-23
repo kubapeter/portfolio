@@ -2,7 +2,7 @@
   <img src="/img/course_logo" width="150" align="right">
 </a>
 
-<img src="/img/Atlassian_logo" width="120" height="120" align="left">
+<img src="/img/Atlassian_logo.png" width="120" height="120" align="left">
 
 # Course Title
 
