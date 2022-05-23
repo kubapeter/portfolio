@@ -1,5 +1,5 @@
 <a href="course_homepage">
-  <img src="" width="150" align="right">
+  <img src="/img/Agile_with_Atlassian_Jira_logo.png" width="150" align="right">
 </a>
 
 <img src="/img/Atlassian_logo.avif" width="120" height="120" align="left">
