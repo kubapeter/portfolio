@@ -53,14 +53,15 @@ ALTER TABLE post ADD COLUMN howmuch INTEGER;
 
 -- We will load this:
 -- https://www.pg4e.com/lectures/03-Techniques-Load.txt
--- Start fresh - Cascade deletes it all
 
+-- Start fresh - Cascade deletes it all
 DELETE FROM account;
 ALTER SEQUENCE account_id_seq RESTART WITH 1;
 ALTER SEQUENCE post_id_seq RESTART WITH 1;
 ALTER SEQUENCE comment_id_seq RESTART WITH 1;
 ALTER SEQUENCE fav_id_seq RESTART WITH 1;
 
+-- Fills tables up with data
 INSERT INTO account(email) VALUES 
 ('ed@umich.edu'), ('sue@umich.edu'), ('sally@umich.edu');
 
@@ -82,7 +83,7 @@ INSERT INTO comment (content, post_id, account_id) VALUES
 ;
 
 
--- Let's see, hogy to load it from file
+-- Let's see, hogy to load this (start fresh and fill up) from file
 
 -- linux:
 -- wget https://www.pg4e.com/lectures/03-Techniques-Load.sql
@@ -93,7 +94,7 @@ INSERT INTO comment (content, post_id, account_id) VALUES
 
 -- LOAD A CSV FILE AND AUTOMATICALLY NORMALIZE INTO ONE-TO-MANY
 
--- Download 
+-- Download file
 -- wget https://www.pg4e.com/lectures/03-Techniques.csv
 
 -- x,y
@@ -102,6 +103,7 @@ INSERT INTO comment (content, post_id, account_id) VALUES
 -- One,B
 -- Two,B
 
+-- Create tables to load into
 DROP TABLE IF EXISTS xy_raw;
 DROP TABLE IF EXISTS y;
 DROP TABLE IF EXISTS xy;
@@ -109,9 +111,6 @@ DROP TABLE IF EXISTS xy;
 CREATE TABLE xy_raw(x TEXT, y TEXT, y_id INTEGER);
 CREATE TABLE y (id SERIAL, PRIMARY KEY(id), y TEXT);
 CREATE TABLE xy(id SERIAL, PRIMARY KEY(id), x TEXT, y_id INTEGER, UNIQUE(x,y_id));
-
---\d xy_raw
---\d+ y
 
 --\copy xy_raw(x,y) FROM '03-Techniques.csv' WITH DELIMITER ',' CSV;
 
