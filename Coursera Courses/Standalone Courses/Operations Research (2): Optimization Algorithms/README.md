@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/operations-research-algorithms">
-  <img src="/img/course_logo" width="150" align="right">
+  <img src="/img/Operations_Research_(2)_Optimization_Algorithms_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/National_Taiwan_University_seal.svg" width="120" height="120" align="left">
