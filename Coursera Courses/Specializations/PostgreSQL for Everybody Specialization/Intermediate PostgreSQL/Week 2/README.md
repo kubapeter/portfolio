@@ -9,7 +9,7 @@
 - Utilize the ALTER TABLE command to adjust the schema of tables.
 
 ## Subjects covered
-- 
+- Just [coding demonstrations](./demos.sql) this week. 
 
 ## Assignments[^1]
 - 
