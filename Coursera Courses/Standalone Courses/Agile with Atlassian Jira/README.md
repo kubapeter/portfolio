@@ -1,5 +1,5 @@
 <a href="course_homepage">
-  <img src="/img/Atlassian_logo.png" width="150" align="right">
+  <img src="/img/Atlassian_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Atlassian.svg" width="120" height="120" align="left">
