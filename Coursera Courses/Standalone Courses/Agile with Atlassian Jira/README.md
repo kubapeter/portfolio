@@ -29,7 +29,7 @@ Created by: Steve Byrnes
 This folder contains 
 - [x] hands on labs in pdf
 - [x] short descriptions of the modules 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Certificate/Coursera%20Certificate%20Agile%20with%20Atlassian%20Jira.pdf) ([verification](certificate_link))
 
 ## Syllabus
 - [Week 1](./Week%201): Agile Overview I
