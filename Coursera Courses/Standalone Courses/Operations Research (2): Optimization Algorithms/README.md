@@ -36,7 +36,7 @@ This folder contains
 - [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
 - [x] [glossary](./Resources/glossary) (definitions of the main concepts)
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/H4YCLFATWX8F))
 
 ## Syllabus
 - [Week 1](./Week%201): Course Overview
