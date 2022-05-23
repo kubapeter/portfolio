@@ -17,5 +17,5 @@
 - Identify lean and agile principles
 
 ## Hands-on labs
-- [Scrum (Company-managed)](./)
-- [Scrum (Team-managed)](./
+- [Scrum (Company-managed)](./lab2_02_scrum.pdf)
+- [Scrum (Team-managed)](./lab2_02a_scrum_team_managed.pdf)
