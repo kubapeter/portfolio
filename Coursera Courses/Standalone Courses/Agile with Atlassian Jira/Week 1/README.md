@@ -2,7 +2,7 @@
   <img src="/img/Agile_with_Atlassian_Jira_logo.svg" width="120" align="right">
 </a>
 
-# Week 1 <br> Week_Title
+# Week 1 <br> Agile Overview I
 
 ## Learning Objectives
 - Describe the difference between waterfall and agile projects
