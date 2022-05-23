@@ -2,8 +2,8 @@
   <img src="/img/course_logo" width="150" align="right">
 </a>
 
-<img src="/img/Atlassian_logo.png" width="120" height="120" align="left">
-
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Atlassian.svg" width="120" height="120" align="left">
+/img/Atlassian_logo.png
 # Course Title
 
 Offered by 
