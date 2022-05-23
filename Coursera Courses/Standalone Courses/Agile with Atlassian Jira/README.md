@@ -38,5 +38,5 @@ This folder contains
 - [Week 4](./Week%204): Configure Jira II
 
 ## Remarks
-- The core of the course are the 20 hands-on labs. At the beginning of the course the student registers a free Atlassian account, then learn of the functions in the labs using the free version of Jira on the website. 
+- The core of the course are the 20 hands-on labs. At the beginning of the course the student registers a free Atlassian account. All of functionalities in the labs are learnt using the free version of Jira on the website. 
 - The course is quite practice oriented, although teaches some basic concepts of agile project management. 
