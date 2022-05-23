@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/the-structured-query-language-sql">
-  <img src="../../../img/The_Structured_Query_Language_(SQL)_logo.avif" width="150" height="150" align="right">
+  <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="150" height="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Colorado_Buffaloes_wordmark.svg" width="120" height="120" align="left">
