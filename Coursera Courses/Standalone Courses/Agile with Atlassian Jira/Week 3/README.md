@@ -18,10 +18,10 @@
 - Create and use a custom field
 
 ## Hands-on labs
-- [Quick Search and Basic Search](./)
-- [JQL](./)
-- [Filters](./)
-- [Issue Types (Company-managed)](./)
-- [Issue Types (Team-managed)](./)
-- [Configuring Issues in Company-managed Projects](./)
-- [Configuring Issues in Team-managed Projects](./)
+- [Quick Search and Basic Search](./lab3_01_quickbasicsearch.pdf)
+- [JQL](./lab3_02_jql.pdf)
+- [Filters](./lab3_03_filters.pdf)
+- [Issue Types (Company-managed)](./lab3_04_issuetypes.pdf)
+- [Issue Types (Team-managed)](./lab3_04a_issuetypes_team_managed.pdf)
+- [Configuring Issues in Company-managed Projects](./lab3_05_configuringissues.pdf)
+- [Configuring Issues in Team-managed Projects](./lab3_05a_configuringissues_team_managed.pdf)
