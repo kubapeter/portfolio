@@ -13,7 +13,7 @@
 - Describe a cumulative flow diagram
 
 ## Hands-on labs
-- [Our First Jira Company-managed Project]
+- [Our First Jira Company-managed Project](./lab1_02_first_jira_company_managed.pdf)
 - [Our First Jira Team-managed Project]
 - [Configure a Company-managed Kanban Board]
 - [Configure a Team-managed Kanban Board]
