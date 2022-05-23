@@ -51,8 +51,8 @@ ALTER TABLE post ADD COLUMN howmuch INTEGER;
 
 -- READ SQL COMMANDS FROM A SCRIPT 
 
+-- We will load this:
 -- https://www.pg4e.com/lectures/03-Techniques-Load.txt
-
 -- Start fresh - Cascade deletes it all
 
 DELETE FROM account;
@@ -81,12 +81,17 @@ INSERT INTO comment (content, post_id, account_id) VALUES
     (SELECT id FROM account WHERE email='sally@umich.edu' ))
 ;
 
--- OR!
--- Load it from file
--- \i C:\Users\Dell\Desktop\03-Techniques-Load.sql
+
+-- Let's see, hogy to load it from file
+
+-- linux:
+-- wget https://www.pg4e.com/lectures/03-Techniques-Load.sql
+-- psql:
+-- \i 03-Techniques-Load.sql
+-- Now account, post and comment are filled up with the data seen above
 
 
--- Load a CSV file and automatically normalize into none-to-many
+-- LOAD A CSV FILE AND AUTOMATICALLY NORMALIZE INTO ONE-TO-MANY
 
 -- Download 
 -- wget https://www.pg4e.com/lectures/03-Techniques.csv
@@ -105,5 +110,35 @@ CREATE TABLE xy_raw(x TEXT, y TEXT, y_id INTEGER);
 CREATE TABLE y (id SERIAL, PRIMARY KEY(id), y TEXT);
 CREATE TABLE xy(id SERIAL, PRIMARY KEY(id), x TEXT, y_id INTEGER, UNIQUE(x,y_id));
 
-\d xy_raw
-\d+ y
+--\d xy_raw
+--\d+ y
+
+--\copy xy_raw(x,y) FROM '03-Techniques.csv' WITH DELIMITER ',' CSV;
+
+-- We can see that the data from the csv file is loaded 
+SELECT * FROM xy_raw;
+-- But in column y string is repeating -> not normalized
+
+-- These should be in another table
+SELECT DISTINCT y from xy_raw;
+
+-- Let's put them there -> automatic ids for values of y
+INSERT INTO y (y) SELECT DISTINCT y FROM xy_raw;
+
+-- Put y_ids into xy_raw
+UPDATE xy_raw SET y_id = (SELECT y.id FROM y WHERE y.y = xy_raw.y);
+
+-- We can see the change
+SELECT * FROM xy_raw;
+
+--Let's make the clean table
+INSERT INTO xy (x, y_id) SELECT x, y_id FROM xy_raw;
+
+-- We can see how it all matches
+SELECT * FROM xy JOIN y ON xy.y_id = y.id;
+
+-- We could also have done it: drop the unnecessary column
+ALTER TABLE xy_raw DROP COLUMN y;
+
+-- Clean up
+DROP TABLE xy_raw;
