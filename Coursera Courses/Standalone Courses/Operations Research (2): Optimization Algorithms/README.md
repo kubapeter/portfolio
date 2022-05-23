@@ -1,29 +1,31 @@
-<a href="course_homepage">
+<a href="https://www.coursera.org/learn/operations-research-algorithms">
   <img src="/img/course_logo" width="150" align="right">
 </a>
 
-<img src="uni_logo" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/en/7/7e/National_Taiwan_University_seal.svg" width="120" height="120" align="left">
 
-# Course Title
+# Operations Research (2): Optimization Algorithms
 
 Offered by 
-### *Uni*
+### *National Taiwan University*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Ling-Chieh Kung](https://www.coursera.org/instructor/lckung)
 
 ---
 
-**? hours** to complete - ? quizzes, ? written and ? [coding assignments]
-
-Course ? of the [spec_title](../) 
+**12 hours** to complete - 6 quizzes 
 
 ---
 
 ## Course description
 
->"descripton"
+>"Operations Research (OR) is a field in which people use mathematical and engineering methods to study optimization problems in Business and Management, Economics, Computer Science, Civil Engineering, Electrical Engineering, etc.
+>
+>The series of courses consists of three parts, we focus on deterministic optimization techniques, which is a major part of the field of OR.
+As the second part of the series, we study some efficient algorithms for solving linear programs, integer programs, and nonlinear programs.
+We also introduce the basic computer implementation of solving different programs, integer programs, and nonlinear programs and thus an example of algorithm application will be discussed."
 
-<p align="right">More details on <a href="course_homepage">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/operations-research-algorithms">website</a></p>
 
 ## Content
 This folder contains 
