@@ -150,6 +150,50 @@ SELECT *
 
 -- CONCURRENCY 
 
+-- (setup)
+-- Create tables
+CREATE TABLE account (
+  id SERIAL,
+  email VARCHAR(128) UNIQUE,
+  created_at DATE NOT NULL DEFAULT NOW(),
+  updated_at DATE NOT NULL DEFAULT NOW(),
+  PRIMARY KEY(id)
+);
+
+CREATE TABLE post (
+  id SERIAL,
+  title VARCHAR(128) UNIQUE NOT NULL, -- Will extend with ALTER
+  content VARCHAR(1024),
+  account_id INTEGER REFERENCES account(id) ON DELETE CASCADE,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  PRIMARY KEY(id)
+);
+
+-- Allow multiple comments
+CREATE TABLE comment (
+  id SERIAL,
+  content TEXT NOT NULL,
+  account_id INTEGER REFERENCES account(id) ON DELETE CASCADE,
+  post_id INTEGER REFERENCES post(id) ON DELETE CASCADE,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  PRIMARY KEY(id)
+);
+
+CREATE TABLE fav (
+  id SERIAL,
+  oops TEXT, -- Will remove with ALTER
+  post_id INTEGER REFERENCES post(id) ON DELETE CASCADE,
+  account_id INTEGER REFERENCES account(id) ON DELETE CASCADE,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  UNIQUE(post_id, account_id),
+  PRIMARY KEY(id)
+);
+--(end of setup)
+
+
 -- Do this twice
 INSERT INTO fav (post_id, account_id, howmuch) 
   VALUES (1, 1, 1)
