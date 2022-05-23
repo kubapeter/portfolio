@@ -14,8 +14,8 @@
 
 ## Hands-on labs
 - [Our First Jira Company-managed Project](./lab1_02_first_jira_company_managed.pdf)
-- [Our First Jira Team-managed Project]
-- [Configure a Company-managed Kanban Board]
-- [Configure a Team-managed Kanban Board]
-- [Kanban (Company-managed)]
-- [Kanban (Team-managed)]
+- [Our First Jira Team-managed Project](./lab1_02a_first_jira_team_managed.pdf)
+- [Configure a Company-managed Kanban Board](./lab1_03_configure_board.pdf)
+- [Configure a Team-managed Kanban Board](./lab1_03a_configure_board_team_managed.pdf)
+- [Kanban (Company-managed)](./lab1_05_kanban.pdf)
+- [Kanban (Team-managed)](./lab1_05a_kanban_team_managed.pdf)
