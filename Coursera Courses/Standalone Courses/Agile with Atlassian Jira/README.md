@@ -13,7 +13,7 @@ Created by: Steve Byrnes
 
 ---
 
-**13 hours** to complete - 4 quizzes, 19 hands-on labs
+**13 hours** to complete - 4 quizzes, 20 hands-on labs
 
 ---
 
@@ -36,3 +36,7 @@ This folder contains
 - [Week 2](./Week%202): Agile Overview II
 - [Week 3](./Week%203): Configure Jira I
 - [Week 4](./Week%204): Configure Jira II
+
+## Remarks
+- The core of the course are the 20 hands-on labs. At the beginning of the course the student registers a free Atlassian account, then learn of the functions in the labs using the free version of Jira on the website. 
+- The course is quite practice oriented, although teaches some basic concepts of agile project management. 
