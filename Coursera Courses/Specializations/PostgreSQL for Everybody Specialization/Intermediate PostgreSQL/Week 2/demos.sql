@@ -130,7 +130,7 @@ UPDATE xy_raw SET y_id = (SELECT y.id FROM y WHERE y.y = xy_raw.y);
 -- We can see the change
 SELECT * FROM xy_raw;
 
---Let's make the clean table
+--Let's fill the clean table
 INSERT INTO xy (x, y_id) SELECT x, y_id FROM xy_raw;
 
 -- We can see how it all matches
