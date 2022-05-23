@@ -12,6 +12,8 @@
 - Just [coding demonstrations](./demos.sql) this week. 
 
 ## Assignments[^1]
-- **From CSV to many-to-one**. (2 assignments: basic, complex) Load CSV data file into given table. Then normalize with SQL commands. 
+- **From CSV to many-to-one**
+  - 2 assignments: the first one is basic, the second is more complex 
+  - Same structure: load CSV data file into table, then normalize the data with SQL commands. 
 
 [^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
