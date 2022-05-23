@@ -19,8 +19,8 @@
 - Configure Jira to keep up with a team's changing agile process
 
 ## Hands-on labs
-- [Epics in Company-managed Projects](./)
-- [Epics and Roadmaps in Team-managed Projects](./)
-- [Versions](./)
-- [Users and Groups](./)
-- [Final Project](./)
+- [Epics in Company-managed Projects](./lab4_01_epics.pdf)
+- [Epics and Roadmaps in Team-managed Projects](./lab4_01a_epics_team_managed.pdf)
+- [Versions](./lab4_02_versions.pdf)
+- [Users and Groups](./lab4_03_usersandgroups.pdf)
+- [Final Project](./lab4_05_finalproject.pdf)
