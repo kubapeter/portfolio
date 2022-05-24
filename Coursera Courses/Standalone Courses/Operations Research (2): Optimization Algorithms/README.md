@@ -36,11 +36,9 @@ This folder contains
 - [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/H4YCLFATWX8F))
 
 ## Syllabus
-- [Week 1](./Week%201): Course Overview
-- [Week 2](./Week%202): The Simplex Method
-- [Week 3](./Week%203): The Branch-and-Bound Algorithm
-- [Week 4](./Week%204): Gradient Descent and Newton’s Method
-- [Week 5](./Week%205): Design and Evaluation of Heuristic Algorithms
-- [Week 6](./Week%206): Course Summary and Future Learning Directions
-
-[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
+- Week 1: Course Overview
+- Week 2: The Simplex Method
+- Week 3: The Branch-and-Bound Algorithm
+- Week 4: Gradient Descent and Newton’s Method
+- Week 5: Design and Evaluation of Heuristic Algorithms
+- Week 6: Course Summary and Future Learning Directions
