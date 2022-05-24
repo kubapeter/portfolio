@@ -29,8 +29,8 @@ We also introduce the basic computer implementation of solving different program
 
 ## Content
 This folder contains 
-- [x] [Jupyter notebooks](./Jupyter%20notebooks) of the algoritms (and pdf notes on them)
 - [x] [slides](./Slides) 
+- [x] [Jupyter notebooks](./Jupyter%20notebooks) of the algoritms (and pdf notes on them)
 - [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/H4YCLFATWX8F))
 
 ## Syllabus
