@@ -28,7 +28,7 @@ As the third part of the series, we study mathematical properties of linear prog
 This folder contains 
 - [x] [slides](./Slides) 
 - [x] [Jupyter notebooks](./Jupyter%20notebooks) of the algoritms (and pdf notes on them)
-- [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/GDK87SR66HD6))
+- [x] [certificate](./Coursera_Certificate_Operations_Research_(3)_Theory.pdf) ([verification](https://coursera.org/verify/GDK87SR66HD6))
 
 ## Syllabus
 - Week 1: **Course Overview**
