@@ -38,4 +38,4 @@ This folder contains
 - [Week 3](./Week%203): List Manipulation
 - [Week 4](./Week%204): File Access
 
-[^1]: For ethical reasons I do not make my assignment publicly available. It may be tempting to submit it to Coursera by others. However, I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (maybe a bit more). 
+[^1]: For ethical reasons I do not make my assignment publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (maybe a bit more). 
