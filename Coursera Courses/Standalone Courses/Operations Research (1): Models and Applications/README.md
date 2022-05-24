@@ -31,7 +31,7 @@ This folder contains
 
 ## Remarks
 - The course is really fun. The lecturer is thorough, shares the slides, so it is easy to follow the well structured lectures. 
-- For some practical calculations the course intorduces and uses the [Gurobi Optimizer](https://www.gurobi.com/products/gurobi-optimizer/). All the Jupyter notebooks use this tool. 
+- For some practical calculations the course intorduces and uses Excel spreadsheets. 
 - Athough not part of a Coursera specialization, the course has its sister-courses 
 [Operations Research (2): Optimization Algorithms](../Operations%20Research%20(2):%20Optimization%20Algorithms) and 
 [Operations Research (3): Theory](../Operations%20Research%20(3):%20Theory).
