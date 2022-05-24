@@ -33,6 +33,12 @@ The main focus of the assignments is on
 - type conversion and
 - control flow
 
-The [code I share here](./week2.go) has the same focus. It prompts the user to enter a string that is a one digit number (e. g. "nine") and prints the same number as an integer.
+The [code I share here](./week2.go) has the same focus. It 
+- reads JSON objects from a txt file, 
+- unmarshals them to structs, 
+- asks the user to choose one of the fields, 
+- gives back all the existing values on the field 
+- asks the user to choose one of the values and 
+- writes all the objects that has the chosen value at the chosen field to a csv file. 
 
 [^1]: For ethical reasons I do not make my assignments publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I give a detailed description of the original problems, I highlight the main principles and techniques the problems want to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (maybe a bit more). 
