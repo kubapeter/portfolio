@@ -37,6 +37,7 @@ This folder contains
 
 ## Syllabus
 - Week 1: Course Overview
+- >"In the first lecture, we briefly introduce the course and give a quick review about some basic knowledge of linear algebra, including Gaussian elimination, Gauss-Jordan elimination, and definition of linear independence."
 - Week 2: The Simplex Method
 - Week 3: The Branch-and-Bound Algorithm
 - Week 4: Gradient Descent and Newton’s Method
