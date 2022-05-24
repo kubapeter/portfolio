@@ -18,7 +18,7 @@
 
 ## Assignments[^1]
 
-There are two assignments for week 2. Their detailed description can be found below. Their main focus is on
+There are two assignments for week 2. Their detailed description can be found below. Their **main focus** is on
 - Writing and reading data from and to file
 - Using JSON for data storing
 - transform data read from file
