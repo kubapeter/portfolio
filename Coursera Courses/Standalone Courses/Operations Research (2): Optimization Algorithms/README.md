@@ -31,6 +31,10 @@ This folder contains
 - [x] [Jupyter notebooks](./Jupyter%20notebooks) of the algoritms (and pdf notes on them)
 - [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/H4YCLFATWX8F))
 
+## Remarks
+- The course is really fun. The lecturer is thorough, shares the slides, so it is easy to follow the well structured lectures. 
+- For some practical calculations the course intorduces and uses the [Gurobi Optimizer](https://www.gurobi.com/products/gurobi-optimizer/). All the Jupyter notebooks use this tool. 
+
 ## Syllabus
 
 ### Week 1: **Course Overview**
