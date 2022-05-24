@@ -27,7 +27,7 @@ Taught by: [Ling-Chieh Kung](https://www.coursera.org/instructor/lckung)
 This folder contains 
 - [x] [slides](./Slides) 
 - [x] [Excel sheets](./Excel%20sheets) of the algoritms (and pdf notes on them)
-- [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/H4YCLFATWX8F))
+- [x] [certificate](./Coursera_Certificate_Operations_Research_(2)_Optimization_Algorithms.pdf) ([verification](https://coursera.org/verify/LCPVP2SSPK3X))
 
 ## Remarks
 - The course is really fun. The lecturer is thorough, shares the slides, so it is easy to follow the well structured lectures. 
