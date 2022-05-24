@@ -1,7 +1,25 @@
-The first week is mainly about 
+<a href="../">
+  <img src="/img/Getting%20Started%20with%20Go%20logo.avif" width="120" align="right">
+</a>
+
+# Week 1 <br> Introduction to the Specialization
+
+## Learning Objectives
+- Easily launch Coursera's preconfigured environment for Go
+- Get access to all dependencies (libraries and packages) for VSCode—no local software installation required
+- Practice Go, run test cases, and work on assignments from your browser
+
+## Subjects covered
 - classification of GO
 - installation
 - packages
 - variables
 
-There is one assignment only to see if compilation and run are successful
+## Assignment
+
+>"The goal of this initial assignment is to ensure that you have set up golang properly, and that you are ready to proceed through the rest of this course."
+
+Main points, and own [shared code](./code.language) 
+
+
+
