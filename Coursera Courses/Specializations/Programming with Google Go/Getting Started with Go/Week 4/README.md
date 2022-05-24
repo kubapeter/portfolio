@@ -23,7 +23,7 @@ There are two assignments for week 2. Their detailed description can be found be
 - Using JSON for data storing
 - transform data read from file
 
-The [code I share here](./week2.go) has the same focus. It 
+The [code I share here](./week4.go) has the same focus. It 
 - reads JSON objects from a txt file, 
 - unmarshals them to structs, 
 - asks the user to choose one of the fields, 
