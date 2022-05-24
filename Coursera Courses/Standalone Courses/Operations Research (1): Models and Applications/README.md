@@ -32,9 +32,9 @@ This folder contains
 ## Remarks
 - The course is really fun. The lecturer is thorough, shares the slides, so it is easy to follow the well structured lectures. 
 - For some practical calculations the course intorduces and uses Excel spreadsheets. 
-- Athough not part of a Coursera specialization, the course has its sister-courses 
+- As the title suggests, the course has its sister-courses 
 [Operations Research (2): Optimization Algorithms](../Operations%20Research%20(2):%20Optimization%20Algorithms) and 
-[Operations Research (3): Theory](../Operations%20Research%20(3):%20Theory).
+[Operations Research (3): Theory](../Operations%20Research%20(3):%20Theory), even though they are not a Coursera specialization.
 
 ## Syllabus
 
