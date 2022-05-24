@@ -45,6 +45,7 @@ The specialization consists of 3 courses.
 
 (Interestingly enough the logos of the courses suggest that the specialization might have been planned to be a 4 course specialization. It indeed consists of these 3 courses only.)
 
-## Personal impressions
-
-The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on their module. Lecturer hands out all the slides of the last two courses. The specialization assumes that the students are familiar with at least one other programming language. Often comparisons are made between Go and other languages, and not every concept is built from the ground up. It is interesting to see how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
+## Remarks
+- The courses are well structured, the lecturer knows what he wants to teach and what he does not. Programming assignments are well-focused on their module. - Lecturer hands out all the slides of the last two courses. 
+- The specialization assumes that the students are familiar with at least one other programming language. Often comparisons are made between Go and other languages, and not every concept is built from the ground up. 
+- It is interesting to see how the lecturer's strong background in hardware comes through in the lectures. This gives a special value to the courses. 
