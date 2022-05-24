@@ -35,7 +35,7 @@ This folder contains
 - The course is really fun. The lecturer is thorough, shares the slides, it is easy to follow the well structured lectures. 
 - For some practical calculations the course intorduces and uses the [Gurobi Optimizer](https://www.gurobi.com/products/gurobi-optimizer/). All the Jupyter notebooks use this tool. 
 - As the title suggests, the course has its sister-courses 
-[Operations Research (2): Optimization Algorithms](../Operations%20Research%20(2):%20Optimization%20Algorithms) and 
+[Operations Research (1): Models and Applications](../Operations%20Research%20(1):%20Models%20and%20Applications) and 
 [Operations Research (3): Theory](../Operations%20Research%20(3):%20Theory), even though they are not a Coursera specialization.
 
 ## Syllabus
