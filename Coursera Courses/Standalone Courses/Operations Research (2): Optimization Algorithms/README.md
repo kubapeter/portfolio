@@ -38,7 +38,7 @@ This folder contains
 ## Syllabus
 - Week 1: Course Overview
 >"In the first lecture, we briefly introduce the course and give a quick review about some basic knowledge of linear algebra, including Gaussian elimination, Gauss-Jordan elimination, and definition of linear independence."
-- Week 2: The Simplex Method
+- Week 2: **The Simplex Method** - "Complicated linear programs were difficult to solve until Dr. George Dantzig developed the simplex method. In this week, we first introduce the standard form and the basic solutions of a linear program. With the above ideas, we focus on the simplex method and study how it efficiently solves a linear program. Finally, we discuss some properties of unbounded and infeasible problems, which can help us identify whether a problem has optimal solution."
 - Week 3: The Branch-and-Bound Algorithm
 - Week 4: Gradient Descent and Newton’s Method
 - Week 5: Design and Evaluation of Heuristic Algorithms
