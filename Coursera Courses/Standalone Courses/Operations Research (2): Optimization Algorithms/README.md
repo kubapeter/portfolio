@@ -19,9 +19,7 @@ Taught by: [Ling-Chieh Kung](https://www.coursera.org/instructor/lckung)
 
 ## Course description
 
->"Operations Research (OR) is a field in which people use mathematical and engineering methods to study optimization problems in Business and Management, Economics, Computer Science, Civil Engineering, Electrical Engineering, etc.
->
->The series of courses consists of three parts, we focus on deterministic optimization techniques, which is a major part of the field of OR.
+>"The series of courses consists of three parts, we focus on deterministic optimization techniques, which is a major part of the field of OR.
 As the second part of the series, we study some efficient algorithms for solving linear programs, integer programs, and nonlinear programs.
 We also introduce the basic computer implementation of solving different programs, integer programs, and nonlinear programs and thus an example of algorithm application will be discussed."
 
