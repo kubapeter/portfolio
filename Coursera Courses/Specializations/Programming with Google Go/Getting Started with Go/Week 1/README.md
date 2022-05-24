@@ -20,6 +20,3 @@
 >"The goal of this initial assignment is to ensure that you have set up golang properly, and that you are ready to proceed through the rest of this course."
 
 Basically [any running program](./HelloWorld.go) will do. 
-
-
-
