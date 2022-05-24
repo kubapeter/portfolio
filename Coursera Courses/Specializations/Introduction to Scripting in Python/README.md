@@ -35,6 +35,6 @@ The specialization consists of 4 courses.
 3. [Python Data Analysis](./Python%20Data%20Analysis)
 4. [Python Data Visualization](./Python%20Data%20Visualization)
 
-## Personal impressions
+## Remarks
 
 The 
