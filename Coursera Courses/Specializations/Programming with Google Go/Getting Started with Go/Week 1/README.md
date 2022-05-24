@@ -19,7 +19,7 @@
 
 >"The goal of this initial assignment is to ensure that you have set up golang properly, and that you are ready to proceed through the rest of this course."
 
-Main points, and own [shared code](./code.language) 
+Basically [any running program](./HelloWorld.go) will do. 
 
 
 
