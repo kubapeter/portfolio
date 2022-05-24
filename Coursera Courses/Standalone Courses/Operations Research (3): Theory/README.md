@@ -31,7 +31,7 @@ This folder contains
 - [x] [certificate](./Coursera_Certificate_Operations_Research_(3)_Theory.pdf) ([verification](https://coursera.org/verify/GDK87SR66HD6))
 
 ## Syllabus
-- Week 1: **Course Overview**
+### Week 1: **Course Overview**
 >"In the first lecture, after introducing the course and the importance of mathematical properties, we study the matrix way to run the simplex method. Being more familiar with matrices will help us understand further lectures.
 >- After the lecture, students can learn why we should study on the theories of Operations Research and understand the formulation and applications of the simplex method in matrices."
 - Week 2: **Duality** 
