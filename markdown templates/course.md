@@ -42,4 +42,4 @@ This folder contains
 - [Week 3](./Week%203): week3_title
 - [Week 4](./Week%204): week4_title
 
-[^1]: For ethical reasons I do not make my assignments publicly available. It may be tempting to submit them to Coursera by others. However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
+[^1]: For ethical reasons I do not make my assignments publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
