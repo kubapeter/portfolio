@@ -39,4 +39,4 @@ This folder contains
 
 ## Remarks
 - The core of the course is constituted by the 20 hands-on labs. At the beginning of the course the student registers a free Atlassian account. The labs teach everything using the free version of Jira on the website. 
-- The course is quite practice oriented, although teaches some basic concepts of agile project management. 
+- The course is quite practice oriented, although it also covers some basic concepts of agile project management. 
