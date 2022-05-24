@@ -32,20 +32,26 @@ This folder contains
 
 ## Syllabus
 - Week 1: **Course Overview**
->"In the first lecture, we briefly introduce the course and give a quick review about some basic knowledge of linear algebra, including Gaussian elimination, Gauss-Jordan elimination, and definition of linear independence.
->- After this lecture, students can have an idea about what they are going to learn, and get into the ideas about what we need in linear algebra to learn this course."
-- Week 2: **The Simplex Method** 
->"Complicated linear programs were difficult to solve until Dr. George Dantzig developed the simplex method. In this week, we first introduce the standard form and the basic solutions of a linear program. With the above ideas, we focus on the simplex method and study how it efficiently solves a linear program. Finally, we discuss some properties of unbounded and infeasible problems, which can help us identify whether a problem has optimal solution.
->- After this lesson, students can understand the basic concept of the simplex method, how it works, and how to implement it."
-- Week 3: **The Branch-and-Bound Algorithm**
->"Integer programming is a special case of linear programming, with some of the variables must only take integer values. In this week, we introduce the concept of linear relaxation and the Branch-and-Bound algorithm for solving integer programs.
->- After this lesson, students can understand how the Branch-and-Bound algorithm works and how to implement it."
-- Week 4: **Gradient Descent and Newton’s Method**
->"In the past two weeks, we discuss the algorithms of solving linear and integer programs, while now we focus on nonlinear programs. In this week, we first review some necessary knowledge such as gradients and Hessians. Second, we introduce gradient descent and Newton’s method to solve nonlinear programs. We also compare these two methods in the end of the lesson.
->- After this lesson, students can understand how gradient descent and Newton’s method work, and compare pros and cons of these two methods."
-- Week 5: **Design and Evaluation of Heuristic Algorithms**
->"As the last lesson of this course, we introduce a case of NEC Taiwan, which provides IT and network solutions including cloud computing, AI, IoT etc. Since maintaining all its service hubs is too costly, they plan to rearrange the locations of the hubs and reallocate the number of employees in each hub. An algorithm is included to solve the facility location problem faced by NEC Taiwan
->- After this lesson, students can understand the practical application of the algorithms we have introduced, and thus have more comprehensive knowledge about the course."
-- Week 6: **Course Summary and Future Learning Directions**
->"In the final week, we review the topics that we have learned and give students a summary. Besides, we briefly preview the advanced course to provide future direction of studying.
->- After this lecture, students will wrap up the course and have the ideas about further studies."
+>"In the first lecture, after introducing the course and the importance of mathematical properties, we study the matrix way to run the simplex method. Being more familiar with matrices will help us understand further lectures.
+>- After this lecture, "
+- Week 2: **Duality** 
+>"In this week, we study the theory and applications of linear programming duality. We introduce the properties possessed by primal-dual pairs, including weak duality, strong duality, complementary slackness, and how to construct a dual optimal solution given a primal optimal one. We also introduce one important application of linear programming duality: Using shadow prices to determine the most critical constraint in a linear program.
+>- After this "
+- Week 3: **Sensitivity Analysis and Dual Simplex Method**
+>"In the past two weeks, we study the simplex method and the duality. On top of them, the dual simplex method is discussed in this lecture. We apply it to one important issue in sensitivity analysis: evaluating a linear programming model with a new constraint. A linear programming model with a new variable is also discussed.
+>- After this "
+- Week 4: **Network Flow**
+>"In this lecture, we introduce network flow models, which are widely used for making decision regarding transportation, logistics, inventory, project management, etc. We first introduce the minimum cost network flow (MCNF) model and show hot it is the generalization of many famous models, including assignment, transportation, transshipment, maximum flow, and shortest path. We also prove a very special property of MCNF, total unimodularity, and how it connects linear programming and integer programming. 
+>- After this "
+- Week 5: **Convex Analysis**
+>"As the last lesson of this course, we introduce a case of NEC Taiwan, which provides IT and network solutions including cloud computing, AI, IoT etc. Since maintaining all its service hubs is too costly, they plan to rearrange the locations of the hubs and reallocate the number of employees in each hub. An algorithm is included to solve the facility location problem faced by NEC Taiwan.
+>- After this ."
+- Week 6: **Lagrangian Duality and the KKT condition**
+>"In this week, we study nonlinear programs with constraints. We introduce two major tools, Lagrangian relaxation and the KKT condition, for solving constrained nonlinear programs. We also see how linear programming duality is a special case of Lagrangian duality.
+>- After this ."
+- Week 7: **Case Study**
+>"In this week, we introduce two well-known models constructed by applying the mathematical properties we have introduced. First, we formulate a simple linear regression problem as a nonlinear program and derive the closed-form regression formula. Second, we introduce support-vector machine, one of the most famous classification model, from the perspective of duality..
+>- After this ."
+- Week 8: **Course Summary and Future Learning Directions**
+>"In the final week, we review the topics we have introduced and give some concluding remarks. We also provide some learning directions for advanced studies.y.
+>- After this ."
