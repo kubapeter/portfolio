@@ -27,9 +27,9 @@ The [code I share here](./readwrite.go) has the same focus. It
 - reads JSON objects from a txt file, 
 - unmarshals them to structs, 
 - asks the user to choose one of the fields, 
-- gives back all the existing values on the field 
+- gives back all the existing values on the field (values of all instances)
 - asks the user to choose one of the values and 
-- writes all the objects that has the chosen value at the chosen field to a csv file. 
+- writes all the instances that has the chosen value at the chosen field to a csv file. 
 
 ### The original assignment problems
 
