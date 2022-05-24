@@ -27,7 +27,7 @@ As the third part of the series, we study mathematical properties of linear prog
 ## Content
 This folder contains 
 - [x] [slides](./Slides) 
-- [x] [Jupyter notebooks](./Jupyter%20notebooks) of the algoritms (and pdf notes on them)
+- [x] [Jupyter notebooks](./Jupyter%20notebooks) of the demonstrations (and pdf notes on them)
 - [x] [certificate](./Coursera_Certificate_Operations_Research_(3)_Theory.pdf) ([verification](https://coursera.org/verify/GDK87SR66HD6))
 
 ## Remarks
