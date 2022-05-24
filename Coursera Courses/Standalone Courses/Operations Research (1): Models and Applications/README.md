@@ -39,25 +39,25 @@ This folder contains
 ## Syllabus
 
 ### Week 1: **Course Overview**
->"In the first lecture, we briefly introduce the course and give a quick review about some basic knowledge of linear algebra, including Gaussian elimination, Gauss-Jordan elimination, and definition of linear independence.
->- After this lecture, students can have an idea about what they are going to learn, and get into the ideas about what we need in linear algebra to learn this course."
+>"This lecture gives students an overview of what they may expect from this course, including the fundamental concept and brief history of Operations Research. We will also talk about how mathematical programming can be used to solve real-world business problem.
+>- After this lecture, students will get a concrete idea about this course."
 
-### Week 2: **The Simplex Method** 
->"Complicated linear programs were difficult to solve until Dr. George Dantzig developed the simplex method. In this week, we first introduce the standard form and the basic solutions of a linear program. With the above ideas, we focus on the simplex method and study how it efficiently solves a linear program. Finally, we discuss some properties of unbounded and infeasible problems, which can help us identify whether a problem has optimal solution.
->- After this lesson, students can understand the basic concept of the simplex method, how it works, and how to implement it."
+### Week 2: **Linear Programming** 
+>"Linear programming (LP) is one of the most important method to achieve the outcome of optimization problems. We can use LP models for various decisions, including production, inventory, personnel scheduling, etc.
+>- Students will learn the basic elements of a linear program, how to formulate linear programs, how to solve a two-variate linear program with the graphical approach, and how to solve a general linear program with Microsoft Excel."
 
-### Week 3: **The Branch-and-Bound Algorithm**
->"Integer programming is a special case of linear programming, with some of the variables must only take integer values. In this week, we introduce the concept of linear relaxation and the Branch-and-Bound algorithm for solving integer programs.
->- After this lesson, students can understand how the Branch-and-Bound algorithm works and how to implement it."
+### Week 3: **Integer Programming**
+>"In many practical areas, some of the optimization problems occur with integrality constraints imposed on some of the variables. Facility location, machine scheduling, and vehicle routing are some examples. Integer Programming (IP) provides a mathematical way to solve these problems. 
+>- Students will learn how to formulate integer programs, see various applications, and learn how to use Microsoft Excel to solve a general integer program."
 
-### Week 4: **Gradient Descent and Newton’s Method**
->"In the past two weeks, we discuss the algorithms of solving linear and integer programs, while now we focus on nonlinear programs. In this week, we first review some necessary knowledge such as gradients and Hessians. Second, we introduce gradient descent and Newton’s method to solve nonlinear programs. We also compare these two methods in the end of the lesson.
->- After this lesson, students can understand how gradient descent and Newton’s method work, and compare pros and cons of these two methods."
+### Week 4: **Nonlinear programming**
+>"In the real life, many problems involve nonlinearities. Examples include pricing, inventory, and portfolio optimization. For such problems, we may use Nonlinear Programming (NLP) to formulate them into models and solve them. 
+>- Students will learn how to formulate nonlinear programs, see various applications, and learn how to use Microsoft Excel to solve a general nonlinear program."
 
-### Week 5: **Design and Evaluation of Heuristic Algorithms**
->"As the last lesson of this course, we introduce a case of NEC Taiwan, which provides IT and network solutions including cloud computing, AI, IoT etc. Since maintaining all its service hubs is too costly, they plan to rearrange the locations of the hubs and reallocate the number of employees in each hub. An algorithm is included to solve the facility location problem faced by NEC Taiwan
->- After this lesson, students can understand the practical application of the algorithms we have introduced, and thus have more comprehensive knowledge about the course."
+### Week 5: **Case Study: Personnel Scheduling**
+>"In this lecture, we introduce a real business case that has been solved with Operations Research by the instructor. The problem is for a company to schedule its customer service representatives to minimize the total amount of staff shortage. We will demonstrate the problem, process of conducting an OR study, integer programming formulation, and result.
+>- Students will see a real case being solved by Operations Research and obtain more ideas about the way to conducting an OR study."
 
-### Week 6: **Course Summary and Future Learning Directions**
->"In the final week, we review the topics that we have learned and give students a summary. Besides, we briefly preview the advanced course to provide future direction of studying.
->- After this lecture, students will wrap up the course and have the ideas about further studies."
+### Week 6: **Course Summary and Future Directions**
+>"In the final lecture of this course, we will summarize what we have learned. We will also preview what we may learn in future courses.
+>- Students will get a wrap up for this course and an idea about further studies."
