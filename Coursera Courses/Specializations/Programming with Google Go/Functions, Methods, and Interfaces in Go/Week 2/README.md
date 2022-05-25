@@ -21,7 +21,7 @@
 
 ## Assignment[^1] 
 
-There is one assignment for this week. Its detailed description can be found below, its **main focus** is on the use of first-class functions, namely
+There is one assignment for this week. Its detailed description can be found at the end of this document. Its **main focus** is on the use of first-class functions, namely
 - function as a return value
 - function as a variable and also
 - function as an argument
