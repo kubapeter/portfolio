@@ -25,10 +25,10 @@ There are two assignments for week 2. Their detailed description can be found be
 
 The [code I share here](./readwrite.go) has the same focus. It 
 - reads JSON objects from a file, 
-- unmarshals them to structs, 
+- unmarshals them to instances of a struct, 
 - asks the user to choose one of the fields, 
 - gives back all the existing values of the field (values of all instances)
-- asks the user to choose one of the values and 
+- asks the user to choose one of the listed values and 
 - writes all the instances that has the chosen value at the chosen field to a csv file. 
 
 ### The original assignment problems
