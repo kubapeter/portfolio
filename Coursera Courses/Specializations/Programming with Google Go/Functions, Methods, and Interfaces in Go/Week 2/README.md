@@ -21,12 +21,15 @@
 
 ## Assignment 
 
-**First-class functions**.[^1] The main concept the assignment checks is one of the fundamental principles of functional programming. Namely the use of first-class functions. The code I share [in this repo](conjugation.go) also concentrates on this, but it is not the one I submitted. It has
+There is one assignment for this week. Its detailed description can be found below, its **main focus** is on the use of first-class functions, namely
 - function as a return value
 - function as a variable and also
 - function as an argument
 
-The problem it solves seems to be quite different at first glance: asks the user for a regular German or Spanish verb, finds out the language then conjugates accordingly. 
+The code I share [in this repo](conjugation.go) has the same focus. The problem it solves seems to be quite different at first glance: 
+- asks the user for a regular German or Spanish verb, 
+- finds out the language then 
+- conjugates accordingly. 
 
 ### The original assignment problem
 
