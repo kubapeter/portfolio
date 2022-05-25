@@ -25,7 +25,7 @@
 ## Assignments[^1]
 #### Puzzle: Break a Hashing Function
 
->In this assignment you will write a simple hashing function that uses addition and multiplication and then find a pair of strings that will return the same hash value for different strings (i.e you will cause a Hash Collision).
+>In this assignment you will write[^2] a simple hashing function that uses addition and multiplication and then find a pair of strings that will return the same hash value for different strings (i.e you will cause a Hash Collision).
 >
 >The algorithm uses multiplication based on the position of a letter in the hash to avoid a hash collision when two letters are transposed like in 'ABCDE' and 'ABDCE'. Your strings need to be at least three characters long and no more than 10 characters long.
 >
@@ -50,3 +50,5 @@ while True:
 
 
 [^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
+
+[^2]:As it turnes out there is no need to write any code. The lecturer gives the code himself as it can be seen below.
