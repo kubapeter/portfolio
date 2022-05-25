@@ -37,7 +37,7 @@ The code I share [in this repo](conjugation.go) has the same focus. The problem 
 
 >"Let us assume the following formula for displacement *s* as a function of time *t*, acceleration *a*, initial velocity *v*<sub>0</sub>,
 and initial displacement *s*<sub>0</sub> is the following: 
-
+>
 >*s* = ½ *a* *t*<sup>2</sup> + *vt* + *s*<sub>0</sub>.
 >
 >Write a program which first prompts the user to enter values for acceleration, initial velocity, and initial displacement. Then the program should prompt the user to enter a value for time and the program should compute the displacement after the entered time.
