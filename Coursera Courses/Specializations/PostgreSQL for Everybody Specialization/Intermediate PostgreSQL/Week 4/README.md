@@ -9,7 +9,10 @@
 - Construct regular expressions to select rows from a table that match a pattern.
 
 ## Subjects covered
-- 
+- POSIX regex
+- WHERE clause operators: `~`, `~*`, `!~`, `!~*` 
+- Parse columns with regex
+- Multiply matches, array return values
 
 ## Assignments[^1]
 
