@@ -8,7 +8,7 @@ course. The main goal of the assignment of this week was to store related
 data in structs and bind related functions to the struct. This program 
 fulfills this goal too. 
 It 
-- reads flights sored in JSON format (they have 3 fields)
+- reads flights stored in JSON format (they have 3 fields)
 - asks the user to choose a field
 - lists all the values of the chosen field across the loaded planes
 - ask the user to choose one of these values
