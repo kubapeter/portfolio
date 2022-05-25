@@ -11,11 +11,14 @@
 - Identify hashtag algorithms and their attributes.
 
 ## Subjects covered
-- generating test data (good for performance testing)
+- Generating test data (good for performance testing)
   - `repeat()`, `generate_series()`, `random()`
+  - `CASE`, `WHEN`, `THEN`, `ELSE`
 - `LIKE`, `ILIKE`, `NOT LIKE`, `NOT ILIKE`
 - `SIMILAR TO`, `NOT SIMILAR TO`
 - `lower()`, `upper()`
+- `explain analyze`
+- Character sets
 
 ## Assignments[^1]
 - **From CSV to many-to-one**
