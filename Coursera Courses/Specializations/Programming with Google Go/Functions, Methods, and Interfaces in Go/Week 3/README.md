@@ -23,6 +23,8 @@
 
 ## Assignment[^1] 
 
+### Main focus and shared code
+
 There is one assignment for this week. Its detailed description can be found at the end of this document. Its **main focus** is on the basics of using Go in an object-oriented manner, namely
 - to use structs as containers of related data
 - to use receiver functions to bind dataset with related methods (basically create an object)
