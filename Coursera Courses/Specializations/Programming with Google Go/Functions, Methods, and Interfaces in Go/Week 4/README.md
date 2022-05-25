@@ -29,8 +29,10 @@
 
 ### Main focus and shared code
 
-There is one assignment for this week. Its detailed description can be found at the end of this document. Its main focus is on the basics of using Go in an object-oriented manner, namely
-- use of interfaces
+There is one assignment for this week. Its detailed description can be found at the end of this document. It is clearly an upgraded version of the assignment of the previous week. Thus the main focus is still on using Go in an object-oriented manner, but this assignment checks 
+- the use of interfaces
+- the use of polimorphism
+- make the user capable of creating instances of structs
 
 ### The original assignment problem
 
