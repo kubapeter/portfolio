@@ -26,7 +26,7 @@ There is one assignment for this week. Its detailed description can be found bel
 - function as a variable and also
 - function as an argument
 
-The code I share [in this repo](conjugation.go) has the same focus. The problem it solves seems to be quite different at first glance: 
+The code I share [in this repo](conjugation.go) has the same focus. It does all three things listed above. The problem it solves seems to be quite different at first glance: 
 - asks the user for a regular German or Spanish verb, 
 - finds out the language then 
 - conjugates accordingly. 
