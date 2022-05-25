@@ -27,7 +27,7 @@ There is one assignment for this week. Its detailed description can be found bel
 - function as an argument
 
 The code I share [in this repo](conjugation.go) has the same focus. It does all three things listed above. The problem it solves seems to be quite different at first glance: 
-- asks the user for a regular German or Spanish verb, 
+- asks the user for a [regular](https://en.wikipedia.org/wiki/Regular_and_irregular_verbs) [German](https://en.wikipedia.org/wiki/German_conjugation) or [Spanish](https://en.wikipedia.org/wiki/Spanish_conjugation) verb, 
 - finds out the language then 
 - conjugates accordingly. 
 
