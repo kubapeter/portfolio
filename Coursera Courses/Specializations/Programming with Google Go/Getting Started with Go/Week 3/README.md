@@ -22,6 +22,6 @@ The main focus of the assignments is on
 - storing data in slice
 - do operation on slice
 
-The [code I share here](./week3.go) has similar focus. The user can bulid a fleet of airplanes (slice of structs), and put a captain and a first officer in the cockpit (both structs). When the build is finished the program finds the youngest and oldest of all the crews (sorting of slice) and prints their name, age and the name of the plane they are on. 
+The [code I share here](./week3.go) has similar focus. The user can bulid a fleet of airplanes (slice of structs), and put a captain and a first officer in the cockpit (both structs). When the build is finished the program finds the youngest and oldest person of all the crews (sorting of slice) and prints their name, age and the name of the plane they are on. 
 
 [^1]: For ethical reasons I do not make my assignments publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I give a detailed description of the original problems, I highlight the main principles and techniques the problems want to check, and I give source code for another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (maybe a bit more). 
