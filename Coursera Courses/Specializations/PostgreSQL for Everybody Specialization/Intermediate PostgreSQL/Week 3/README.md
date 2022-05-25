@@ -23,10 +23,30 @@
 - Indexes and performance, `CREATE INDEX`
 
 ## Assignments[^1]
-- **From CSV to many-to-one**
-  - 2 assignments: the first one is basic, the second is more complex 
-  - Same structure: load CSV data file into table, then normalize the data with SQL commands. 
-- **From CSV to many-to-one**. 
-  - >"This application will read an iTunes library in comma-separated-values (CSV) and produce properly normalized many-to-many tables relating tracks to artists.  We also use the ALTER TABLE command to adjust the schema of the tables after we have finished processing."
+#### Puzzle: Break a Hashing Function
+
+>In this assignment you will write a simple hashing function that uses addition and multiplication and then find a pair of strings that will return the same hash value for different strings (i.e you will cause a Hash Collision).
+>
+>The algorithm uses multiplication based on the position of a letter in the hash to avoid a hash collision when two letters are transposed like in 'ABCDE' and 'ABDCE'. Your strings need to be at least three characters long and no more than 10 characters long.
+>
+>Here is the code that computes your hash: "
+
+```python
+while True:
+    txt = input("Enter a string: ")
+    if len(txt) < 1 : break
+
+    hv = 0
+    pos = 0
+    for let in txt:
+        pos = ( pos % 3 ) + 1  
+        hv = (hv + (pos * ord(let))) % 1000000
+        print(let, pos, ord(let), hv)
+
+    print(hv, txt)
+ ```
+#### Generating Text
+>"In this assignment you will create a table named bigtext with a single TEXT column named content. Insert 100000 records with numbers starting at 100000 and going through 199999 into the table as shown below:"
+
 
 [^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
