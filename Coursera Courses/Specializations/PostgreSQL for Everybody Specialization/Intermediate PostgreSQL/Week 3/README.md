@@ -19,6 +19,8 @@
 - `lower()`, `upper()`
 - `explain analyze`
 - Character sets
+- Hashes
+- Indexes and performance
 
 ## Assignments[^1]
 - **From CSV to many-to-one**
