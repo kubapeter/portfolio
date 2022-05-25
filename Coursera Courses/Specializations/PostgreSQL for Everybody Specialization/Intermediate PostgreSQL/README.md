@@ -32,7 +32,7 @@ This folder contains
 - [x] short descriptions of the modules 
 - [x] source code of the coding demonstrations for code-level insight to the course material
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/c.pdf) 
+- [x] [certificate](./Coursera_Certificate_Intermediate_PostgreSQL.pdf) 
 ([verification](https://v))
 
 ## Syllabus
