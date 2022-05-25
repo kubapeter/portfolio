@@ -20,7 +20,7 @@
 - `explain analyze`
 - Character sets
 - Hashes
-- Indexes and performance
+- Indexes and performance, `CREATE INDEX`
 
 ## Assignments[^1]
 - **From CSV to many-to-one**
