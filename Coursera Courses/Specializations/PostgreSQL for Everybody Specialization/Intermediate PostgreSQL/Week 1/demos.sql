@@ -1,4 +1,4 @@
--- SET UP
+-- SETUP
 
 -- Create table
 DROP TABLE IF EXISTS racing;
@@ -152,7 +152,7 @@ SELECT *
 
 -- CONCURRENCY 
 
--- (setup)
+-- SETUP
 -- Create tables
 CREATE TABLE account (
   id SERIAL,
