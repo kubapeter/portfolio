@@ -23,17 +23,17 @@
 
 ## Assignment[^1] 
 
-The main concepts the assignment checks are the basics of using Go in an object-oriented manner, namely
+There is one assignment for this week. Its detailed description can be found at the end of this document. Its **main focus** is on the basics of using Go in an object-oriented manner, namely
 - to use structs as containers of related data
-- to use receiver functions to bind dataset with methods (basically create an object)
+- to use receiver functions to bind dataset with related methods (basically create an object)
 - to use receiver functions to get field values from a struct (basically as `getField()` methods in Java)
 
-The code I share in [this repo](./quasiObjects.go) also fulfills these requirements, but it is not the one I submitted. It solves a bit more complicated problem. In the [previous course](../../Getting%20Started%20with%20Go) I shared [my own version](../../Getting%20Started%20with%20Go/Week%204/readwrite.go) of the assignemnt of [week 4](../../Getting%20Started%20with%20Go/Week%204) which already 
-- contained data as structs
+The code I share in [this repo](./quasiObjects.go) has the same focus. It does all three things listed above. It solves a bit more complicated problem. In the [previous course](../../Getting%20Started%20with%20Go) I shared [my own version](../../Getting%20Started%20with%20Go/Week%204/readwrite.go) of the assignemnt of [week 4](../../Getting%20Started%20with%20Go/Week%204) which already 
+- used structs to store data
 - used a special `get()` function to acces fields of the struct
 - but it was **not** a receiver function
 
-I upgraded that code to use recevier functions. The receiver functions of the original assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the field values anyway (`valueAtField := Struct.field`). The code I share here has these "getter" functions too, but it also has a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
+I upgraded that code to use recevier functions. The receiver functions of this week's assignment are a bit redundant as they are basically getter functions in a 1 file go program, where we have access to all the field values anyway (`valueAtField := Struct.field`). The code I share here has these "getter" functions too, but it also has a more general `get()` receiver function and a `toString()` receiver function (basically a Java type `toString()`). 
 
 The shared program 
 - reads `Flight` `struct`s sored in JSON format (they have 3 fields) 
