@@ -1,3 +1,5 @@
+-- SET UP
+
 -- Create table
 DROP TABLE IF EXISTS racing;
 
