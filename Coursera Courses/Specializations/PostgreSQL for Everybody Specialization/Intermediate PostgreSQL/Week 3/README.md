@@ -23,7 +23,8 @@
 - Indexes and performance, `CREATE INDEX`
 
 ## Assignments[^1]
-#### Puzzle: Break a Hashing Function
+
+#### 1. Puzzle: Break a Hashing Function
 
 >In this assignment you will write[^2] a simple hashing function that uses addition and multiplication and then find a pair of strings that will return the same hash value for different strings (i.e you will cause a Hash Collision).
 >
@@ -48,7 +49,7 @@ while True:
  
  The task is to find two strings that share the same hash value.
  
-#### Generating Text
+#### 2. Generating Text
 
 >"In this assignment you will create a table named bigtext with a single TEXT column named content. Insert 100000 records with numbers starting at 100000 and going through 199999 into the table as shown below:"
 
