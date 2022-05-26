@@ -13,6 +13,6 @@
 - Be comfortable with evaluating boolean statements
 - Be comfortable with the AND and OR operators
 
-## [Coding practice challenge](./Lab_Challenge.java)
+## [Coding practice challenge](./LabChallenge.java)
 
 >"Write a boolean expression that incorporates one of the equality operators, one of the less than operators, one of the greater than operators, and two of the logical operators. The result of your boolean expression must be `false`."
