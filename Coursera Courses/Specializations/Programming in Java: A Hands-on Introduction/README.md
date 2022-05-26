@@ -44,7 +44,7 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Java Basics: Selection and Iteration](./course1_folder)
+1. [Java Basics: Selection and Iteration](./Java%20Basics:%20Selection%20and%20Iteration)
 2. [Java Basic Structures: Arrays, Strings, and Files](./course2_folder)
 3. [Java Object Basics: Functions, Recursion, and Objects](./course3_folder)
 4. [Object-Oriented Java: Inheritance and Encapsulation](./course4_folder)
