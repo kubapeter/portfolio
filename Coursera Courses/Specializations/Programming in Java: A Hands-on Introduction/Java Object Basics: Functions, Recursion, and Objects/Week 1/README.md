@@ -5,20 +5,22 @@
 # Week 1 <br> User-Defined Methods
 
 ## Learning Objectives
-- Create an array using both the initializer list and new methods
-- Access and modify array elements
-- Iterate through arrays using both a regular for loop and an enhanced for loop
-- Determine array output
-- Create an empty ArrayList
-- Add and remove ArrayList elements
-- Get and set ArrayList elements
-- Iterate through ArrayLists using both a regular for loop and an enhanced for loop
-- Determine ArrayList output
-- Determine key differences between ArrayLists and arrays
-- Create a 2D array using both the initializer list and new methods
-- Access and modify 2D array elements
-- Iterate through 2D arrays using both a regular for loop and an enhanced for loop
-- Determine 2D array outputed
+- Demonstrate how to define a method
+- Differentiate between the method header and the method body
+- Identify the importance of the order of method definitions
+- Identify the purpose of Java code documentation (Javadoc)
+- Demonstrate how to define a method with parameters
+- Identify which value is assigned to each parameter
+- Catch exceptions with a try catch block
+- Define methods with the same name but different parameters
+- Demonstrate how to declare a method with an array and ArrayList as a parameter
+- Differentiate between global and local scope
+- Explain the purpose of the keyword “static”
+- Explain what the keyword “final” does
+- Use the return keyword to return a value
+- Identify the return value of the print statement
+- Demonstrate the ability to return several different data types
+- Create and apply helper methods
 
 ## [Coding practice challenge](./LabChallenge.java)
 
