@@ -1,4 +1,4 @@
-public class Lab_Challenge {
+public class LabChallenge {
   public static void main(String args[]) {
     
     int month = Integer.parseInt(args[0]);
