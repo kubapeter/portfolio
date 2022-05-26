@@ -15,11 +15,11 @@
 
 >"Problem
 >
->\[... T\]he class Chef is already defined, as is the display method. However, it does not have a constructor. Create three constructors that take one, two, and three parameters respectively.
+>\[... T\]he class `Chef` is already defined, as is the `display` method. However, it does not have a constructor. Create three constructors that take one, two, and three parameters respectively.
 >
 >Expected Output
 >
->Instantiate three Chef objects each one using a different constructor.
+>Instantiate three `Chef` objects each one using a different constructor.
 ```java
     //add code below this line
 
@@ -29,7 +29,7 @@
     
     //add code above this line
 ```
-> Calling the display method for each object should return the following text:
+> Calling the `display` method for each object should return the following text:
 > 
 >| Method Call    | Return Value                                                           | 
 >|----------------|------------------------------------------------------------------------|
