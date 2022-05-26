@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/course_logo.avif" width="120" align="right">
+  <img src="/img/Java_Basics_Selection_and_Iteration_logo.avif" width="120" align="right">
 </a>
 
 # Week ? <br> Week_Title
