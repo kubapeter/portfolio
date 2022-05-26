@@ -2,23 +2,21 @@
   <img src="/img/Java_Basic_Structures_Arrays,_Strings,_and_Files_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> Arrays
+# Week 2 <br> Strings
 
 ## Learning Objectives
-- Create an array using both the initializer list and new methods
-- Access and modify array elements
-- Iterate through arrays using both a regular for loop and an enhanced for loop
-- Determine array output
-- Create an empty ArrayList
-- Add and remove ArrayList elements
-- Get and set ArrayList elements
-- Iterate through ArrayLists using both a regular for loop and an enhanced for loop
-- Determine ArrayList output
-- Determine key differences between ArrayLists and arrays
-- Create a 2D array using both the initializer list and new methods
-- Access and modify 2D array elements
-- Iterate through 2D arrays using both a regular for loop and an enhanced for loop
-- Determine 2D array outputed
+- Identify the three properties of strings
+- Recognize that strings are immutable
+- Determine if a string is present in another string
+- Print a string from the start index to end index
+- Utilize escape characters to add special characters to a string
+- Identify the functions and applications of the following string methods: trim(), replace(), startsWith(), indexOf(), toUpperCase(), toLoweCase(), valueOf() & concat()
+- Define string iteration
+- Identify two ways to iterate over a string
+- Explain the inner workings of string iteration
+- Compare strings with == and !=
+- Compare strings with equals()
+- Compare strings with compareTo()
 
 ## [Coding practice challenge](./LabChallenge.java)
 
