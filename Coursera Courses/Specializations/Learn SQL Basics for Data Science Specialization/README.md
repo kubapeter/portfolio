@@ -51,6 +51,6 @@ The specialization consists of 4 courses.
 3. [Distributed Computing with Spark SQL](./course3_folder)
 4. [SQL for Data Science Capstone Project](./course4_folder)
 
-## Personal impressions
+## Remarks
 
 The 
