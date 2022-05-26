@@ -39,3 +39,5 @@ This folder contains
 
 ## Remarks
 - The course teaches SQLite
+
+https://modeanalytics.com/dsv1069/reports/0401f3197d05
