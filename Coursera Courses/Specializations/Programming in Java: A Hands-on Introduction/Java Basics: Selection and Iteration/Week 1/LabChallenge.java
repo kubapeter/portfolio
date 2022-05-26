@@ -1,4 +1,4 @@
-public class Lab_Challenge {
+public class LabChallenge {
   public static void main(String args[]) {
     
     String greeting = args[0];
