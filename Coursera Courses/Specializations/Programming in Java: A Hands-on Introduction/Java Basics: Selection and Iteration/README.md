@@ -4,7 +4,7 @@
 
 <img src="/img/codio_logo.svg" width="120" height="120" align="left">
 
-# Course Title
+# Java Basics: Selection and Iteration
 
 Offered by 
 ### *codio*
