@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/Java_Basics_Selection_and_Iteration_logo.avif" width="120" align="right">
+  <img src="/img/Java_Basic_Structures_Arrays,_Strings,_and_Files_logo.avif" width="120" align="right">
 </a>
 
 # Week 1 <br> Arrays
