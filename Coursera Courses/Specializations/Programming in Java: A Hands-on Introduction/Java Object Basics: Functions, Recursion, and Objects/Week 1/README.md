@@ -28,5 +28,5 @@
 >
 >Requirements:
 >- You should not make any changes to the code that already exists. If you accidentally delete any existing code, you can copy and paste the entire program from above.
->- You can use any number of additional methods you’d like but you must include at least the method called `sayHello()` in your code.
+>- You can use any number of additional methods you’d like but you must include at least the method called `sayHello()` in your code."
 
