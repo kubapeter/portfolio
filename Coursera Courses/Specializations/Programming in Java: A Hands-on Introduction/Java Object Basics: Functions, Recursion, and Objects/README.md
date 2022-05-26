@@ -34,7 +34,7 @@ This folder contains
 - [x] source code of coding practice challenges[^1]
 - [x] short descriptions of the modules 
 - [x] lesson notes 
-- [x] [certificate](./Coursera_Certificate_Java_Object_Basics_Functions,_Recursion,_and_Objects.pdf) ([verification](https://coursera.org/verify/28QHACFVFYRV))
+- [x] [certificate](./Coursera%20_Certificate_Java_Object_Basics_Functions,_Recursion,_and_Objects.pdf) ([verification](https://coursera.org/verify/28QHACFVFYRV))
 
 ## Syllabus
 - [Week 1](./Week%201): User-Defined Methods
