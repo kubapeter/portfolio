@@ -23,14 +23,29 @@
 ## [Coding practice challenge](./LabChallenge.java)
 
 >"Problem
->\[... T\]he class MP3 is already defined. Use this class to do the following things:
->- Create the class Podcast that inherits from MP3
+>\[... T\]he class `MP3` is already defined. Use this class to do the following things:
+>- Create the class `Podcast` that inherits from `MP3`
 >- Override the constructor such that the podcast has the following attributes:
->  - name - a string that is the name of the podcast
->  - title - a string that is the title of the episode
->  - length - an integer that has the length of the podcast in seconds
->  - genre - a string that is the genre of the podcast
->  - date - a string that represents when the podcast was released to the public
-
-Expected Output
-Declare an instance of the Podcast class as shown below."
+>  - `name` - a string that is the name of the podcast
+>  - `title` - a string that is the title of the episode
+>  - `length` - an integer that has the length of the podcast in seconds
+>  - `genre` - a string that is the genre of the podcast
+>  - `date` - a string that represents when the podcast was released to the public
+>  
+>Expected Output
+>  
+>Declare an instance of the `Podcast` class as shown below.
+```
+    //add code below this line
+  
+    Podcast p = new Podcast("Planet Money", "Hollywood's Black List", 1460, "economics", "10 July 2020");
+  
+    //add code above this line   
+```
+>  
+>The table below shows the method calls (left) and the output (right). Your class will be expected to work with all of these method calls."
+>
+>| Item         | Price     | # In stock |
+>|--------------|-----------|------------|
+>| Juicy Apples | 1.99      | *7*        |
+>| Bananas      | **1.89**  | 5234       |
