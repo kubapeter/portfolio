@@ -23,6 +23,7 @@
 ## [Coding practice challenge](./LabChallenge.java)
 
 >"Problem
+>
 >\[... T\]he class `MP3` is already defined. Use this class to do the following things:
 >- Create the class `Podcast` that inherits from `MP3`
 >- Override the constructor such that the podcast has the following attributes:
