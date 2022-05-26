@@ -1,8 +1,8 @@
 <a href="https://www.coursera.org/learn/object-oriented-java-inheritance-and-encapsulation">
-  <img src="/img/Java_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="150" align="right">
+  <img src="/img/Object_Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="150" align="right">
 </a>
 
-<img src="/img/Object_Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="120" height="120" align="left">
+<img src="/img/codio_logo.svg" width="120" height="120" align="left">
 
 # Object-Oriented Java: Inheritance and Encapsulation
 
