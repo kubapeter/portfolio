@@ -11,4 +11,4 @@
 
 ## [Coding practice challenge](./LabChallenge.java)
 
->"Write a recursive method called recursivePower that takes two integers as parameters. The first parameter is the base and the second parameter is the exponent. Return the base parameter to the power of the exponent."
+>"Write a recursive method called `recursivePower` that takes two integers as parameters. The first parameter is the base and the second parameter is the exponent. Return the base parameter to the power of the exponent."
