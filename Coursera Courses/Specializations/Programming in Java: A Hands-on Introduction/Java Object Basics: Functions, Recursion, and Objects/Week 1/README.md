@@ -2,7 +2,7 @@
   <img src="/img/Java_Basic_Structures_Arrays,_Strings,_and_Files_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> Arrays
+# Week 1 <br> User-Defined Methods
 
 ## Learning Objectives
 - Create an array using both the initializer list and new methods
