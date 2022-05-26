@@ -16,4 +16,20 @@
 
 ## [Coding practice challenge](./Lab_Challenge.java)
 
->"Write a boolean expression that incorporates one of the equality operators, one of the less than operators, one of the greater than operators, and two of the logical operators. The result of your boolean expression must be `false`."
+>"Assignment:
+>
+>For this challenge, you will use your knowledge of patterns, conditionals, and nested `for` loops to produce the following output:
+```
+XOXOXOXOX
+OXO
+OXO
+XOXOXOXOX
+OXO
+OXO
+XOXOXOXOX
+OXO
+OXO
+```
+>Requirement:
+>
+>Your program must include at least two `for` loops, one nested within another, in order to receive credit. In addition, you are only allowed to use, at most, two `System.out.print()` or `System.out.println()` statements."
