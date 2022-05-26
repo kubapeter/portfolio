@@ -24,8 +24,8 @@ Course 4 of the [Programming in Java: A Hands-on Introduction Specialization](..
 ## Course description
 
 >"This course is designed for learners with limited coding experience, providing a solid foundation of not just Java, but core Computer Science topics that can be transferred to other languages. The modules in this course cover inheritance, encapsulation, polymorphism, and other object-related topics. Completion of the prior 3 courses in this specialization is recommended.
-
-To allow for a truly hands-on, self-paced learning experience, this course is video-free. Assignments contain short explanations with images and runnable code examples with suggested edits to explore code examples further, building a deeper understanding by doing. You'll benefit from instant feedback from a variety of assessment items along the way, gently progressing from quick understanding checks (multiple choice, fill in the blank, and un-scrambling code blocks) to small, approachable coding exercises that take minutes instead of hours."
+>
+>To allow for a truly hands-on, self-paced learning experience, this course is video-free. Assignments contain short explanations with images and runnable code examples with suggested edits to explore code examples further, building a deeper understanding by doing. You'll benefit from instant feedback from a variety of assessment items along the way, gently progressing from quick understanding checks (multiple choice, fill in the blank, and un-scrambling code blocks) to small, approachable coding exercises that take minutes instead of hours."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/object-oriented-java-inheritance-and-encapsulation">website</a></p>
 
