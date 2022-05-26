@@ -20,19 +20,10 @@
 
 ## [Coding practice challenge](./LabChallenge.java)
 
->"Assignment:
+>"You are going to write a program that takes a string called `myString` and returns the string but with a `*` in the place of vowels. Assume that vowels are upper and lowercase `a, e, i, o, u`. For example, if `myString = "Hello"`, then your program will print `"H*ll*"`.
 >
->For this challenge, you will use your knowledge of 2D arrays to produce the chessboard pattern:
-```
-OXOXOXOX
-XOXOXOXO
-OXOXOXOX
-XOXOXOXO
-OXOXOXOX
-XOXOXOXO
-OXOXOXOX
-XOXOXOXO
-```
->Requirement:
+>Requirements:
 >
->Your program cannot make any changes to the existing code in the program. If you do, you will not earn any credit for this challenge. If you accidentally delete any existing code, you can copy the original code shown above back into your program."
+>- You should not make any changes to the code that already exists. If you accidentally delete any existing code, you can copy and paste the entire program from above.
+>- You can use any number of string methods and conditionals to produce the desired output.
+
