@@ -17,8 +17,15 @@
 
 ## [Coding practice challenge](./LabChallenge.java)
 
->"You are going to develop a method that takes an ArrayList of strings as a parameter, iterates through that ArrayList and greets every element in it with `"Hello"` followed by a newline.
+>"Problem
 >
->Requirements:
->- You should not make any changes to the code that already exists. If you accidentally delete any existing code, you can copy and paste the entire program from above.
->- You can use any number of additional methods you’d like but you must include at least the method called `sayHello()` in your code."
+>Write a class named `Person` that has attributes for name, age, and occupation. These attributes should be private. Create getters and setters for each attribute following Java conventions.
+>
+>Expected Output
+>- Declare the instance `new Person("Citra Curie", 16, "student")`
+>- The method `getName()` returns `Citra Curie`
+>- The method `setName("Rowan Faraday")` changes the name attribute to `“Rowan Faraday”`
+>- The method `getAge()` returns 16
+>- The method `setAge(18)` changes the age attribute to 18
+>- The method `getOccupation()` returns `student`
+>- The method `setOccupation("plumber")` changes the occupation attribute to “plumber”"
