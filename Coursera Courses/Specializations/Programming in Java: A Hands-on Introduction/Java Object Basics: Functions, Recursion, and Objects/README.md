@@ -1,4 +1,4 @@
-<a href="https://https://www.coursera.org/learn/java-object-basics">
+<a href="https://www.coursera.org/learn/java-object-basics">
   <img src="/img/Java_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="150" align="right">
 </a>
 
