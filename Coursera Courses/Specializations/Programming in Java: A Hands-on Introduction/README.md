@@ -50,3 +50,5 @@ The specialization consists of 4 courses.
 4. [Object-Oriented Java: Inheritance and Encapsulation](./course4_folder)
 
 ## Remarks
+- The philosophy of the whole specialization is learning by doing. There are no videos, all the concepts are taught by code examples, and coding puzzles. 
+- A very well documented specialization. From its pdf documents one can really get a deep insight of what happens in the course. 
