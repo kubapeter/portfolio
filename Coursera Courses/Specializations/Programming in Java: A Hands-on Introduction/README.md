@@ -15,7 +15,7 @@ Taught by: [Anh Le](https://www.coursera.org/instructor/ale),
 
 ---
 
-**35 hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
+**35 hours** to complete ([certificate](./Coursera_Certification_Programming_in_Java_A_Hands-on_Introduction_Specialization.pdf), [verification](https://coursera.org/verify/specialization/FBSNRGGQK32N))
 
 The specialization consists of ? courses. 
 
