@@ -4,7 +4,7 @@
 
 <img src="/img/codio_logo.svg" width="120" height="120" align="left">
 
-# Programming in Java: A Hands-on Introduction
+# Programming in Java: A Hands-on Introduction Specialization
 
 Offered by 
 ### *codio*
