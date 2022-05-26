@@ -11,6 +11,6 @@
 
 ## [Coding practice challenge](./LabChallenge.java)
 
->"Write a recursive method called `recursivePower` that takes two integers as parameters. The first parameter is the base and the second parameter is the exponent. Return the base parameter to the power of the exponent."
+>"Write a recursive method called `recursivePower` that takes two integers[^remark] as parameters. The first parameter is the base and the second parameter is the exponent. Return the base parameter to the power of the exponent."
 
-Remark: although the challenge mentions "integers as parameters", the code I share only handles the cases where the exponent is non-negative (as well as the official solution of codio).
+[^remark]:Although the challenge mentions "integers as parameters", the code I share only handles the cases where the exponent is non-negative (as well as the official solution of codio).
