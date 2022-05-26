@@ -28,7 +28,7 @@ The specialization consists of ? courses.
 <p align="right">More details on <a href="https://www.coursera.org/specializations/hands-on-java">website</a></p>
 
 <a href="https://www.coursera.org/learn/object-oriented-java-inheritance-and-encapsulation">
-  <img src="/img/Object-Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="75" align="right">
+  <img src="/img/Object_Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/java-object-basics">
   <img src="/img/Java_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="75" align="right">
