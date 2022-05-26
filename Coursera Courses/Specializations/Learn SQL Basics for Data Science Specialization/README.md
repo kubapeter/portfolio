@@ -47,7 +47,7 @@ The specialization consists of 4 courses.
 ---
 
 1. [SQL for Data Science](./SQL%20for%20Data%20Science)
-2. [Data Wrangling, Analysis and AB Testing with SQL](./course2_folder)
+2. [Data Wrangling, Analysis and AB Testing with SQL](./Data%20Wrangling,%20Analysis%20and%20AB%20Testing%20with%20SQL)
 3. [Distributed Computing with Spark SQL](./course3_folder)
 4. [SQL for Data Science Capstone Project](./course4_folder)
 
