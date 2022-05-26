@@ -17,7 +17,7 @@ Taught by: [Anh Le](https://www.coursera.org/instructor/ale),
 
 **9 hours** to complete - 4 coding assignments
 
-Course 2 of the [Programming in Java: A Hands-on Introduction Specialization](../) 
+Course 3 of the [Programming in Java: A Hands-on Introduction Specialization](../) 
 
 ---
 
