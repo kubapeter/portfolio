@@ -18,13 +18,20 @@
 
 >"Problem
 >
->Write a class named `Person` that has attributes for name, age, and occupation. These attributes should be private. Create getters and setters for each attribute following Java conventions.
+>The BankAccount class is defined in the IDE to the left. Create the toString method that returns a string representation of a BankAccount object.
 >
 >Expected Output
->- Declare the instance `new Person("Citra Curie", 16, "student")`
->- The method `getName()` returns `Citra Curie`
->- The method `setName("Rowan Faraday")` changes the name attribute to `“Rowan Faraday”`
->- The method `getAge()` returns 16
->- The method `setAge(18)` changes the age attribute to 18
->- The method `getOccupation()` returns `student`
->- The method `setOccupation("plumber")` changes the occupation attribute to “plumber”"
+>
+>Create two different BankAccount objects.
+
+```java
+    BankAccount account1 = new BankAccount(2432, 89.52);
+    BankAccount account2 = new BankAccount(1998, 239.43);
+```
+
+>If you print each object, you should see the following output.
+>
+>| Method Call                     | Output                                         | 
+>|---------------------------------|------------------------------------------------|
+>| `System.out.println(account1);` | BankAccount\[checking=2432.0, savings=89.52\]  | 
+>| `System.out.println(account2);` | BankAccount\[checking=1998.0, savings=239.43\] |
