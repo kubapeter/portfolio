@@ -46,10 +46,10 @@
 >  
 >The table below shows the method calls (left) and the output (right). Your class will be expected to work with all of these method calls."
 >
->| Method Call                            | Return Value                            | 
->|----------------------------------------|-----------------------------------------|
->| System.out.println(p.displayName());   | The name is Planet Money                | 
->| System.out.println(p.displayTitle());  | The title is Hollywood's Black List     | 
->| System.out.println(p.displayLength()); | The length is 24 minutes and 20 seconds |
->| System.out.println(p.displayGenre());  | The genre is economics                  |
->| System.out.println(p.displayDate());   | The date is 10 July 2020                |
+>| Method Call                              | Return Value                              | 
+>|------------------------------------------|-------------------------------------------|
+>| `System.out.println(p.displayName());`   | `The name is Planet Money`                | 
+>| `System.out.println(p.displayTitle());`  | `The title is Hollywood's Black List`     | 
+>| `System.out.println(p.displayLength());` | `The length is 24 minutes and 20 seconds` |
+>| `System.out.println(p.displayGenre());`  | `The genre is economics`                  |
+>| `System.out.println(p.displayDate());`   | `The date is 10 July 2020`                |
