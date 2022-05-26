@@ -14,10 +14,10 @@
 ## Coding practice challenge
 
 >"In the code to the left, we see that there are a series of declared and initialized variables. Use these variables to print out a custom message to
-customers who open a chat client. Your output should look something like this:
->
+customers who open a chat client. Your output should look something like this:"
+
+
 ```
 Hello! Today is Wednesday, May 4.
 The current wait time is 4 minutes.
 ```
->"
