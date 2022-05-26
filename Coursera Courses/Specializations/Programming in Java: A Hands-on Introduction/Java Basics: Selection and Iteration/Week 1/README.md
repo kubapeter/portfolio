@@ -11,7 +11,7 @@
 - Assign/overwrite a value to a variable
 - Understand four basic data types: strings, boolean, ints, and floats
 
-## [Coding practice challenge](./Lab_Challenge.java)
+## [Coding practice challenge](./LabChallenge.java)
 
 >"In the code to the left, we see that there are a series of declared and initialized variables. Use these variables to print out a custom message to
 customers who open a chat client. Your output should look something like this:"
