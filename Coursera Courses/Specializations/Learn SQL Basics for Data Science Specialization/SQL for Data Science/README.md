@@ -39,5 +39,5 @@ This folder contains
 - [Week 3](./Week%203): Subqueries and Joins in SQL
 - [Week 4](./Week%204): Modifying and Analyzing Data with SQL
 
-## Remarks
+## Remark
 - The course teaches SQLite
