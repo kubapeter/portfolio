@@ -16,4 +16,4 @@
 
 ## [Coding practice challenge](./Lab_Challenge.java)
 
->"Write a program that determines the month of the year based on the value of a variable called month. The variable will be a number from 1 to 12 (1 is January, 2 is February, etc.). Use a println statement to write the month to the screen."
+>"Write a program that determines the month of the year based on the value of a variable called `month`. The variable will be a number from 1 to 12 (`1` is January, `2` is February, etc.). Use a `println` statement to write the month to the screen."
