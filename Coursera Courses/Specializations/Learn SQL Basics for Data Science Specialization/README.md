@@ -52,5 +52,3 @@ The specialization consists of 4 courses.
 4. [SQL for Data Science Capstone Project](./course4_folder)
 
 ## Remarks
-
-The 
