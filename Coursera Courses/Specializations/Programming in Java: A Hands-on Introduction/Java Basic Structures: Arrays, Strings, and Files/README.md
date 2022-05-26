@@ -34,7 +34,7 @@ This folder contains
 - [x] source code of coding practice challenges[^1]
 - [x] short descriptions of the modules 
 - [x] lesson notes 
-- [x] [certificate](./Coursera_Certification_Java_Basics_Selection_and_Iteration.pdf) ([verification](https://coursera.org/verify/UEHXXLSTS7MP))
+- [x] [certificate](./Coursera_Certificate_Java_Basic_Structures_Arrays,_Strings,_and_Files.pdf) ([verification](https://coursera.org/verify/2EK459FLXRUP))
 
 ## Syllabus
 - [Week 1](./Week%201): Arrays
