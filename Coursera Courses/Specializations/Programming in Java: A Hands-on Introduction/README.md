@@ -51,4 +51,4 @@ The specialization consists of 4 courses.
 
 ## Remarks
 - The philosophy of the whole specialization is learning by doing. There are no videos, all the concepts are taught by code examples, and coding puzzles. 
-- A very well documented specialization. From its pdf documents one can really get a deep insight of what happens in the course. 
+- A very well documented specialization. From its pdf documents one can really get a deep insight into the course. 
