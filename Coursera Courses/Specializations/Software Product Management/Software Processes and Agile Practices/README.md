@@ -33,7 +33,7 @@ This folder contains
 - [x] [certificate](./Certificate/Coursera_Certificate_Software_Processes_and_Agile_Practices.pdf) ([verification](https://coursera.org/verify/HE2XQHEMY4X2))
 
 ## Syllabus
-- Week 1: Introduction to Processes
+### Week 1: Introduction to Processes
 >Are you someone who likes to see the big-picture? Being a forward thinker who knows what’s coming next is an invaluable trait as a software product manager. This module will prepare you to become this asset for your team. A software process organizes development from beginning to end. We are going to walk through each step of the development process. This will allow you to become familiar with the entire development process so that you can effectively organize product development and foresee upcoming steps--even if you’ve never worked in software development before!
 - Week 2: Process Models
 - Week 3: Agile Practices
