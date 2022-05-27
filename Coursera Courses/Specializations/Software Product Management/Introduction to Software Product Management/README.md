@@ -33,7 +33,11 @@ This folder contains
 - [x] [certificate](./Certificate/Coursera_Certificate_Introduction_to_Software_Product_Management.pdf) ([verification](https://coursera.org/verify/BCTAZQGH5AHE))
 
 ## Syllabus
-- Week 1: Software Product Management - The Discipline
-- Week 2: Foundations of Software Product Management
 
+#### Week 1: Software Product Management - The Discipline
 
+"Are you ready to start? Our starting point will be the goal of software product management, and that is to build better software. We will delve into the role of the software product manager, where you will hear from software industry representatives. This module will also cover the path which you will take through this specialization, which offers to prepare you for taking on a software product manager role."
+
+#### Week 2: Foundations of Software Product Management
+
+>"Welcome to the second half of Introduction to Software Product Management. In this module you will learn the philosophy, core values, and principles of Agile software development. The Agile philosophy has reshaped modern software development. Challenge yourself by thinking about how you would deliver a successful software product within the “triangle” of (a) meeting client needs, (b) delivering on schedule, and (c) staying within budget. This module will also preview software product management in four foundational areas: establishing a process, defining requirements, planning the work, and monitoring development. You’ll see the important role they play in producing better software."
