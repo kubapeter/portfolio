@@ -15,13 +15,13 @@
 - Differentiate between the working tree, staging area, local repository and remote repository
 
 ## Hands-on labs
-- [(Sourcetree) Installation and Getting Started](./)
-- [(Command Line) Installation and Getting Started](./)
-- [(Sourcetree) Create a Local Repository](./)
-- [(Command Line) Create a Local Repository](./)
-- [(Sourcetree) Commit to a Local Repository](./)
-- [(Command Line) Commit to a Local Repository](./)
-- [Create a Remote Repository](./)
-- [(Sourcetree) Push to a Remote Repository](./)
-- [(Command Line) Push to a Remote Repository](./)
+- [Installation and Getting Started (Sourcetree)](./Labs/)
+- [Installation and Getting Started (Command Line)](./Labs/)
+- [Create a Local Repository (Sourcetree)](./Labs/)
+- [Create a Local Repository (Command Line)](./Labs/)
+- [Commit to a Local Repository (Sourcetree)](./Labs/)
+- [Commit to a Local Repository (Command Line)](./Labs/)
+- [Create a Remote Repository](./Labs/)
+- [Push to a Remote Repository (Sourcetree)](./Labs/)
+- [Push to a Remote Repository (Command Line)](./Labs/)
 
