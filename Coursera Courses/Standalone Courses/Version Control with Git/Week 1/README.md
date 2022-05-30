@@ -16,11 +16,7 @@
 
 ## Hands-on labs
 - Installation and Getting Started [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- [Create a Local Repository (Sourcetree)](./Labs/)
-- [Create a Local Repository (Command Line)](./Labs/)
-- [Commit to a Local Repository (Sourcetree)](./Labs/)
-- [Commit to a Local Repository (Command Line)](./Labs/)
+- Create a Local Repository [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
+- Commit to a Local Repository [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
 - [Create a Remote Repository](./Labs/)
-- [Push to a Remote Repository (Sourcetree)](./Labs/)
-- [Push to a Remote Repository (Command Line)](./Labs/)
-
+- Push to a Remote Repository [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
