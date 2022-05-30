@@ -42,7 +42,3 @@ This folder contains
 - [Week 2](./Week%202): Branching and Merging I
 - [Week 3](./Week%203): Branching and Merging II
 - [Week 4](./Week%204): Git Workflows
-
-## Remarks
-- The core of the course is constituted by the 20 hands-on labs. At the beginning of the course the student registers a free Atlassian account. The labs teach everything using the free version of Jira on the website. 
-- The course is quite practice oriented, although it also covers some basic concepts of agile project management. 
