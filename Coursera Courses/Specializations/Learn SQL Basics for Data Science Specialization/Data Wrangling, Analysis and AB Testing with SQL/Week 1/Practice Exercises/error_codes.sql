@@ -4,13 +4,39 @@
 SELECT *
   FROM dsv1069.users
   
+-- Solution: 
+
+SELECT 
+    id AS user_id, 
+    email_address
+  FROM dsv1069.users
+  WHERE deleted_at IS NULL
+  
   
 -- 2. Use the items table to count the number of items for sale in each category.
 
+-- Solution: 
+
+SELECT 
+    category, 
+    COUNT(id) AS item_count
+  FROM dsv1069.items
+  GROUP BY category
+  ORDER BY item_count DESC
 
 
 -- 3. Select all of the columns from the result when you JOIN the users table to the orders table. 
 
+-- Solution:
+
+SELECT *
+  FROM 
+    dsv1069.users 
+      JOIN
+    dsv1069.orders 
+      ON users.id = orders.user_id
+      
+      
 
 -- 4. Check out the query below. This is not the right way to count the number of viewed_item events. Determine what is wrong and correct the error.
 -- Starter Code:
@@ -20,6 +46,22 @@ SELECT
   FROM dsv1069.events
   WHERE event_name = 'view_item'
   
+-- The query below shows that there are 2 rows for every event_id value
+
+SELECT
+    event_id,
+    COUNT(*)
+  FROM dsv1069.events
+  GROUP BY event_id
+  
+-- So the right query uses DISTINCT 
+
+SELECT
+    COUNT(DISTINCT event_id) AS events
+  FROM dsv1069.events
+  WHERE event_name = 'view_item'
+
+
 -- 5. Compute the number of items in the items table which have been ordered. The query below runs, but it isn’t right. Determine what is wrong and correct the error or start from scratch.
 -- Starter Code: 
 
