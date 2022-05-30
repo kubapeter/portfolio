@@ -72,7 +72,20 @@ SELECT
       INNER JOIN 
     dsv1069.items
       ON orders.item_id = items.id
-      
+     
+-- The query below shows that there are far less items at all than the ansewer to the query above
+
+SELECT
+    COUNT(*)
+  FROM dsv1069.items
+
+-- The right solution uses DISTINCT and does not use the JOIN as it is redundant (it is an inefficiency)
+
+SELECT
+    COUNT(DISTINCT item_id) AS item_count
+  FROM dsv1069.orders
+  
+     
 -- 6. For each user figure out IF a user has ordered something, and when their first purchase was. The query below doesn’t return info for any of the users who haven’t ordered anything.
 -- Starter Code:
 
@@ -86,6 +99,20 @@ FROM
     ON orders.user_id = users.id
 GROUP BY 
   users.id
+  
+-- The INNER JOIN is the problem. It leaves out all the users who has no order. The solution is OUTER JOIN
+
+SELECT
+  users.id AS user_id,
+  MIN(orders.paid_at) AS min_paid_at
+FROM 
+  dsv1069.orders
+    RIGHT OUTER JOIN 
+  dsv1069.users
+    ON orders.user_id = users.id
+GROUP BY 
+  users.id
+  
   
 -- 7. Figure out what percent of users have ever viewed the user profile page, but this query isn’t right. Check to make sure the number of users adds up, and if not, fix the query.
 -- Starter Code:
@@ -115,3 +142,38 @@ SELECT
       ELSE true END
     )
 
+-- Problem: the line 
+--   WHERE event_name = 'view_user_profile'
+-- makes the LEFT OUTER JOIN an INNER JOIN
+-- That is why we only get a "true" row and not a "false" row.
+
+-- Solution: the right place for the 
+--   event_name = 'view_user_profile'
+-- conditon is in the ON conditon
+
+SELECT
+    (
+    CASE WHEN first_view IS NULL THEN false
+      ELSE true END
+    ) AS has_viewed_profile_page,
+    COUNT(user_id) AS users
+  FROM 
+    (
+    SELECT 
+      users.id AS user_id,
+      MIN(event_time) AS first_view
+    FROM 
+      dsv1069.users
+        LEFT OUTER JOIN
+      dsv1069.events
+        ON 
+          events.user_id = users.id
+          AND 
+          event_name = 'view_user_profile'
+    GROUP BY users.id
+    ) first_profile_views
+  GROUP BY 
+    (
+    CASE WHEN first_view IS NULL THEN false
+      ELSE true END
+    )
