@@ -13,7 +13,6 @@
 - Create a merge commit
 
 ## Hands-on labs
-- Git References [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- Branches [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- Merging [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- 
+- Git References [(Sourcetree)](./Labs/lab3_2_03a_sourcetree_references.pdf) [(Command Line)](./Labs/lab3_2_03b_cli_references.pdf)
+- Branches [(Sourcetree)](./Labs/lab3_2_04a_sourcetree_branches.pdf) [(Command Line)](./Labs/lab3_2_04b_cli_branches.pdf)
+- Merging [(Sourcetree)](./Labs/lab3_2_05a_sourcetree_merging.pdf) [(Command Line)](./Labs/lab3_2_05b_cli_merging.pdf)
