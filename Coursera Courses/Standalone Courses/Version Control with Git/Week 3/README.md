@@ -15,8 +15,8 @@
 - Perform an interactive rebase
 
 ## Hands-on labs
-- Resolving Merge Conflicts [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- Tracking Branches [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- Fetch, Pull and Push [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- Rebasing [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
-- Rewriting History [(Sourcetree)](./Labs/) [(Command Line)](./Labs/)
+- Resolving Merge Conflicts [(Sourcetree)](./Labs/lab3_3_01a_sourcetree_resolving.pdf) [(Command Line)](./Labs/lab3_3_01b_cli_resolving.pdf)
+- Tracking Branches [(Sourcetree)](./Labs/lab3_3_02a_sourcetree_tracking.pdf) [(Command Line)](./Labs/lab3_3_02b_cli_tracking.pdf)
+- Fetch, Pull and Push [(Sourcetree)](./Labs/lab3_3_03a_sourcetree_fetch.pdf) [(Command Line)](./Labs/lab3_3_03b_cli_fetch.pdf)
+- Rebasing [(Sourcetree)](./Labs/lab3_3_04a_sourcetree_rebasing.pdf) [(Command Line)](./Labs/lab3_3_04b_cli_rebasing.pdf)
+- Rewriting History [(Sourcetree)](./Labs/lab3_3_05a_sourcetree_rewriting.pdf) [(Command Line)](./Labs/lab3_3_05b_cli_rewriting.pdf)
