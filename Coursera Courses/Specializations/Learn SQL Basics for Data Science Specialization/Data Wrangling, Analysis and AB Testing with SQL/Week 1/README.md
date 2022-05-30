@@ -2,7 +2,7 @@
   <img src="/img/Data_Wrangling,_Analysis_and_AB_Testing_with_SQL_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> Data of Unknown Quality
+# Week 1 <br> Data of Unknown Quality 
 
 ## Learning Objectives
 - Create trustworthy analysis from a new dataset.
