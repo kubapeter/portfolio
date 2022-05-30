@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/Agile_with_Atlassian_Jira_logo.svg" width="120" align="right">
+  <img src="/img/Version_Control_with_Git_logo.avif" width="120" align="right">
 </a>
 
 # Week 1 <br> Our First Repository
