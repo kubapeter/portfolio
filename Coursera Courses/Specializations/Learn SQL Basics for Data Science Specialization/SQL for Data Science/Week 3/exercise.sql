@@ -15,12 +15,12 @@ SELECT COUNT(albumId) AS total
 SELECT a.Title, t.UnitPrice
   FROM 
     Albums a
-    INNER JOIN 
+      INNER JOIN 
     Tracks t 
-    ON a.AlbumId = t.AlbumId 
-    INNER JOIN 
+      ON a.AlbumId = t.AlbumId 
+      INNER JOIN 
     Artists ar 
-    ON ar.ArtistID = a.ArtistID 
+      ON ar.ArtistID = a.ArtistID 
   WHERE ar.Name = 'Audioslave'; 
 
 
@@ -32,9 +32,9 @@ SELECT
 	  ,i.Invoiceid
   FROM 
     customers n
-    LEFT JOIN 
+      LEFT JOIN 
     invoices i 
-    ON n.Customerid = i.Customerid
+      ON n.Customerid = i.Customerid
   WHERE InvoiceId IS NULL;
 
 
@@ -43,9 +43,9 @@ SELECT
 SELECT t.Title, SUM(p.UnitPrice)
   FROM 
     albums t
-    INNER JOIN 
+      INNER JOIN 
     tracks p 
-    ON t.Albumid = p.Albumid
+      ON t.Albumid = p.Albumid
   --WHERE t.Title = 'Big Ones'
   GROUP BY t.Title;
 
@@ -55,7 +55,7 @@ SELECT t.Title, SUM(p.UnitPrice)
 SELECT a.InvoiceId D
   FROM 
     invoices a
-    CROSS JOIN 
+      CROSS JOIN 
     invoice_items b;
 
 -- 922880 total rows shown
