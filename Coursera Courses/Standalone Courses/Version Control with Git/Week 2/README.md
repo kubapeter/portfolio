@@ -2,7 +2,7 @@
   <img src="/img/Version_Control_with_Git_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> Branching and Merging I
+# Week 2 <br> Branching and Merging I
 
 ## Learning Objectives
 - Describe Git's commit model
