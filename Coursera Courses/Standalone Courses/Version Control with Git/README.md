@@ -4,7 +4,7 @@
 
 <img src="/img/Atlassian_logo.avif" width="120" height="120" align="left">
 
-# Agile with Atlassian Jira
+# Version Control with Git
 
 Offered by 
 ### *Atlassian*
