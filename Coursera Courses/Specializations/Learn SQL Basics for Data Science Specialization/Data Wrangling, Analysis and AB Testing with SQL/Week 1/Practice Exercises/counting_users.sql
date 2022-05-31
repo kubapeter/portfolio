@@ -1,12 +1,23 @@
+-- Demonstration of how a very simple and obivous (looking) question can be complicated and ambiguous. 
+
+
 -- 1. We’ll be using the users table to answer the question “How many new users are added each day?“. 
 -- Start by making sure you understand the columns in the table.
 -- Starter code: 
 
 SELECT * 
   FROM dsv1069.users
+
+-- user ids (accounts) can be deleted and can be merged into another account
   
   
 -- 2. Without worrying about deleted user or merged users, count the number of users added each day.
+
+SELECT 
+    DATE(created_at) AS day, 
+    COUNT(*)         AS users
+  FROM dsv1069.users 
+  GROUP BY DATE(created_at)
 
 
 -- 3. Consider the following query. Is this the right way to count merged or deleted users? 
@@ -18,14 +29,26 @@ SELECT
     COUNT(*) AS users
   FROM dsv1069.users
   WHERE
-    deleted_at IS NULL
+    deleted_at IS NULL  -- exclude deleted users
     AND
-    (id <> parent_user_id OR parent_user_id IS NULL)
+    (id <> parent_user_id OR parent_user_id IS NULL)  -- exclude merged accounts
   GROUP BY date(created_at)
+  
+-- Problem: if we delete users today, they will disappear from the day of account creation
   
   
 -- 4. Count the number of users deleted each day. Then count the number of users removed due to merging in a similar way.
 -- Starter code: (Use the result from #2 as a guide)
+
+SELECT
+    date(created_at) AS day,
+    COUNT(*) AS users
+  FROM dsv1069.users
+  WHERE
+    deleted_at IS NULL  -- exclude deleted users
+    AND
+    (id <> parent_user_id OR parent_user_id IS NULL)  -- exclude merged accounts
+  GROUP BY date(created_at)
 
 
 -- 5. Use the pieces you’ve built as subtables and create a table that has a column for 
