@@ -14,6 +14,7 @@
 - pivoting data
 - segmenting and visualizing data to check for completeness
 - identifying reasons why data might be missing
+- handling abiguous questions
 
 ## Practice Exercises
 
