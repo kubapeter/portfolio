@@ -12,6 +12,8 @@
 
 ## Subjects covered
 - pivoting data
+- segmenting and visualizing data to check for completeness
+- identifying reasons why data might be missing
 
 ## Practice Exercises
 
