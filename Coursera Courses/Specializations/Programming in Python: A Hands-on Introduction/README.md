@@ -14,7 +14,7 @@ Taught by: [Elise Deitrick](https://www.coursera.org/instructor/edeitrick) and
 
 ---
 
-**40 hours** to complete ([certificate](./Coursera_Certification_Programming_in_Java_A_Hands-on_Introduction_Specialization.pdf), [verification](https://coursera.org/verify/specialization/FBSNRGGQK32N))
+**40 hours** to complete ([certificate](./Coursera_Certification_Programming_in_Python_A_Hands-on_Introduction_Specialization.pdf), [verification](https://coursera.org/verify/specialization/A3B8C22QLJDX))
 
 The specialization consists of 4 courses. 
 
