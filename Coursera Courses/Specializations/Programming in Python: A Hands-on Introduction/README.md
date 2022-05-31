@@ -28,17 +28,17 @@ The specialization consists of 4 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/hands-on-python">website</a></p>
 
-<a href="https://www.coursera.org/learn/object-oriented-java-inheritance-and-encapsulation">
-  <img src="/img/Object_Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="75" align="right">
+<a href="https://www.coursera.org/learn/object-oriented-python">
+  <img src="/img/Object-Oriented_Python_Inheritance_and_Encapsulation_logo.avif" width="75" align="right">
 </a>
-<a href="https://www.coursera.org/learn/java-object-basics">
-  <img src="/img/Java_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="75" align="right">
+<a href="https://www.coursera.org/learn/python-object-basics">
+  <img src="/img/Python_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="75" align="right">
 </a>
-<a href="https://www.coursera.org/learn/java-basic-structures-arrays-strings-and-files">
-  <img src="/img/Java_Basic_Structures_Arrays,_Strings,_and_Files_logo.avif" width="75" align="right">
+<a href="https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files">
+  <img src="/img/Python_Basic_Structures_Lists,_Strings,_and_Files_logo.avif" width="75" align="right">
 </a>
-<a href="https://www.coursera.org/learn/codio-java-basics">
-  <img src="/img/Java_Basics_Selection_and_Iteration_logo.avif" width="75" align="right">
+<a href="https://www.coursera.org/learn/codio-python-basics">
+  <img src="/img/Python_Basics_Selection_and_Iteration_logo.avif" width="75" align="right">
 </a>
 
 ## Courses of the specialization
@@ -51,5 +51,6 @@ The specialization consists of 4 courses.
 4. [Object-Oriented Python: Inheritance and Encapsulation](./Object-Oriented%20Java:%20Inheritance%20and%20Encapsulation)
 
 ## Remarks
+- Unlike most introductory Python courses this specialization covers object-oriented python.
 - The philosophy of the whole specialization is learning by doing. There are no videos, all the concepts are taught by code examples, and coding puzzles. 
 - A very well documented specialization. From its pdf documents one can really get a deep insight into the course. 
