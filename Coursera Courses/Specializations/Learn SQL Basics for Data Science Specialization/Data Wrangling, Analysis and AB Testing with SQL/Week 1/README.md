@@ -11,6 +11,7 @@
 - Answer ambiguous questions by defining new metrics.
 
 ## Subjects covered
+- pivoting data
 
 ## Practice Exercises
 
