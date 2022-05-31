@@ -38,6 +38,7 @@ This folder contains
 - [Week 4](./Week%204): Case Study: AB Testing
 
 ## Remarks
+- tables do not exist, numbers do not match, pivot is not defined, not told
 - The course teaches SQLite
 
 https://modeanalytics.com/dsv1069/reports/0401f3197d05
