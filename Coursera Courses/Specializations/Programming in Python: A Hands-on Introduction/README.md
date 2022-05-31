@@ -22,7 +22,9 @@ The specialization consists of 4 courses.
 
 ## Description of the specialization
 
->"This specialization is intended for people without programming experience who seek to develop Java programming skills and learn about the underlying computer science concepts that will allow them to pick up other programming languages quickly. In these four courses, you will cover everything from fundamentals to object-oriented design. These topics will help prepare you to write anything from small programs to automate repetitive tasks to larger applications, giving you enough understanding of python to tackle more specialized topics such as Data Science and Artificial Intelligence."
+>"This course is designed for learners with limited coding experience, providing a solid foundation of not just python, but core Computer Science topics that can be transferred to other languages. The modules in this course cover inheritance, encapsulation, polymorphism, and other object-related topics. Completion of the prior 3 courses in this specialization is recommended.
+>
+>To allow for a truly hands-on, self-paced learning experience, this course is video-free. Assignments contain short explanations with images and runnable code examples with suggested edits to explore code examples further, building a deeper understanding by doing. You'll benefit from instant feedback from a variety of assessment items along the way, gently progressing from quick understanding checks (multiple choice, fill in the blank, and un-scrambling code blocks) to small, approachable coding exercises that take minutes instead of hours."
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/hands-on-python">website</a></p>
 
