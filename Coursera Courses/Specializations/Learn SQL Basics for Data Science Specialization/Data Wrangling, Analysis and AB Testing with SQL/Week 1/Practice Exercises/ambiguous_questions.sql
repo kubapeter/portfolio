@@ -1,0 +1,1 @@
+-- 1. We’ll be using the users table to answer the question “How many new users are added each day?“. Start by making sure you understand the columns in the table.
