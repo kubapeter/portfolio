@@ -27,7 +27,7 @@ Taught by: [Kwon, Kil Hyun](https://www.coursera.org/instructor/~28649677)
 
 ## Content
 This folder contains 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_Differential_Equations_Part_I_Basic_Theory.pdf) ([verification](https://coursera.org/verify/SMJP4BPJP8J8))
 
 ## Syllabus
 
