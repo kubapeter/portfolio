@@ -61,7 +61,7 @@ This folder contains
 
 #### Week 7: Linear Second Order Equations 3
 - Learn method of undetermined coefficients.
-- Apply solution methods to examples.m.
+- Apply solution methods to examples.
 
 #### Week 8: Linear Second Order Equations 4
 - Learn method of variation of parameters.
