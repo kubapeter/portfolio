@@ -25,8 +25,8 @@
 
 ## Practice Exercises
 
-There are 2 practice exercises for this week. 
-- The [first]
+There are 2 practice exercises for this week. It is not possible for students to access some of the features. 
+- The [first](./Practice%20Exercises/query_into_table.sql)
 - The [second]
 
 ## Remark
