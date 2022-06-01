@@ -35,7 +35,7 @@ This folder contains
 - [x] [certificate](./Coursera_Certificate_Python_Basics_Selection_and_Iteration.pdf) ([verification](https://coursera.org/verify/KMMAQUNW74HT))
 
 ## Syllabus
-- [Week 1](./Week%201): Fundamentals - Writing your first program!
+- [Week 1](./Week%201): Fundamentals 
 - [Week 2](./Week%202): Operators
 - [Week 3](./Week%203): Conditionals
 - [Week 4](./Week%204): Loops
