@@ -9,13 +9,11 @@
 Offered by 
 ### *Korea Advanced Institute of Science and Technology*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Kwon, Kil Hyun](https://www.coursera.org/instructor/~28649677) and [Kil Hyun Kwon](https://www.coursera.org/instructor/~9316372)
 
 ---
 
 **15 hours** to complete - 9 quizzes
-
-Course ? of the [spec_title](../) 
 
 ---
 
