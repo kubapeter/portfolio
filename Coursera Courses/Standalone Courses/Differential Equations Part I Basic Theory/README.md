@@ -13,7 +13,7 @@ Taught by: [Lecturer](lecturer_link)
 
 ---
 
-**? hours** to complete - ? quizzes, ? written and ? [coding assignments]
+**15 hours** to complete - 9 quizzes
 
 Course ? of the [spec_title](../) 
 
@@ -37,8 +37,36 @@ This folder contains
 - Learn basic definitions and terminologies in ordinary differential equations.
 - Understand initial value problem and Picard's theorem.
 
-#### Week 2: Introduction
+#### Week 2: First Order Differential Equation 1
+- Learn analytic methods to obtain general solutions of first order DE.
+- Apply solution methods to examples.
 
-- [Week 2](./Week%202): Introduction
-- [Week 3](./Week%203): week3_title
-- [Week 4](./Week%204): week4_title
+#### Week 3: First Order Differential Equation 2
+- Learn analytic methods to obtain general solutions of first order DE.
+- Apply solution methods to concrete examples including Bernoulli equation, Ricatti's equation, and Clairaut's equation.
+
+#### Week 4: Mathematical Modeling and Applications
+- Learn mathematical modeling examples that lead to differential equations.
+
+#### Week 5: Linear Second Order Equations 1
+- Learn basic terminologies in higher order linear differential equations.
+- Understand superposition principle for homogeneous equations.
+- Learn unique existence, linear independence, and Wronskian test.
+
+#### Week 6: Linear Second Order Equations 2
+- Understand fundamental set of solutions.
+- Learn general solution and superposition principle
+- Learn solution method: Reduction of order.
+- Learn how to solve homogeneous linear equations with constant coefficients.
+
+#### Week 7: Linear Second Order Equations 3
+- Learn method of undetermined coefficients.
+- Apply solution methods to examples.m.
+
+#### Week 8: Linear Second Order Equations 4
+- Learn method of variation of parameters.
+- Apply solution methods to examples.
+
+#### Week 9: Applications of Second Order Equations
+- Apply second order differential equations to physical phenomena analysis.
+- Apply second order differential equations to spring-mass system and pendulum.
