@@ -19,7 +19,7 @@
 ## Practice Exercises
 
 There are 4 practice exercises for this week. 
-- The first helps to get to know the database better through problematic queries
-- The second shows in 4 steps a way to format selected data into a table with pivot
-- The third offers practices to check if data can be trusted
-- The fourth shows that simple real life questions about the data set can be quite complicated to answer correctly
+- The [first](./error_codes.sql) helps to get to know the database better through problematic queries
+- The [second](./flexible_data_formats.sql) shows a way in 4 steps to format selected data into a table with pivot
+- The [third](./identifying_unreliable_data_nulls.sql) offers practices to check if data can be trusted
+- The [fourth](./counting_users.sql) shows that simple real life questions about the data set can be quite complicated to answer correctly
