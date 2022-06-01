@@ -38,7 +38,8 @@ SELECT *
       
       
 
--- 4. Check out the query below. This is not the right way to count the number of viewed_item events. Determine what is wrong and correct the error.
+-- 4. Check out the query below. This is not the right way to count the number of viewed_item events. 
+-- Determine what is wrong and correct the error.
 -- Starter Code:
 
 SELECT
@@ -62,7 +63,8 @@ SELECT
   WHERE event_name = 'view_item'
 
 
--- 5. Compute the number of items in the items table which have been ordered. The query below runs, but it isn’t right. Determine what is wrong and correct the error or start from scratch.
+-- 5. Compute the number of items in the items table which have been ordered. The query below runs, but it isn’t right. 
+-- Determine what is wrong and correct the error or start from scratch.
 -- Starter Code: 
 
 SELECT
@@ -86,7 +88,8 @@ SELECT
   FROM dsv1069.orders
   
      
--- 6. For each user figure out IF a user has ordered something, and when their first purchase was. The query below doesn’t return info for any of the users who haven’t ordered anything.
+-- 6. For each user figure out IF a user has ordered something, and when their first purchase was. 
+-- The query below doesn’t return info for any of the users who haven’t ordered anything.
 -- Starter Code:
 
 SELECT
@@ -114,7 +117,8 @@ GROUP BY
   users.id
   
   
--- 7. Figure out what percent of users have ever viewed the user profile page, but this query isn’t right. Check to make sure the number of users adds up, and if not, fix the query.
+-- 7. Figure out what percent of users have ever viewed the user profile page, but this query isn’t right. 
+-- Check to make sure the number of users adds up, and if not, fix the query.
 -- Starter Code:
 
 SELECT
