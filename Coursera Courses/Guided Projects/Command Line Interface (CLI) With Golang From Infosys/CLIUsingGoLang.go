@@ -37,8 +37,10 @@ func main() {
 }
 
 func execPINGCommand(cmdParam string) string {
-	if c, err := exec.Command("cmd", "/c", "ping", "-n", "3", cmdParam).CombinedOutput();
-	err != nil {
+	//if c, err := exec.Command("cmd", "/c", "ping", "-n", "3", cmdParam).CombinedOutput();
+	//err != nil {
+	c, err := exec.Command("cmd", "/c", "ping", "-n", "3", cmdParam).CombinedOutput();
+	if err != nil {	
 		errorMessage := "Error! Command execution failed"
 		return errorMessage
 	} else {
