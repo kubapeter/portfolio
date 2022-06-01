@@ -13,9 +13,10 @@
 ## Subjects covered
 - Sublime Text bulk editing
 - Right data type for the right tool
-- `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT`, `BIGINT`, `FLOAT`, `DOUBLE`, `DECIMAL`
-- `CHAR[Length]`, `VARCHAR[Length]`, `TINYTEXT`, `TEXT`, `MEDIUMTEXT`, `LONGTEXT`
-- `DATE`, `DATETIME`, `TIMESTAMP`, `TIME`
+- "Number", "text" and "date" types
+  - `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT`, `BIGINT`, `FLOAT`, `DOUBLE`, `DECIMAL`
+  - `CHAR[Length]`, `VARCHAR[Length]`, `TINYTEXT`, `TEXT`, `MEDIUMTEXT`, `LONGTEXT`
+  - `DATE`, `DATETIME`, `TIMESTAMP`, `TIME`
 - Dependency
 
 ## Remark
