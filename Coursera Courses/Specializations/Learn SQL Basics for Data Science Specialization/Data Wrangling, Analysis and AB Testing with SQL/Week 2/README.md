@@ -26,6 +26,8 @@
 ## Practice Exercises
 
 There are 2 practice exercises for this week. 
+- The [first]
+- The [second]
 
 ## Remark
 - The table creation is done in MySQL syntax
