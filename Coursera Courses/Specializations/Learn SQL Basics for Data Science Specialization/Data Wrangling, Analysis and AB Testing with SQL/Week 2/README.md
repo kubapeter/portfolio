@@ -11,3 +11,12 @@
 - Use tools to create your own trustworthy table.
 
 ## Subjects covered
+- Sublime Text bulk editing
+- Right data type for the right tool
+- `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT`, `BIGINT`, `FLOAT`, `DOUBLE`, `DECIMAL`
+- `CHAR[Length]`, `VARCHAR[Length]`, `TINYTEXT`, `TEXT`, `MEDIUMTEXT`, `LONGTEXT`
+- `DATE`, `DATETIME`, `TIMESTAMP`, `TIME`
+- Dependency
+
+## Remark
+- The table creation is done in MySQL syntax
