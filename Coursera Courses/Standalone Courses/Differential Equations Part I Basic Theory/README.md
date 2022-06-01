@@ -9,7 +9,7 @@
 Offered by 
 ### *Korea Advanced Institute of Science and Technology*
 
-Taught by: [Kwon, Kil Hyun](https://www.coursera.org/instructor/~28649677) and [Kil Hyun Kwon](https://www.coursera.org/instructor/~9316372)
+Taught by: [Kil Hyun Kwon](https://www.coursera.org/instructor/~9316372) and [Kwon, Kil Hyun](https://www.coursera.org/instructor/~28649677)
 
 ---
 
