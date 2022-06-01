@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/codio-python-basics">
-  <img src="/img/Java_Basics_Selection_and_Iteration_logo.avif" width="150" align="right">
+  <img src="/img/Python_Basics_Selection_and_Iteration_logo.avif" width="150" align="right">
 </a>
 
 <img src="/img/codio_logo.svg" width="120" height="120" align="left">
