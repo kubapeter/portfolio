@@ -36,5 +36,3 @@ The specialization consists of 4 courses.
 4. [Python Data Visualization](./Python%20Data%20Visualization)
 
 ## Remarks
-
-The 
