@@ -13,7 +13,7 @@
 ## Subjects covered
 - Sublime Text bulk editing
 - Right data type for the right tool
-- 3 big type category: "Number", "text" and "date" 
+- 3 big type category: "number", "text" and "date" 
   - `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT`, `BIGINT`, `FLOAT`, `DOUBLE`, `DECIMAL`
   - `CHAR[Length]`, `VARCHAR[Length]`, `TINYTEXT`, `TEXT`, `MEDIUMTEXT`, `LONGTEXT`
   - `DATE`, `DATETIME`, `TIMESTAMP`, `TIME`
