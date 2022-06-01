@@ -30,11 +30,13 @@
   - Learn/optimize 
 - Daily updated tables
 
-## Practice Exercises
+## Practice Exercises[^1]
 
-There are 2 practice exercises for this week. It is not possible for students to access some of the features. 
+There are 2 practice exercises for this week. 
 - The [first](./Practice%20Exercises/query_into_table.sql) shows how to insert queried data into a newly created table. 
 - The [second](./Practice%20Exercises/user_snapshot_table.sql) shows how to create a daily updated table.
 
 ## Remark
 - The table creation is done in MySQL syntax
+
+[^1]:As a matter of fact there are no practice exercises for this week, because some of the features used are not possible for students to access in Mode (e. g. one cannot create tables). There are so called "activities" where the lecturer shows coding examples on video. I still share these activities as they are code-level examples of the depth the course covers its subject. 
