@@ -22,12 +22,18 @@
 - Extract transform load (ETL): "under the hood" steps during table creation
 - Job: the task given to a database to perform ETL
 - Backfill: to run a table creation/update task to a range of dates in the past
+- Hierarchy of data
+  - Collect 
+  - Move/store 
+  - Explore/transform 
+  - Aggregate/label 
+  - Learn/optimize 
 
 ## Practice Exercises
 
 There are 2 practice exercises for this week. It is not possible for students to access some of the features. 
-- The [first](./Practice%20Exercises/query_into_table.sql)
-- The [second]
+- The [first](./Practice%20Exercises/query_into_table.sql) shows how to insert queried data into a newly created table. 
+- The [second](./Practice%20Exercises/)
 
 ## Remark
 - The table creation is done in MySQL syntax
