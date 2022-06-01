@@ -18,6 +18,8 @@
 
 ## Practice Exercises
 
-For ethical reasons I do not share the correct answers for the coding quiz. But I share the [code for the practice quiz](./exercise.sql), which is quite similar but not graded. From this, one can get a more detailed insight of what is covered in week 1. 
-
-All of the questions in the practice quiz pull from the open source Chinook Database. Its ER Diagram can be seen below. 
+There are 4 practice exercises for this week. 
+- The first helps to get to know the database better through problematic queries
+- The second shows in 4 steps a way to format selected data into a table with pivot
+- The third offers practices to check if data can be trusted
+- The fourth shows that simple real life questions about the data set can be quite complicated to answer correctly
