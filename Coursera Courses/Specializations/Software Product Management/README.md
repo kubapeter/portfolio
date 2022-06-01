@@ -55,6 +55,4 @@ The specialization consists of 6 courses.
 5. Reviews & Metrics for Software Improvements
 6. Software Product Management Capstone
 
-## Personal impressions
-
-The 
+## Remarks
