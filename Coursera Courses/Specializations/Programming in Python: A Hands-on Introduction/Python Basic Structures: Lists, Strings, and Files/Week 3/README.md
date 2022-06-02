@@ -19,8 +19,6 @@
 
 ## [Coding practice challenge](./lab_challenge.py)
 
->Lab Challenge
->
 >Write a program that reads the text file `student_folder/.labs/myanmar.txt`. The file contains several instances of the word `Burma`. Replace each instance of `Burma` with `Myanmar`, and print the results of this transformation. The final output of your program should be:
 
 ```
