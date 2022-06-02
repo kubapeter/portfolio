@@ -20,5 +20,5 @@
 
 There are 3 practice exercises for this week. 
 - The [first](./Practice%20Exercises/rollup_table.sql) goes along the steps of making a rollup table
-- The [second](./Practice%20Exercises/flexible_data_formats.sql) shows a way in 4 steps to format selected data into a table with pivot
+- The [second](./Practice%20Exercises/promo_email.sql) gets the data needed to send an email to all users with the item they last viewed
 - The [third](./Practice%20Exercises/identifying_unreliable_data_nulls.sql) offers practices to check if data can be trusted
