@@ -32,7 +32,7 @@ This folder contains
 - [x] source code of coding practice challenges[^1]
 - [x] short descriptions of the modules 
 - [x] lesson notes 
-- [x] [certificate](./Coursera_Certificate_Python_Basics_Selection_and_Iteration.pdf) ([verification](https://coursera.org/verify/KMMAQUNW74HT))
+- [x] [certificate](./Coursera_Certificate_Python_Basic_Structures_Lists,_Strings,_and_Files.pdf) ([verification](https://coursera.org/verify/7SPTSEY4Z53P))
 
 ## Syllabus
 - [Week 1](./Week%201): Lists
