@@ -14,10 +14,11 @@
 - Steps of planning big queries
 - Test query vs. final query (readable, reusable)
 - Rollup table - even out seasonality noise
+- Windowing functions: `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`
 
 ## Practice Exercises
 
 There are 3 practice exercises for this week. 
-- The [first](./Practice%20Exercises/rollup_table.sql) helps to get to know the database better through problematic queries
+- The [first](./Practice%20Exercises/rollup_table.sql) goes along the steps of making a rollup table
 - The [second](./Practice%20Exercises/flexible_data_formats.sql) shows a way in 4 steps to format selected data into a table with pivot
 - The [third](./Practice%20Exercises/identifying_unreliable_data_nulls.sql) offers practices to check if data can be trusted
