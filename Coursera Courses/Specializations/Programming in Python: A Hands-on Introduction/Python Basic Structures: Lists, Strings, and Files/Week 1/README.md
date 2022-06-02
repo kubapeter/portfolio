@@ -11,7 +11,7 @@
 - Use an index to access an element
 - Use an index to modify elements in a list
 - Identify the return values for the above operations
-- Modify lists with slice (`:`), `in`, `+`, `\*`, and `len`
+- Modify lists with slice (`:`), `in`, `+`, `*`, and `len`
 - Describe the syntax of a method
 - Identify some commonly used list methods
 - Identify some functions that can be used with lists of numbers
