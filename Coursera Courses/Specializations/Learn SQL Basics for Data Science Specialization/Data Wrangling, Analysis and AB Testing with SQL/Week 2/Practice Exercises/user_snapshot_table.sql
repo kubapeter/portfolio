@@ -49,7 +49,7 @@ SELECT
 -- We get the table. If we want it for another day we only have to rewrite the date in line 20. 
 
 
--- 3. Now create a table and put this stuff into
+-- 3. Now create a table and put this stuff into it
     
 CREATE TABLE IF NOT EXISTS user_info 
   (
