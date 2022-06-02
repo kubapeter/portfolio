@@ -1,0 +1,5 @@
+--Using the table from Exercise 4.3 and compute a metric that measures
+--Whether a user created an order after their test assignment
+--Requirements: Even if a user had zero orders, we should have a row that counts
+-- their number of orders as zero
+--If the user is not in the experiment they should not be included
