@@ -45,8 +45,8 @@ The specialization consists of 4 courses.
  
 1. [Python Basics: Selection and Iteration](./Python%20Basics:%20Selection%20and%20Iteration)
 2. [Python Basic Structures: Lists, Strings, and Files](./Python%20Basic%20Structures:%20Lists,%20Strings,%20and%20Files)
-3. [Python Object Basics: Functions, Recursion, and Objects](./Java%20Object%20Basics:%20Functions,%20Recursion,%20and%20Objects)
-4. [Object-Oriented Python: Inheritance and Encapsulation](./Object-Oriented%20Java:%20Inheritance%20and%20Encapsulation)
+3. [Python Object Basics: Functions, Recursion, and Objects](./Python%20Object%20Basics:%20Functions,%20Recursion,%20and%20Objects)
+4. [Object-Oriented Python: Inheritance and Encapsulation](./Object-Oriented%20Python:%20Inheritance%20and%20Encapsulation)
 
 ## Remarks
 - Unlike most introductory Python courses this specialization covers object-oriented python.
