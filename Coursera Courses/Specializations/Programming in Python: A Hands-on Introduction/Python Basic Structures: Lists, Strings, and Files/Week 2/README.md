@@ -21,6 +21,6 @@
 
 ## [Coding practice challenge](./lab_challenge.py)
 
->"Changing a List
+>"Replacing Vowels with a \*
 >
->Write a program that takes a list of integers called `numbers` and will print a list with the elements `odd` or `even` based on the elements of `numbers`. For example, if `numbers = [1, 2, 3, 4]`, then your program will print `['odd', 'even', 'odd', 'even']`."
+>You are going to write a program that takes a string called `my_string` and returns the string but with a `*` in the place of vowels. Assume that vowels are `a, e, i, o, u`. For example, if `my_string = "Hello"`, then your program will print `"H*ll*"`."
