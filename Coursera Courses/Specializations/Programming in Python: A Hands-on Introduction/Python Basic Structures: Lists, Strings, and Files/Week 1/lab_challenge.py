@@ -11,11 +11,11 @@ for i in range(len(numbers)):
 # Enter your code below
 ########################################################
 
-answ = []
+answer = []
 for num in numbers:
   if num % 2 == 0:
-    answ.append('even')
+    answer.append('even')
   else:
-    answ.append('odd')
+    answer.append('odd')
     
-print(answ)
+print(answer)
