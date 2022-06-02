@@ -51,7 +51,8 @@ SELECT
   GROUP BY dates_rollup.date
 
 
--- 4. "Weekly Rollup." Figure out which parts of the JOIN condition need to be edited create 7 day rolling orders table.
+-- 4. "Weekly Rollup." Figure out which parts of the JOIN condition need to be edited to create 7 day rolling orders table.
+-- 5. "Column Cleanup." Finish creating the weekly rolling orders table, by performing any aggregation steps and naming your columns appropriately.
 
 SELECT 
     dates_rollup.date, 
@@ -68,8 +69,8 @@ SELECT
       FROM dsv1069.orders
       GROUP BY DATE(paid_at)    
     ) AS daily_orders
-      ON daily_orders.day = dates_rollup.date
+      ON 
+        dates_rollup.date >= daily_orders.day
+        AND
+        dates_rollup.d7_ago < daily_orders.day
   GROUP BY dates_rollup.date
-
-
--- 5. "Column Cleanup." Finish creating the weekly rolling orders table, by performing any aggregation steps and naming your columns appropriately.
