@@ -21,4 +21,4 @@
 There are 3 practice exercises for this week. 
 - The [first](./Practice%20Exercises/rollup_table.sql) goes along the steps of making a rollup table
 - The [second](./Practice%20Exercises/promo_email.sql) gets the data needed to send an email to all users with the item they last viewed
-- The [third](./Practice%20Exercises/product_analysis.sql) investigates from many perspectives the data about reordering
+- The [third](./Practice%20Exercises/product_analysis.sql) investigates the question of reordering from many perspectives 
