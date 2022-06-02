@@ -16,11 +16,11 @@
   - `TINYINT`, `SMALLINT`, `MEDIUMINT`, `INT`, `BIGINT`, `FLOAT`, `DOUBLE`, `DECIMAL`
   - `CHAR[Length]`, `VARCHAR[Length]`, `TINYTEXT`, `TEXT`, `MEDIUMTEXT`, `LONGTEXT`
   - `DATE`, `DATETIME`, `TIMESTAMP`, `TIME`
-- Pipeline: several table creation/update tasks in a specific order
-- Dependency: the data in the query refers to data in a preceding (in pipeline) table
-- Extract transform load (ETL): "under the hood" steps during table creation
-- Job: the task given to a database to perform ETL
-- Backfill: to run a table creation/update task to a range of dates in the past
+- **Pipeline**: several table creation/update tasks in a specific order
+- **Dependency**: the data in the query refers to data in a preceding (in pipeline) table
+- **Extract transform load (ETL)**: "under the hood" steps during table creation
+- **Job**: the task given to a database to perform ETL
+- **Backfill**: to run a table creation/update task to a range of dates in the past
 - Hierarchy of data
   - Collect 
   - Move/store 
