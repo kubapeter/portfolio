@@ -15,6 +15,7 @@
 - Test query vs. final query (readable, reusable)
 - Rollup table - even out seasonality noise
 - Windowing functions: `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`
+- Coding with style
 
 ## Practice Exercises
 
