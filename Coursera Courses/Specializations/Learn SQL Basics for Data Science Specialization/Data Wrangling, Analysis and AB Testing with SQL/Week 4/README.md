@@ -18,6 +18,6 @@
 ## Practice Exercises
 
 There are 3 practice exercises for this week. 
-- The [first](./Practice%20Exercises/test_assignments.sql) goes along the steps of making a rollup table
-- The [second](./Practice%20Exercises/promo_email.sql) gets the data needed to send an email to all users with the item they last viewed
+- The [first](./Practice%20Exercises/test_assignments.sql) investigates potential problems with ongoing test assignments
+- The [second](./Practice%20Exercises/create_metric.sql) shows ways to create test metrics
 - The [third](./Practice%20Exercises/product_analysis.sql) investigates the question of reordering from many perspectives 
