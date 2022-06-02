@@ -19,6 +19,13 @@
 
 ## [Coding practice challenge](./lab_challenge.py)
 
->"Changing a List
+>Lab Challenge
 >
->Write a program that takes a list of integers called `numbers` and will print a list with the elements `odd` or `even` based on the elements of `numbers`. For example, if `numbers = [1, 2, 3, 4]`, then your program will print `['odd', 'even', 'odd', 'even']`."
+>Write a program that reads the text file `student_folder/.labs/myanmar.txt`. The file contains several instances of the word `Burma`. Replace each instance of `Burma` with `Myanmar`, and print the results of this transformation. The final output of your program should be:
+
+```
+Myanmar is a country in Southeast Asia.
+The capital of Myanmar is Naypyidaw.
+Its population is about 54 million people.
+Myanmar is a former British colony.
+```
