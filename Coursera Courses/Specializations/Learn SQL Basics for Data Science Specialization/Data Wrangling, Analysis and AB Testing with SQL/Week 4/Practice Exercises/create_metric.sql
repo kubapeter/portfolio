@@ -13,8 +13,8 @@ SELECT test_events.test_id,
            END) AS orders_after_assignment_binary
 FROM
   (SELECT event_id,
-           event_time,
-           user_id, -- platform,
+          event_time,
+          user_id, -- platform,
  MAX(CASE
          WHEN parameter_name = 'test_id' THEN CAST(parameter_value AS INT)
          ELSE NULL
