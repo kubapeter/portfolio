@@ -25,12 +25,6 @@ The specialization consists of 4 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/javascript-beginner">website</a></p>
 
-<a href="course6_homepage">
-  <img src="/img/course6_logo" width="75" align="right">
-</a>
-<a href="course5_homepage">
-  <img src="/img/course5_logo" width="75" align="right">
-</a>
 <a href="course4_homepage">
   <img src="/img/course4_logo" width="75" align="right">
 </a>
@@ -41,18 +35,16 @@ The specialization consists of 4 courses.
   <img src="/img/course2_logo" width="75" align="right">
 </a>
 <a href="course1_homepage">
-  <img src="/img/course1_logo" width="75" align="right">
+  <img src="/img/JavaScript_Basics_logo.avif" width="75" align="right">
 </a>
 
 ## Courses of the specialization
 
 ---
 
-1. [Course1](./course1_folder)
-2. [Course2](./course2_folder)
-3. [Course2](./course3_folder)
-4. [Course2](./course4_folder)
-5. [Course2](./course5_folder)
-6. [Course2](./course6_folder)
+1. [JavaScript Basics](./course1_folder)
+2. [Animation with JavaScript and jQuery](./course2_folder)
+3. [Interactivity with JavaScript and jQuery](./course3_folder)
+4. [Data Manipulation in JavaScript](./course4_folder)
 
 ## Remarks
