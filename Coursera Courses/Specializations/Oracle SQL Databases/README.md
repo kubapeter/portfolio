@@ -34,7 +34,7 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Oracle Database Foundations](./course1_folder)
+1. [Oracle Database Foundations](./Oracle%20Database%20Foundations)
 2. [Oracle Database Platform](./course2_folder)
 3. [Oracle SQL Basics](./course3_folder)
 4. [Oracle SQL Proficiency](./course4_folder)
