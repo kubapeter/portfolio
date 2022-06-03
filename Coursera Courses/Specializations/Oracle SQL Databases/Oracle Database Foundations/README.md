@@ -37,8 +37,18 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- Module 1: Course Introduction
-- [Module 2](./Modules/Module2.md): Introduction to Databases
-- [Module 3](./Modules/Module3.md): Building a Database Structure
-- [Module 4](./Modules/Module4.md): Relational Database Management Systems (RDBMS) & Oracle Database Storage
-- [Module 5](./Modules/Module5.md): Designing A Database For a Specific Purpose
+#### Module 1: Course Introduction
+
+>"Welcome to the Introduction to Oracle SQL Specialization. This course is the first of four and will introduce you to Database Foundations. First, let's take a look at the course overview."
+>- Understand the course curriculum and what topics we will explore in this course
+
+#### Module 2: Introduction to Databases
+
+>"In this module, we'll discuss database engines & categories."
+>- Define a database engine
+>- List the most widely known database engines
+>- Describe the various database categories
+>
+#### Module 3: Building a Database Structure
+#### Module 4: Relational Database Management Systems (RDBMS) & Oracle Database Storage
+#### Module 5: Designing A Database For a Specific Purpose
