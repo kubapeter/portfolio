@@ -41,3 +41,4 @@ This folder contains
 - [Module 2](./Week%202): Introduction to Databases
 - [Module 3](./Week%203): Building a Database Structure
 - [Module 4](./Week%204): Relational Database Management Systems (RDBMS) & Oracle Database Storage
+- [Module 5](./Week%205): Designing A Database For a Specific Purpose
