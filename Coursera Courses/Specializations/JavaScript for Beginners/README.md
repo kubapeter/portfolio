@@ -34,7 +34,7 @@ The specialization consists of 4 courses.
 <a href="course2_homepage">
   <img src="/img/Animation_with_JavaScript_and_jQuery_logo.avif" width="75" align="right">
 </a>
-<a href="course1_homepage">
+<a href="https://www.coursera.org/learn/javascript-basics">
   <img src="/img/JavaScript_Basics_logo.avif" width="75" align="right">
 </a>
 
