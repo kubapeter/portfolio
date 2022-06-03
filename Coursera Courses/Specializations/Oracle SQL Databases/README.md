@@ -1,9 +1,12 @@
+
 <a href="https://www.coursera.org/specializations/oracle-sql-databases">
   <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
 </a>
 
+<div width="120", height="120">
 <img src="/img/LearnQuest_logo.png" width="120" align="left">
-
+</div>
+  
 # Oracle SQL Databases Specialization
 
 Offered by 
