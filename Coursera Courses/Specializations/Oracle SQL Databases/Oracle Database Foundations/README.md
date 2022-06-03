@@ -38,7 +38,7 @@ This folder contains
 
 ## Syllabus
 - Module 1: Course Introduction
-- [Module 2](./Modules/Module%202.md): Introduction to Databases
-- [Module 3](./Modules/Module%203.md): Building a Database Structure
-- [Module 4](./Modules/Module%204.md): Relational Database Management Systems (RDBMS) & Oracle Database Storage
-- [Module 5](./Modules/Module%205.md): Designing A Database For a Specific Purpose
+- [Module 2](./Modules/Module2.md): Introduction to Databases
+- [Module 3](./Modules/Module3.md): Building a Database Structure
+- [Module 4](./Modules/Module4.md): Relational Database Management Systems (RDBMS) & Oracle Database Storage
+- [Module 5](./Modules/Module5.md): Designing A Database For a Specific Purpose
