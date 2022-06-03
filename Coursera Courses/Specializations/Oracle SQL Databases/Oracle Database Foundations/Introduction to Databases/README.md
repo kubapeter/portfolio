@@ -10,10 +10,13 @@
 - Describe the various database categories
 
 ## Subjects covered
-- Database Engines
+- Database engines
   - **processes**: more than just queries
   - **plan**: determine how to best arrive at the answer
   - **execute**: carry out the execution of the request based on the plan
   - **result**: provide result to requested resource
   - **integrate**: with both internal and external systems 
   - **scale**: allow both horizontal and vertical scaling dynamically
+- Most widely used databases
+  - relational: MySQL, Oracle, SQL Server
+  - not only SQL (NoSQL): Couchbase, MongoDB, Cassandra
