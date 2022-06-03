@@ -32,7 +32,7 @@ This folder contains
 - [x] source code of coding practice challenges[^1]
 - [x] short descriptions of the modules 
 - [x] lesson notes 
-- [x] [certificate](./Coursera_Certificate_Python_Basics_Selection_and_Iteration.pdf) ([verification](https://coursera.org/verify/KMMAQUNW74HT))
+- [x] [certificate](./Coursera_Python_Object_Basics_Functions,_Recursion,_and_Objects.pdf) ([verification](https://coursera.org/verify/PYTWFJ5FZ8G8))
 
 ## Syllabus
 - [Week 1](./Week%201): User-Defined Functions
