@@ -13,9 +13,9 @@
 - Assign a parameter a value based on its name
 - Differentiate between global and local scope
 - Use scope resolution to evaluate functions using global variables
-- Identify the role of the "global" keyword
-- Use the "return" keyword to return a value
-- Identify the return value of the print statement
+- Identify the role of the `global` keyword
+- Use the `return` keyword to return a value
+- Identify the return value of the `print` statement
 - Demonstrate the ability to return several different data types
 - Demonstrate two ways to implement helper functions
 - Identify two benefits to function composition
