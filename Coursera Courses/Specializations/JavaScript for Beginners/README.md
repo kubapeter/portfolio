@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/specializations/javascript-beginner">
-  <img src="/img/spec_logo" width="150" align="right">
+  <img src="/img/JavaScript_for_Beginners_Specialization_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/UC_Davis_wordmark.svg" width="120" height="120" align="left">
