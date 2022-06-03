@@ -25,13 +25,13 @@ The specialization consists of 4 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/javascript-beginner">website</a></p>
 
-<a href="course4_homepage">
+<a href="https://www.coursera.org/learn/javascript-data-manipulation">
   <img src="/img/Data_Manipulation_in_JavaScript_logo.avif" width="75" align="right">
 </a>
-<a href="course3_homepage">
+<a href="https://www.coursera.org/learn/interactivity-javascript-jquery">
   <img src="/img/Interactivity_with_JavaScript_and_jQuery_logo.avif" width="75" align="right">
 </a>
-<a href="course2_homepage">
+<a href="https://www.coursera.org/learn/animation-javascript-jquery">
   <img src="/img/Animation_with_JavaScript_and_jQuery_logo.avif" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/javascript-basics">
