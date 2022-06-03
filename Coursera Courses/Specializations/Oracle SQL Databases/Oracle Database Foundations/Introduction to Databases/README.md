@@ -20,3 +20,10 @@
 - Most widely used databases
   - relational: MySQL, Oracle, SQL Server
   - not only SQL (NoSQL): Couchbase, MongoDB, Cassandra
+- Oracle's premier multi-model database engine
+  - Relational (This course is about this aspect only)
+  - Document data (JSON, XML, text)
+  - Spatial (GPS and map engines)
+  - Graphing data
+  - Tripple store (add meaning to graph data)
+  - Multiple language and access protocol support
