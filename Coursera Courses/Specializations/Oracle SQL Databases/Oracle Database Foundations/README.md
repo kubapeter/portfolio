@@ -2,7 +2,7 @@
   <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
 </a>
 
-<img src="/img/LearnQuest_logo.png" width="120" height="120" align="left">
+<img src="/img/LearnQuest_logo.png" width="120" align="left">
 
 # Course Title
 
