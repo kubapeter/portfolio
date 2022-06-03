@@ -48,7 +48,27 @@ This folder contains
 >- Define a database engine
 >- List the most widely known database engines
 >- Describe the various database categories
->
+
 #### Module 3: Building a Database Structure
+
+>"In this module, we will explore how to build architecturally sound database structures."
+>- Explain the process of building database tables
+>- Describe how to build a database structure
+>- Explain what the next steps are once the database design is completed
+
 #### Module 4: Relational Database Management Systems (RDBMS) & Oracle Database Storage
+
+>"In this module, we'll introduce relational database management systems and Oracle database storage."
+>- Define a Relational Database Management System
+>- List the key elements of the Oracle Database Storage
+>- Explain what an Entity Relationship Diagram (ERD) is in relation to the Database Schema
+>- Identify the different files within Oracle's Storage Architecture and how the storage architecture works
+>- Explain what an Oracle Database Instance is and what it does
+>- Describe what you need to consider when implementing your Database Architecture
+
 #### Module 5: Designing A Database For a Specific Purpose
+
+>"In this module, we will discuss designing your ideal database for a specific purpose."
+>- Explain how to design a database for a specific purpose
+>- List the primary transaction properties that databases are designed for
+>- Define different components and parts of a database
