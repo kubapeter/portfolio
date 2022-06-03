@@ -1,8 +1,8 @@
 <a href="https://www.coursera.org/learn/javascript-basics">
-  <img src="/img/course_logo" width="150" align="right">
+  <img src="/img/JavaScript_Basics_logo.avif" width="150" align="right">
 </a>
 
-<img src="uni_logo" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/UC_Davis_wordmark.svg" width="120" height="120" align="left">
 
 # JavaScript Basics
 
