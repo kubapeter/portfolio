@@ -14,7 +14,7 @@
 
 ## [Coding practice challenge](./lab_challenge.py)
 
->Copy and paste the Zoo class below into the code editor.
+>Copy and paste the `Zoo` class below into the code editor.
 
 ```python
 class Zoo:
@@ -26,11 +26,11 @@ class Zoo:
 ```
 
 >Add the following methods to the class:
->- total_animals - returns the total number of animals
->- total_mammals - returns the number of mammals
->- most_animals - returns the name with the most animals in the zoo
+>- `total_animals` - returns the total number of animals
+>- `total_mammals` - returns the number of mammals
+>- `most_animals` - returns the name with the most animals in the zoo
 >
->Expected Output
+>**Expected Output**
 >
 >If the following code is added to your program:
 
