@@ -4,26 +4,26 @@
 
 <img src="/img/LearnQuest_logo.png" width="120" align="left">
 
-# Course Title
+# Oracle Database Foundations
 
 Offered by 
-### *Uni*
+### *LearnQuest*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**? hours** to complete - ? quizzes, ? written and ? [coding assignments]
+**12 hours** to complete - 4 quizzes
 
-Course ? of the [spec_title](../) 
+Course 1 of the [Oracle SQL Databases Specialization](../) 
 
 ---
 
 ## Course description
 
->"descripton"
+>"This Specialization is designed to help beginners learn the foundational knowledge invaluable towards their journey to becoming proficient with the Oracle database environment. "
 
-<p align="right">More details on <a href="course_homepage">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/introduction-to-oracle-sql">website</a></p>
 
 ## Content
 This folder contains 
@@ -37,7 +37,7 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- [Week 1](./Week%201): week1_title
-- [Week 2](./Week%202): week2_title
-- [Week 3](./Week%203): week3_title
-- [Week 4](./Week%204): week4_title
+- [Module 1](./Week%201): Course Introduction
+- [Module 2](./Week%202): Introduction to Databases
+- [Module 3](./Week%203): Building a Database Structure
+- [Module 4](./Week%204): Relational Database Management Systems (RDBMS) & Oracle Database Storage
