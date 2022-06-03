@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/specializations/oracle-sql-databases">
-  <img src="/img/spec_logo" width="150" align="right">
+  <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
 </a>
 
 <img src="/img/LearnQuest_logo.png" width="120" align="left">
@@ -15,7 +15,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 **31 hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
 
-The specialization consists of ? courses. 
+The specialization consists of 4 courses. 
 
 ---
 
@@ -25,12 +25,6 @@ The specialization consists of ? courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/oracle-sql-databases">website</a></p>
 
-<a href="course6_homepage">
-  <img src="/img/course6_logo" width="75" align="right">
-</a>
-<a href="course5_homepage">
-  <img src="/img/course5_logo" width="75" align="right">
-</a>
 <a href="course4_homepage">
   <img src="/img/course4_logo" width="75" align="right">
 </a>
