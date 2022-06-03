@@ -27,3 +27,11 @@
   - Graphing data
   - Tripple store (add meaning to graph data)
   - Multiple language and access protocol support
+- Database categories
+  - Relational database Management System - ideal for customer relationship management
+  - Document database (uses attributes) - ideal for content management
+  - Key-value database - ideal for shoping cart
+  - In-memory database - ideal for leaderboards for gaming
+  - Graph database (networks) - ideal for fraud detection
+  - Time series database - ideal for health tracking
+  - Ledger database (read-only data) - ideal for legal transactions
