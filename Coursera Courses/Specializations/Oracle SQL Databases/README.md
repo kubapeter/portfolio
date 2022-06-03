@@ -21,32 +21,19 @@ The specialization consists of 4 courses.
 
 ## Description of the specialization
 
->"description"
+>"This Specialization is intended for beginners to learn how to become proficient writing Oracle SQL code to create, modify, and edit Oracle SQL Databases. 
+>
+>You will learn the Oracle database foundations, explore the platform, try your hand at the basics, and become proficient at building and modifying databases."
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/oracle-sql-databases">website</a></p>
-
-<a href="course4_homepage">
-  <img src="/img/course4_logo" width="75" align="right">
-</a>
-<a href="course3_homepage">
-  <img src="/img/course3_logo" width="75" align="right">
-</a>
-<a href="course2_homepage">
-  <img src="/img/course2_logo" width="75" align="right">
-</a>
-<a href="course1_homepage">
-  <img src="/img/course1_logo" width="75" align="right">
-</a>
 
 ## Courses of the specialization
 
 ---
 
-1. [Course1](./course1_folder)
-2. [Course2](./course2_folder)
-3. [Course2](./course3_folder)
-4. [Course2](./course4_folder)
-5. [Course2](./course5_folder)
-6. [Course2](./course6_folder)
+1. [Oracle Database Foundations](./course1_folder)
+2. [Oracle Database Platform](./course2_folder)
+3. [Oracle SQL Basics](./course3_folder)
+4. [Oracle SQL Proficiency](./course4_folder)
 
 ## Remarks
