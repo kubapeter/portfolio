@@ -37,7 +37,7 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- [Module 1](./Week%201): Course Introduction
+- Module 1: Course Introduction
 - [Module 2](./Week%202): Introduction to Databases
 - [Module 3](./Week%203): Building a Database Structure
 - [Module 4](./Week%204): Relational Database Management Systems (RDBMS) & Oracle Database Storage
