@@ -9,7 +9,7 @@
 Offered by 
 ### *LearnQuest*
 
-Taught by: [Lecturer](lecturer_link) and [Lecturer](lecturer_link)
+Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
