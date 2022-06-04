@@ -31,6 +31,7 @@ This folder contains
 - [x] [certificate](./Coursera_Certificate_Oracle_Database_Foundations.pdf) ([verification](https://coursera.org/verify/FYSHE8KEFD6D))
 
 ## Syllabus
+
 #### Module 1: Course Introduction
 
 >"Welcome to the Introduction to Oracle SQL Specialization. This course is the first of four and will introduce you to Database Foundations. First, let's take a look at the course overview."
