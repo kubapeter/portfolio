@@ -59,4 +59,4 @@ This folder contains
 
 ## Remark
 
-Module 3 is truely a low point in the course and in the whole not so high quality Specialization. Teaching the functionalities of SQL Developer through more than 10 videos by showing the exact same one screenshot of the UI, and drawing arrows on the picture is equivalent with the African teacher teaching his students Word by drawing the user interface of Word with chalk on the blackboard. Coursera offers so many brilliant tools to make learning practice centered. None of it is used. I am afraid solely out of laziness. Truely a disappointment. 
+Module 3 is truely a low point in the course and in the whole not so high quality Specialization. Teaching the functionalities of SQL Developer through more than 10 videos by showing this single one piece of screenshot of the UI, and drawing arrows on the picture is equivalent with the African teacher teaching his students Word by drawing the user interface of Word with chalk on the blackboard. Coursera offers so many brilliant tools to make learning practice centered. None of it is used. I am afraid solely out of laziness. A true disappointment. 
