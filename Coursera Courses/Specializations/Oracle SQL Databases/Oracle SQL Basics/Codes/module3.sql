@@ -70,6 +70,7 @@ SELECT *
 CREATE INDEX userName
   ON CustomerInfo(userName);
   
+EXPLAIN PLAN FOR
 SELECT userID,
        userName
   FROM UserInfo
@@ -77,7 +78,7 @@ SELECT userID,
   
 SELECT * 
   FROM TABLE(dbms_xplan.display);
--- Now the scan will not go through the whole table
+-- Now the scan will not go through the whole table (index range scan)
 
 -- Setup
 
@@ -95,3 +96,30 @@ CREATE TABLE UserInfo
 
 CREATE INDEX index_full_name
   ON UserInfo (last_name, first_name);
+  
+-- A search for FULL NAME is an indexed search
+
+EXPLAIN PLAN FOR
+SELECT last_name,
+       first_name
+  FROM UserInfo
+  WHERE 
+    last_name = 'adams'
+    AND
+    first_name = 'mike'
+  
+SELECT * 
+  FROM TABLE(dbms_xplan.display);
+-- We can see the index range scan in the plan
+
+-- But the indexed search only works if it starts with last_name
+
+EXPLAIN PLAN FOR
+SELECT last_name,
+       first_name
+  FROM UserInfo
+  WHERE first_name = 'mike'
+  
+SELECT * 
+  FROM TABLE(dbms_xplan.display);
+-- Full scan because first_name is not in the index (on its own)
