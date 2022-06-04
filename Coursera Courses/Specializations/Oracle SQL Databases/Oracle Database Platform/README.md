@@ -34,36 +34,25 @@ This folder contains
 
 #### Module 1: Course Introduction
 
->"Welcome to the Introduction to Oracle SQL Specialization. This course is the first of four and will introduce you to Database Foundations. First, let's take a look at the course overview."
->- Understand the course curriculum and what topics we will explore in this course
+>"This module is introduces the course. We will discuss the topics we'll explore, view the course objectives, and learn a little about the Oracle Database Platform and History."
+>- Explain what topics this course will cover
+>- List the course learning objectives
+>- Describe the Oracle Database
 
-#### Module 2: Introduction to Databases
+#### Module 2: Navigating The Oracle Database
 
->"In this module, we'll discuss database engines & categories."
->- Define a database engine
->- List the most widely known database engines
->- Describe the various database categories
+>"In this module, we will take a look of what large datasets may consist of, explore the path and purpose of a database, define the database roles, and delve into Oracle's Database Admin Tools."
+>- Describe what a Large Dataset is and what it may consist of
+>- Explain the Path and Purpose of a database
+>- List the four DB Admin Tools
+>- Describe Oracle's Network Architecture structure
+>- Identify the two most important Database Roles
 
-#### Module 3: Building a Database Structure
+#### Module 3: Using SQL Developer
 
->"In this module, we will explore how to build architecturally sound database structures."
->- Explain the process of building database tables
->- Describe how to build a database structure
->- Explain what the next steps are once the database design is completed
-
-#### Module 4: Relational Database Management Systems (RDBMS) & Oracle Database Storage
-
->"In this module, we'll introduce relational database management systems and Oracle database storage."
->- Define a Relational Database Management System
->- List the key elements of the Oracle Database Storage
->- Explain what an Entity Relationship Diagram (ERD) is in relation to the Database Schema
->- Identify the different files within Oracle's Storage Architecture and how the storage architecture works
->- Explain what an Oracle Database Instance is and what it does
->- Describe what you need to consider when implementing your Database Architecture
-
-#### Module 5: Designing A Database For a Specific Purpose
-
->"In this module, we will discuss designing your ideal database for a specific purpose."
->- Explain how to design a database for a specific purpose
->- List the primary transaction properties that databases are designed for
->- Define different components and parts of a database
+>"Comprehensive Introduction To SQL Developer"
+>- Describe what the SQL Developer is and its purpose
+>- List some features of SQL Developer and describe their benefits
+>- Describe the purpose and function of Packages
+>- Define Triggers and explain what they do
+>- Understand some of the possible changes to the production environment
