@@ -17,7 +17,7 @@
 
 ## [Coding practice challenge](./lab_challenge.py)
 
->Problem
+>**Problem**
 >
 >\[... T\]he class `MP3` is already defined. Use this class to do the following things:
 >- Create the class `Podcast` that inherits from `MP3`
@@ -28,15 +28,11 @@
 >  - `genre` - a string that is the genre of the podcast
 >  - `date` - a string that represents when the podcast was released to the public
 >  
->Expected Output
+>**Expected Output**
 >  
 >Declare an instance of the `Podcast` class as shown below.
-```
-    //add code below this line
-  
+```python
     Podcast p = new Podcast("Planet Money", "Hollywood's Black List", 1460, "economics", "10 July 2020");
-  
-    //add code above this line   
 ```
 >  
 >The table below shows the method calls (left) and the output (right). Your class will be expected to work with all of these method calls."
