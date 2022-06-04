@@ -28,7 +28,7 @@ Course 1 of the [Oracle SQL Databases Specialization](../)
 ## Content
 This folder contains 
 - [x] [slides](./Slides) (.png images)
-- [x] [certificate](./Coursera_Certificate_Oracle_Database_Foundations.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_Oracle_Database_Foundations.pdf) ([verification](https://coursera.org/verify/FYSHE8KEFD6D))
 
 ## Syllabus
 #### Module 1: Course Introduction
