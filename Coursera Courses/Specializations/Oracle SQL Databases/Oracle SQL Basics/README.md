@@ -29,7 +29,7 @@ Course 3 of the [Oracle SQL Databases Specialization](../)
 This folder contains 
 - [x] [source codes](./Codes) from the walkthroughs of the course
 - [x] [slides](./Slides) (.png images)
-- [x] [certificate](./Coursera_Certificate_Oracle_Database_Platform.pdf) ([verification](https://coursera.org/verify/JF4E4HXR8788))
+- [x] [certificate](./Coursera_Certificate_Oracle_SQL_Basics.pdf) ([verification](https://coursera.org/verify/28A9KYA7NZLU))
 
 ## Syllabus
 
