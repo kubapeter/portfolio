@@ -80,6 +80,7 @@ SELECT *
   FROM TABLE(dbms_xplan.display);
 -- Now the scan will not go through the whole table (index range scan)
 
+
 -- Setup
 
 DROP TABLE UserInfo;
