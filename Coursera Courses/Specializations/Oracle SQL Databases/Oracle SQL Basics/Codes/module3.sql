@@ -23,7 +23,7 @@ DESCRIBE CustomerInfo;
 
 SELECT index_name
   FROM all_indexes
-  WHERE table_name = 'CUSTOMERINFO';  -- all upper case is important
+  WHERE table_name = 'CUSTOMERINFO';  -- all upper case is important, this is how indexes are stored
   
 -- To see what column the created index is on
 
