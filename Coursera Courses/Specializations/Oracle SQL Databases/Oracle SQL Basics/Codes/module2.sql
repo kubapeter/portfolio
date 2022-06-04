@@ -61,3 +61,36 @@ INSERT INTO Inventory
 SELECT *
   FROM Inventory;
   
+-- Update a row
+
+UPDATE Inventory 
+  SET productQty = 50 
+  WHERE invID = 1;
+  
+-- To see the change
+
+SELECT *
+  FROM Inventory;
+  
+-- Let's insert one more line
+
+INSERT INTO Inventory
+  (
+    invID, 
+    productName
+  )
+  VALUES 
+  (
+    2,
+    'truck'
+  );
+  
+-- Without WHERE clause all rows are updated
+
+UPDATE Inventory 
+  SET productQty = 500;
+  
+-- To see the change
+
+SELECT *
+  FROM Inventory;
