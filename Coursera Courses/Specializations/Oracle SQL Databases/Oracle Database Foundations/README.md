@@ -21,7 +21,7 @@ Course 1 of the [Oracle SQL Databases Specialization](../)
 
 ## Course description
 
->"This Specialization is designed to help beginners learn the foundational knowledge invaluable towards their journey to becoming proficient with the Oracle database environment. "
+>"This Specialization is designed to help beginners learn the foundational knowledge invaluable towards their journey to becoming proficient with the Oracle database environment."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/introduction-to-oracle-sql">website</a></p>
 
