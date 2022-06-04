@@ -32,28 +32,25 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: Course Introduction
+#### Module 1: Table Design
 
->"This module is introduces the course. We will discuss the topics we'll explore, view the course objectives, and learn a little about the Oracle Database Platform and History."
->- Explain what topics this course will cover
->- List the course learning objectives
->- Describe the Oracle Database
+>"In this module, we'll first talk about the topics we'll address in this course. Then, we'll explore how to create a simple table, and look at ways to modify the existing table."
+>- Explain the process of creating a simple table
+>- Demonstrate how to alter an existing table schema
+>- Describe how to modify a column and execute DDL script
 
-#### Module 2: Navigating The Oracle Database
+#### Module 2: Structured Query Language (SQL)
 
->"In this module, we will take a look of what large datasets may consist of, explore the path and purpose of a database, define the database roles, and delve into Oracle's Database Admin Tools."
->- Describe what a Large Dataset is and what it may consist of
->- Explain the Path and Purpose of a database
->- List the four DB Admin Tools
->- Describe Oracle's Network Architecture structure
->- Identify the two most important Database Roles
+>"In this module we'll explore the Structured Query Language (SQL). We will look at the anatomy of an SQL statement, explore inserting data into a table, modifying existing data, and look at the delete statement."
+>- Identify the anatomy of an SQL Statement
+>- Demonstrate how to use an Insert Statement
+>- Explain how an Update Statement is executed
+>- Explain and demonstrate the use of the Delete Statement
 
-#### Module 3: Using SQL Developer
+#### Module 3: Index Design
 
->"Comprehensive Introduction To SQL Developer"
->- Describe what the SQL Developer is and its purpose
->- List some features of SQL Developer and describe their benefits
->- Describe the purpose and function of Packages
->- Define Triggers and explain what they do
->- Understand some of the possible changes to the production environment
-
+>"What are indexes and how are they utilized in Oracle?"
+>- Explain what an index is and what it does
+>- List the types of indexes and what each is used for
+>- Explain Composite Indexes and demonstrate creating one
+>- Demonstrate writing a DML to build an index
