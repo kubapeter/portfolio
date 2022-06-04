@@ -27,19 +27,20 @@ Course 3 of the [Oracle SQL Databases Specialization](../)
 
 ## Content
 This folder contains 
+- [x] [source codes](./Codes) from the walkthroughs of the course
 - [x] [slides](./Slides) (.png images)
 - [x] [certificate](./Coursera_Certificate_Oracle_Database_Platform.pdf) ([verification](https://coursera.org/verify/JF4E4HXR8788))
 
 ## Syllabus
 
-#### Module 1: Table Design ([Code](./Codes/module1.sql))
+#### Module 1: Table Design ([Walkthroughs](./Codes/module1.sql))
 
 >"In this module, we'll first talk about the topics we'll address in this course. Then, we'll explore how to create a simple table, and look at ways to modify the existing table."
 >- Explain the process of creating a simple table
 >- Demonstrate how to alter an existing table schema
 >- Describe how to modify a column and execute DDL script
 
-#### Module 2: Structured Query Language (SQL) ([Code](./Codes/module2.sql))
+#### Module 2: Structured Query Language (SQL) ([Walkthroughs](./Codes/module2.sql))
 
 >"In this module we'll explore the Structured Query Language (SQL). We will look at the anatomy of an SQL statement, explore inserting data into a table, modifying existing data, and look at the delete statement."
 >- Identify the anatomy of an SQL Statement
@@ -47,7 +48,7 @@ This folder contains
 >- Explain how an Update Statement is executed
 >- Explain and demonstrate the use of the Delete Statement
 
-#### Module 3: Index Design ([Code](./Codes/module3.sql))
+#### Module 3: Index Design ([Walkthroughs](./Codes/module3.sql))
 
 >"What are indexes and how are they utilized in Oracle?"
 >- Explain what an index is and what it does
