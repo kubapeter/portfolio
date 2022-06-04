@@ -32,14 +32,14 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: Table Design
+#### Module 1: Table Design ([Code](./Codes/module1.sql))
 
 >"In this module, we'll first talk about the topics we'll address in this course. Then, we'll explore how to create a simple table, and look at ways to modify the existing table."
 >- Explain the process of creating a simple table
 >- Demonstrate how to alter an existing table schema
 >- Describe how to modify a column and execute DDL script
 
-#### Module 2: Structured Query Language (SQL)
+#### Module 2: Structured Query Language (SQL) ([Code](./Codes/module1.sql))
 
 >"In this module we'll explore the Structured Query Language (SQL). We will look at the anatomy of an SQL statement, explore inserting data into a table, modifying existing data, and look at the delete statement."
 >- Identify the anatomy of an SQL Statement
