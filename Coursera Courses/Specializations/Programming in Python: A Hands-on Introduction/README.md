@@ -49,6 +49,6 @@ The specialization consists of 4 courses.
 4. [Object-Oriented Python: Inheritance and Encapsulation](./Object-Oriented%20Python:%20Inheritance%20and%20Encapsulation)
 
 ## Remarks
-- Unlike most introductory Python courses this specialization covers object-oriented python.
+- Unlike most introductory Python courses this specialization covers **object-oriented python**.
 - The philosophy of the whole specialization is learning by doing. There are no videos, all the concepts are taught by code examples, and coding puzzles. 
 - A very well documented specialization. From its pdf documents one can really get a deep insight into the course. 
