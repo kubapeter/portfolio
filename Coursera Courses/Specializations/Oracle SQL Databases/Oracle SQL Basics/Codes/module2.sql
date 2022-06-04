@@ -1,3 +1,11 @@
+-- Setup
+
+CREATE TABLE Products
+(
+  productID int,
+  productName varchar2(20)
+);
+
 -- Just to see the table is empty
 
 SELECT COUNT(*)
