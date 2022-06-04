@@ -28,7 +28,7 @@ Course 2 of the [Oracle SQL Databases Specialization](../)
 ## Content
 This folder contains 
 - [x] [slides](./Slides) (.png images)
-- [x] [certificate](./Coursera_Certificate_Oracle_Database_Foundations.pdf) ([verification](https://coursera.org/verify/FYSHE8KEFD6D))
+- [x] [certificate](./Coursera_Certificate_Oracle_Database_Platform.pdf) ([verification](https://coursera.org/verify/JF4E4HXR8788))
 
 ## Syllabus
 
