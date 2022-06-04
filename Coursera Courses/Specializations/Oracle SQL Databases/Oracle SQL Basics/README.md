@@ -1,10 +1,10 @@
-<a href="https://www.coursera.org/learn/oracle-database-platform">
+<a href="https://www.coursera.org/learn/oracle-sql-basics">
   <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
 </a>
 
 <img src="/img/LearnQuest_logo.png" width="120" align="left">
 
-# Oracle Database Platform
+# Oracle SQL Basics
 
 Offered by 
 ### *LearnQuest*
@@ -13,7 +13,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**6 hours** to complete - 2 quizzes
+**7 hours** to complete - 3 quizzes
 
 Course 2 of the [Oracle SQL Databases Specialization](../) 
 
@@ -21,9 +21,9 @@ Course 2 of the [Oracle SQL Databases Specialization](../)
 
 ## Course description
 
->"This course is designed to help you learn how to navigate the Oracle Database environment. Both GUI and command-line tools will be introduced to allow you to work with the Oracle Database."
+>"This course, Oracle SQL Basics is the third course in the Oracle specialization. It is designed to help you learn the key elements of the Structured Query Language specific to Oracle."
 
-<p align="right">More details on <a href="https://www.coursera.org/learn/oracle-database-platform">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/oracle-sql-basics">website</a></p>
 
 ## Content
 This folder contains 
@@ -57,6 +57,3 @@ This folder contains
 >- Define Triggers and explain what they do
 >- Understand some of the possible changes to the production environment
 
-## Remark
-
-Module 3 is truely a low point in the course and in the whole not so high quality Specialization. Teaching the functionalities of SQL Developer through more than 10 videos by showing this single one piece of screenshot of the UI, and drawing arrows on the picture is equivalent with the African teacher teaching his students Word by drawing the user interface of Word with chalk on the blackboard. Coursera offers so many brilliant tools to make learning practice centered. None of it is used. I am afraid solely out of laziness. A true disappointment. 
