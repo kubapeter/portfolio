@@ -24,7 +24,7 @@
 >- Override the __init__ method such that the podcast has the following attributes:
 >  - `name` - a string that is the name of the podcast
 >  - `title` - a string that is the title of the episode
->  - `length` - an integer that has the length of the podcast in seconds
+>  - `length` - an integer that has the length of the podcast **in seconds**
 >  - `genre` - a string that is the genre of the podcast
 >  - `date` - a string that represents when the podcast was released to the public
 >  
