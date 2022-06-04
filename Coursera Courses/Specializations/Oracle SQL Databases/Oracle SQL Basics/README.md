@@ -15,7 +15,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 **7 hours** to complete - 3 quizzes
 
-Course 2 of the [Oracle SQL Databases Specialization](../) 
+Course 3 of the [Oracle SQL Databases Specialization](../) 
 
 ---
 
