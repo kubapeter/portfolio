@@ -44,4 +44,3 @@
 >| `print(p.get_length());` | `The length is 24 minutes and 20 seconds` |
 >| `print(p.get_genre());`  | `The genre is economics`                  |
 >| `print(p.get_date());`   | `The date is 10 July 2020`                |
-
