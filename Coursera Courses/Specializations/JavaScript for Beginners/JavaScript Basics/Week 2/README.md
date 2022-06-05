@@ -25,6 +25,7 @@
 
 ## Subjects covered
 - Operators: `+`, `=`, `-`, `*`, `/`, `%`
+- Booleans, selection: `true`, `false`, `if`, `else`
 
 
 ## Coding practice
