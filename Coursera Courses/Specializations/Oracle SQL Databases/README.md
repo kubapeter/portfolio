@@ -16,7 +16,8 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**31 hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
+**31 hours** to complete ([certificate](./Coursera_Certificate_Oracle_SQL_Databases_Specialization.pdf), 
+[verification](https://coursera.org/verify/specialization/G4DGMBX65PQK))
 
 The specialization consists of 4 courses. 
 
