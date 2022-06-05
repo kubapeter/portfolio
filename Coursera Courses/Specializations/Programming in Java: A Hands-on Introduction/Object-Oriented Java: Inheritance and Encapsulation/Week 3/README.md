@@ -17,7 +17,7 @@
 >
 >\[... T\]he class `Chef` is already defined, as is the `display` method. However, it does not have a constructor. Create three constructors that take one, two, and three parameters respectively.
 >
->**Expected** Output
+>**Expected Output**
 >
 >Instantiate three `Chef` objects each one using a different constructor.
 ```java
