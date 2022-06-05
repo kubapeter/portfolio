@@ -42,7 +42,7 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [JavaScript Basics](./course1_folder)
+1. [JavaScript Basics](./JavaScript%20Basics)
 2. [Animation with JavaScript and jQuery](./course2_folder)
 3. [Interactivity with JavaScript and jQuery](./course3_folder)
 4. [Data Manipulation in JavaScript](./course4_folder)
