@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/course_logo" width="120" align="right">
+  <img src="/img/JavaScript_Basics_logo.avif" width="120" align="right">
 </a>
 
 # Week 1 <br> Getting Started, Introduction to JavaScript, Variables, and Arrays
