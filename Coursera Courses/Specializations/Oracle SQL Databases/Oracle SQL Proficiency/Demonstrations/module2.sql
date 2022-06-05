@@ -40,8 +40,3 @@ CREATE TABLE Employees
 
 UPDATE Employees 
   SET email = LOWER(last_name || ' ' || first_name || '@company.com');
-  
-  
-  
-
-
