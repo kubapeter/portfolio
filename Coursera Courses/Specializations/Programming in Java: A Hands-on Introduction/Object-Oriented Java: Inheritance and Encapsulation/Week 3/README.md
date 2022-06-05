@@ -13,11 +13,11 @@
 
 ## [Coding practice challenge](./LabChallenge.java)
 
->"Problem
+>"**Problem**
 >
 >\[... T\]he class `Chef` is already defined, as is the `display` method. However, it does not have a constructor. Create three constructors that take one, two, and three parameters respectively.
 >
->Expected Output
+>**Expected** Output
 >
 >Instantiate three `Chef` objects each one using a different constructor.
 ```java
@@ -36,8 +36,3 @@
 >| `c1.display()` | Marco Pierre White is known for null cuisine and has 0 Michelin stars. | 
 >| `c2.display()` | Rene Redzepi is known for Nordic cuisine and has 0 Michelin stars.     | 
 >| `c3.display()` | Thomas Keller is known for French cuisine and has 3 Michelin stars.    |
-
-
-
-
-
