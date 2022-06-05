@@ -33,27 +33,30 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: Review SQL ([Walkthroughs](./Codes/module1.sql))
+#### Module 1: Review SQL ([Demonstrations](./Demonstrations/module1.sql))
 
->"In this module, we'll first talk about the topics we'll address in this course. Then, we'll explore how to create a simple table, and look at ways to modify the existing table."
->- Explain the process of creating a simple table
->- Demonstrate how to alter an existing table schema
->- Describe how to modify a column and execute DDL script
+>"In this module, we'll take a look at the three SQL Command Categories, and review the insert, update, and delete commands as well as the select statement."
+>- Demonstrate using the Insert, Select, Update, and Delete Commands
+>- List the three SQL Command Categories
+>- Compare and contrast DML, DDL, and DCL
 
-#### Module 2: Create And Alter Commands ([Walkthroughs](./Codes/module2.sql))
+#### Module 2: Create And Alter Commands ([Demonstrations](./Demonstrations/module2.sql))
 
->"In this module we'll explore the Structured Query Language (SQL). We will look at the anatomy of an SQL statement, explore inserting data into a table, modifying existing data, and look at the delete statement."
->- Identify the anatomy of an SQL Statement
->- Demonstrate how to use an Insert Statement
->- Explain how an Update Statement is executed
->- Explain and demonstrate the use of the Delete Statement
+>"In this module, we are going to take a closer look at the create, alter, and update commands, as well as demonstrate many ways they can be used."
+>- Demonstrate using the Create and Alter DDL statements
+>- Demonstrate the Update DML command
+>- Describe the difference between the Alter and Update commands
 
-#### Module 3: Database Relationships ([Walkthroughs](./Codes/module3.sql))
+#### Module 3: Database Relationships ([Demonstrations](./Demonstrations/module3.sql))
 
->"What are indexes and how are they utilized in Oracle?"
->- Explain what an index is and what it does
->- List the types of indexes and what each is used for
->- Explain Composite Indexes and demonstrate creating one
->- Demonstrate writing a DML to build an index
+>"In this module, we are going to explore the relationships between tables and how they are linked using primary and foreign keys."
+>- Explain the relationships between tables in a RDBMS
+>- Explain how primary keys and foreign keys are used
 
-#### Module 4: Views and Functions ([Walkthroughs](./Codes/module3.sql))
+#### Module 4: Views and Functions ([Demonstrations](./Demonstrations/module4.sql))
+
+>"In this module, we'll explore database views, their benefits, and how they are used. We'll also take a look at SQL functions."
+>- Define views and list their benefits
+>- Demonstrate how to use Views
+>- Demonstrate using SQL Functions
+>- Define SQL Functions and how they are used
