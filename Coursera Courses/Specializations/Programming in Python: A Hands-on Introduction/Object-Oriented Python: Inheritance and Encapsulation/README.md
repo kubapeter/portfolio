@@ -41,4 +41,4 @@ This folder contains
 - [Week 3](./Week%203): Polymorphism
 - [Week 4](./Week%204): Advanced Topics
 
-[^1]: For ethical reasons I do not make my code for the final coding exercises publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I share the source code of the coding practice challenges. These are right before the final coding exercises, and check roughly the same knowledge that is checked in the final coding exercises. 
+[^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I share the source code of the coding practice challenges. These are right before the final coding exercises, and check roughly the same knowledge that is checked in the final coding exercises. 
