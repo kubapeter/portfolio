@@ -15,6 +15,7 @@
 
 ## Subjects covered
 - history of JavaScript
+- variables: declaration, naming rules, 
 
 ## Assignment
 
