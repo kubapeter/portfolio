@@ -33,14 +33,14 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: Table Design ([Walkthroughs](./Codes/module1.sql))
+#### Module 1: Review SQL ([Walkthroughs](./Codes/module1.sql))
 
 >"In this module, we'll first talk about the topics we'll address in this course. Then, we'll explore how to create a simple table, and look at ways to modify the existing table."
 >- Explain the process of creating a simple table
 >- Demonstrate how to alter an existing table schema
 >- Describe how to modify a column and execute DDL script
 
-#### Module 2: Structured Query Language (SQL) ([Walkthroughs](./Codes/module2.sql))
+#### Module 2: Create And Alter Commands ([Walkthroughs](./Codes/module2.sql))
 
 >"In this module we'll explore the Structured Query Language (SQL). We will look at the anatomy of an SQL statement, explore inserting data into a table, modifying existing data, and look at the delete statement."
 >- Identify the anatomy of an SQL Statement
@@ -48,10 +48,12 @@ This folder contains
 >- Explain how an Update Statement is executed
 >- Explain and demonstrate the use of the Delete Statement
 
-#### Module 3: Index Design ([Walkthroughs](./Codes/module3.sql))
+#### Module 3: Database Relationships ([Walkthroughs](./Codes/module3.sql))
 
 >"What are indexes and how are they utilized in Oracle?"
 >- Explain what an index is and what it does
 >- List the types of indexes and what each is used for
 >- Explain Composite Indexes and demonstrate creating one
 >- Demonstrate writing a DML to build an index
+
+#### Module 4: Views and Functions ([Walkthroughs](./Codes/module3.sql))
