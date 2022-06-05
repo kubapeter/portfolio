@@ -33,8 +33,8 @@ SELECT e.empName "Employee",
   FROM 
     Employees e, 
     Customers c, 
-    Sales s;
+    Sales s
   WHERE 
     e.empID = s.empID
     AND
-    c.custID = s.custID
+    c.custID = s.custID;
