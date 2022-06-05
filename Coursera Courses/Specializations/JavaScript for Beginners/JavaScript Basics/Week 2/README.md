@@ -10,7 +10,7 @@
 - Manage files and folders.
 - Use the explorer in Visual Studio Code to organize and link to files.
 - Identify selection structures within programs.
-- Identify expressions that evaluate to true or false in JavaScript.
+- Identify expressions that evaluate to `true` or `false` in JavaScript.
 - Write the syntax necessary for creating selection structures in JavaScript.
 - Troubleshoot scripts when they have errors.
 - Use a code editor to write scripts.
@@ -24,11 +24,9 @@
 - Practice working with combining control structures (sequence, selection and loop) and creating functions to create basic programs that output to the browser console.
 
 ## Subjects covered
-- history of JavaScript
-- **variables**: declaration, naming rules, assigning value, loosely typed language, types
-- **arrays**: declaration, assigning value, indexing, nested arrays, array methods
+- 
 
 
 ## Coding practice
 
-This week there are no challenges, activities or projects.
+
