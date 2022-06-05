@@ -24,3 +24,17 @@ CREATE TABLE Sales
   FOREIGN KEY (empID) REFERENCES Employees(empID),
   FOREIGN KEY (custID) REFERENCES Customers(custID),
 );
+
+-- Sales table has only numbers in it. 
+-- Get a readable format
+
+SELECT e.empName, "Employee"
+       c.custName, "Customer"
+  FROM 
+    Employees e, 
+    Customers c, 
+    Sales s
+  WHERE 
+    e.empID = s.empID
+    AND
+    c.custID = s.custID
