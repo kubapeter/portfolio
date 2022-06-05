@@ -72,7 +72,7 @@ CREATE TABLE Customers
   PRIMARY KEY (custID)
 );
 
--- User defined function
+-- User-defined function
 
 SELECT custName, 
        fullName, 
