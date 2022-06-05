@@ -19,8 +19,6 @@
 - **arrays**: declaration, assigning value, indexing, nested arrays, array methods
 
 
-## Assignment
+## Coding practice
 
->"quote"
-
-Main points, and own [shared code](./code.language) 
+This week there are no challenges, activities or projects.
