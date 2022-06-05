@@ -27,7 +27,7 @@ Course 4 of the [Oracle SQL Databases Specialization](../)
 
 ## Content
 This folder contains 
-- [x] [source codes](./Codes) from the walkthroughs of the course
+- [x] [source codes](./Demonstrations) from the deomnstrations of the course
 - [x] [slides](./Slides) (.png images)
 - [x] [certificate](./Coursera_Certificate_Oracle_SQL_Basics.pdf) ([verification](https://coursera.org/verify/28A9KYA7NZLU))
 
