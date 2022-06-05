@@ -28,6 +28,8 @@
 >
 >When you print each method call with the list above, you should see the output below.
 >
->| Method Call                     | Output                                         | 
->|---------------------------------|------------------------------------------------|
->| `System.out.println(account1);` | BankAccount\[checking=2432.0, savings=89.52\]  | 
+>| Method Call                                     | Output     | 
+>|-------------------------------------------------|------------|
+>| `print(my_stats.mean([8, 7, 3, 9, 1, 4, 3]))`   | mean: 5    | 
+>| `print(my_stats.median([8, 7, 3, 9, 1, 4, 3]))` | median: 4  | 
+>| `print(my_stats.mode([8, 7, 3, 9, 1, 4, 3]))`   | mode: 3    | 
