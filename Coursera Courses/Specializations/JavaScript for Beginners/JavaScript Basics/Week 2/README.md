@@ -24,7 +24,7 @@
 - Practice working with combining control structures (sequence, selection and loop) and creating functions to create basic programs that output to the browser console.
 
 ## Subjects covered
-- 
+- Operators: `+`, `=`, `-`, `*`, `/`, `%`
 
 
 ## Coding practice
