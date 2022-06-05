@@ -28,8 +28,8 @@ CREATE TABLE Sales
 -- Sales table has only numbers in it. 
 -- Get a readable format
 
-SELECT e.empName, "Employee"
-       c.custName, "Customer"
+SELECT e.empName "Employee",
+       c.custName "Customer"
   FROM 
     Employees e, 
     Customers c, 
