@@ -14,7 +14,7 @@
 - Assign and retrieve values from variables and arrays in JavaScript.
 
 ## Subjects covered
-- subjects
+- history of JavaScript
 
 ## Assignment
 
