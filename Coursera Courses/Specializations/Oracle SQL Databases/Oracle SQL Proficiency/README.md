@@ -13,15 +13,15 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**7 hours** to complete - 3 quizzes
+**6 hours** to complete - 3 quizzes
 
-Course 3 of the [Oracle SQL Databases Specialization](../) 
+Course 4 of the [Oracle SQL Databases Specialization](../) 
 
 ---
 
 ## Course description
 
->"This course, Oracle SQL Basics is the third course in the Oracle specialization. It is designed to help you learn the key elements of the Structured Query Language specific to Oracle."
+>"This course is designed to help you continue learning about Oracle SQL and database management. We will look more closely at the Create, Alter, and Update commands, explore database relationships, and demonstrate how to use database views and SQL functions."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/oracle-sql-proficiency">website</a></p>
 
