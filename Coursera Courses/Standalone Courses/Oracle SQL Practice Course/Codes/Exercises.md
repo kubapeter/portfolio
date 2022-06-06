@@ -58,3 +58,15 @@ There are 2 exercises in Module 3.
 >| orderDate - date                  |
 >
 >2. We aren't populating this table just yet, so view the output to ensure the columns are correct using the describe command.
+>
+>## Table 4: Create the Vendors table
+>
+>1. Use the details below to create an **Vendors** table.
+>
+>| Vendors                           |
+>|-----------------------------------|
+>| vendorID - int - not null         |
+>
+>2. We aren't populating this table just yet, so view the output to ensure the columns are correct using the describe command.
+
+
