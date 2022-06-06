@@ -11,3 +11,9 @@
 >Change the title and the headings on the challenge1.html file and save it as challenge2.html.
 >
 >Use plus signs (+) and your two variables to write your first name and last name to the console on one line with a space between your names.
+
+## Challenge 3
+
+>Update and save the file again, this time as challenge3.html
+>
+>Add one more variable called "adjective" and assign it a value that describes you. Use the console to display a sentence that includes all three variables. This time use a template literal (tick marks, and ${} around variables).
