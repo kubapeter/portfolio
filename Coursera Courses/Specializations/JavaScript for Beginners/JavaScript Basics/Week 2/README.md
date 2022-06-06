@@ -36,6 +36,7 @@
 - `while`
 - `'the square of ${myNum} is ${myNum * myNum}'`
 - string methods
+- refactoring
 
 
 ## Coding practice
