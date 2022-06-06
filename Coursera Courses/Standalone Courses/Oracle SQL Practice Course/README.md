@@ -4,7 +4,7 @@
 
 <img src="/img/LearnQuest_logo.png" width="120" align="left">
 
-# Oracle SQL Proficiency
+# Oracle SQL Practice Course
 
 Offered by 
 ### *LearnQuest*
