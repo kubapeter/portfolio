@@ -49,3 +49,12 @@ There are 2 exercises in Module 3.
 >## Table 3: Create the Orders table
 >
 >1. Use the details below to create an **Orders** table.
+>
+>| Orders                            |
+>|-----------------------------------|
+>| orderNUM - int - not null         |
+>| custCode - varchar(20) - not null |
+>| empID - varchar2(10) - not null   |
+>| orderDate - date                  |
+>
+>2. We aren't populating this table just yet, so view the output to ensure the columns are correct using the describe command.
