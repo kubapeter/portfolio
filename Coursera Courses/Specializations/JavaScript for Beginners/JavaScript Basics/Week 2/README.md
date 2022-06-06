@@ -32,7 +32,7 @@
 - `&&`, `||`
 - `for (var i = 0; i < 10; i++) {...}`
 - `for (var element of array) {...}`
-- `for (var letter of string) {...}`
+- `js for (var letter of string) {...}`
 - `while`
 - `'today is ${dayOfTheWeek}'`
 
