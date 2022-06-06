@@ -54,3 +54,7 @@ This folder contains
 >- Practice using DML Statements
 >- Practice Using DDL Statements
 >- Use the Create Statement to create a table
+
+## Remark
+
+On the first slide of the course it is apparent that this course is meant to be the continuation of the [Oracle SQL Databases Specialization](../../).
