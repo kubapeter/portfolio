@@ -59,6 +59,4 @@ This folder contains
 
 The first slide of the course shows that this course is meant to be the continuation of the [Oracle SQL Databases Specialization](../../Specializations/Oracle%20SQL%20Databases).
 
-<img src="./slide1.PNG" width="300">
-
 ![Structure of LearnQuest Oracle DB Courses](./slide1.PNG)
