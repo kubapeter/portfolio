@@ -110,3 +110,9 @@ There are 2 exercises in Module 3.
 >orderNUM = 75692, custCode= 6774, empID = S1234, orderDate = 
 >
 >2. View the output to ensure the records are correct.
+>
+>## Delete a row
+>
+>1. Let’s delete the row in our Orders table where the orderDate is blank. This was a cancelled order.
+>
+>2. Check your table output to ensure it was removed and that there are only two rows.
