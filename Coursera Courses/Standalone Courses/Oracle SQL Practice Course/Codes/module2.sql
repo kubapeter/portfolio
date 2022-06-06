@@ -24,7 +24,29 @@ ALTER TABLE emps
 ALTER TABLE emps
   MODIFY email NOT NULL;
 
+-- Insert a row (notice the order of column names)
+
+INSERT INTO emps
+  (
+    empName,
+    empID,
+    email
+  )
+  VALUES
+  (
+    'Mark Adams',
+    1, 
+    'madams@example.com'
+  );
+
+-- Select the result
+
+SELECT * 
+  FROM emps;
+
 -- Drop just one column 
 
 ALTER TABLE emps
   DROP COLUMN email;
+
+-- 
