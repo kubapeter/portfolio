@@ -32,9 +32,9 @@
 - `&&`, `||`
 - `for (var i = 0; i < 10; i++) {...}`
 - `for (var element of array) {...}`
-- `js for (var letter of string) {...}`
+- `for (var letter of string) {...}`
 - `while`
-- `'today is ${dayOfTheWeek}'`
+- `'the square of ${myNum} is ${myNum * myNum}'
 
 
 ## Coding practice
