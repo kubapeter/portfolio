@@ -35,6 +35,7 @@
 - `for (var letter of string) {...}`
 - `while`
 - `'the square of ${myNum} is ${myNum * myNum}'`
+- string methods
 
 
 ## Coding practice
