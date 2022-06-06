@@ -39,5 +39,3 @@ The specialization consists of 4 courses.
 2. [Oracle Database Platform](./Oracle%20Database%20Platform)
 3. [Oracle SQL Basics](./Oracle%20SQL%20Basics)
 4. [Oracle SQL Proficiency](./Oracle%20SQL%20Proficiency)
-
-## Remarks
