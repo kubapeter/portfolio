@@ -21,5 +21,7 @@ In Module 3 there are 2 exercises.
 >custCode = 1042                custName = KomTex                empID = I4567
 >
 >custCode = 6774                custName = Photon                empID = S2345
+>
+>3. Do a **select all** statement to ensure the data is correct.
 
 
