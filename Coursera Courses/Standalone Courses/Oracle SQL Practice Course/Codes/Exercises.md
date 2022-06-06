@@ -101,4 +101,11 @@ There are 2 exercises in Module 3.
 >
 >1. Now, we need to populate the Orders table with data. Describe it so you can see the columns we’ll be populating. Once you have viewed your table, insert the following information into it: 
 >
-><ins>Hint</ins>: to enter a date, the value statement must specify date and be in YYYY-MM-DD format. Example: values (date ‘2015-11-07’) would enter the value of November 7, 2015 into the date field.
+><ins>Hint</ins>: to enter a date, the value statement must specify <ins>date</ins> and be in YYYY-MM-DD format. Example: _values (date ‘2015-11-07’)_ would enter the value of November 7, 2015 into the date field.
+>orderNUM = 04125, custCode= 3264, empID = S1234, orderDate = 1/18/2018
+>
+>orderNUM = 13160, custCode= 1042, empID = I4567, orderDate = 6/7/2019
+>
+>orderNUM = 75692, custCode= 6774, empID = S1234, orderDate = 
+>
+>2. View the output to ensure the records are correct.
