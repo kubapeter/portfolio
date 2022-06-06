@@ -30,7 +30,11 @@
 - `=` and `==`; type coercion (`5 == "5"` is `true`); `===` and `!==` (no type coercion)
 - ``else if`, `switch`
 - `&&`, `||`
-- `for (var i = 0; i < 10; i++) {...}`, `for (var element of array) {...}`, `for (var letter of string) {...}`
+- `for (var i = 0; i < 10; i++) {...}`
+- `for (var element of array) {...}`
+- `for (var letter of string) {...}`
+- `while`
+- `'today is ${dayOfTheWeek}'`
 
 
 ## Coding practice
