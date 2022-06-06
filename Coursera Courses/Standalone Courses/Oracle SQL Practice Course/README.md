@@ -13,7 +13,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**7 hours** to complete - 2 quizzes
+**6 hours** to complete - 2 quizzes
 
 ---
 
