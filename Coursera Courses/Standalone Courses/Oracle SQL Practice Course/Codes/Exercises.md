@@ -54,7 +54,7 @@ There are 2 exercises in Module 3.
 >|-----------------------------------|
 >| orderNUM - int - not null         |
 >| custCode - varchar(20) - not null |
->| empID - varchar2(10) - not null   |
+>| empID - varchar2(10)[^error] - not null   |
 >| orderDate - date                  |
 >
 >2. We aren't populating this table just yet, so view the output to ensure the columns are correct using the describe command.
@@ -116,3 +116,5 @@ There are 2 exercises in Module 3.
 >1. Let’s delete the row in our Orders table where the orderDate is blank. This was a cancelled order.
 >
 >2. Check your table output to ensure it was removed and that there are only two rows.
+
+[^error]: (sic!) This is probably meant to be `varchar(10)` as in the Employees table the type of the column empID is `varchar(10)` not `varchar2(10)`, and it is not a beliberate error to be corrected in exercise 2. 
