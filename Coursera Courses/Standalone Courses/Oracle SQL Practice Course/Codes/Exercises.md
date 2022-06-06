@@ -27,5 +27,10 @@ There are 2 exercises in Module 3.
 >## Table 2: Create the Employees table
 >
 >1. Use the details below to create an **Employees** table.
-
+>
+>| Employees                        |
+>|----------------------------------|
+>| empID - varchar(10) - not null   |
+>| empName - varchar(20) - not null |
+>| Role - varchar(20)               |
 
