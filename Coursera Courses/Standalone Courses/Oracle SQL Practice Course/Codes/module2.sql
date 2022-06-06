@@ -60,4 +60,6 @@ DELETE FROM emps
 ALTER TABLE emps
   DROP COLUMN email;
 
--- 
+-- Drop the table
+
+DROP TABLE emps;
