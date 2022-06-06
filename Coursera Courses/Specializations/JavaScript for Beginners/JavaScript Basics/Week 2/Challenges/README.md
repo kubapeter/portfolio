@@ -22,9 +22,11 @@
 >Update and save the file again, this time as challenge4.html 
 >
 >In JavaScript, prompt() can be used like this: 
->
->var name = prompt("what's your name?", "Bob"); 
->
+
+```js
+    var name = prompt("what's your name?", "Bob"); 
+```
+
 >When the page loads a prompt will appear and the user can add some text. "Bob" is the default text. If you don't want default text, you can leave the second set of quotes empty.
 >
 >Write script that prompts the user for their name, and then display a sentence in the console that greets the user by name and welcomes them.
