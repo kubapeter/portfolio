@@ -37,3 +37,29 @@
 >Update and save the file again, this time as challenge5.html
 >
 >This time, use prompt and ask the user for a whole number. If they type in a number less than 10, have the console log report, "You entered a number smaller than 10", otherwise, send "You entered a big number" to the console.
+
+## Challenge 6
+
+>Update and save the file again, this time as challenge6.html
+>
+>Notice in challenge 5, if a user types something other than a number, the console tells us they entered a big number. In this challenge, fix that so that if a user types something other than a number, the console displays a message that says there was an error.
+
+## Challenge 7
+
+>Update and save the file again, this time as challenge7.html
+>
+>For this challenge, if the user types a number less than 10, use a loop to print out the numbers from zero to 9 in the console.
+
+## Challenge 8
+
+>Update and save the file again, this time as challenge8.htm 
+>
+>For this challenge, if the user types a number less than 10, update the loop from the last challenge so that the console indicates the number the user entered.
+
+## Challenge 9 
+
+>Prompt the user for a color, then have the console report if the user typed a primary color (red, blue, or yellow) or a secondary color (orange, green or purple) or none of these. 
+>
+>Handle the situation for both uppercase and lowercase letters in the color the user types in. 
+>
+>_Hint: remember the || means 'or'_
