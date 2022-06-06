@@ -57,4 +57,7 @@ This folder contains
 
 ## Remark
 
-On the first slide of the course it is apparent that this course is meant to be the continuation of the [Oracle SQL Databases Specialization](../../).
+On the first slide of the course it is apparent that this course is meant to be the continuation of the [Oracle SQL Databases Specialization](../../Specializations/Oracle%20SQL%20Databases).
+
+
+https://github.com/kubapeter/portfolio/blob/9bc9568002fa4eaa9a5c7094d1b32ebca9950c8c/Coursera%20Courses/Specializations/Oracle%20SQL%20Databases/README.md
