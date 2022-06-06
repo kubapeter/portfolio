@@ -59,7 +59,4 @@ This folder contains
 
 On the first slide of the course it is apparent that this course is meant to be the continuation of the [Oracle SQL Databases Specialization](../../Specializations/Oracle%20SQL%20Databases).
 
-
-
 ![Structure of LearnQuest Oracle DB Courses](./m1_01_SQL%20Practice%20Course%20Intro.PNG)
-Coursera Courses/Standalone Courses/Oracle SQL Practice Course/m1_01_SQL Practice Course Intro.PNG
