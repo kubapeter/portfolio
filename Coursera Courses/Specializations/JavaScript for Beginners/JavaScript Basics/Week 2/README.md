@@ -26,6 +26,7 @@
 ## Subjects covered
 - Operators: `+`, `=`, `-`, `*`, `/`, `%`
 - Booleans, selection: `true`, `false`, `if`, `else`
+- `undefined` evaluates to `false`, `0` evaluates to `false`, `42` evaluates to `true`
 
 
 ## Coding practice
