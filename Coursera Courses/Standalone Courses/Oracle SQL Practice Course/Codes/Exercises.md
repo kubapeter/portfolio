@@ -88,4 +88,17 @@ There are 2 exercises in Module 3.
 >## Remove the Vendors Table
 >
 >1. We’ve realized that we do not need the Vendors table, since our Customers table will contain the same information. Remove the Vendors table from our database using the drop command.
-
+>
+>## Update the Employees table
+>
+>1. Now, let’s update the Employees table. Select everything in the employees table to see our records.
+>
+>2. Update Jack Peterson’s **Role** to **Sales**.
+>
+>3. Check the output of your table to ensure the change is there.
+>
+>## Populate the Orders table
+>
+>1. Now, we need to populate the Orders table with data. Describe it so you can see the columns we’ll be populating. Once you have viewed your table, insert the following information into it: 
+>
+>Hint: to enter a date, the value statement must specify date and be in YYYY-MM-DD format. Example: values (date ‘2015-11-07’) would enter the value of November 7, 2015 into the date field.
