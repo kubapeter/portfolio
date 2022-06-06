@@ -33,4 +33,19 @@ There are 2 exercises in Module 3.
 >| empID - varchar(10) - not null   |
 >| empName - varchar(20) - not null |
 >| Role - varchar(20)               |
-
+>
+>2. Now, we need to populate the employees table with data. View the description so you can see the columns we’ll be populating. 
+>
+>3. Once you have viewed your table, insert the following information into it:
+>
+>empID = S1234, empName = Jack Peterson, Role = 
+>
+>empID = M3456, empName = Tom Hill, Role = Marketing
+>
+>empID = I4567, empName = Matt Abrams, Role = Installation
+>
+>4. Select all to view the output to ensure the data is correct.
+>
+>## Table 3: Create the Orders table
+>
+>1. Use the details below to create an **Orders** table.
