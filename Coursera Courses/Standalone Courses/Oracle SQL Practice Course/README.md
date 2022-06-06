@@ -31,30 +31,27 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: Review SQL ([Demonstrations](./Demonstrations/module1.sql))
+#### Module 1: SQL Review 
 
->"In this module, we'll take a look at the three SQL Command Categories, and review the insert, update, and delete commands as well as the select statement."
->- Demonstrate using the Insert, Select, Update, and Delete Commands
->- List the three SQL Command Categories
->- Compare and contrast DML, DDL, and DCL
+>"In this module, first, we will discuss what you will learn in this practice course. Then, we'll review types of SQL statements and take a look at developing a Data Model. We'll also walk through how to install SQL Plus and Oracle SQL Developer so you can follow along with some of our activities."
+>- Describe what you'll review in this course
+>- Explain Relational Databases
+>- Describe the process of designing an Entity Relationship Diagram
+>- List and describe the types of SQL statements
+>- Define the steps of Data Modeling
 
-#### Module 2: Create And Alter Commands ([Demonstrations](./Demonstrations/module2.sql))
+#### Module 2: Data Definition Language (DDL) and Data Manipulation Language (DML) ([Practices](./Codes/module2.sql))
 
->"In this module, we are going to take a closer look at the create, alter, and update commands, as well as demonstrate many ways they can be used."
->- Demonstrate using the Create and Alter DDL statements
->- Demonstrate the Update DML command
->- Describe the difference between the Alter and Update commands
+>"In this module, we will review creating tables and adding columns to them as well as some best practices. We will also review using alter statements to modify our database. Lastly, we'll look at DML statements."
+>- Use the Create Statement to create a table
+>- Use the Alter Statement to modify a table
+>- Understand what alter statements can do
+>- Practice using DML Statements
+>- Practice Using DDL Statements
 
-#### Module 3: Database Relationships ([Demonstrations](./Demonstrations/module3.sql))
+#### Module 3: Practice Writing SQL Code ([Demonstrations](./Demonstrations/module3.sql))
 
->"In this module, we are going to explore the relationships between tables and how they are linked using primary and foreign keys."
->- Explain the relationships between tables in a RDBMS
->- Explain how primary keys and foreign keys are used
-
-#### Module 4: Views and Functions ([Demonstrations](./Demonstrations/module4.sql))
-
->"In this module, we'll explore database views, their benefits, and how they are used. We'll also take a look at SQL functions."
->- Define views and list their benefits
->- Demonstrate how to use Views
->- Demonstrate using SQL Functions
->- Define SQL Functions and how they are used
+>"In this module, we'll put you to the test. You'll be able to create tables and modify them to test what you've learned to this point. Use SQLPlus if you installed it on you own machine, or go to https://livesql.oracle.com/ if you need an online way to test your code."
+>- Practice using DML Statements
+>- Practice Using DDL Statements
+>- Use the Create Statement to create a table
