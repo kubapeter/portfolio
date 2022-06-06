@@ -49,7 +49,7 @@ This folder contains
 >- Practice using DML Statements
 >- Practice Using DDL Statements
 
-#### Module 3: Practice Writing SQL Code ([Demonstrations](./Demonstrations/module3.sql))
+#### Module 3: Practice Writing SQL Code ([Exercises](./Codes/module3.sql))
 
 >"In this module, we'll put you to the test. You'll be able to create tables and modify them to test what you've learned to this point. Use SQLPlus if you installed it on you own machine, or go to https://livesql.oracle.com/ if you need an online way to test your code."
 >- Practice using DML Statements
