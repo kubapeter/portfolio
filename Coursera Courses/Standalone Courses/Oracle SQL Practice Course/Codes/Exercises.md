@@ -6,12 +6,17 @@ In Module 3 there are 2 exercises.
 >
 >## Table 1: Create the Customers Table
 >
->1. Use the details below to create a Customers table.
+>1. Use the details below to create a **Customers** table.
 >
 >| Customers                          |
 >|------------------------------------|
 >| custCode - int - not null          |
 >| custName - varchar2(20) - not null |
 >| empID - varchar(10) - not null     |
+>
+>2. Once your Customers table is created, populate it with the following information using the **insert** statement:
+>custCode = 3264                custName = TekNik                empID = S2345
+>custCode = 1042                custName = KomTex              empID = I4567
+>custCode = 6774                custName = Photon                empID = S2345
 
 
