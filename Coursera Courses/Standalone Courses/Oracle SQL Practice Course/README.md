@@ -25,8 +25,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ## Content
 This folder contains 
-- [x] [source codes](./Demonstrations) from the demonstrations of the course
-- [x] [slides](./Slides) (.png images)
+- [x] [source codes](./Demonstrations) from the practices and the exercises
 - [x] [certificate](./Coursera_Certificate_Oracle_SQL_Proficiency.pdf) ([verification](https://coursera.org/verify/KQ2B83H8PFGV))
 
 ## Syllabus
