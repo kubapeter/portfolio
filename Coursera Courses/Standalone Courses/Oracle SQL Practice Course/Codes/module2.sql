@@ -39,10 +39,21 @@ INSERT INTO emps
     'madams@example.com'
   );
 
--- Select the result
+-- See the result
 
 SELECT * 
   FROM emps;
+
+-- Update data in a row
+
+UPDATE emps 
+  SET empName = 'Alex Johnson'
+  WHERE empID = 1;
+
+-- Delete a row
+
+DELETE FROM emps
+  WHERE empID = 2;
 
 -- Drop just one column 
 
