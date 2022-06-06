@@ -1,4 +1,4 @@
-<a href="https://www.coursera.org/learn/oracle-sql-proficiency">
+<a href="https://www.coursera.org/learn/oracle-sql-practice">
   <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
 </a>
 
@@ -13,17 +13,15 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**6 hours** to complete - 3 quizzes
-
-Course 4 of the [Oracle SQL Databases Specialization](../) 
+**7 hours** to complete - 2 quizzes
 
 ---
 
 ## Course description
 
->"This course is designed to help you continue learning about Oracle SQL and database management. We will look more closely at the Create, Alter, and Update commands, explore database relationships, and demonstrate how to use database views and SQL functions."
+>"This course is designed for SQL beginners to review SQL statements, including creating tables, adding columns, and modifying tables. We'll look at using alter statements and learners will practice using DDL and DML statements completing exercises."
 
-<p align="right">More details on <a href="https://www.coursera.org/learn/oracle-sql-proficiency">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/oracle-sql-practice">website</a></p>
 
 ## Content
 This folder contains 
