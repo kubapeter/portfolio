@@ -69,7 +69,7 @@ There are 2 exercises in Module 3.
 >
 >2. We aren't populating this table just yet, so view the output to ensure the columns are correct using the describe command.
 
-# Exercise 2: Modify, Drop, and Update Tables
+# [Exercise 2](./exercise2.sql): Modify, Drop, and Update Tables
 
 >In this exercise, you are going to be modifying the four tables you created in the previous exercise: the Customers table, the Orders table, the Employees table, and the Vendors table. [...]
 >## Modify the Orders Table
