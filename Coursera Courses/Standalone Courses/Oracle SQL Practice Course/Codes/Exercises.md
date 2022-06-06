@@ -7,4 +7,10 @@ In Module 3 there are 2 exercises.
 >## Table 1: Create the Customers Table
 >
 >1. Use the details below to create a Customers table.
+>| Customers |
+>|------------------------|
+>| custCode - int - not null |
+>| custName - varchar2(20) - not null |
+>| empID - varchar(10) - not null|
+
 
