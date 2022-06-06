@@ -27,6 +27,7 @@
 - Operators: `+`, `=`, `-`, `*`, `/`, `%`
 - Booleans, selection: `true`, `false`, `if`, `else`
 - `undefined`, `0` and `null` evaluates to `false`, everything else evaluates to `true`
+- `=` and `==`; type coercion (`5 == '5'` is `true`)
 
 
 ## Coding practice
