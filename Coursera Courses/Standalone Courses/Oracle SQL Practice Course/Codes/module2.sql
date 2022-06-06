@@ -24,7 +24,7 @@ ALTER TABLE emps
 ALTER TABLE emps
   MODIFY email NOT NULL;
 
--- Insert a row (notice the order of column names)
+-- Insert a row (notice the order of column names and inserted values)
 
 INSERT INTO emps
   (
