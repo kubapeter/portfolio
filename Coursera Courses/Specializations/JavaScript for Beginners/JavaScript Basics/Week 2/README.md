@@ -26,8 +26,11 @@
 ## Subjects covered
 - Operators: `+`, `=`, `-`, `*`, `/`, `%`
 - Booleans, selection: `true`, `false`, `if`, `else`
-- `undefined`, `0` and `null` evaluates to `false`, everything else evaluates to `true`
-- `=` and `==`; type coercion (`5 == '5'` is `true`)
+- `undefined`, `0`, `NaN` and `null` evaluates to `false`, everything else evaluates to `true`
+- `=` and `==`; type coercion (`5 == "5"` is `true`); `===` and `!==` (no type coercion)
+- ``else if`, `switch`
+- `&&`, `||`
+- `for (var i = 0; i < 10; i++) {...}`
 
 
 ## Coding practice
