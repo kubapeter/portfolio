@@ -39,7 +39,7 @@ This folder contains
 
 ## Syllabus
 
-### Week 1: **Course Overview**
+### Week 1: **Course Overview** ([Slides](./Slides/OR3_01_theoryIntro.pdf))
 >"In the first lecture, after introducing the course and the importance of mathematical properties, we study the matrix way to run the simplex method. Being more familiar with matrices will help us understand further lectures.
 >- After the lecture, students can learn why we should study on the theories of Operations Research and understand the formulation and applications of the simplex method in matrices."
 
