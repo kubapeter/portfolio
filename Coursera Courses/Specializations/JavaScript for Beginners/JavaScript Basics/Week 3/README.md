@@ -34,7 +34,8 @@
 - Scope
 - without `var` the variable is automaticly global
 - to avoid global scope
-  - wrap into an immediately invoked function expression `( function() {...} () );`
+  - wrap into an immediately invoked function expression `( function() {...} () );` or `(function doStuff() {...}) ();`
+  - `"use strict"` forces to write out `var`
 
 
 ## Coding practice
