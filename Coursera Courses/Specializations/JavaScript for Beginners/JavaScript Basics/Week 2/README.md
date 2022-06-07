@@ -34,7 +34,7 @@
 - `for (var element of array) {...}`
 - `for (var letter of string) {...}`
 - `while`
-- `` `the square of ${myNum} is ${myNum * myNum}` `` (backticks! \` not ')
+- `` `the square of ${myNum} is ${myNum * myNum}` `` (backticks! \` and not ' )
 - string methods
 - refactoring
 
