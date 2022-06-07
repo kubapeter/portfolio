@@ -37,8 +37,11 @@
 - `` `the square of ${myNum} is ${myNum * myNum}` `` (backticks! \` and not ' )
 - string methods
 - refactoring
-- fuctions: definition, parameters, return value, anonymus functions, first-class citizenship, function assigned to variable
-- `var anonym_function = function () {...}`
+- fuctions: definition, parameters, return value, first-class citizenship, function assigned to variable
+- `var anonymFunction = function () {...}`, anonymus functions
+- `var arrowFunction = anyString => anyString.toUpperCase()`, arrow functions
+- function and method is the same concept in JavaScript
+- `window` object
 
 
 ## Coding practice
