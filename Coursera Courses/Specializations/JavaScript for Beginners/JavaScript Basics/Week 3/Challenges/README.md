@@ -2,7 +2,7 @@
 
 ## [Challenge 17](./challenge17.html)
 
->For each of these challenges, use the start file and add `\<script\>` tags at the bottom of the page, just before the closing \</body\> tag, and put your JavaScript between those tags.
+>For each of these challenges, use the start file and add `<script>` tags at the bottom of the page, just before the closing `</body>` tag, and put your JavaScript between those tags.
 >
 >Save each challenge as challenge17.html, etc.
 >
