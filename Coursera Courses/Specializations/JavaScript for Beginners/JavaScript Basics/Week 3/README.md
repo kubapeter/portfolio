@@ -28,6 +28,7 @@
 - `.querySelector()`, `.querySelectorAll()`
 - `.innerHTML`, `.className`, `.setAttribute()`
 - `.createElement()`, `.createTextNode()`, `.appendChild()`, `.removeChild()`
+- `.onclick`, `addEventListener()`
 
 
 ## Coding practice
