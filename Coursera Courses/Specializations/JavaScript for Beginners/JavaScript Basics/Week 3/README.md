@@ -2,48 +2,29 @@
   <img src="/img/JavaScript_Basics_logo.avif" width="120" align="right">
 </a>
 
-# Week 2 <br> Controlling Logical Flow in JavaScript
+# Week 3 <br> Using JavaScript in the Web Browser
 
 ## Learning Objectives
-- Download and install a code editor.
-- Use the code editor to create HTML files.
-- Manage files and folders.
-- Use the explorer in Visual Studio Code to organize and link to files.
-- Identify selection structures within programs.
-- Identify expressions that evaluate to `true` or `false` in JavaScript.
-- Write the syntax necessary for creating selection structures in JavaScript.
-- Troubleshoot scripts when they have errors.
-- Use a code editor to write scripts.
-- Correctly identify loop structures in programming.
-- Use correct syntax to write loops in JavaScript.
-- Identify and fix errors in the program when they occur.
-- Write basic JavaScript programs in a code editor and run them in the browser.
-- Combine logic flow control structures within simple programs.
-- Output program results to the console window.
-- Create custom functions that can be called to complete the instructions they contain.
-- Practice working with combining control structures (sequence, selection and loop) and creating functions to create basic programs that output to the browser console.
+- Identify the DOM and the relationships between elements on a web page.
+- Use document methods to access and change the DOM.
+- Use element properties to change the DOM.
+- Use the inspector in the browser to identify changes and troubleshoot problems.
+- Use event listeners and event properties to capture events.
+- Modify the DOM based on events captured.
+- Use the inspector to identify effects the program has on the web page.
+- Recognize and identify variable scope in JavaScript.
+- Develop coding best practices to keep score from creating programming errors.
+- Capture user events.
+- Change the DOM based on user events.
+- Employ appropriate logical flow control structures necessary to make the program function properly.
+- Use array and variables to manage program data.
+- Apply best practices to manage variable scope.
+- Identify and fix errors in programs, when they are not running properly.
 
 ## Subjects covered
-- Operators: `+`, `=`, `-`, `*`, `/`, `%`
-- Booleans, selection: `true`, `false`, `if`, `else`
-- `undefined`, `0`, `NaN` and `null` evaluates to `false`, everything else evaluates to `true`
-- `=` and `==`; type coercion (`5 == "5"` is `true`); `===` and `!==` (no type coercion)
-- ``else if`, `switch`
-- `&&`, `||`
-- `for (var i = 0; i < 10; i++) {...}`
-- `for (var element of array) {...}`
-- `for (var letter of string) {...}`
-- `while`
-- `` `the square of ${myNum} is ${myNum * myNum}` `` (backticks! \` and not ' )
-- string methods
-- refactoring
-- fuctions: definition, parameters, return value, first-class citizenship, function assigned to variable
-- `var anonymFunction = function () {...}`, anonymus functions
-- `var arrowFunction = anyString => anyString.toUpperCase()`, arrow functions
-- function and method is the same concept in JavaScript
-- `window` object
+- 
 
 
 ## Coding practice
 
-There are 16 challenges for week 2. [This folder](./Challenges) contains the [descriptions](./Challenges/README.md) of the challenges, and the solutions. 
+There are 14 challenges and 2 activities for week 3. [This folder](./Challenges) contains the [descriptions](./Challenges/README.md) of the challenges, and the solutions. 
