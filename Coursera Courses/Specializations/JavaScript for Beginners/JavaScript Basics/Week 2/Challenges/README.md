@@ -63,3 +63,45 @@
 >Handle the situation for both uppercase and lowercase letters in the color the user types in. 
 >
 >_Hint: remember the || means 'or'_
+
+## [Challenge 10](./challenge10.html)
+
+>Write a function called `hello()` that outputs a greeting in the console when the function runs.
+
+## [Challenge 11](./challenge11.html)
+
+>For this challenge, change `hello()` so that it takes a parameter, and when you run the function, you pass in the name of a person and the function outputs the greeting to the console.
+
+## [Challenge 12](./challenge12.html)
+
+>This time, add a prompt requesting the user for their name, and assign the result to a variable.
+>
+>Then pass that variable into the `hello()` function so that the console greets the person by name.
+
+## [Challenge 13](./challenge13.html)
+
+>For this challenge handle the situation that happens if the user clicks cancel on the prompt, or does not enter text in the prompt. 
+>
+>If the user does one of those two actions, have the `hello()` function log to the console "You didn't give me your name". Otherwise, have the console log the greeting.
+>
+>_Hint: What do you get if, in challenge 12, you click cancel or put no text in the prompt?_
+
+## [Challenge 14](./challenge14.html)
+
+>For this challenge, update the `hello()` function so that it returns a value rather than outputs directly to the console. 
+>
+>I used a variable: `var greeting;` and returned that variable at the end of the function. 
+>
+>Then outside the function write a call to the console that logs the greeting returned by the function.
+
+## [Challenge 15](./challenge15.html)
+
+>For this challenge, add an array of foods and put 3-5 elements in the array. Then make a new function called `hospitality();` after the `hello();` function. 
+>
+>The new function will take two parameters, a name and a gift, which will be an array. Have this function run the `hello()` function and output the result to the console. Then have it loop through the gift array and offer a gift to the visitor by name and output that to the console.
+
+## [Challenge 16](./challenge16.html)
+
+>For this challenge, add the function that gets random integers from the functions lecture. 
+>
+>Update the `hospitality()` function so that, instead of looping through the whole array, randomly picks one element from the array and offers that to the user.
