@@ -31,7 +31,10 @@
 - `.createElement()`, `.createTextNode()`, `.appendChild()`, `.removeChild()`
 - `.onclick`, `addEventListener()`, `'click'`, `'mouseover'`, `'mouseout'`, `'scroll'`, `'resize'`, `'keydown'`
 - `event` object, `.target`. `.preventDefault()`
-- 
+- Scope
+- without `var` the variable is automaticly global
+- to avoid global scope
+  - wrap into an immediately invoked function expression `( function() {...} () );`
 
 
 ## Coding practice
