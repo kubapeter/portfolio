@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Basic Challenges: Challenge 30</title>
+    <style>
+      .one { background-color: beige; transition: all 3s; }
+      .two { background-color: blueviolet; transition: all 3s; }
+      .three { background-color: coral; transition: all 3s; }
+      .four { background-color: cornflowerblue; transition: all 3s; }
+      .five { background-color: darkgoldenrod; transition: all 3s; }
+    </style>
+  </head>
+  
+  <body class="one">
+    <h1>JavaScript Basic Challenges: Challenge 30</h1>
+
+    <p>Press the B key to turn the page beige</p>
+    <p>Press the V key to turn the page blueviolet</p>
+    <p>Press the C key to turn the page coral</p>
+    <p>Press the F key to turn the page cornflowerblue</p>
+    <p>Press the G key to turn the page darkgoldenrod</p>
+
+    <script>
+
+      var bodyElement = document.querySelector('body');
+
+      window.addEventListener('keydown', function(event) {
+
+        keyPressed = event.key.toLowerCase();
+        
+        switch (true) {
+          case keyPressed == 'b': bodyElement.className = 'one'; break;
+          case keyPressed == 'v': bodyElement.className = 'two'; break;
+          case keyPressed == 'c': bodyElement.className = 'three'; break;
+          case keyPressed == 'f': bodyElement.className = 'four'; break;
+          case keyPressed == 'g': bodyElement.className = 'five'; break;
+          default: alert('You didn\'t press a correct key!');
+        }
+      });
+        
+    </script>
+    
+  </body>
+</html>
