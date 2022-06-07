@@ -10,7 +10,7 @@
 
 ## [Challenge 18](./challenge18.html)
 
->For this challenge, get all the paragraphs on the page, assign them to a variable, then use that variable in a loop to set the `style.color` property to green.
+>For this challenge, get all the paragraphs on the page, assign them to a variable, then use that variable in a loop to set the `style.color` property to `green`.
 
 ## [Challenge 19](./challenge19.html)
 
