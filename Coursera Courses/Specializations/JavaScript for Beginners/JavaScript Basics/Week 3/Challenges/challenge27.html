@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Basic Challenges: Challenge 27</title>
+  </head>
+  <body>
+    <h1>JavaScript Basic Challenges: Challenge 27</h1>
+
+    <form>
+      <label>Enter a number <input type="text"></label>
+      <input type="submit" value="send number">
+    </form>
+
+    <script>
+      
+      var inputText = document.querySelector('input');
+      var h1Size = document.querySelector('h1');
+      var formSubmit = document.querySelector('form');
+      
+      formSubmit.addEventListener('submit', function(event) {
+        event.preventDefault();
+        
+        if (inputText.value > 0) {
+          h1Size.style.fontSize = inputText.value + 'px';
+        }
+        else {
+          alert('You must enter a number!')
+        }
+      });
+      
+    </script>
+    
+  </body>
+</html>
