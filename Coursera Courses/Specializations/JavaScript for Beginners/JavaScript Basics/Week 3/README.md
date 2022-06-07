@@ -24,7 +24,8 @@
 ## Subjects covered
 - Document Object Model
 - nodes, `.firstChild`, `.nextSibling`, `.childNodes[1]`, `.parentNode`, etc. 
-- 
+- `getElementById()`, `getElementsByTagName()`, `getElementByClassName()`
+- `querySelector()`, `querySelectorAll()`
 
 
 ## Coding practice
