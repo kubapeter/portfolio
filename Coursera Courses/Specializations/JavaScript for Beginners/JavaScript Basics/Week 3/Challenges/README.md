@@ -40,71 +40,38 @@
 >
 >You will have multiple anchor tags to check and you're looking to see if one of them matches, so that should tell you what logical flow control structures you need.
 
-## [Challenge 6](./challenge06.html)
+## [Challenge 22](./challenge22.html)
 
->Update and save the file again, this time as challenge6.html
->
->Notice in challenge 5, if a user types something other than a number, the console tells us they entered a big number. In this challenge, fix that so that if a user types something other than a number, the console displays a message that says there was an error.
+>Update 
 
-## [Challenge 7](./challenge07.html)
+## [Challenge 23](./challenge23.html)
 
->Update and save the file again, this time as challenge7.html
->
->For this challenge, if the user types a number less than 10, use a loop to print out the numbers from zero to 9 in the console.
+>Update 
 
-## [Challenge 8](./challenge08.html)
+## [Challenge 24](./challenge24.html)
 
->Update and save the file again, this time as challenge8.htm 
->
->For this challenge, if the user types a number less than 10, update the loop from the last challenge so that the console indicates the number the user entered.
+>Update 
 
-## [Challenge 9](./challenge09.html)
+## [Challenge 25](./challenge25.html)
 
->Prompt the user for a color, then have the console report if the user typed a primary color (red, blue, or yellow) or a secondary color (orange, green or purple) or none of these. 
->
->Handle the situation for both uppercase and lowercase letters in the color the user types in. 
->
->_Hint: remember the || means 'or'_
+>Prompt
 
-## [Challenge 10](./challenge10.html)
+## [Challenge 26](./challenge26.html)
 
->Write a function called `hello()` that outputs a greeting in the console when the function runs.
+>Write 
 
-## [Challenge 11](./challenge11.html)
+## [Challenge 27](./challenge27.html)
 
->For this challenge, change `hello()` so that it takes a parameter, and when you run the function, you pass in the name of a person and the function outputs the greeting to the console.
+>For 
 
-## [Challenge 12](./challenge12.html)
+## [Challenge 28](./challenge28.html)
 
->This time, add a prompt requesting the user for their name, and assign the result to a variable.
->
->Then pass that variable into the `hello()` function so that the console greets the person by name.
+>This .
 
-## [Challenge 13](./challenge13.html)
+## [Challenge 29](./challenge29.html)
 
->For this challenge handle the situation that happens if the user clicks cancel on the prompt, or does not enter text in the prompt. 
->
->If the user does one of those two actions, have the `hello()` function log to the console "You didn't give me your name". Otherwise, have the console log the greeting.
->
->_Hint: What do you get if, in challenge 12, you click cancel or put no text in the prompt?_
+>For 
 
-## [Challenge 14](./challenge14.html)
+## [Challenge 30](./challenge30.html)
 
->For this challenge, update the `hello()` function so that it returns a value rather than outputs directly to the console. 
->
->I used a variable: `var greeting;` and returned that variable at the end of the function. 
->
->Then outside the function write a call to the console that logs the greeting returned by the function.
-
-## [Challenge 15](./challenge15.html)
-
->For this challenge, add an array of foods and put 3-5 elements in the array. Then make a new function called `hospitality();` after the `hello();` function. 
->
->The new function will take two parameters, a name and a gift, which will be an array. Have this function run the `hello()` function and output the result to the console. Then have it loop through the gift array and offer a gift to the visitor by name and output that to the console.
-
-## [Challenge 16](./challenge16.html)
-
->For this challenge, add the function that gets random integers from the functions lecture. 
->
->Update the `hospitality()` function so that, instead of looping through the whole array, randomly picks one element from the array and offers that to the user.
-
+>For 
