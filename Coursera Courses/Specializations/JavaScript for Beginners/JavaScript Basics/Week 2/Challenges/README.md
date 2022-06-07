@@ -1,6 +1,6 @@
 # Challenges 
 
-## [Challenge 1](./challange01.html)
+## [Challenge 1](./challenge01.html)
 
 >Create an HTML file and set the title to "JavaScript Basic Challenges: Challenge 1" Then add an \<h1\> and \<h2\> with that information. 
 >
