@@ -28,7 +28,9 @@
 - `.querySelector()`, `.querySelectorAll()`
 - `.innerHTML`, `.className`, `.setAttribute()`
 - `.createElement()`, `.createTextNode()`, `.appendChild()`, `.removeChild()`
-- `.onclick`, `addEventListener()`
+- `.onclick`, `addEventListener()`, `'click'`, `'mouseover'`, `'mouseout'`
+- `event` object. `.target`. `.preventDefault()`
+- 
 
 
 ## Coding practice
