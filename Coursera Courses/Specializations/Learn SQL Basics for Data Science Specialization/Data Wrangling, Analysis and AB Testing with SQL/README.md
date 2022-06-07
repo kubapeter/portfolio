@@ -29,7 +29,7 @@ Course 2 of the [Learn SQL Basics for Data Science Specialization](../)
 This folder contains 
 - [x] practice exercises
 - [x] short descriptions of the modules 
-- [x] [certificate](./Certificate) ([verification](https://))
+- [x] [certificate](./Coursera_Certificate_Data_Wrangling,_Analysis_and_AB_Testing_with_SQL.pdf) ([verification](https://coursera.org/verify/LKRWPUSHNWD4))
 
 ## Syllabus
 - [Week 1](./Week%201): Data of Unknown Quality
