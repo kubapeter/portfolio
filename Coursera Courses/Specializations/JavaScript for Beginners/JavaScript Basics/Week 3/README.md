@@ -24,10 +24,10 @@
 ## Subjects covered
 - Document Object Model
 - nodes, `.firstChild`, `.nextSibling`, `.childNodes[1]`, `.parentNode`, etc. 
-- `getElementById()`, `getElementsByTagName()`, `getElementByClassName()`
-- `querySelector()`, `querySelectorAll()`
+- `.getElementById()`, `.getElementsByTagName()`, `.getElementByClassName()`
+- `.querySelector()`, `.querySelectorAll()`
 - `.innerHTML`, `.className`, `.setAttribute()`
-- `createElement()`, `createTextNode()`, `.appendChild()`, `removeChild()`
+- `.createElement()`, `.createTextNode()`, `.appendChild()`, `.removeChild()`
 
 
 ## Coding practice
