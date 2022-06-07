@@ -23,7 +23,7 @@
       var div = document.querySelector('div');
 
       buttonAdd.addEventListener('click', function() {
-        newParagraph = document.createElement('p');
+        var newParagraph = document.createElement('p');
         newParagraph.innerText = 'Here is another paragraph of text!';
         div.appendChild(newParagraph);
       });
