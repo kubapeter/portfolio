@@ -27,8 +27,9 @@
 - `.getElementById()`, `.getElementsByTagName()`, `.getElementByClassName()`
 - `.querySelector()`, `.querySelectorAll()`
 - `.innerHTML`, `.className`, `.setAttribute()`
+- Events
 - `.createElement()`, `.createTextNode()`, `.appendChild()`, `.removeChild()`
-- `.onclick`, `addEventListener()`, `'click'`, `'mouseover'`, `'mouseout'`, `'scroll'`, `'resize'`
+- `.onclick`, `addEventListener()`, `'click'`, `'mouseover'`, `'mouseout'`, `'scroll'`, `'resize'`, `'keydown'`
 - `event` object, `.target`. `.preventDefault()`
 - 
 
