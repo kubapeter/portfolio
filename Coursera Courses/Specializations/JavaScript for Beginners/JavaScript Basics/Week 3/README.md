@@ -22,6 +22,8 @@
 - Identify and fix errors in programs, when they are not running properly.
 
 ## Subjects covered
+- Document Object Model
+- nodes, `.firstChild`, `.nextSibling`, `.childNodes[1]`, `.parentNode`, etc. 
 - 
 
 
