@@ -6,33 +6,23 @@
 >
 >Save each challenge as challenge17.html, etc.
 >
->For this challenge, write a script that gets the text inside the paragraph with the id set to "copyright" and use the color property to change the color of the text to green.
+>For this challenge, write a script that gets the text inside the paragraph with the `id` set to `"copyright"` and use the `color` property to change the color of the text to `green`.
 
 ## [Challenge 18](./challenge18.html)
 
->Change the title and the headings on the challenge1.html file and save it as challenge2.html.
->
->Use plus signs (+) and your two variables to write your first name and last name to the console on one line with a space between your names.
+>For this challenge, get all the paragraphs on the page, assign them to a variable, then use that variable in a loop to set the `style.color` property to green.
 
 ## [Challenge 19](./challenge19.html)
 
->Update and save the file again, this time as challenge3.html
->
->Add one more variable called "adjective" and assign it a value that describes you. Use the console to display a sentence that includes all three variables. This time use a template literal (tick marks, and ${} around variables).
+>For this challenge, assign the class of `.red` (which is already defined inside the `style` tags at the top of the page) to the `<h1>` in the header and to the date in the second article.
 
 ## [Challenge 20](./challenge20.html)
 
->Update and save the file again, this time as challenge4.html 
+>For this challenge, change the `src` attribute for the first picture in the first article to:
 >
->In JavaScript, `prompt()` can be used like this: 
-
-```js
-    var name = prompt("what's your name?", "Bob"); 
-```
-
->When the page loads a prompt will appear and the user can add some text. "Bob" is the default text. If you don't want default text, you can leave the second set of quotes empty.
+>"http://meadpoint.net/images/xmasajax.jpg"
 >
->Write script that prompts the user for their name, and then display a sentence in the console that greets the user by name and welcomes them.
+>Also add the class `blue` to all the paragraphs in the second article.
 
 ## [Challenge 21](./challenge21.html)
 
