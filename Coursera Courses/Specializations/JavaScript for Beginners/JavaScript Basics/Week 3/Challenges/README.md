@@ -26,9 +26,19 @@
 
 ## [Challenge 21](./challenge21.html)
 
->Update and save the file again, this time as challenge5.html
+>For this challenge, get all the links, then check to see if one of them is set to go to the wikipedia page on llamas, if it is, set the text of that link to "Llamas are cool!"
 >
->This time, use prompt and ask the user for a whole number. If they type in a number less than 10, have the console log report, "You entered a number smaller than 10", otherwise, send "You entered a big number" to the console.
+>_Hint_
+>
+>Use these document methods and properties: 
+>
+>`.getElementsByTagName();`
+>
+>`.getAttribute();`
+>
+>`.innerHTML = "";`
+>
+>You will have multiple anchor tags to check and you're looking to see if one of them matches, so that should tell you what logical flow control structures you need.
 
 ## [Challenge 6](./challenge06.html)
 
