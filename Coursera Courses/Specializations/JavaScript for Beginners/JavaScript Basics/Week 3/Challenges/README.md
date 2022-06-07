@@ -42,7 +42,10 @@
 
 ## [Challenge 22](./challenge22.html)
 
->Update 
+>Make an HTML file with a paragraph and a button. When you click the button, make the paragraph turn green. 
+>
+>For now put `<script>` tags at the bottom of the page, before the closing `</body>` tag.
+
 
 ## [Challenge 23](./challenge23.html)
 
