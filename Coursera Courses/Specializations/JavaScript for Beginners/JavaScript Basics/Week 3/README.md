@@ -28,8 +28,8 @@
 - `.querySelector()`, `.querySelectorAll()`
 - `.innerHTML`, `.className`, `.setAttribute()`
 - `.createElement()`, `.createTextNode()`, `.appendChild()`, `.removeChild()`
-- `.onclick`, `addEventListener()`, `'click'`, `'mouseover'`, `'mouseout'`
-- `event` object. `.target`. `.preventDefault()`
+- `.onclick`, `addEventListener()`, `'click'`, `'mouseover'`, `'mouseout'`, `'scroll'`, `'resize'`
+- `event` object, `.target`. `.preventDefault()`
 - 
 
 
