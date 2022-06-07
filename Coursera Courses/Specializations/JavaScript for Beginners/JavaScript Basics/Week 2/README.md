@@ -37,6 +37,8 @@
 - `` `the square of ${myNum} is ${myNum * myNum}` `` (backticks! \` and not ' )
 - string methods
 - refactoring
+- fuctions: definition, parameters, return value, anonymus functions, first-class citizenship, function assigned to variable
+- `var anonym_function = function () {...}`
 
 
 ## Coding practice
