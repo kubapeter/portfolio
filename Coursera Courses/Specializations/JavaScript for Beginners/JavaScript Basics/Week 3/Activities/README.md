@@ -1,3 +1,6 @@
+Simple JS Slideshow.PNG
+<img src="./Simple JS Slideshow.PNG" width="150" align="right">
+
 ## [Simple JS Slideshow](./Simple%20JS%20Slideshow)
 
 The first activity of week 3 is a simple JavaScript slideshow. 
