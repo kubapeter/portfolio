@@ -50,7 +50,7 @@ This folder contains
 >- Describe the difference between `COMMIT` and `ROLLBACK`
 >- Explain what a pseudocolumn is and its purpose
 
-#### Module 3: Key Constraints and the USING Clause ([Exercises](./Codes/Exercises.md))
+#### Module 3: Key Constraints and the USING Clause ([Demonstrations](./Demonstrations/module3.sql))
 
 >"In this module, we'll review primary and foreign keys, delving a little more into their constraints. We'll also explore the `USING` clause and what it is used for."
 >- Explain how to automatically generate a value in a table
