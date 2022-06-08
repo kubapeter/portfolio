@@ -30,7 +30,7 @@ Learners will write their first scripts, have their HTML and CSS skills assessed
 This folder contains 
 - [x] source code for the challenges, the activities and the projects
 - [x] short descriptions of the modules 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_JavaScript_Basics.pdf) ([verification](https://coursera.org/verify/STD6F6DRYVSC))
 
 ## Syllabus
 - [Week 1](./Week%201): Getting Started, Introduction to JavaScript, Variables, and Arrays
