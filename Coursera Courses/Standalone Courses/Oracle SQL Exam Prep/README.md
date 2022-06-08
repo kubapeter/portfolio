@@ -29,7 +29,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ## Content
 This folder contains 
-- [x] [source codes](./Demonstrations) from the practices and the exercises
+- [x] [source codes](./Codes) from the practices and the exercises
 - [x] [certificate](./Coursera.pdf) ([verification](https://))
 
 ## Syllabus
@@ -42,7 +42,7 @@ This folder contains
 >- List several uses for SQL
 >- Define schema and explain its purpose
 
-#### Module 2: SQL Database Terms ([Practices](./Codes/module2.sql))
+#### Module 2: SQL Database Terms ([Demonstrations](./Codes/module2.sql))
 
 >"In this module, we'll explore some of the key terms you'll need to know when building SQL Databases. We will compare and contrast the `ANY` and `ALL` operators, distinguish between `COMMIT` and `ROLLBACK`, and explore pseudocolumns. We will also give examples for some of these terms."
 >- Demonstrate an understanding of the database terms presented
