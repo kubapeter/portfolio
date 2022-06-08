@@ -21,4 +21,4 @@
 
 ## Coding practice
 
-This week there are no challenges, activities or projects.
+There are no challenges, activities or projects on week 1.
