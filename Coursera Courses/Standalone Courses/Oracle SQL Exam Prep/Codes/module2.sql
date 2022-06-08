@@ -34,3 +34,13 @@ COMMIT;
 CREATE TABLE emp2 AS 
   SELECT *
     FROM employees;
+    
+  -- a way to generate empty schema: 
+  
+  CREATE TABLE emp2 AS 
+  SELECT *
+    FROM employees 
+    WHERE 1 = 2;
+    
+    
+    
