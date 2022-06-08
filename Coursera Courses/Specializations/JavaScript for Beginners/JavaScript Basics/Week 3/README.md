@@ -43,5 +43,5 @@
 ## Coding practice
 
 For week 3 there are 
-- 14 [challenges](./Challenges)  
-- 2 [activities](./Activities)  
+- [14 challenges](./Challenges/README.md)  
+- [2 activities](./Activities/README.md)  
