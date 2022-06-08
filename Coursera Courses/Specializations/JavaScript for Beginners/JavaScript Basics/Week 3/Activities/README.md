@@ -1,4 +1,4 @@
-<img src="./Simple JS Slideshow.PNG" width="300" align="right">
+<img src="./Simple JS Slideshow.PNG" width="300" align="left">
 
 ## [Simple JS Slideshow](./Simple%20JS%20Slideshow)
 
