@@ -15,8 +15,10 @@
 
 ## Subjects covered
 - history of JavaScript
-- **variables**: declaration, naming rules, assigning value, loosely typed language, types
-- **arrays**: declaration, assigning value, indexing, nested arrays, array methods
+- variables 
+  - declaration, naming rules, assigning value, loosely typed language, types
+- arrays 
+  - declaration, assigning value, indexing, nested arrays, array methods
 
 
 ## Coding practice
