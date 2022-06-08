@@ -10,22 +10,14 @@
   previous.addEventListener('click', previousPhoto);
 
   function nextPhoto() {
-    //currentImage++;
     currentImage = (currentImage + 1) % myImages.length;
     const img = document.getElementById('myimage');
-    /*if(currentImage > myImages.length-1){
-      currentImage = 0;
-    }*/
     img.src = myImages[currentImage];
   }
 
   function previousPhoto() {
-    //currentImage--;
     currentImage = (currentImage - 1 + myImages.length) % myImages.length;
     const img = document.getElementById('myimage');
-    /*if(currentImage < 0){
-      currentImage = myImages.length-1;
-    }*/
     img.src = myImages[currentImage];
   }
 
