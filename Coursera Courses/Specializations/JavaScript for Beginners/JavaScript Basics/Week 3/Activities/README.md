@@ -9,10 +9,9 @@ The main goal is to demonstarte basic DOM manipulation and event handling. The o
 ---
 
 
-<div>
 ## [Slideshow with Cross Fade Effect](./Slideshow%20with%20Cross%20Fade%20Effect)
 
 The second activity of week 3 adds a fade effect to the slideshow created in the first activity. It uses a CSS animation. 
 
 <img src="./Slideshow with Cross Fade.PNG" width="400" align="right">
-</div>
+
