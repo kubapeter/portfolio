@@ -1,10 +1,10 @@
-<a href="https://www.coursera.org/learn/oracle-sql-practice">
+<a href="https://www.coursera.org/learn/oracle-sql-examprep">
   <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
 </a>
 
 <img src="/img/LearnQuest_logo.png" width="120" align="left">
 
-# Oracle SQL Practice Course
+# Oracle SQL Exam Prep
 
 Offered by 
 ### *LearnQuest*
@@ -13,15 +13,19 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 
 ---
 
-**6 hours** to complete - 2 quizzes
+**7 hours** to complete - 4 quizzes
 
 ---
 
 ## Course description
 
->"This course is designed for SQL beginners to review SQL statements, including creating tables, adding columns, and modifying tables. We'll look at using alter statements and learners will practice using DDL and DML statements completing exercises."
+>"This course is designed to help you continue learning about Oracle SQL and prepares you to take the Oracle SQL Certification Exam.
+>
+>We'll review methodologies and terminology that we presented in the Oracle Specialization courses, show some demos and give in-depth explanations. You'll also have the opportunity to take a practice certification exam.
+>
+>We recommend that you first complete the [Oracle SQL Databases Specialization](../../Specializations/Oracle%20SQL%20Databases)."
 
-<p align="right">More details on <a href="https://www.coursera.org/learn/oracle-sql-practice">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/oracle-sql-examprep">website</a></p>
 
 ## Content
 This folder contains 
