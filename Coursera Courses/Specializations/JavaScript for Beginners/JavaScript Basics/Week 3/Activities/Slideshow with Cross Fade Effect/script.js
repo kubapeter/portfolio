@@ -21,9 +21,9 @@
   previousButton.addEventListener('click', (event) => {
     event.preventDefault();
 
-    currentImage--;
-    if(currentImage<0){ currentImage = myPhotos.length-1; }
-    //currentImage = (currentImage - 1 + myImages.length) % myImages.length;
+    //currentImage--;
+    //if(currentImage<0){ currentImage = myPhotos.length-1; }
+    currentImage = (currentImage - 1 + myPhotos.length) % myPhotos.length;
 
     swapImage();
   });
