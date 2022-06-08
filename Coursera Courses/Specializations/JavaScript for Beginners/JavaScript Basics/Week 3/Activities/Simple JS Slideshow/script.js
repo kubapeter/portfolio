@@ -20,11 +20,12 @@
   }
 
   function previousPhoto() {
-    currentImage--;
+    //currentImage--;
+    currentImage = (currentImage - 1) % myImages.length;
     const img = document.getElementById('myimage');
-    if(currentImage < 0){
+    /*if(currentImage < 0){
       currentImage = myImages.length-1;
-    }
+    }*/
     img.src = myImages[currentImage];
   }
 
