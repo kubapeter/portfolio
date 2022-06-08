@@ -59,7 +59,7 @@ This folder contains
 >- Demonstrate how to define a primary key in your table
 >- Describe the `USING` clause, what it does, and how to use it
 
-#### Module 4: Functions, Subqueries, Pseudocolumns, and Views ([Exercises](./Codes/Exercises.md))
+#### Module 4: Functions, Subqueries, Pseudocolumns, and Views ([Demonstrations](./Demonstrations/module4.sql))
 
 >"In this module, we'll take a look at `INSTRING` and `SUBSTRING` functions and demonstrate naming a column using an alias. We will also explore subqueries and take another look at pseudocolumns. Lastly, we'll discuss views and compare them with materialized views."
 >- Explain the `INSTRING` and `SUBSTRING` functions
@@ -68,6 +68,3 @@ This folder contains
 >- Compare and contrast Views and Materialized Views
 >- Explain what a pseudocolumn is and its purpose
 
-## Remark
-
-The first slide of the course shows that this course is meant to be the continuation of the [Oracle SQL Databases Specialization](../../Specializations/Oracle%20SQL%20Databases).
