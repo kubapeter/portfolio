@@ -36,8 +36,9 @@
 - to avoid global scope
   - wrap into an immediately invoked function expression `( function() {...} () );` or `(function doStuff() {...}) ();`
   - `"use strict";` (it's a "directive") forces to write out `var`
-  - 
-
+  - `const` does not let reassigning value and `let` blocks the scope of the variable
+  - use `const` if possible, and if not, use `let` 
+- hoisting
 
 ## Coding practice
 
