@@ -40,8 +40,7 @@ This folder contains
 - [Week 5](./Week%205): DDL and DML
 - [Week 6](./Week%206): Advanced SQL Commands
 
-##
+## Remarks
 - The course teaches PostgreSQL.
-
-The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
+- The instructor set up a [bit.io](https://bit.io/) database for the course. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 
