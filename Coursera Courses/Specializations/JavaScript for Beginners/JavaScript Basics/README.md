@@ -28,7 +28,7 @@ Learners will write their first scripts, have their HTML and CSS skills assessed
 
 ## Content
 This folder contains 
-- [x] source code for the challenges, the [activities](./Week%203/Activities) and the projects
+- [x] source code for the challenges (1-16, [17-30](./Week%203/Challenges)), the [activities](./Week%203/Activities) and the projects
 - [x] short descriptions of the modules 
 - [x] [certificate](./Coursera_Certificate_JavaScript_Basics.pdf) ([verification](https://coursera.org/verify/STD6F6DRYVSC))
 
