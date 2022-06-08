@@ -46,4 +46,4 @@
 
 ## Coding practice
 
-There are 16 challenges for week 2. [This folder](./Challenges) contains the [descriptions](./Challenges/README.md) of the challenges, and the solutions. 
+There are 16 challenges for week 2. [This folder](./Challenges) contains the [description](./Challenges/README.md) of the challenges, and the solutions. 
