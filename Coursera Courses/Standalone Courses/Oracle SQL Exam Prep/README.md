@@ -34,30 +34,39 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: SQL Review 
+#### Module 1: SQL and Table Design
 
->"In this module, first, we will discuss what you will learn in this practice course. Then, we'll review types of SQL statements and take a look at developing a Data Model. We'll also walk through how to install SQL Plus and Oracle SQL Developer so you can follow along with some of our activities."
->- Describe what you'll review in this course
->- Explain Relational Databases
->- Describe the process of designing an Entity Relationship Diagram
->- List and describe the types of SQL statements
->- Define the steps of Data Modeling
+>"In this module, we'll introduce you to the course and discuss which topics we'll cover. We'll also explore why SQL is a powerful tool to use and some of it's uses. Then, we'll explore table design and schemas."
+>- List the topics covered in this course
+>- Explain why you would use SQL
+>- List several uses for SQL
+>- Define schema and explain its purpose
 
-#### Module 2: Data Definition Language (DDL) and Data Manipulation Language (DML) ([Practices](./Codes/module2.sql))
+#### Module 2: SQL Database Terms ([Practices](./Codes/module2.sql))
 
->"In this module, we will review creating tables and adding columns to them as well as some best practices. We will also review using alter statements to modify our database. Lastly, we'll look at DML statements."
->- Use the Create Statement to create a table
->- Use the Alter Statement to modify a table
->- Understand what alter statements can do
->- Practice using DML Statements
->- Practice Using DDL Statements
+>"In this module, we'll explore some of the key terms you'll need to know when building SQL Databases. We will compare and contrast the ANY and ALL operators, distinguish between COMMIT and ROLLBACK, and explore pseudocolumns. We will also give examples for some of these terms."
+>- Demonstrate an understanding of the database terms presented
+>- Compare and contrast the ANY and ALL operators
+>- Describe the difference between COMMIT and ROLLBACK
+>- Explain what a pseudocolumn is and its purpose
 
-#### Module 3: Practice Writing SQL Code ([Exercises](./Codes/Exercises.md))
+#### Module 3: Key Constraints and the USING Clause ([Exercises](./Codes/Exercises.md))
 
->"In this module, we'll put you to the test. You'll be able to create tables and modify them to test what you've learned to this point. Use SQLPlus if you installed it on you own machine, or go to https://livesql.oracle.com/ if you need an online way to test your code."
->- Practice using DML Statements
->- Practice Using DDL Statements
->- Use the Create Statement to create a table
+>"In this module, we'll review primary and foreign keys, delving a little more into their constraints. We'll also explore the USING clause and what it is used for."
+>- Explain how to automatically generate a value in a table
+>- List the characteristics of Foreign Key Constraints
+>- List the primary characteristics of Primary Key Constraints
+>- Demonstrate how to define a primary key in your table
+>- Describe the USING clause, what it does, and how to use it
+
+#### Module 4: Functions, Subqueries, Pseudocolumns, and Views ([Exercises](./Codes/Exercises.md))
+
+>"In this module, we'll take a look at INSTRING and SUBSTRING functions and demonstrate naming a column using an alias. We will also explore subqueries and take another look at pseudocolumns. Lastly, we'll discuss views and compare them with materialized views."
+>- Explain the INSTRING and SUBSTRING functions
+>- Demonstrate giving a column an alias
+>- Define subquery and explain when you may use one
+>- Compare and contrast Views and Materialized Views
+>- Explain what a pseudocolumn is and its purpose
 
 ## Remark
 
