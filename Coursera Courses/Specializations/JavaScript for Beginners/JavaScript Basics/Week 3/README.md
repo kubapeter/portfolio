@@ -42,4 +42,6 @@
 
 ## Coding practice
 
-There are 14 challenges and 2 activities for week 3. [This folder](./Challenges) contains the [descriptions](./Challenges/README.md) of the challenges, and the solutions. 
+For week 3 there are 
+- 14 [challenges](./Challenges)  
+- 2 [activities](./Activities)  
