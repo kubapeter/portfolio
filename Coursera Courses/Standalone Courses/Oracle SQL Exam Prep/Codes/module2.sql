@@ -44,3 +44,13 @@ CREATE TABLE emp2 AS
     
     
     
+-- PSEUDOCOLUMN demonstration
+
+SELECT rowid, 
+       empID, 
+       empName
+  FROM employees; 
+  
+  -- no error message even though there is no defined rowid column (it is a pseudocolumn)
+    
+    
