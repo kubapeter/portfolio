@@ -13,5 +13,5 @@ The main goal is to demonstarte basic DOM manipulation and event handling. The o
 
 The second activity of week 3 adds a fade effect to the slideshow created in the first activity. It uses a CSS animation. 
 
-<img src="./Slideshow with Cross Fade.PNG" width="300" align="right">
+<img src="./Slideshow with Cross Fade.PNG" width="300" align="left">
 
