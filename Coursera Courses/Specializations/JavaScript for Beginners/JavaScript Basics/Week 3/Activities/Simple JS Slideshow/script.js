@@ -21,7 +21,7 @@
 
   function previousPhoto() {
     //currentImage--;
-    currentImage = (currentImage - 1) % myImages.length;
+    currentImage = (currentImage - 1 + myImages.length) % myImages.length;
     const img = document.getElementById('myimage');
     /*if(currentImage < 0){
       currentImage = myImages.length-1;
