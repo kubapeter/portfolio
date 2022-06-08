@@ -30,7 +30,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 ## Content
 This folder contains 
 - [x] [source codes](./Demonstrations) of the demonstrations
-- [x] [certificate](./Coursera.pdf) ([verification](https://))
+- [x] [certificate](./Coursera_Certificate_Oracle_SQL_Exam_Prep.pdf) ([verification](https://coursera.org/verify/WKKYZAKX85EY))
 
 ## Syllabus
 
