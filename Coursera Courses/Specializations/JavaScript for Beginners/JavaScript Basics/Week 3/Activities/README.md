@@ -1,5 +1,5 @@
 Simple JS Slideshow.PNG
-<img src="./Simple JS Slideshow.PNG" width="500" align="right">
+<img src="./Simple JS Slideshow.PNG" width="400" align="right">
 
 ## [Simple JS Slideshow](./Simple%20JS%20Slideshow)
 
