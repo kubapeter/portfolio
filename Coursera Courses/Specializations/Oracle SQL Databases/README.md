@@ -40,6 +40,6 @@ The specialization consists of 4 courses.[^follow-up]
 3. [Oracle SQL Basics](./Oracle%20SQL%20Basics)
 4. [Oracle SQL Proficiency](./Oracle%20SQL%20Proficiency)
 
-[^follow-up]: There are 2 follow-up courses belonging to the specialization: [Oracle SQL Practice Course](../../Standalone%20Courses/Oracle%20SQL%20Practice%20Course) and Oracle SQL Exam Prep
-
-/Coursera%20Courses/Standalone%20Courses/Oracle%20SQL%20Practice%20Course/README.md
+[^follow-up]: There are 2 follow-up courses belonging to the specialization: the 
+[Oracle SQL Practice Course](../../Standalone%20Courses/Oracle%20SQL%20Practice%20Course) and the 
+[Oracle SQL Exam Prep](../../Standalone%20Courses/Oracle%20SQL%20Exam%20Prep).
