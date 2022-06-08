@@ -28,13 +28,8 @@ Learners will write their first scripts, have their HTML and CSS skills assessed
 
 ## Content
 This folder contains 
-- [x] source code for assignments[^1]
-- [x] all practice exercises
+- [x] source code for the challenges, the activities and the projects
 - [x] short descriptions of the modules 
-- [x] [course map](./Resources/course_map) (detailed description of the modules)
-- [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
-- [x] [glossary](./Resources/glossary) (definitions of the main concepts)
-- [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
@@ -42,5 +37,3 @@ This folder contains
 - [Week 2](./Week%202): Controlling Logical Flow in JavaScript
 - [Week 3](./Week%203): Using JavaScript in the Web Browser
 - [Week 4](./Week%204): Basic JavaScript Application Projects
-
-[^1]: For ethical reasons I do not make my assignments publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I share the source code of another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
