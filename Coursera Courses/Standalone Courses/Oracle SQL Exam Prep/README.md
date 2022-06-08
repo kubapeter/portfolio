@@ -30,7 +30,7 @@ Taught by: [Rafiq Wayani](https://www.coursera.org/instructor/~76307871)
 ## Content
 This folder contains 
 - [x] [source codes](./Demonstrations) from the practices and the exercises
-- [x] [certificate](./Coursera_Certificate_Oracle_SQL_Practice_Course.pdf) ([verification](https://coursera.org/verify/R65J73TPK3G7))
+- [x] [certificate](./Coursera.pdf) ([verification](https://))
 
 ## Syllabus
 
@@ -44,25 +44,25 @@ This folder contains
 
 #### Module 2: SQL Database Terms ([Practices](./Codes/module2.sql))
 
->"In this module, we'll explore some of the key terms you'll need to know when building SQL Databases. We will compare and contrast the ANY and ALL operators, distinguish between COMMIT and ROLLBACK, and explore pseudocolumns. We will also give examples for some of these terms."
+>"In this module, we'll explore some of the key terms you'll need to know when building SQL Databases. We will compare and contrast the `ANY` and `ALL` operators, distinguish between `COMMIT` and `ROLLBACK`, and explore pseudocolumns. We will also give examples for some of these terms."
 >- Demonstrate an understanding of the database terms presented
->- Compare and contrast the ANY and ALL operators
->- Describe the difference between COMMIT and ROLLBACK
+>- Compare and contrast the `ANY` and `ALL` operators
+>- Describe the difference between `COMMIT` and `ROLLBACK`
 >- Explain what a pseudocolumn is and its purpose
 
 #### Module 3: Key Constraints and the USING Clause ([Exercises](./Codes/Exercises.md))
 
->"In this module, we'll review primary and foreign keys, delving a little more into their constraints. We'll also explore the USING clause and what it is used for."
+>"In this module, we'll review primary and foreign keys, delving a little more into their constraints. We'll also explore the `USING` clause and what it is used for."
 >- Explain how to automatically generate a value in a table
 >- List the characteristics of Foreign Key Constraints
 >- List the primary characteristics of Primary Key Constraints
 >- Demonstrate how to define a primary key in your table
->- Describe the USING clause, what it does, and how to use it
+>- Describe the `USING` clause, what it does, and how to use it
 
 #### Module 4: Functions, Subqueries, Pseudocolumns, and Views ([Exercises](./Codes/Exercises.md))
 
->"In this module, we'll take a look at INSTRING and SUBSTRING functions and demonstrate naming a column using an alias. We will also explore subqueries and take another look at pseudocolumns. Lastly, we'll discuss views and compare them with materialized views."
->- Explain the INSTRING and SUBSTRING functions
+>"In this module, we'll take a look at `INSTRING` and `SUBSTRING` functions and demonstrate naming a column using an alias. We will also explore subqueries and take another look at pseudocolumns. Lastly, we'll discuss views and compare them with materialized views."
+>- Explain the `INSTRING` and `SUBSTRING` functions
 >- Demonstrate giving a column an alias
 >- Define subquery and explain when you may use one
 >- Compare and contrast Views and Materialized Views
