@@ -27,3 +27,10 @@ INSERT INTO employees
 COMMIT; 
 
   -- From now on, ROLLBACK only goes back here, the last COMMIT
+
+
+-- CTAS demonstration (create table as select)
+
+CREATE TABLE emp2 AS 
+  SELECT *
+    FROM employees;
