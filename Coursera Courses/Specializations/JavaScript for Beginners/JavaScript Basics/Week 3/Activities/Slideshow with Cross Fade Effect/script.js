@@ -32,7 +32,11 @@
     const previousSlide = document.querySelector('img');
 
     content.appendChild(newSlide);
-    content.removeChild(previousSlide);
+    //content.removeChild(previousSlide);
+    
+    if (content.children.length > 2) {
+      content.removeChild(content.children[0]);
+    }
   }
 
 }());
