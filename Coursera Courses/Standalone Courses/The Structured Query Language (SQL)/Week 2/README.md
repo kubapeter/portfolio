@@ -9,7 +9,7 @@
 - Use the WHERE clause to retrieve a subset of rows
 - Demonstrate how to include literals and expressions in the SELECT clause
 
-## Subjects covered:
+## Subjects covered
 - `SELECT` (specifies columns)
   - `*`, `FROM`, `AS`, `CONCAT()`, `||`, `to_char`, `date_part`, `--`, `/* */`
 - `WHERE` (specifies rows)
@@ -25,4 +25,7 @@
 
 ## Labs
 
-There are 3 labs for week 2.
+There are 3 labs for week 2
+- [Coding Your First SELECT Statements](./)
+- [Adding Conditions Using the WHERE Clause]
+- [Date Functions and Nulls]
