@@ -15,6 +15,6 @@
 ## Coding practice
 
 Week 4 is all about coding practice. 
-- [Basic Distance Converter Project](./Challenges)  
-- [Advanced Distance Converter Project](./Activities)  
-- Vacation Destination Project
+- [Basic Distance Converter Project](./Basic%20Distance%20Converter%20Project)  
+- [Advanced Distance Converter Project](./Advanced%20Distance%20Converter%20Project)  
+- [Vacation Destination Project](./Vacation%20Destination%20Project)  
