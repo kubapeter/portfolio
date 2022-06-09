@@ -42,4 +42,4 @@ This folder contains
 
 ## Remarks
 - The course teaches PostgreSQL.
-- The lecturer was really carefully to make the course as user friendly as possible. The video lectures are easy to follow, the slides are shared. The lecturer set up a [bit.io](https://bit.io/) database for the course. Most of the lab exercises are done on [this](https://bit.io/alanparadise/nw) database. For the final lab there is a [new](https://bit.io/alanparadise/cm) database, and for those labs that do not work on the lecturer's database detailed instructions are given about how the student can to set up, and use her/his own database. 
+- The lecturer was really carefully to make the course as user friendly as possible. The video lectures are easy to follow, the slides are shared. The lecturer set up a [bit.io](https://bit.io/) database for the course. Most of the lab exercises are done on [this](https://bit.io/alanparadise/nw) database. For the final lab there is a [new](https://bit.io/alanparadise/cm) database, and for those labs that do not work on the lecturer's database detailed instructions are given about how the student can to set up and use her/his own database. 
