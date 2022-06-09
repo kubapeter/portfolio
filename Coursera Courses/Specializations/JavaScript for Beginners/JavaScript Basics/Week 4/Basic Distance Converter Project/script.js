@@ -5,13 +5,13 @@
   const input = document.getElementById('distance');
   const answer = document.getElementById('answer');
 
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
 
     const distanceMiles = parseFloat(input.value);
 
     if(distanceMiles){
-      const distanceKm = (distanceMiles*1.609).toFixed(3);
+      const distanceKm = (distanceMiles * 1.609).toFixed(3);
       answer.innerHTML = `<h2>${distanceMiles} miles converts to ${distanceKm} kilometers</h2>`;
     }
     else{
