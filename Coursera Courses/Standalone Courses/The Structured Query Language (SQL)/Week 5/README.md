@@ -19,7 +19,7 @@
 
 ## Labs
 
-There are 3 labs for week 2. These labs are done on the students own batabase in the [bit.io](https://bit.io/) environment, as they do not have permission to add or modify database objects of the lecturer's repo. 
+There are 3 labs for week 2. These labs are done on the student's own batabase in the [bit.io](https://bit.io/) environment, as they do not have permission to add or modify database objects of the lecturer's repo. 
 - [Creating Tables](./lab8.sql)
 - [Modifying Tables and Columns with ALTER](./lab9.sql)
 - [Practicing DML](./lab10.sql)
