@@ -11,7 +11,7 @@
     const distanceMiles = parseFloat(input.value);
 
     if(distanceMiles){
-      const distanceKm = (distanceMiles * 1.609).toFixed(3);
+      const distanceKm = (distanceMiles * 1.609344).toFixed(3);
       answer.innerHTML = `<h2>${distanceMiles} miles converts to ${distanceKm} kilometers</h2>`;
     }
     else{
