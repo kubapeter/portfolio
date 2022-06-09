@@ -19,17 +19,4 @@
 
 >"Assignment:
 >
->For this challenge, you will use your knowledge of 2D arrays to produce the chessboard pattern:
-```
-OXOXOXOX
-XOXOXOXO
-OXOXOXOX
-XOXOXOXO
-OXOXOXOX
-XOXOXOXO
-OXOXOXOX
-XOXOXOXO
-```
->Requirement:
->
->Your program cannot make any changes to the existing code in the program. If you do, you will not earn any credit for this challenge. If you accidentally delete any existing code, you can copy the original code shown above back into your program."
+
