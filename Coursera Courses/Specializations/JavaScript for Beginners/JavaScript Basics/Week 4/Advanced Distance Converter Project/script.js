@@ -10,33 +10,33 @@
 
   let choiceConversion = 'miles';
   
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
     
     const distance = parseFloat(input.value);
     
-    if(distance && choiceConversion==='miles'){
-      const conversion = (distance*1.609).toFixed(3);
+    if (distance && choiceConversion==='miles') {
+      const conversion = (distance * 1.609344).toFixed(3);
       answer.innerHTML = `<h2>${distance} miles converts to ${conversion} kilometers</h2>`;
     }
-    else if(distance && choiceConversion==='km'){
-      const conversion = (distance/1.609).toFixed(3);
+    else if (distance && choiceConversion==='km') {
+      const conversion = (distance/1.609344).toFixed(3);
       answer.innerHTML = `<h2>${distance} kilometers converts to ${conversion} miles</h2>`;
     }
-    else{
+    else {
       answer.innerHTML = '<h2>ERROR: You didn\'t type a number</h2>';
     }
   });
   
-  window.addEventListener('keydown', (e) => {
+  window.addEventListener('keydown', (event) => {
 
-    if(e.key.toLowerCase() === 'k'){
+    if(event.key.toLowerCase() === 'k'){
       h1Tag.innerText = 'Kilometers to Miles Converter';
       pTag.innerText = 'Type in a number of kilometers and click the button to convert the distance to miles.';
       directions.innerText = 'Press the "M" key to switch to mile conversion.';
       choiceConversion = 'km';
     }
-    else if(e.key.toLowerCase() === 'm'){
+    else if(event.key.toLowerCase() === 'm'){
       h1Tag.innerText = 'Miles to Kilometers Converter';
       pTag.innerText = 'Type in a number of miles and click the button to convert the distance to kilometers.';
       directions.innerText = 'Press the "K" key to switch to kilometer conversion.';
