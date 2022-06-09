@@ -54,8 +54,8 @@ This folder contains
 
 >"In this module, we'll review primary and foreign keys, delving a little more into their constraints. We'll also explore the `USING` clause and what it is used for."
 >- Explain how to automatically generate a value in a table
->- List the characteristics of Foreign Key Constraints
->- List the primary characteristics of Primary Key Constraints
+>- List the characteristics of `FOREIGN KEY` Constraints
+>- List the primary characteristics of `PRIMARY KEY` Constraints
 >- Demonstrate how to define a primary key in your table
 >- Describe the `USING` clause, what it does, and how to use it
 
@@ -65,6 +65,6 @@ This folder contains
 >- Explain the `INSTRING` and `SUBSTRING` functions
 >- Demonstrate giving a column an alias
 >- Define subquery and explain when you may use one
->- Compare and contrast Views and Materialized Views
+>- Compare and contrast `VIEW`s anD `MATERIALIZED VIEW`s
 >- Explain what a pseudocolumn is and its purpose
 
