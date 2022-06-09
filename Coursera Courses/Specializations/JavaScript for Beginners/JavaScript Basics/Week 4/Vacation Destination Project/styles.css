@@ -8,13 +8,13 @@ img {
 }
 
 body {
-  font-family: verdana;
+  font-family: Arial;
   color: #333;
 }
 
 header {
   padding: 50px;
-  background-color: #5d7cb3;
+  background-color: cornflower;
   text-align: center;
   color: white;
   margin-bottom: 20px;
