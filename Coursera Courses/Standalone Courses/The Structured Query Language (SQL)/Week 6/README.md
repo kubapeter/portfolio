@@ -12,7 +12,7 @@
 
 ## Labs
 
-There are 2 labs for week 2. These labs are done on the student's own batabase in the [bit.io](https://bit.io/) environment, as they do not have permission to add or modify database objects of the lecturer's repo.
+There are 2 labs for week 2. These labs are done on the student's own database in the [bit.io](https://bit.io/) environment, as they do not have permission to add or modify database objects of the lecturer's repo.
 - [Using a VIEW](./lab11.sql)
 - [Conditionals with the CASE Operator](./lab12.sql)
 
