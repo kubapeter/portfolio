@@ -10,6 +10,7 @@ Offered by
 ### *codio*
 
 Taught by: [Kevin Noelsaint](https://www.coursera.org/instructor/knoelsaint) and [Anh Le](https://www.coursera.org/instructor/ale)
+
 ---
 
 **40 hours** to complete ([certificate](./Coursera), [verification](https:))
