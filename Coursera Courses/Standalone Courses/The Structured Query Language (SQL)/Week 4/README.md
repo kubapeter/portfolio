@@ -21,6 +21,6 @@
 
 ## Labs
 
-There are 2 labs for week 2
+There are 2 labs for week 2. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
 - [Inner JOINS](./lab6.sql)
 - [Outer JOINS](./lab7.sql)
