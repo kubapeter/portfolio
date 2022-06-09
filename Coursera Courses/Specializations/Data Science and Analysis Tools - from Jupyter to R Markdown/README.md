@@ -26,16 +26,16 @@ The specialization consists of 4 courses.
 <p align="right">More details on <a href="https://www.coursera.org/specializations/codio-data-science-python-jupyter-r-rstudio">website</a></p>
 
 <a href="https://www.coursera.org/learn/codio-visualizing-data-and-communicating-results-in-r-with-rstudio">
-  <img src="/img/Object_Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="75" align="right">
+  <img src="/img/Visualizing_Data_&_Communicating_Results_in_R_with_RStudio_logo.png" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/codio-data-analysis-in-r-with-rstudio-and-tidyverse">
-  <img src="/img/Java_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="75" align="right">
+  <img src="/img/Data_Analysis_in_R_with_RStudio_&_Tidyverse_logo.png" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/codio-visualizing-and-communicating-results-in-python-with-jupyter">
-  <img src="/img/Java_Basic_Structures_Arrays,_Strings,_and_Files_logo.avif" width="75" align="right">
+  <img src="/img/Visualizing_&_Communicating_Results_in_Python_with_Jupyter_logo.png" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/codio-data-analysis-in-python-with-pandas-and-matplotlib-in-spyder">
-  <img src="/img/Java_Basics_Selection_and_Iteration_logo.avif" width="75" align="right">
+  <img src="/img/Data_Analysis_in_Python_with_pandas_&_matplotlib_in_Spyder_logo.png" width="75" align="right">
 </a>
 
 ## Courses of the specialization
