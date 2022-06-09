@@ -65,6 +65,6 @@ This folder contains
 >- Explain the `INSTRING` and `SUBSTRING` functions
 >- Demonstrate giving a column an alias
 >- Define subquery and explain when you may use one
->- Compare and contrast `VIEW`s anD `MATERIALIZED VIEW`s
+>- Compare and contrast `VIEW`s and `MATERIALIZED VIEW`s
 >- Explain what a pseudocolumn is and its purpose
 
