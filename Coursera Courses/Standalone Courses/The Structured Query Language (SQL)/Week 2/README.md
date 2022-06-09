@@ -1,11 +1,15 @@
-Week 2 is about the **basic SELECT statement**
+<a href="../">
+  <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="120" align="right">
+</a>
 
-Learning Objectives
+# Week 2 <br> The Basic SELECT Statement
+
+## Learning Objectives
 - Construct basic SQL queries to retrieve columns from tables
 - Use the WHERE clause to retrieve a subset of rows
 - Demonstrate how to include literals and expressions in the SELECT clause
 
-Subjects covered:
+## Subjects covered:
 - `SELECT` (specifies columns)
   - `*`, `FROM`, `AS`, `CONCAT()`, `||`, `to_char`, `date_part`, `--`, `/* */`
 - `WHERE` (specifies rows)
@@ -18,3 +22,7 @@ Subjects covered:
   - `now()`, `age()`, date functions in general
 - `NULL`
     - `IS NULL`, `IS NOT NULL`
+
+## Labs
+
+There are 3 labs for week 2.
