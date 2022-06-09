@@ -10,9 +10,6 @@
 - Describe ANSI standard SQL
 - Explain how the DBMS prepares a query for execution
 
-## Subjects covered
-- subjects
-
 ## Labs
 
 There are no labs for week 1.
