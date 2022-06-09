@@ -1,4 +1,4 @@
-(function(){
+(function() {
     'use strict';
     const detailsForm = document.querySelector('#destination_details_form');
 
