@@ -1,4 +1,4 @@
-<a href="https://www.coursera.org/specializations/hands-on-java">
+<a href="https://www.coursera.org/specializations/codio-data-science-python-jupyter-r-rstudio">
   <img src="/img/Data_Science_and_Analysis_Tools-from_Jupyter_to_R_Markdown_Specialization_logo.png" width="150" align="right">
 </a>
 
@@ -9,13 +9,10 @@
 Offered by 
 ### *codio*
 
-Taught by: [Anh Le](https://www.coursera.org/instructor/ale), 
-[Elise Deitrick](https://www.coursera.org/instructor/edeitrick) and
-[Patrick Ester](https://www.coursera.org/instructor/~80011875)
-
+Taught by: [Kevin Noelsaint](https://www.coursera.org/instructor/knoelsaint) and [Anh Le](https://www.coursera.org/instructor/ale)
 ---
 
-**35 hours** to complete ([certificate](./Coursera_Certification_Programming_in_Java_A_Hands-on_Introduction_Specialization.pdf), [verification](https://coursera.org/verify/specialization/FBSNRGGQK32N))
+**40 hours** to complete ([certificate](./Coursera), [verification](https:))
 
 The specialization consists of 4 courses. 
 
@@ -23,20 +20,20 @@ The specialization consists of 4 courses.
 
 ## Description of the specialization
 
->"This specialization is intended for people without programming experience who seek to develop Java programming skills and learn about the underlying computer science concepts that will allow them to pick up other programming languages quickly. In these four courses, you will cover everything from fundamentals to object-oriented design. These topics will help prepare you to write anything from small programs to automate repetitive tasks to larger applications, giving you enough understanding of python to tackle more specialized topics such as Data Science and Artificial Intelligence."
+>"This specialization is intended for people without programming experience who seek an approachable introduction to data science that uses Python and R to describe and visualize data sets. This course will equip learners with foundational knowledge of data analysis suitable for any analyst roles. In these four courses, you will cover everything from data wrangling to data visualization. These topics will help prepare you to handle various types of data sets, giving you enough knowledge of data science to proficiently compare data sets, describe their relationship, and produce visualizations that highlight that relationship."
 
-<p align="right">More details on <a href="https://www.coursera.org/specializations/hands-on-java">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/specializations/codio-data-science-python-jupyter-r-rstudio">website</a></p>
 
-<a href="https://www.coursera.org/learn/object-oriented-java-inheritance-and-encapsulation">
+<a href="https://www.coursera.org/learn/codio-visualizing-data-and-communicating-results-in-r-with-rstudio">
   <img src="/img/Object_Oriented_Java_Inheritance_and_Encapsulation_logo.avif" width="75" align="right">
 </a>
-<a href="https://www.coursera.org/learn/java-object-basics">
+<a href="https://www.coursera.org/learn/codio-data-analysis-in-r-with-rstudio-and-tidyverse">
   <img src="/img/Java_Object_Basics_Functions,_Recursion,_and_Objects_logo.avif" width="75" align="right">
 </a>
-<a href="https://www.coursera.org/learn/java-basic-structures-arrays-strings-and-files">
+<a href="https://www.coursera.org/learn/codio-visualizing-and-communicating-results-in-python-with-jupyter">
   <img src="/img/Java_Basic_Structures_Arrays,_Strings,_and_Files_logo.avif" width="75" align="right">
 </a>
-<a href="https://www.coursera.org/learn/codio-java-basics">
+<a href="https://www.coursera.org/learn/codio-data-analysis-in-python-with-pandas-and-matplotlib-in-spyder">
   <img src="/img/Java_Basics_Selection_and_Iteration_logo.avif" width="75" align="right">
 </a>
 
@@ -44,10 +41,10 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Java Basics: Selection and Iteration](./Java%20Basics:%20Selection%20and%20Iteration)
-2. [Java Basic Structures: Arrays, Strings, and Files](./Java%20Basic%20Structures:%20Arrays,%20Strings,%20and%20Files)
-3. [Java Object Basics: Functions, Recursion, and Objects](./Java%20Object%20Basics:%20Functions,%20Recursion,%20and%20Objects)
-4. [Object-Oriented Java: Inheritance and Encapsulation](./Object-Oriented%20Java:%20Inheritance%20and%20Encapsulation)
+1. [Data Analysis in Python with pandas & matplotlib in Spyder](./Data%20Analysis%20in%20Python%20with%20pandas%20&%20matplotlib%20in%20Spyder)
+2. [Visualizing & Communicating Results in Python with Jupyter](./Visualizing%20&%20Communicating%20Results%20in%20Python%20with%20Jupyter)
+3. [Data Analysis in R with RStudio & Tidyverse](./Data%20Analysis%20in%20R%20with%20RStudio%20&%20Tidyverse)
+4. [Visualizing Data & Communicating Results in R with RStudio](./Visualizing%20Data%20&%20Communicating%20Results%20in%20R%20with%20RStudio)
 
 ## Remarks
 - The philosophy of the whole specialization is learning by doing. There are no videos, all the concepts are taught by code examples, and coding puzzles. 
