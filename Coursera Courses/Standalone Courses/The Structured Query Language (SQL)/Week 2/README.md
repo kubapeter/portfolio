@@ -26,6 +26,6 @@
 ## Labs
 
 There are 3 labs for week 2
-- [Coding Your First SELECT Statements](./)
-- [Adding Conditions Using the WHERE Clause]
-- [Date Functions and Nulls]
+- [Coding Your First SELECT Statements](./lab1.sql)
+- [Adding Conditions Using the WHERE Clause](./lab2.sql)
+- [Date Functions and Nulls](./lab3.sql)
