@@ -14,9 +14,3 @@
 - Store numerical data in a list
 - Print the data stored in variables/list Limitations
 - Apply the statistical functions(mean, mode, median, range) to list
-
-## [Coding practice challenge](./LabChallenge.java)
-
->"Assignment:
->
-
