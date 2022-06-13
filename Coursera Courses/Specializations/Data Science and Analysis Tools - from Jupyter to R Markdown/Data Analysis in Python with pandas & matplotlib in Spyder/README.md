@@ -41,6 +41,6 @@ This folder contains
 - [Week 2](./Week%202): Importing and Describing Mixed Data Sets (pandas)
 - [Week 3](./Week%203): Statistical Tests to Determine if Populations are Different
 - [Week 4](./Week%204): Statistical Tests to Describe Relationships
-- [Week 5](./Week%205): Python Data Analysis Lab
+- Week 5: Python Data Analysis Lab (only final assignment)
 
 [^1]: For ethical reasons I do not make my code for the final coding exercises publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I share the source code of the coding practice challenges. These are right before the final coding exercises, and check roughly the same knowledge that is checked in the final coding exercises. 
