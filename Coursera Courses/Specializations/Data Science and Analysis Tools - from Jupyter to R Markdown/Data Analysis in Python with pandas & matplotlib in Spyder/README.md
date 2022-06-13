@@ -31,7 +31,6 @@ Course 1 of the [Data Science and Analysis Tools - from Jupyter to R Markdown Sp
 
 ## Content
 This folder contains 
-- [x] source code of coding practice challenges[^1]
 - [x] short descriptions of the modules 
 - [x] lesson notes 
 - [x] [certificate](./Coursera_Certificate_Java_Basic_Structures_Arrays,_Strings,_and_Files.pdf) ([verification](https://coursera.org/verify/2EK459FLXRUP))
@@ -43,4 +42,3 @@ This folder contains
 - [Week 4](./Week%204): Statistical Tests to Describe Relationships
 - Week 5: Python Data Analysis Lab (only final assignment)
 
-[^1]: For ethical reasons I do not make my code for the final coding exercises publicly available. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, I share the source code of the coding practice challenges. These are right before the final coding exercises, and check roughly the same knowledge that is checked in the final coding exercises. 
