@@ -33,7 +33,8 @@ Course 1 of the [Data Science and Analysis Tools - from Jupyter to R Markdown Sp
 This folder contains 
 - [x] short descriptions of the modules 
 - [x] lesson notes 
-- [x] [certificate](./Coursera_Certificate_Java_Basic_Structures_Arrays,_Strings,_and_Files.pdf) ([verification](https://coursera.org/verify/2EK459FLXRUP))
+- [x] [certificate](./Coursera_Certificate_Data_Analysis_in_Python_with_pandas_&_matplotlib_in_Spyder.pdf) 
+([verification](https://coursera.org/verify/UAJX8DH6N4D6))
 
 ## Syllabus
 - [Week 1](./Week%201): Describing a Numerical Data Set
