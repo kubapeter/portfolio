@@ -34,7 +34,7 @@ This folder contains
 - [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
 - [x] [glossary](./Resources/glossary) (definitions of the main concepts)
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_Introduction_to_Java_and_Object-Oriented_Programming.pdf) ([verification](https://coursera.org/verify/HYK7VTVDLV59))
 
 ## [Syllabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf)
 - [Week 1](./Week%201): Introduction to Java, Classes, & Eclipse
