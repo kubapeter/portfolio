@@ -13,6 +13,4 @@
 
 ## Assignment
 
->"quote"
-
-Main points, and own [shared code](./code.language) 
+There is one coding assignment for week 1. Here are the starter files and the description. 
