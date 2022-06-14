@@ -13,7 +13,7 @@ Taught by: [Kevin Noelsaint](https://www.coursera.org/instructor/knoelsaint) and
 
 ---
 
-**40 hours** to complete ([certificate](./Coursera), [verification](https:))
+**40 hours** to complete ([certificate](./Coursera), [verification](https://coursera.org/verify/UAJX8DH6N4D6))
 
 The specialization consists of 4 courses. 
 
