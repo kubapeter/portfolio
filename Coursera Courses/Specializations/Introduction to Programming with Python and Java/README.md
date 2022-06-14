@@ -29,17 +29,17 @@ The specialization consists of 4 courses.
 
 <p align="right">More details on <a href="https://www.coursera.org/specializations/programming-python-java">website</a></p>
 
-<a href="course4_homepage">
-  <img src="/img/course4_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/java-inheritance-data-structures">
+  <img src="/img/Inheritance_and_Data_Structures_in_Java_logo.avif" width="75" align="right">
 </a>
-<a href="course3_homepage">
-  <img src="/img/course3_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/java-object-oriented-programming">
+  <img src="/img/Introduction_to_Java_and_Object-Oriented_Programming_logo.avif" width="75" align="right">
 </a>
-<a href="course2_homepage">
-  <img src="/img/course2_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/data-analysis-python">
+  <img src="/img/Data_Analysis_Using_Python_logo.avif" width="75" align="right">
 </a>
-<a href="course1_homepage">
-  <img src="/img/course1_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/python-programming-intro">
+  <img src="/img/Introduction_to_Python_Programming_logo.avif" width="75" align="right">
 </a>
 
 ## Courses of the specialization
