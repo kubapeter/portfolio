@@ -37,9 +37,8 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## [Syllabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf)
-- [Week 1](./Week%201): week1_title
-- [Week 2](./Week%202): week2_title
-- [Week 3](./Week%203): week3_title
-- [Week 4](./Week%204): week4_title
+- [Week 1](./Week%201): Introduction to Java, Classes, & Eclipse
+- [Week 2](./Week%202): Unit Testing, Arrays, & ArrayLists
+- [Week 3](./Week%203): Static Variables, Methods, & Polymorphism Using Overloading
 
 [^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I share the source code of another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
