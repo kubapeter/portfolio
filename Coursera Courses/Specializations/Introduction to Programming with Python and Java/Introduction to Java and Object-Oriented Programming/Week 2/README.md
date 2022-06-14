@@ -2,14 +2,14 @@
   <img src="/img/Introduction_to_Java_and_Object-Oriented_Programming_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br>  Introduction to Java, Classes, & Eclipse
+# Week 2 <br>  Unit Testing, Arrays, & ArrayLists
 
 ## Learning Objectives
-- Identify core aspects of object oriented programming and features of the Java language
-- Use Eclipse for writing and running Java code
-- Understand and apply core object oriented programming concepts using classes
-- Write code to develop a game that does basic math and converts time
-- Design a banking system for managing customers and their bank accounts
+- Test code by applying principles of test-driven development using Java's unit testing framework
+- Create multi-dimensional Arrays to store collections of items
+- Discover Java's Collection Framework using ArrayLists
+- Apply the toString method to print objects and the equals method to compare objects
+- Write a program to manage seats in a classroom of students
 
 ## Assignment
 
