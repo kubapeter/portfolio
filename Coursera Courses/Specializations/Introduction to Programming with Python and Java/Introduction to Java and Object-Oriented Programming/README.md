@@ -28,12 +28,9 @@ Course 3 of the [Introduction to Programming with Python and Java Specialization
 ## Content
 This folder contains 
 - [x] source code for assignments[^1]
-- [x] all practice exercises
 - [x] short descriptions of the modules 
-- [x] [course map](./Resources/course_map) (detailed description of the modules)
-- [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
-- [x] [glossary](./Resources/glossary) (definitions of the main concepts)
-- [x] [slides](./Slides) 
+- [x] [sylabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf) (detailed description of the modules)
+- [x] [slides]
 - [x] [certificate](./Coursera_Certificate_Introduction_to_Java_and_Object-Oriented_Programming.pdf) ([verification](https://coursera.org/verify/HYK7VTVDLV59))
 
 ## [Syllabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf)
