@@ -36,7 +36,7 @@ This folder contains
 - [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
-## Syllabus
+## [Syllabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf)
 - [Week 1](./Week%201): week1_title
 - [Week 2](./Week%202): week2_title
 - [Week 3](./Week%203): week3_title
