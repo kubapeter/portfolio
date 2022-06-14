@@ -13,7 +13,7 @@ Taught by: [Brandon Krakowsky](https://www.coursera.org/instructor/brandonkrakow
 
 ---
 
-**83 hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
+**83 hours** to complete ([certificate](./Coursera_Certificate_Introduction_to_Programming_with_Python_and_Java_Specialization.pdf), [verification](https://coursera.org/verify/specialization/9N4TN26G4TKE))
 
 The specialization consists of 4 courses. 
 
