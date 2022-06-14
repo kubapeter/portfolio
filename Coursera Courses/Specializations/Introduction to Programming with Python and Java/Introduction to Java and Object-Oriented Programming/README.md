@@ -13,7 +13,7 @@ Taught by: [Brandon Krakowsky](https://www.coursera.org/instructor/brandonkrakow
 
 ---
 
-**? hours** to complete - 6 quizzes, 4 [coding assignments]
+**17 hours** to complete - 6 quizzes, 4 [coding assignments]
 
 Course 3 of the [Introduction to Programming with Python and Java Specialization](../) 
 
