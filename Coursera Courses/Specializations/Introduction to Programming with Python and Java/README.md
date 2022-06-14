@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/specializations/programming-python-java">
-  <img src="/img/spec_logo" width="150" align="right">
+  <img src="/img/Introduction_to_Programming_with_Python_and_Java_Specialization_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/UPenn_shield_with_banner.svg" width="120" height="120" align="left">
@@ -9,7 +9,7 @@
 Offered by 
 ### *University of Pennsylvania*
 
-Taught by: [Lecturer](lecturer_link) and [Lecturer](lecturer_link)
+Taught by: [Brandon Krakowsky](https://www.coursera.org/instructor/brandonkrakowsky)
 
 ---
 
