@@ -13,5 +13,5 @@
 
 ## Assignment
 
-There are two coding assignment for week 1. Here are the [descriptions](./Coding%20Assignments) and the [starter files](./Coding%20Assignments/Starter%20Files). 
+There are two coding assignment for week 1. Here are the [descriptions](./Coding%20Assignments) and the [starter files](./Coding%20Assignments/Starter%20Codes). 
  
