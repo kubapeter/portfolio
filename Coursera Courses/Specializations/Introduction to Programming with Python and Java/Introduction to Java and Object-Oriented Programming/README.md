@@ -30,7 +30,7 @@ This folder contains
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
 - [x] [sylabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf) (detailed description of the modules)
-- [x] [slides]
+- [x] slides
 - [x] [certificate](./Coursera_Certificate_Introduction_to_Java_and_Object-Oriented_Programming.pdf) ([verification](https://coursera.org/verify/HYK7VTVDLV59))
 
 ## [Syllabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf)
