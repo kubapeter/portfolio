@@ -13,9 +13,9 @@ Taught by: [William Mead](https://www.coursera.org/instructor/wmmead)
 
 ---
 
-**21 hours** to complete - 4 quizzes
+**13 hours** to complete - 4 quizzes
 
-Course 1 of the [JavaScript for Beginners Specialization](../) 
+Course 2 of the [JavaScript for Beginners Specialization](../) 
 
 ---
 
@@ -34,7 +34,7 @@ This folder contains
 - [x] [certificate](./Coursera_Certificate_JavaScript_Basics.pdf) ([verification](https://coursera.org/verify/STD6F6DRYVSC))
 
 ## Syllabus
-- [Week 1](./Week%201): Getting Started, Introduction to JavaScript, Variables, and Arrays
-- [Week 2](./Week%202): Controlling Logical Flow in JavaScript
-- [Week 3](./Week%203): Using JavaScript in the Web Browser
-- [Week 4](./Week%204): Basic JavaScript Application Projects
+- [Week 1](./Week%201): Manipulating Web Pages Elements with jQuery & JavaScript
+- [Week 2](./Week%202): Animating Web Page Elements with jQuery & JavaScript
+- [Week 3](./Week%203): Intermediate Document Manipulation & Animation
+- [Week 4](./Week%204): Timers and Recursion in JavaScript & jQuery
