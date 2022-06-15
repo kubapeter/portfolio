@@ -33,7 +33,7 @@ This folder contains
 - [x] short descriptions of the modules 
 - [x] [sylabus](./Inheritance-and-Data-Structures-in-Java---Syllabus.pdf) (detailed description of the modules)
 - [x] slides
-- [x] [certificate](./Coursera_Certificate_Introduction_to_Java_and_Object-Oriented_Programming.pdf) ([verification](https://coursera.org/verify/HYK7VTVDLV59))
+- [x] [certificate](./Coursera_Certificate_Inheritance_and_Data_Structures_in_Java.pdf) ([verification](https://coursera.org/verify/YDZABT6HBFSH))
 
 ## [Syllabus](./Inheritance-and-Data-Structures-in-Java---Syllabus.pdf)
 - [Week 1](./Week%201): Inheritance, Polymorphism Using Overriding, & Access Modifiers
