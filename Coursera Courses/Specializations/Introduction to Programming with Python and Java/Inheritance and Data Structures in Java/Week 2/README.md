@@ -12,4 +12,4 @@
 
 ## Assignment
 
-There is one coding assignment for week 1. Here are the [starter files](./Coding%20Assignment/Starter%20Files) and the [description](./Coding%20Assignment/Intro%20to%20Java%20&%20OOP_Homework%201.pdf). 
+There is one coding assignment for week 1. Here are the [starter files](./Coding%20Assignment/Starter%20Files) and the [description](./Coding%20Assignment/Inheritance%20&%20Data%20Structures%20in%20Java_Homework%202.docx.pdf). 
