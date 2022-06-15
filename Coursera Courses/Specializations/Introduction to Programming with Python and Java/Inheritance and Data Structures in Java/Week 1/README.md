@@ -5,11 +5,11 @@
 # Week 1 <br>  Introduction to Java, Classes, & Eclipse
 
 ## Learning Objectives
-- Identify core aspects of object oriented programming and features of the Java language
-- Use Eclipse for writing and running Java code
-- Understand and apply core object oriented programming concepts using classes
-- Write code to develop a game that does basic math and converts time
-- Design a banking system for managing customers and their bank accounts
+- Examine the concept of inheritance in object-oriented programming and learn to extend classes
+- Demonstrate how to override methods in a subclass
+- Consider use cases for calling an overridden method or constructor in a superclass
+- Contrast overloading with overriding a method
+- Apply access modifiers to restrict scope in a program and to control access to variables and methods
 
 ## Assignment
 
