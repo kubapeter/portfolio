@@ -23,7 +23,7 @@ Course 3 of the [Introduction to Programming with Python and Java Specialization
 
 >"This course provides an introduction to the Java language and object-oriented programming, including an overview of Java syntax and how it differs from a language like Python.  Students will learn how to write custom Java classes and methods, and how to test their code using unit testing and test-driven development.  Topics include basic data structures like Arrays and ArrayLists and overloading methods."
 
-<p align="right">More details on <a href="course_homepage">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/java-object-oriented-programming">website</a></p>
 
 ## Content
 This folder contains 
