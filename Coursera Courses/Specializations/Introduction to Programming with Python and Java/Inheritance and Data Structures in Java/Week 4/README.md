@@ -11,5 +11,4 @@
 
 ## Assignment
 
-There is one coding assignment for week 4. Here are the [starter files](./Coding%20Assignment/Starter%20Files) and the [description](./Coding%20Assignment/Inheritance%20&%20Data%20Structures%20in%20Java_Homework%201.pdf). 
-
+There is one coding assignment for week 4. Here are the [starter files](./Coding%20Assignment/Starter%20Files) and the [description](./Coding%20Assignment/Inheritance%20&%20Data%20Structures%20in%20Java_Homework%204.docx.pdf). 
