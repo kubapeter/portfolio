@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/Introduction_to_Java_and_Object-Oriented_Programming_logo.avif" width="120" align="right">
+  <img src="/img/Inheritance_and_Data_Structures_in_Java_logo.avif" width="120" align="right">
 </a>
 
 # Week 1 <br>  Introduction to Java, Classes, & Eclipse
