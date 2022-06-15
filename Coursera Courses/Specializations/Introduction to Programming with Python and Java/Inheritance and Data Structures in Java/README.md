@@ -31,13 +31,14 @@ Course 4 of the [Introduction to Programming with Python and Java Specialization
 This folder contains 
 - [x] source code for assignments[^1]
 - [x] short descriptions of the modules 
-- [x] [sylabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf) (detailed description of the modules)
+- [x] [sylabus](./Inheritance-and-Data-Structures-in-Java---Syllabus.pdf) (detailed description of the modules)
 - [x] slides
 - [x] [certificate](./Coursera_Certificate_Introduction_to_Java_and_Object-Oriented_Programming.pdf) ([verification](https://coursera.org/verify/HYK7VTVDLV59))
 
-## [Syllabus](./Introduction-to-Java-and-Object-Oriented-Programming---Syllabus.pdf)
-- [Week 1](./Week%201): Introduction to Java, Classes, & Eclipse
-- [Week 2](./Week%202): Unit Testing, Arrays, & ArrayLists
-- [Week 3](./Week%203): Static Variables, Methods, & Polymorphism Using Overloading
+## [Syllabus](./Inheritance-and-Data-Structures-in-Java---Syllabus.pdf)
+- [Week 1](./Week%201): Inheritance, Polymorphism Using Overriding, & Access Modifiers
+- [Week 2](./Week%202): Abstract Classes & Debugging
+- [Week 3](./Week%203): File I/O & Exceptions
+- [Week 4](./Week%204): Collections, Maps, & Regular Expressions
 
 [^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I share the source code of another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
