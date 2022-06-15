@@ -13,15 +13,17 @@ Taught by: [Brandon Krakowsky](https://www.coursera.org/instructor/brandonkrakow
 
 ---
 
-**17 hours** to complete - 6 quizzes, 4 coding assignments
+**21 hours** to complete - 8 quizzes, 4 coding assignments
 
-Course 3 of the [Introduction to Programming with Python and Java Specialization](../) 
+Course 4 of the [Introduction to Programming with Python and Java Specialization](../) 
 
 ---
 
 ## Course description
 
->"This course provides an introduction to the Java language and object-oriented programming, including an overview of Java syntax and how it differs from a language like Python.  Students will learn how to write custom Java classes and methods, and how to test their code using unit testing and test-driven development.  Topics include basic data structures like Arrays and ArrayLists and overloading methods."
+>"This course provides a comprehensive look at Java inheritance, including access modifiers and overriding methods.  Students are introduced to abstract classes, and will learn how to read and write to files, use regular expressions for parsing text, and how to leverage complex data structures like collections and maps.  
+>
+>Additionally, this course offers strategies for catching errors and debugging code, including an overview of Eclipse’s debugging tool."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/java-inheritance-data-structures">website</a></p>
 
