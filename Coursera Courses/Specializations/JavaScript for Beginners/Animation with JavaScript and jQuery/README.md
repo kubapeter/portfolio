@@ -1,10 +1,10 @@
-<a href="https://www.coursera.org/learn/javascript-basics">
-  <img src="/img/JavaScript_Basics_logo.avif" width="150" align="right">
+<a href="https://www.coursera.org/learn/animation-javascript-jquery">
+  <img src="/img/Animation_with_JavaScript_and_jQuery_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/UC_Davis_wordmark.svg" width="120" height="120" align="left">
 
-# JavaScript Basics
+# Animation with JavaScript and jQuery
 
 Offered by 
 ### *The University of California, Davis*
@@ -21,10 +21,11 @@ Course 1 of the [JavaScript for Beginners Specialization](../)
 
 ## Course description
 
->"This course introduces the programming language JavaScript and shows the websites that include the type of interactions students will eventually be able to develop.  Learners will understand the importance of how JavaScript was developed and why such history impacts the way JavaScript is currently written and in future releases.  
-Learners will write their first scripts, have their HTML and CSS skills assessed, create variables and arrays and assign values to them.  If student’s skills are lacking, resources and recommendations are provided to improve these skills. There is ample opportunity for students to practice these first, core skills."
+>"With the general introduction of JavaScript in the first course, this course will focus on JavaScript libraries, specifically jQuery. The scripts will be geared toward Document Object Model (DOM) manipulation. Learners will describe the top JavaScript libraries and differentiate which would work best to implement and accelerate development of web page animation.
+>
+>Course objectives include being introduced to the end product of the course – a landing page style website using jQuery elements to manipulate HTML documents and enhance user experience.  Diving deeper into the landing page that will be created and break it out into individual jQuery projects.  jQuery events and effects will be covered while exploring more jQuery’s relationship with HTML documents.  Finally, a focus on plugins and continue to breakdown jQuery's ability to manipulate HTML and CSS."
 
-<p align="right">More details on <a href="https://www.coursera.org/learn/javascript-basics">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/animation-javascript-jquery">website</a></p>
 
 ## Content
 This folder contains 
