@@ -31,7 +31,7 @@ Course 2 of the [JavaScript for Beginners Specialization](../)
 This folder contains 
 - [x] source code for the challenges ([1-16](./Week%202/Challenges), [17-30](./Week%203/Challenges)), [activities](./Week%203/Activities) and projects
 - [x] short descriptions of the modules 
-- [x] [certificate](./Coursera_Certificate_JavaScript_Basics.pdf) ([verification](https://coursera.org/verify/STD6F6DRYVSC))
+- [x] [certificate](./Coursera_Certificate) ([verification](https://))
 
 ## Syllabus
 - [Week 1](./Week%201): Manipulating Web Pages Elements with jQuery & JavaScript
