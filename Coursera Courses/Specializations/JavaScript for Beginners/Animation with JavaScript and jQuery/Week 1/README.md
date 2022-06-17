@@ -14,7 +14,7 @@
 - Demonstrate proficiency with both JavaScript and jQuery for accessing and manipulating elements on a web page.
 
 ## Subjects covered
-
+- 
 
 ## Coding practice
 
