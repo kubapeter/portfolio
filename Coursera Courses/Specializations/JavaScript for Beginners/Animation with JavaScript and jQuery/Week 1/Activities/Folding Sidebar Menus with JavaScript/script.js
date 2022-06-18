@@ -1,10 +1,10 @@
 (function() {
     "use strict";
     
-    //const submenus = document.querySelectorAll("ul li ul");
+    const submenus = document.querySelectorAll("ul li ul");
     //const menuLinks = document.querySelectorAll(".menuLink");
     
-    /*
+    
     function hideSubmenus() {
         const submenus = document.querySelectorAll("ul li ul");
         
@@ -15,6 +15,7 @@
 
     hideSubmenus();
  
+    /*
     const menuLinks = document.querySelectorAll(".menuLink");
     
     for (let i = 0; i < menuLinks.length; i++) {
