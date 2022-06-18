@@ -13,9 +13,7 @@
 - Identify and fix coding and logic problems when they emerge while working on a project.
 - Demonstrate proficiency with both JavaScript and jQuery for accessing and manipulating elements on a web page.
 
-## Subjects covered
-- 
-
 ## Coding practice
 
-There are 16 challenges for week 2. [This folder](./Challenges) contains the [description](./Challenges/README.md) of the challenges, and the solutions. 
+There are 2 activities 20 practice challenges for week 1. The activities have the same goal: to create a folding sidebar menu. The first activity solves this problem with JavaScript, without using the jQuery library, the second activity uses only jQuery. 
+[This folder](./Challenges) contains the [description](./Challenges/README.md) of the challenges, and the solutions. 
