@@ -4,6 +4,7 @@
     //const submenus = document.querySelectorAll("ul li ul");
     //const menuLinks = document.querySelectorAll(".menuLink");
     
+    /*
     function hideSubmenus() {
         const submenus = document.querySelectorAll("ul li ul");
         
@@ -29,7 +30,7 @@
             }
         
         });
-    }
+    }*/
 
 //}());
 })();
