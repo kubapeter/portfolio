@@ -1,6 +1,6 @@
 -- GENERATE DATA
 
--- Just to see how rando, repeat and generate_series works
+-- Just to see how random, repeat and generate_series works
 SELECT random(), random(), trunc(random()*100);
 SELECT repeat('Neon ', 5);
 SELECT generate_series(1,5);
