@@ -2,13 +2,14 @@
   <img src="/img/JSON_and_Natural_Language_Processing_in_PostgreSQL_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> SQL Techniques
+# Week 1 <br> Natural Language
 
 ## Learning Objectives
-- Recall and utilize the SQL commands for adding, dropping, and editing columns and tables in a PostgreSQL database.
-- Recall the proper psql command to read commands from a file.
-- Create stored procedures.
-- Utilize the SELECT DISTINCT command.
+- Recall why PostgreSQL stores rows in blocks with unused space on disk.
+- Recall the typical block size used by PostgreSQL.
+- Differentiate between HASH index and B-tree index.
+- Create a reverse index for a table of documents.
+- Utilize stop words with a reverse index.
 
 ## Subjects covered
 
