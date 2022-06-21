@@ -147,3 +147,19 @@ WHERE G.keyword = ANY(string_to_array('Search for Lemons and Neons', ' '));
 -- docs_gin is purely a text (not language) based Inverted Index
 -- PostgreSQL already knows how to do this using the GIN index
 
+
+-- Now take advantage of rules of the natural language. 
+-- Let's define stop words (like 'is' or 'and') that do not add anything to the search.
+
+-- SETUP
+DROP TABLE docs cascade;
+CREATE TABLE docs (
+    id SERIAL, 
+    doc TEXT, 
+    PRIMARY KEY(id)
+  );
+  
+INSERT INTO docs (doc) 
+  VALUES ('This is SQL and Python and other fun teaching stuff'),
+         ('More people should learn SQL from UMSI'),
+         ('UMSI also teaches Python and also SQL');
