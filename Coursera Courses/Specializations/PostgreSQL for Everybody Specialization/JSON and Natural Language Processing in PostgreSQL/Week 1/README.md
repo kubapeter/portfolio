@@ -12,6 +12,7 @@
 - Utilize stop words with a reverse index.
 
 ## Subjects covered
+- 
 
 
 ## Assignments[^1]
