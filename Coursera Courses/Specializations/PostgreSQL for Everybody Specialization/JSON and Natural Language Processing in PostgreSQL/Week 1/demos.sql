@@ -364,16 +364,41 @@ SELECT * FROM docs_gin;
 
 
 -- Lets do some queries
-SELECT COALESCE((SELECT stem FROM docs_stem WHERE word=lower('SQL')), lower('SQL'));
+SELECT COALESCE((
+                 SELECT stem 
+                   FROM docs_stem 
+                   WHERE word=lower('SQL')                
+                ), lower('SQL'));
 
--- Handling the stems in queries.  Use the keyword if there is no stem
-SELECT DISTINCT id, doc FROM docs AS D
-JOIN docs_gin AS G ON D.id = G.doc_id
-WHERE G.keyword = COALESCE((SELECT stem FROM docs_stem WHERE word=lower('SQL')), lower('SQL'));
+-- Handling the stems in queries. Use the keyword if there is no stem
+SELECT DISTINCT id, 
+                doc 
+  FROM docs AS D
+         JOIN 
+       docs_gin AS G 
+         ON D.id = G.doc_id
+  WHERE G.keyword = COALESCE((
+                              SELECT stem 
+                                FROM docs_stem 
+                                WHERE word=lower('SQL')
+                              ), lower('SQL'));
 
 -- Prefer the stem over the actual keyword
-SELECT COALESCE((SELECT stem FROM docs_stem WHERE word=lower('teaching')), lower('teaching'));
+SELECT COALESCE((
+                 SELECT stem 
+                   FROM docs_stem 
+                   WHERE word=lower('teaching')                
+                ), lower('teaching'));
 
-SELECT DISTINCT id, doc FROM docs AS D
-JOIN docs_gin AS G ON D.id = G.doc_id
-WHERE G.keyword = COALESCE((SELECT stem FROM docs_stem WHERE word=lower('teaching')), lower('teaching'));
+
+SELECT DISTINCT id, 
+                doc 
+  FROM docs AS D
+         JOIN 
+       docs_gin AS G 
+         ON D.id = G.doc_id
+  WHERE G.keyword = COALESCE((
+                              SELECT stem 
+                                FROM docs_stem 
+                                WHERE word=lower('teaching')
+                              ), lower('teaching'));
