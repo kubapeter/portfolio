@@ -11,10 +11,6 @@
 - Create a reverse index for a table of documents.
 - Utilize stop words with a reverse index.
 
-## Subjects covered
-- 
-
-
 ## Assignments[^1]
 - Initial database setup (get used to the course settings)
 - > "In this assignment, you will create a table of documents and then produce a reverse index  for those documents that identifies each document which contains a particular word using SQL.   In contrast with the provided sample SQL, you will  map all the words in the reverse index to lower case (i.e. Python, PYTHON, and python should all end up as "python" in the inverted index)."
