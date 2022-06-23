@@ -1,3 +1,6 @@
+-- MAIN GOAL: CREATING INVERTED INDEXES USING ONLY SQL STATEMENTS, 
+-- SO NEXT WEEK WE CAN SEE HOW MUCH EASIER IT IS BY POSTGRESQL
+
 -- Strings, arrays, and rows
 
 SELECT string_to_array('Hello world', ' ');
