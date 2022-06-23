@@ -48,3 +48,29 @@ EXPLAIN
 --   ->  Bitmap Index Scan on gin1  (cost=0.00..12.05 rows=6 width=0)
 --         Index Cond: ('{learn}'::text[] <@ string_to_array(doc, ' '::text))
 
+-- we can see that it is not a sequential search but uses the index
+
+
+-- Now using the rules of natural language
+
+-- ts_vector() and ts_query() functions
+
+SELECT to_tsvector('english', 'UMSI also teaches Python and also SQL');
+
+--                   to_tsvector
+----------------------------------------------------
+-- 'also':2,6 'python':4 'sql':7 'teach':3 'umsi':1
+ 
+-- no duplicates, stemming, no stop-words, all lowercase 
+
+SELECT to_tsquery('english', 'teaching');
+
+-- to_tsquery
+--------------
+-- 'teach'
+
+-- also no duplicates, stemming, no stop-words, all lowercase 
+
+-- one can use logical operators
+SELECT to_tsquery('english', 'Teach | teaches | teaching | and | the | if');
+
