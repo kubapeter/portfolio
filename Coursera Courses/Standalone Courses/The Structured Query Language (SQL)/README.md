@@ -42,7 +42,7 @@ This folder contains
 
 ## Remarks
 - The course teaches PostgreSQL.
-- The lecturer was really carefully to make the course as user friendly as possible. 
+- The lecturer was really careful to make the course as user friendly as possible. 
   - video lectures are easy to follow 
   - slides are shared
   - there are plenty of practice exercises called labs, that are easy to complete on the grounds of the lectures
