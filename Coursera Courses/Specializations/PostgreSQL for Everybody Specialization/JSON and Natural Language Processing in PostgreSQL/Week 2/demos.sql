@@ -53,7 +53,7 @@ EXPLAIN
 
 -- Now using the rules of natural language
 
--- ts_vector() and ts_query() functions
+-- introduction: ts_vector() and ts_query() functions
 
 SELECT to_tsvector('english', 'UMSI also teaches Python and also SQL');
 
@@ -74,3 +74,53 @@ SELECT to_tsquery('english', 'teaching');
 -- one can use logical operators
 SELECT to_tsquery('english', 'Teach | teaches | teaching | and | the | if');
 
+-- connect ts_query() with ts_vector()
+SELECT to_tsquery('english', 'teaching') @@
+  to_tsvector('english', 'UMSI also teaches Python and also SQL');
+  
+-- Now: NATURAL LANGUAGE INVERTED INDEX WITH POSTGRESQL
+
+--SETUP
+DROP TABLE docs cascade;
+DROP INDEX gin1;
+
+CREATE TABLE docs 
+  (
+    id SERIAL, 
+    doc TEXT, 
+    PRIMARY KEY(id)
+  );
+
+CREATE INDEX gin1 
+  ON docs 
+  USING gin(to_tsvector('english', doc));
+
+INSERT INTO docs (doc) 
+  VALUES ('This is SQL and Python and other fun teaching stuff'), 
+         ('More people should learn SQL from UMSI'),
+         ('UMSI also teaches Python and also SQL');
+         
+-- Filler rows
+INSERT INTO docs (doc) 
+  SELECT 'Neon ' || generate_series(10000,20000);
+  --end SETUP
+
+
+SELECT id, 
+       doc 
+  FROM docs 
+  WHERE to_tsquery('english', 'learn') @@ to_tsvector('english', doc);
+
+EXPLAIN 
+  SELECT id, 
+         doc 
+    FROM docs 
+    WHERE to_tsquery('english', 'learn') @@ to_tsvector('english', doc);
+
+
+-- How to make GiST index instead of GIN
+DROP INDEX gin1;
+
+CREATE INDEX gin1 
+  ON docs 
+  USING gist(to_tsvector('english', doc));
