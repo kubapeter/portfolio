@@ -78,6 +78,7 @@ SELECT to_tsquery('english', 'Teach | teaches | teaching | and | the | if');
 SELECT to_tsquery('english', 'teaching') @@
   to_tsvector('english', 'UMSI also teaches Python and also SQL');
   
+  
 -- Now: NATURAL LANGUAGE INVERTED INDEX WITH POSTGRESQL
 
 --SETUP
