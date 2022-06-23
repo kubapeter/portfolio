@@ -24,8 +24,8 @@
 
 #### 2. Building a tsvector-based full text GIN index
 
-> "In this assignment, you will create a table of documents and then produce a GIN-based ts_vector index on the documents. 
+> "In this assignment, you will create a table of documents and then produce a GIN-based `ts_vector` index on the documents. 
 > 
-> The goal of this assignment is to run these queries with the @@ operator and (a) get the correct document(s) and (b) correctly use the GIN index (i.e. not use a sequential scan). "
+> The goal of this assignment is to run these queries with the `@@` operator and (a) get the correct document(s) and (b) correctly use the GIN index (i.e. not use a sequential scan). "
 
 [^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
