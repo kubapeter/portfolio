@@ -12,7 +12,7 @@
 
 ## Subjects covered
 - GIN and GiST indexes in PostgreSQL
-- 
+- `to_tsvector()`, `to_tsquery()`, `plainto_tsquery()`, `phraseto_tsquery()`, `websearch_to_tsquery()`
 
 ## Assignments[^1]
 - Initial database setup (get used to the course settings)
