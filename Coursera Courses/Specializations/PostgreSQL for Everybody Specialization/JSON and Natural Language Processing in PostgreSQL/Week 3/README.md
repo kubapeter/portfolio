@@ -19,7 +19,7 @@ There are 3 demonstartions in week 3.
 
 This python program connects to the PostgreSQL server, (safety-drops and then) creates a table, inserts values into it using a for loop, selects a row, prints it, inserts a row and prints part of it, then demonstrates a mistake, and finally would close the connection, if the mistake did not happen.  
 
-#### [Demo2](./demo2.py): book
+#### [Demo2](./demo2.py): loading a book in a usable format into SQL
 
 This python program connects to the PostgreSQL server, loads a book (.txt file), grabs out the paragraphs, transform every paragraph into one line, and insert these lines as rows into the database. 
 
