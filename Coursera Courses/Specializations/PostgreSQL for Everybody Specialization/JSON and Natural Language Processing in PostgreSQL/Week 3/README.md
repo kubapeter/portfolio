@@ -9,6 +9,7 @@
 - Utilize Python to insert data into a table with a given schema.
 
 ## Subjects covered
+- `psycopg2` library
 
 
 ## Assignments[^1]
