@@ -21,6 +21,8 @@ This python program connects to the PostgreSQL server, (safety-drops and then) c
 
 #### [Demo2](./demo2.py): book
 
+This python program connects to the PostgreSQL server, loads a book (.txt file), grabs out the paragraphs, transform every paragraph into one line, and insert these lines as rows into the database. 
+
 ## Assignments[^1]
 
 #### 1. Running simple.py
