@@ -15,9 +15,11 @@
 
 There are 3 demonstartions in week 3. 
 
-#### [Demo1](./demo1.py)
+#### [Demo1](./demo1.py): connection and basic operations
 
 This python program connects to the PostgreSQL server, (safety-drops and then) creates a table, inserts values into it using a for loop, selects a row, prints it, inserts a row and prints part of it, then demonstrates a mistake, and finally would close the connection, if the mistake did not happen.  
+
+#### [Demo2](./demo2.py): book
 
 ## Assignments[^1]
 
