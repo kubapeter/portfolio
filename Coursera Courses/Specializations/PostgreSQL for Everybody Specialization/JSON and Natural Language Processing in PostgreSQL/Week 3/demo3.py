@@ -87,7 +87,7 @@ while True:
         if fail > 5 : break
         continue
 
-    pos = text.find('\n\n')
+    pos = text.find('\n\n')   # find header/body cutpoint
     if pos > 0 :
         hdr = text[:pos]
         body = text[pos+2:]
@@ -99,14 +99,14 @@ while True:
         continue
 
     # Accept with or without < >
-    email = None
-    x = re.findall('\nFrom: .* <(\S+@\S+)>\n', hdr)
+    email = None                                       # look for email address with regex
+    x = re.findall('\nFrom: .* <(\S+@\S+)>\n', hdr)    # with brackets <>
     if len(x) == 1 :
         email = x[0]
         email = email.strip().lower()
         email = email.replace('<','')
     else:
-        x = re.findall('\nFrom: (\S+@\S+)\n', hdr)
+        x = re.findall('\nFrom: (\S+@\S+)\n', hdr)     # without brackets 
         if len(x) == 1 :
             email = x[0]
             email = email.strip().lower()
@@ -137,7 +137,7 @@ while True:
         VALUES ( %s, %s, %s, %s, %s, %s ) ON CONFLICT DO NOTHING''',
                ( start, email, sent_at, subject, hdr, body))
     if count % 50 == 0 : conn.commit()
-    if count % 100 == 0 : time.sleep(1)
+    if count % 100 == 0 : time.sleep(1)  # just for demonstartion: the lecturer can stop the process
 
 conn.commit()
 cur.close()
