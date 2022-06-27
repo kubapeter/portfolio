@@ -25,7 +25,7 @@ This python program connects to the PostgreSQL server, loads a book (.txt file),
 
 #### [Demo3](./demo3.py): emails
 
-Pulling out sent date, subject, headers, body
+main python file: Pulling out sent date, subject, headers, body
 
 ## Assignments[^1]
 
