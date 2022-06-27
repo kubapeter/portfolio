@@ -24,7 +24,7 @@ This python program connects to the PostgreSQL server, (safety-drops and then) c
 
 This python program connects to the PostgreSQL server, loads a book (.txt file), grabs out the paragraphs, transform every paragraph into one line, and insert these lines as rows into the database. 
 
-#### [Demo3]: loading many emails of different formats into SQL and using indexes in serches
+#### Demo3: loading many emails of different formats into SQL and using indexes in serches
 
 The [python code](./demo3.py) pulls out sent date, subject, headers, body, creates table for them, and inserts them into it. The [SQL code](./demo3.sql) makes indexes, uses them, creates new column, uses different text search functions, ranks results. 
 
