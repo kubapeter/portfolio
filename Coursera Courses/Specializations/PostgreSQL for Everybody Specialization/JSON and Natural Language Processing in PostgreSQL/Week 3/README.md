@@ -10,7 +10,7 @@
 
 ## Subjects covered
 - `psycopg2` library
-- ranking functions in PostgreSQL
+- ranking functions in PostgreSQL: `ts_rank()`, `ts_rank_cd()`
 
 ## Demonstartions
 
