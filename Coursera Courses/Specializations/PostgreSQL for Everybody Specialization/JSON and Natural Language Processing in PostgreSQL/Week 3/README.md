@@ -10,6 +10,7 @@
 
 ## Subjects covered
 - `psycopg2` library
+- ranking functions in PostgreSQL
 
 ## Demonstartions
 
