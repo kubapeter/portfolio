@@ -23,6 +23,10 @@ This python program connects to the PostgreSQL server, (safety-drops and then) c
 
 This python program connects to the PostgreSQL server, loads a book (.txt file), grabs out the paragraphs, transform every paragraph into one line, and insert these lines as rows into the database. 
 
+#### [Demo3](./demo3.py): emails
+
+Pulling out sent date, subject, headers, body
+
 ## Assignments[^1]
 
 #### 1. Running simple.py
