@@ -15,9 +15,15 @@
 
 ## Demonstartions
 
-There is one demonstartion in week 4. 
+There are 2 demonstartions in week 4. 
 
-In this assignment you will retrieve data from the PokéAPI and store the resulting data in a database.
+#### [Demo1](./demo1.sql): JSONB in PostgreSQL
+
+Creating a table and importing a JSON file into the table, extracting field data from the JSON, using the `->>` operator
+
+#### Demo3: loading many emails of different formats into SQL and using indexes in serches
+
+The [python code](./demo3.py) pulls out sent date, subject, headers, body, creates table for them, and inserts them into it. The [SQL code](./demo3.sql) makes indexes, uses them, creates new column, uses different text search functions, ranks results. 
 
 ## Assignments[^1]
 
