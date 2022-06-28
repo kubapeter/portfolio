@@ -3,16 +3,27 @@ DROP TABLE IF EXISTS swapi CASCADE;
 
 -- swapi.py creates this if it does not exist
 CREATE TABLE IF NOT EXISTS swapi
-(id SERIAL, url VARCHAR(2048) UNIQUE, status INTEGER, body JSONB,
-created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(), updated_at TIMESTAMPTZ);
+  (
+    id SERIAL, 
+    url VARCHAR(2048) UNIQUE, 
+    status INTEGER, 
+    body JSONB,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(), 
+    updated_at TIMESTAMPTZ
+  );
 
 SELECT url, status FROM SWAPI where URL like '%film%';
 
 SELECT COUNT(url) FROM swapi;
 
 -- While load is happening :)
-SELECT url FROM swapi WHERE status = 200;
-SELECT url FROM swapi WHERE status IS NULL;
+SELECT url 
+  FROM swapi 
+  WHERE status = 200;
+  
+SELECT url 
+  FROM swapi 
+  WHERE status IS NULL;
 
 -- Load completed...
 SELECT body->>'url' FROM swapi LIMIT 1;
