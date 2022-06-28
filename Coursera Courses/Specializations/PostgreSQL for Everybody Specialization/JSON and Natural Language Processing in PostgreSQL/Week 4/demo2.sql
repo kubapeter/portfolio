@@ -1,16 +1,18 @@
 --- To restart the spider
-DROP TABLE IF EXISTS swapi CASCADE;
+
+--DROP TABLE IF EXISTS swapi CASCADE;
 
 -- demo2.py creates this if it does not exist
-CREATE TABLE IF NOT EXISTS swapi
-  (
-    id SERIAL, 
-    url VARCHAR(2048) UNIQUE, 
-    status INTEGER, 
-    body JSONB,
-    created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(), 
-    updated_at TIMESTAMPTZ
-  );
+--CREATE TABLE IF NOT EXISTS swapi
+--  (
+--    id SERIAL, 
+--    url VARCHAR(2048) UNIQUE, 
+--    status INTEGER, 
+--    body JSONB,
+--    created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(), 
+--    updated_at TIMESTAMPTZ
+--  );
+
 
 -- While load is happening :)
 SELECT url 
