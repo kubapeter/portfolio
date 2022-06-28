@@ -24,10 +24,11 @@ There are 2 demonstartions in week 4.
 - querying JSONB fields by comparing them to other JSONB documents or document fragments using the contains (`@>`) operator
 - checking if a JSONB document contains a key, using the `?` operator
 - use of casting (e. g. `::int`)
+- easiness of indexing JSONB
 
-#### Demo3: loading many emails of different formats into SQL and using indexes in serches
+#### Demo2: Loading JSON from an API
 
-The [python code](./demo3.py) pulls out sent date, subject, headers, body, creates table for them, and inserts them into it. The [SQL code](./demo3.sql) makes indexes, uses them, creates new column, uses different text search functions, ranks results. 
+The [python code](./demo2.py) pulls out data from API, creates table for them, and inserts them into it. The [SQL code](./demo2.sql) uses JSON possibilities heavily. 
 
 ## Assignments[^1]
 
