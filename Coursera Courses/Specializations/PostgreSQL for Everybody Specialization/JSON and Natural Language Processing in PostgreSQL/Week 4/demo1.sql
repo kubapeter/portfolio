@@ -1,4 +1,3 @@
-
 --SETUP
 DROP TABLE IF EXISTS jtrack CASCADE;
 
