@@ -2,31 +2,21 @@
   <img src="/img/JSON_and_Natural_Language_Processing_in_PostgreSQL_logo.avif" width="120" align="right">
 </a>
 
-# Week 3 <br> Python and PostgreSQL
+# Week 4 <br> JSON and PostgreSQL
 
 ## Learning Objectives
-- Connect and compare Python and PostgreSQL.
-- Utilize Python to insert data into a table with a given schema.
+-  Load and store JSON documents in a table.
+-  Recall the historical events that spurred on the adoption of JSON.
+-  Recall which index type is typically used for JSON in PostgreSQL.
 
 ## Subjects covered
-- `psycopg2` library
-- ranking functions in PostgreSQL: `ts_rank()`, `ts_rank_cd()`
+
 
 ## Demonstartions
 
-There are 3 demonstartions in week 3. 
+There is one demonstartion in week 4. 
 
-#### [Demo1](./demo1.py): connection and basic operations
-
-This python program connects to the PostgreSQL server, (safety-drops and then) creates a table, inserts values into it using a for loop, selects a row, prints it, inserts a row and prints part of it, then demonstrates a mistake, and finally would close the connection, if the mistake did not happen.  
-
-#### [Demo2](./demo2.py): loading a book into SQL in a usable format 
-
-This python program connects to the PostgreSQL server, loads a book (.txt file), grabs out the paragraphs, transform every paragraph into one line, and insert these lines as rows into the database. 
-
-#### Demo3: loading many emails of different formats into SQL and using indexes in serches
-
-The [python code](./demo3.py) pulls out sent date, subject, headers, body, creates table for them, and inserts them into it. The [SQL code](./demo3.sql) makes indexes, uses them, creates new column, uses different text search functions, ranks results. 
+In this assignment you will retrieve data from the PokéAPI and store the resulting data in a database.
 
 ## Assignments[^1]
 
