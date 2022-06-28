@@ -19,7 +19,11 @@ There are 2 demonstartions in week 4.
 
 #### [Demo1](./demo1.sql): JSONB in PostgreSQL
 
-Creating a table and importing a JSON file into the table, extracting field data from the JSON, using the `->>` operator
+- creating a table and importing a JSON file into the table 
+- extracting field data from the JSON, using the `->>` operator (retrieve field and convert from jsonb to text)
+- querying JSONB fields by comparing them to other JSONB documents or document fragments using the contains (`@>`) operator
+- checking if a JSONB document contains a key, using the `?` operator
+- use of casting (e. g. `::int`)
 
 #### Demo3: loading many emails of different formats into SQL and using indexes in serches
 
