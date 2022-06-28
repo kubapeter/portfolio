@@ -10,7 +10,8 @@
 -  Recall which index type is typically used for JSON in PostgreSQL.
 
 ## Subjects covered
-
+- general concept of serialization and marshalling/unmarshalling
+- `HSTORE` column, `JSON` column, `JSONB` column
 
 ## Demonstartions
 
