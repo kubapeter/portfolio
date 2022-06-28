@@ -38,4 +38,4 @@ The [python code](./demo3.py) pulls out sent date, subject, headers, body, creat
 
 > "In this assignment we generate a sequence of numbers and put them into a table."
 
-[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
+[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demo1.py) of [all](./demo2.py) the [coding](./demo3.py) [demonstrations](./demo3.sql) of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
