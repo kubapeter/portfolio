@@ -132,9 +132,60 @@ CREATE INDEX jtrack_gin_path_ops
 -- Might need to wait a little while while PostgreSQL catches up :)
 
 -- See which query uses which index
-EXPLAIN SELECT COUNT(*) FROM jtrack WHERE body->>'artist' = 'Queen';
-EXPLAIN SELECT COUNT(*) FROM jtrack WHERE body->>'name' = 'Summer Nights';
-EXPLAIN SELECT COUNT(*) FROM jtrack WHERE body ? 'favorite';
-EXPLAIN SELECT COUNT(*) FROM jtrack WHERE body @> '{"name": "Summer Nights"}';
-EXPLAIN SELECT COUNT(*) FROM jtrack WHERE body @> '{"artist": "Queen"}';
-EXPLAIN SELECT COUNT(*) FROM jtrack WHERE body @> '{"name": "Folsom Prison Blues", "artist": "Johnny Cash"}';
+EXPLAIN 
+  SELECT COUNT(*) 
+    FROM jtrack 
+    WHERE body->>'artist' = 'Queen';
+    -- sequential scan - because we did not make and index for 'artist', onyl for 'name'
+     
+EXPLAIN 
+  SELECT COUNT(*) 
+    FROM jtrack 
+    WHERE body->>'name' = 'Summer Nights';
+    -- b-tree
+
+EXPLAIN 
+  SELECT COUNT(*) 
+    FROM jtrack 
+    WHERE body ? 'favorite';
+    -- gin
+    
+EXPLAIN 
+  SELECT COUNT(*) 
+    FROM jtrack 
+    WHERE body @> '{"name": "Summer Nights"}';
+    -- gin_path_ops
+    
+EXPLAIN 
+  SELECT COUNT(*) 
+    FROM jtrack 
+    WHERE body @> '{"artist": "Queen"}';
+    -- gin_path_ops
+    
+EXPLAIN 
+  SELECT COUNT(*) 
+    FROM jtrack 
+    WHERE body @> '{"name": "Folsom Prison Blues", "artist": "Johnny Cash"}';
+    -- gin_path_ops
+    
+
+-- Updating a numeric field in JSONB
+
+-- Failure and then success :)
+SELECT (body->'count') + 1 
+  FROM jtrack 
+  LIMIT 1;
+  -- error, because cannot add 1 to a JSONB
+
+SELECT (body->'count')::int + 1 
+  FROM jtrack 
+  LIMIT 1;
+  -- works
+
+-- updating
+UPDATE jtrack 
+  SET body = jsonb_set(body, '{ count }', ( (body->>'count')::int + 1 )::text::jsonb )
+  WHERE body->>'name' = 'Summer Nights';
+
+-- Don't want to run out of space for data or indexes
+DROP TABLE IF EXISTS jtrack CASCADE;
