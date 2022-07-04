@@ -62,7 +62,7 @@ The specialization consists of 10 courses.
 
 ---
 
-1. [Course1](./course1_folder)
+1. [Introduction to Back-End Development](./course1_folder)
 2. [Course2](./course2_folder)
 3. [Course2](./course3_folder)
 4. [Course2](./course4_folder)
