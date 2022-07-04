@@ -2,7 +2,7 @@
   <img src="/img/spec_logo" width="150" align="right">
 </a>
 
-<img src="uni_logo" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="120" height="120" align="left">
 
 # Meta Back-End Developer Professional Certificate
 
