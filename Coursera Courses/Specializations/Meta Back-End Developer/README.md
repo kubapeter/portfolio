@@ -28,16 +28,16 @@ The specialization consists of 10 courses.
 >In this program, you’ll learn:
 >- Python Syntax—the most popular choice for machine learning, data science and artificial intelligence.
 >- In-demand programming skills and how to confidently use code to solve problems. 
-    Linux commands and Git repositories to implement version control.
-    The world of data storage and databases using MySQL, and how to craft sophisticated SQL queries. 
-    Django web framework and how the front-end consumes data from the REST APIs. 
-    How to prepare for technical interviews for back-end developer roles.
+>- Linux commands and Git repositories to implement version control.
+>- The world of data storage and databases using MySQL, and how to craft sophisticated SQL queries. 
+>- Django web framework and how the front-end consumes data from the REST APIs. 
+>- How to prepare for technical interviews for back-end developer roles.
+>
+>You’ll be able use these skills to create a Django web app using industry-standard tools. By the end, you’ll create a simple web app, following best practices, and build a job-ready portfolio to showcase during job interviews.  
+>
+>The launch date, program content, and course titles are subject to change. You'll be notified if the date changes. You will not be charged until the program opens and the free trial period ends."
 
-You’ll be able use these skills to create a Django web app using industry-standard tools. By the end, you’ll create a simple web app, following best practices, and build a job-ready portfolio to showcase during job interviews.  
-
-The launch date, program content, and course titles are subject to change. You'll be notified if the date changes. You will not be charged until the program opens and the free trial period ends."
-
-<p align="right">More details on <a href="spec_homepage">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/professional-certificates/meta-back-end-developer">website</a></p>
 
 <a href="course6_homepage">
   <img src="/img/course6_logo" width="75" align="right">
