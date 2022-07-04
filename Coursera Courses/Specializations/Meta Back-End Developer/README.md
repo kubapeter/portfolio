@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/professional-certificates/meta-back-end-developer">
-  <img src="/img/spec_logo" width="150" align="right">
+  <img src="/img/Meta_Back-End_Developer_Specialization.avif" width="150" align="right">
 </a>
 
 <img src="https://brandlogos.net/wp-content/uploads/2021/10/Meta-logo.svg" width="120" height="120" align="left">
