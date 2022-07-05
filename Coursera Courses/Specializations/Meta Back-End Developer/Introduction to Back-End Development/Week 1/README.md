@@ -32,8 +32,10 @@
   - File Transfer Protocol (FTP)
   - Secure Shell Protocol (SSH)
   - SSH File Transfer Protocol (SFTP)
-- 
-
+- libraries and frameworks
+- APIs (Application Programming Interfaces) and services
+- RESTful services
+- IDEs
 
 ## Assignment
 
