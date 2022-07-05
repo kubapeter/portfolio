@@ -11,7 +11,11 @@
 - Describe the technologies that underpin the internet
 
 ## Subjects covered
-- subjects
+- Internet Protocol (IP) version 4 and 6
+- IP address, IP packet
+- Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)
+- HTTP and HTTPS: HyperText Transfer Protocol (Secure)
+
 
 ## Assignment
 
