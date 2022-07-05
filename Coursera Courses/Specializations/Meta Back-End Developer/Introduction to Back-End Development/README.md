@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/introduction-to-back-end-development">
-  <img src="/img/course_logo" width="150" align="right">
+  <img src="/img/Introduction_to_Back-End_Development_logo.avif" width="150" align="right">
 </a>
 
 <img src="uni_logo" width="120" height="120" align="left">
