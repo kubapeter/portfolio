@@ -23,6 +23,16 @@
     - 300-399 Redirection (e. g. 301: moved permanently, 302: found)
     - 400-499 Client error (400, 401, 403, 404)
     - 500-599 Server error (e. g. 500: internal server error)
+- other internet protocols
+  - Dynamic Host Configuration Protocol (DHCP)
+  - Domain Name System Protocol (DNS)
+  - Internet Message Access Protocol (IMAP)
+  - Simple Mail Transfer Protocol (SMTP)
+  - Post Office Protocol (POP)
+  - File Transfer Protocol (FTP)
+  - Secure Shell Protocol (SSH)
+  - SSH File Transfer Protocol (SFTP)
+- 
 
 
 ## Assignment
