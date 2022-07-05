@@ -54,8 +54,8 @@ The specialization consists of 10 courses.
 <a href="course2_homepage">
   <img src="/img/course2_logo" width="75" align="right">
 </a>
-<a href="course1_homepage">
-  <img src="/img/course1_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/introduction-to-back-end-development">
+  <img src="/img/Introduction_to_Back-End_Development_logo.avif" width="75" align="right">
 </a>
 
 ## Courses of the specialization
