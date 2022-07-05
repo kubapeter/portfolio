@@ -15,6 +15,14 @@
 - IP address, IP packet
 - Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)
 - HTTP and HTTPS: HyperText Transfer Protocol (Secure)
+  - methods: GET, POST, PUT, DELETE
+  - path, headers
+  - status codes 
+    - 100-199 informational (e. g. 100: continue)
+    - 200-299 Successful (e. g. 200: OK)
+    - 300-399 Redirection (e. g. 301: moved permanently, 302: found)
+    - 400-499 Client error (400, 401, 403, 404)
+    - 500-599 Server error (e. g. 500: internal server error)
 
 
 ## Assignment
