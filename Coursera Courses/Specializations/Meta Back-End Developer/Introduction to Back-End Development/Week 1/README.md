@@ -16,7 +16,7 @@
 - Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)
 - HTTP and HTTPS: HyperText Transfer Protocol (Secure)
   - methods: GET, POST, PUT, DELETE
-  - path, headers
+  - path, version, headers
   - status codes 
     - 100-199 informational (e. g. 100: continue)
     - 200-299 Successful (e. g. 200: OK)
