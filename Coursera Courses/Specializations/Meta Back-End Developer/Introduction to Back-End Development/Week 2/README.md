@@ -19,9 +19,11 @@
 - DOM (Document Object Model)
 - Web accessibility (WAI, ARIA)
 - CSS declaration block
-  - selector (e. g.: `h1`, `#id`, `.class`, `element.withclass`, `#containerid element`, `#containerid > childelement`)
+  - selector (e. g.: `h1`, `#id`, `.class`, `element.withclass`, `#containerid element`, `#containerid > childelement`, `:hover`)
   - property: value (e. g.: `color: blue;`)
 - `<link rel="stylesheet" href="style.css"/>`
+- `color: rgb(255, 0, 0); rgba(255, 0, 0, 128); hsl(0, 100%, 50%);` 
+- `font-family`, `font-size`, `text-transform`, `text-decoration`
 
 
 ## Assignment
