@@ -18,6 +18,10 @@
 - `<form>`, `<input>`, `<label>`, `<select>`, `<option>`
 - DOM (Document Object Model)
 - Web accessibility (WAI, ARIA)
+- CSS declaration block
+  - selector (e. g.: `h1`, `#id`, `.class`, `element.withclass`, `#containerid element`, `#containerid > childelement`)
+  - property: value (e. g.: `color: blue;`)
+- `<link rel="stylesheet" href="style.css"/>`
 
 
 ## Assignment
