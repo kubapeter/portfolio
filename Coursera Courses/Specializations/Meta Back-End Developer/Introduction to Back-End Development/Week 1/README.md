@@ -36,9 +36,3 @@
 - APIs (Application Programming Interfaces) and services
 - RESTful services
 - IDEs
-
-## Assignment
-
->"quote"
-
-Main points, and own [shared code](./code.language) 
