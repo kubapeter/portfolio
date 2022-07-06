@@ -51,6 +51,7 @@ The specialization consists of 10 courses.
 <a href="course3_homepage">
   <img src="/img/course3_logo" width="75" align="right">
 </a>
+<br>
 <a href="course2_homepage">
   <img src="/img/course2_logo" width="75" align="right">
 </a>
