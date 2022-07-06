@@ -10,10 +10,14 @@
 
 ## Subjects covered
 - HTML tag HTML element, HTML document
-- `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, 
-- `<h1>`, `<h6>`, `<p>`, `<br>`, `<strong>`, `<b>`, `<em>`, `<i>`, 
+- `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
+- `<h1>`, `<h6>`, `<p>`, `<br>`, `<strong>`, `<b>`, `<em>`, `<i>`
 - `<ul>`, `<li>`, `<ol>`, `<div>`, `<style>`, `<!-- This is a comment -->`
-- 
+- `<a>`, `<img>`
+- `<table>`, `<tr>`, `<td>`, `<th>`
+- `<form>`, `<input>`, `<label>`, `<select>`, `<option>`
+- DOM (Document Object Model)
+- Web accessibility (WAI, ARIA)
 
 
 ## Assignment
