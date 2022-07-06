@@ -10,12 +10,16 @@
 
 ## Subjects covered
 - HTML tag HTML element, HTML document
-- `<html>`, `<head>`
+- `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, 
+- `<h1>`, `<h6>`, `<p>`, `<br>`, `<strong>`, `<b>`, `<em>`, `<i>`, 
+- `<ul>`, `<li>`, `<ol>`, `<div>`, `<style>`, `<!-- This is a comment -->`
+- 
 
 
 ## Assignment
 
-1. Creating an HTML Document
+1. Creating an HTML Document 
+"In this exercise you will you will practice creating a simple HTML document."
 
 >"quote"
 
