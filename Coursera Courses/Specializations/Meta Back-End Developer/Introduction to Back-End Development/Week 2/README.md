@@ -28,10 +28,16 @@
 - document flow - block vs. inline
 
 
-## Assignment
+## Assignments
 
 1. Creating an HTML Document 
 "In this exercise you will you will practice creating a simple HTML document."
+
+2. Styling a page
+"In this exercise you will you will practice applying CSS rules to HTML elements."
+
+3. Create and style a webpage
+"In this exercise you will you will practice building your webpage using HTML and CSS."
 
 >"quote"
 
