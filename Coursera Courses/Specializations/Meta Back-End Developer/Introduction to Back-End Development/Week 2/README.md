@@ -9,9 +9,13 @@
 - Use CSS to define style of a simple web page
 
 ## Subjects covered
+- HTML tag HTML element, HTML document
+- `<html>`, `<head>`
 
 
 ## Assignment
+
+1. Creating an HTML Document
 
 >"quote"
 
