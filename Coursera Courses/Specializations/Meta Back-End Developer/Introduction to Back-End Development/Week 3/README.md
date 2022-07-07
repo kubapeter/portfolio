@@ -15,6 +15,14 @@
 - dependencies, package manager, bundling
 - responsive design: flexible grids, fluid images, media queries
 - fixed grid, fluid grid, hybrid grid
+- Bootstrap styles, modifiers, grid
+- using Bootstrap documentation
+- other CSS frameworks and libraries: Foundation, Pure.css, Tailwind CSS, UIKit, MVP.css
+- static and dynamic content, web server and application server, caching
+- single page application (SPA), lazy loading
+- React components, virtual DOM, reconciliation, React Fiber Architecture
+- Component hierarchy
+- Alternatives to React: Lodash, Luxon, Redux, Axios, Jest
 
 ## Assignments
 
