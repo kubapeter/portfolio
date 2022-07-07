@@ -5,14 +5,16 @@
 # Week 3 <br> UI Frameworks
 
 ## Learning Objectives
-- Outline the concepts that exist in most UI frameworks using bootstrap as an example to directly reference common practice
+- Outline the concepts that exist in most UI frameworks using Bootstrap as an example to directly reference common practice
 - Use the Bootstrap CSS Framework to create webpages
-- Leverage bootstrap documentation to reproduce and modify CSS components
-- Use bootstrap themes
-- Describe the basics of react in relation to other frameworks and web technologies
+- Leverage Bootstrap documentation to reproduce and modify CSS components
+- Use Bootstrap themes
+- Describe the basics of React in relation to other frameworks and web technologies
 
 ## Subjects covered
-
+- dependencies, package manager, bundling
+- responsive design: flexible grids, fluid images, media queries
+- fixed grid, fluid grid, hybrid grid
 
 ## Assignments
 
