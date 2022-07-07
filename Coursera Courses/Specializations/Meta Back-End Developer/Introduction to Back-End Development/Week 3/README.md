@@ -2,7 +2,7 @@
   <img src="/img/Introduction_to_Back-End_Development_logo.avif" width="120" align="right">
 </a>
 
-# Week 2 <br> Introduction to HTML and CSS
+# Week 3 <br> UI Frameworks
 
 ## Learning Objectives
 - Outline the concepts that exist in most UI frameworks using bootstrap as an example to directly reference common practice
