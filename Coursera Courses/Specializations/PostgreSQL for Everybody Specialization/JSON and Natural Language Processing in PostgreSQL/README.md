@@ -30,7 +30,7 @@ This folder contains
 - [x] short descriptions of the modules 
 - [x] source code of the coding demonstrations for code-level insight to the course material
 - [x] [slides](./Slides) 
-- [x] [certificate](./Coursera_Certificate_Intermediate_PostgreSQL.pdf) ([verification](https://coursera.org/verify/UF32RUYRTTZD))
+- [x] [certificate](./Coursera_Certificate_JSON_and_Natural_Language_Processing_in_PostgreSQL.pdf) ([verification](https://coursera.org/verify/UQELMLRJRCMH))
 
 ## Syllabus
 - [Week 1](./Week%201): Natural Language
