@@ -60,11 +60,18 @@ The specialization consists of 10 courses.
 
 ## Courses of the specialization
 
+1. [Introduction to Back-End Development](./Introduction%20to%20Back-End%20Development)
+
+<a href="course6_homepage">
+  <img src="/img/course6_logo" width="75" align="right">
+</a>
+<a href="course6_homepage">
+  <img src="/img/course6_logo" width="75" align="right">
+</a>
 <a href="course6_homepage">
   <img src="/img/course6_logo" width="75" align="right">
 </a>
 
-1. [Introduction to Back-End Development](./Introduction%20to%20Back-End%20Development)
 2. [Programming in Python](./Programming%20in%20Python)
 3. [Course2](./course3_folder)
 4. [Course2](./course4_folder)
