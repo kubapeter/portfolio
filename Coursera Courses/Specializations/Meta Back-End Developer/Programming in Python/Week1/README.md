@@ -2,7 +2,7 @@
   <img src="/img/Programming_in_Python_logo.avif" width="120" align="right">
 </a>
 
-# Week 1 <br> Introduction to HTML and CSS
+# Week 1 <br> Getting started with Python
 
 ## Learning Objectives
 - Recognize common applications of the Python programming language.
