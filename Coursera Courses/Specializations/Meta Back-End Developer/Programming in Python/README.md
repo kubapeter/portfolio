@@ -4,7 +4,7 @@
 
 <img src="https://brandlogos.net/wp-content/uploads/2021/10/Meta-logo.svg" width="120" height="120" align="left">
 
-# Introduction to Back-End Development
+# Programming in Python
 
 Offered by 
 ### *Meta*
