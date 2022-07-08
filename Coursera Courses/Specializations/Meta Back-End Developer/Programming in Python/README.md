@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/programming-in-python">
-  <img src="/img/Introduction_to_Back-End_Development_logo.avif" width="150" align="right">
+  <img src="/img/Programming_in_Python_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://brandlogos.net/wp-content/uploads/2021/10/Meta-logo.svg" width="120" height="120" align="left">
