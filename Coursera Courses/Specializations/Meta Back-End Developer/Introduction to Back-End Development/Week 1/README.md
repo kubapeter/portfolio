@@ -36,3 +36,7 @@
 - APIs (Application Programming Interfaces) and services
 - RESTful services
 - IDEs
+
+## Assignment
+
+There is no assignment on week 1. 
