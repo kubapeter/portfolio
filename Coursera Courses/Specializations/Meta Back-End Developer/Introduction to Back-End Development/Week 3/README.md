@@ -26,7 +26,10 @@
 
 ## Lab exercises
 
+There is no assignment for week 3. There are 2 lab exercises. 
+
 1. Working with Bootstrap grid
+
 > "In this exercise, you will practice building a webpage using the Bootstrap Grid.
 > 
 > Goal: Create a two-column food menu for Little Lemon.
@@ -36,12 +39,15 @@
 >- Display the Little Lemon logo in the top center of the webpage using Bootstrap.
 >- Display the food menu in two columns using Bootstrap Grid."
 
-2. Styling a page
-"In this exercise you will you will practice applying CSS rules to HTML elements."
+2. Working with Bootstrap components
 
-3. Create and style a webpage
-"In this exercise you will you will practice building your webpage using HTML and CSS."
+> "In this exercise, you will practice adding Bootstrap components to a webpage.
+> 
+> Goal: Update the Little Lemon website to use Bootstrap Components.
+> 
+> Objectives
+>- Add a Badge component to the page to notify customers of the new falafel dish.
+>- Add an Alert component to the page to notify customers that the restaurant will be closed on New Year's Day.
+>- Add a Button component to the page with the text Order Online."
 
->"quote"
 
-Main points, and own [shared code](./code.language) 
