@@ -1,33 +1,29 @@
 body {
-    background-color: #e0e0e2
+    background-color: #e5e5e2
 }
 
-h1 {
-    color: #721817
+h1 h2 {
+    color: #621817
 }
 
-h2 {
-    color: #721817
-}
-
-.center-text {
+.centered {
     text-align: center;
 }
 
-#logo {
+#banner {
     margin: auto;
     display: block;
 }
 
 h2 > span {
-    color: #fa9f42;
-    font-size: 0.75em;
+    color: #fa8f42;
+    font-size: 0.85em;
 }
 
-#copyright {
-    padding-top: 12px;
+#next {
+    padding-top: 14px;
 }
 
 div #copyright {
-    font-size: 0.75em;
+    font-size: 0.65em;
 }
