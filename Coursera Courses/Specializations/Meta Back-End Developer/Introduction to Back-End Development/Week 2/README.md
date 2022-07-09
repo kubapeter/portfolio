@@ -48,3 +48,5 @@ The [HTML](./index2.html) and [CSS](./styles2.css) files I share here has rougly
 
 >"In this exercise you will you will practice building your webpage using HTML and CSS."
 
+The [HTML](./index3.html) and [CSS](./styles3.css) files I share here has rougly the same complexity as the original assignment.
+
