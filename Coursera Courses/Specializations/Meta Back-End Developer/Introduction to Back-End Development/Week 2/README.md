@@ -36,17 +36,17 @@
 
 >"In this exercise you will you will practice creating a simple HTML document."
 
-The code I share [here](./index1.html) has rougly the same complexity as the original assignment. 
+The code I share [here](./index1.html) has roughly the same complexity as the original assignment. 
 
 #### 2. Styling a page
 
 >"In this exercise you will you will practice applying CSS rules to HTML elements."
 
-The [HTML](./index2.html) and [CSS](./styles2.css) files I share here has rougly the same complexity as the original assignment.
+The [HTML](./index2.html) and [CSS](./styles2.css) files I share here has roughly the same complexity as the original assignment.
 
 #### 3. Create and style a webpage
 
 >"In this exercise you will you will practice building your webpage using HTML and CSS."
 
-The [HTML](./index3.html) and [CSS](./styles3.css) files I share here has rougly the same complexity as the original assignment.
+The [HTML](./index3.html) and [CSS](./styles3.css) files I share here has roughly the same complexity as the original assignment.
 
