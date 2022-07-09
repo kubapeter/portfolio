@@ -1,15 +1,15 @@
 img {
-    border:2px solid blue;
+    border:3px double red;
 }
 
 h1 {
-    color: blue;
+    color: green;
 }
 
 h2 {
-    color: grey;
+    color: red;
 }
 
 div {
-    margin: 4px;
+    margin: 5px;
 }
