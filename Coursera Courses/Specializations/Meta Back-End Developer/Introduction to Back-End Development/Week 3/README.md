@@ -28,7 +28,7 @@
 
 There is no assignment for week 3. There are 2 lab exercises. 
 
-1. Working with Bootstrap grid
+#### 1. Working with Bootstrap grid
 
 > "In this exercise, you will practice building a webpage using the Bootstrap Grid.
 > 
@@ -39,7 +39,7 @@ There is no assignment for week 3. There are 2 lab exercises.
 >- Display the Little Lemon logo in the top center of the webpage using Bootstrap.
 >- Display the food menu in two columns using Bootstrap Grid."
 
-2. Working with Bootstrap components
+#### 2. Working with Bootstrap components
 
 > "In this exercise, you will practice adding Bootstrap components to a webpage.
 > 
