@@ -28,17 +28,21 @@
 - document flow - block vs. inline
 
 
-## Assignments
+## Assignments[^1]
 
-1. Creating an HTML Document 
-"In this exercise you will you will practice creating a simple HTML document."
+[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
 
-2. Styling a page
-"In this exercise you will you will practice applying CSS rules to HTML elements."
+#### 1. Creating an HTML Document 
 
-3. Create and style a webpage
-"In this exercise you will you will practice building your webpage using HTML and CSS."
+>"In this exercise you will you will practice creating a simple HTML document."
 
->"quote"
+The code I share [here](./index1.html) has rougly the same complexity as the original assignment. 
 
-Main points, and own [shared code](./code.language) 
+#### 2. Styling a page
+
+>"In this exercise you will you will practice applying CSS rules to HTML elements."
+
+#### 3. Create and style a webpage
+
+>"In this exercise you will you will practice building your webpage using HTML and CSS."
+
