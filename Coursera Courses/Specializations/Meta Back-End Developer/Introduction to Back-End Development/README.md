@@ -46,7 +46,7 @@ This folder contains
 - [x] source code for assignments[^1]
 - [x] all lab exercises
 - [x] short descriptions of the modules 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_Introduction_to_Back-End_Development.pdf) ([verification](https://coursera.org/verify/PWSL5M8EZR2U))
 
 ## Syllabus
 - [Week 1](./Week%201): Get started with web development
