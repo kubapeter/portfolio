@@ -26,7 +26,7 @@
 
 ## Lab exercises
 
-There is no assignment for week 3. There are 2 lab exercises. 
+There is no assignment for week 3. There are two lab exercises. 
 
 #### 1. Working with Bootstrap grid
 
