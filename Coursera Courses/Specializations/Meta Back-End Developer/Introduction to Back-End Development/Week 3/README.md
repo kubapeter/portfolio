@@ -24,10 +24,15 @@
 - Component hierarchy
 - Alternatives to React: Lodash, Luxon, Redux, Axios, Jest
 
-## Assignments
+## Lab exercises
 
-1. Creating an HTML Document 
-"In this exercise you will you will practice creating a simple HTML document."
+1. Working with Bootstrap grid
+> "In this exercise, you will practice building a webpage using the Bootstrap Grid.
+> Goal: Create a two-column food menu for Little Lemon.
+> Objectives
+>- Set up the Bootstrap container.
+>- Display the Little Lemon logo in the top center of the webpage using Bootstrap.
+>- Display the food menu in two columns using Bootstrap Grid."
 
 2. Styling a page
 "In this exercise you will you will practice applying CSS rules to HTML elements."
