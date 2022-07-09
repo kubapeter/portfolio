@@ -10,7 +10,7 @@
 
 ## Lab exercise
 
-There is no assignment for week 4. There is one lab exercise. 
+There is no assignment for week 4. There is one [lab exercise](./index.html). 
 
 #### Improve your Bio page with Bootstrap
 
