@@ -42,6 +42,8 @@ The code I share [here](./index1.html) has rougly the same complexity as the ori
 
 >"In this exercise you will you will practice applying CSS rules to HTML elements."
 
+The [HTML](./index2.html) and [CSS](./styles2.css) files I share here has rougly the same complexity as the original assignment.
+
 #### 3. Create and style a webpage
 
 >"In this exercise you will you will practice building your webpage using HTML and CSS."
