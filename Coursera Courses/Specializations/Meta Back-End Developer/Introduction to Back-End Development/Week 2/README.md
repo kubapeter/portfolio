@@ -30,7 +30,7 @@
 
 ## Assignments[^1]
 
-[^1]:Please note, that I do not share the solutions of the assignments, as the lecturer firmly asks not to. However, I share the [source code](./demos.sql) of all the coding demonstrations of the week. This gives a code-level insight into the week. It covers everything that is needed to get through the assignments with 100% of the points.
+[^1]:Please note, that I do not share the solutions of the assignments, as it is strictly against the [Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US) of Coursera. However, I share similar source codes for all assignments of the week. 
 
 #### 1. Creating an HTML Document 
 
