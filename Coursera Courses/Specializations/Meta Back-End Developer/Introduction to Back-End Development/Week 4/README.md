@@ -14,7 +14,7 @@ There is no assignment for week 4. There is one lab exercise.
 
 #### Improve your Bio page with Bootstrap
 
-> "n this graded assessment, you will revise your biographical page to use Bootstrap.
+> "In this graded assessment, you will revise your biographical page to use Bootstrap.
 > 
 > Goal: Use Bootstrap to build your biographical page.
 > 
