@@ -48,10 +48,12 @@ This folder contains
 - [x] short descriptions of the modules 
 - [x] [certificate](./Coursera_Certificate_Introduction_to_Back-End_Development.pdf) ([verification](https://coursera.org/verify/PWSL5M8EZR2U))
 
+
+[^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give the description of the original problem, and I share a code that has roughly the same complexity and knowledge base as the original. 
+
 ## Syllabus
 - [Week 1](./Week%201): Get started with web development
 - [Week 2](./Week%202): Introduction to HTML and CSS
 - [Week 3](./Week%203): UI Frameworks
 - [Week 4](./Week%204): End-of-Course Graded Assessment
 
-[^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I share the source code of another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
