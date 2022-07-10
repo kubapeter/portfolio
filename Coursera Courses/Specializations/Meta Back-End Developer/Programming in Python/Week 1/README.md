@@ -23,6 +23,8 @@
 
 ## Assignments
 
+There are two programming assignments in week 1. 
+
 1. Creating an HTML Document 
 "In this exercise you will you will practice creating a simple HTML document."
 
