@@ -14,13 +14,12 @@
 - code blocks and indentation, line break `\`
 - commenting `#`
 - variables, data types: numeric (integer, float, complex), sequence (string, [list], (tuples) ), {dictionary}, boolean, {set}
-- `type, `anystring[i]`, `len()`, `def`
+- `type`, `anystring[i]`, `len()`, `def`
 - type casting, implicit and explicit conversion, `str()`, `int()`, `float()`
 - `input()`, `print()`, direct formatting `'formatted string {} has {} and {}'.format(name, a, b)`
-
-
-
-
+- math operators: `+`, `-`, `/`, `*`; logical operators: `and`, `or`, `not`
+- control flow: `if`, `else`, `elif`, `match`, `while`
+  - `for char in string:`, `for variable in sequence:`, `range(n)`, nested loops
 
 ## Assignments
 
