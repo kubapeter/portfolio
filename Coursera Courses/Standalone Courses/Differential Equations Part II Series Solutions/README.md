@@ -51,3 +51,7 @@ This folder contains
 
 #### Week 7: Legendre Polynomials
 - Introducing Legendre polynomials and study their basic properties
+
+## Remark
+
+Although they are not a Coursera specialization this course is the follow-up course of [Differential Equations Part I Basic Theory](../Differential%20Equations%20Part%20I%20Basic%20Theory).
