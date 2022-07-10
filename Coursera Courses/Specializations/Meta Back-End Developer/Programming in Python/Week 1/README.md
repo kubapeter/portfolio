@@ -11,6 +11,14 @@
 - Use control flow and loops to solve a problem
 
 ## Subjects covered
+- code blocks and indentation, line break `\`
+- commenting `#`
+- variables, data types: numeric (integer, float, complex), sequence (string, [list], (tuples) ), {dictionary}, boolean, {set}
+- `type, `anystring[i]`, `len()`, `def`
+- type casting, implicit and explicit conversion, `str()`, `int()`, `float()`
+- `input()`, `print()`, direct formatting `'formatted string {} has {} and {}'.format(name, a, b)`
+
+
 
 
 
