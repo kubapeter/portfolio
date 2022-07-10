@@ -68,3 +68,7 @@ This folder contains
 #### Week 9: Applications of Second Order Equations
 - Apply second order differential equations to physical phenomena analysis.
 - Apply second order differential equations to spring-mass system and pendulum.
+
+## Remark
+
+Although they are not a Coursera specialization this course has a [follow-up course](../Differential%20Equations%20Part%20II%20Series%20Solutions). 
