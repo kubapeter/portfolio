@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/introduction-to-ordinary-differential-equations-part-2">
-  <img src="/img/Differential_Equations_Part_I_Basic_Theory_logo.avif" width="150" align="right">
+  <img src="/img/Differential-Equations-Part-II-Series-Solutions_logo.avif" width="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/2/29/KAIST_logo_small.svg" width="120" height="120" align="left">
