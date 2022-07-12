@@ -23,17 +23,14 @@
 
 ## Assignments
 
-There are two programming assignments in week 1. 
+There is one assignment for week 1. 
 
-1. Creating an HTML Document 
-"In this exercise you will you will practice creating a simple HTML document."
+#### [Type casting input](./index1.html)
 
-2. Styling a page
-"In this exercise you will you will practice applying CSS rules to HTML elements."
-
-3. Create and style a webpage
-"In this exercise you will you will practice building your webpage using HTML and CSS."
-
->"quote"
-
-Main points, and own [shared code](./code.language) 
+> "In this lab you will be presented with three exercises to demonstrate how explicit type casting can be used to solve data being inputted from an end user. Each exercise will ask you to solve a particular problem relating to types.
+> 
+> Goal: To understand how and where to use implicit casting.
+> 
+> Objectives
+>- Exercise 1: Use explicit casting to apply the correct cast type
+>- Exercise 2: Fix the script so it correctly outputs the bill total
