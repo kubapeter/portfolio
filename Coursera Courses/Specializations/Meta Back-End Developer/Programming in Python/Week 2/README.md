@@ -26,6 +26,10 @@
   - `tuple1 = (1, 2.3, 'A', True)`, `tuple1[index]`  
   - `tuple1.count(2.3)`,`tuple1.index(2.3)`
   - `for element in tuple1:`
+- set
+  - `set1 = {1, 1, 2.3, 'A', True}`
+  - `set1.add(element)`, `set1.remove(element)`, `set1.discard(element)`
+  - `set1.union(set2)`, `set1 | set2`, `set1.intersection(set2)`, `set1 & set2`, `set1.difference(set2)`, `set1 - set2`, `set1.symmetric_difference(set2)`, `set1 ^ set2`,
 
 ## Assignments[^1]
 
