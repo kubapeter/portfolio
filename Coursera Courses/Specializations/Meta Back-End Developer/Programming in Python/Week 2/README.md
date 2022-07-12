@@ -17,7 +17,15 @@
 - variable scope: local, enclosing, global, built-in
 - data structures: built-in, user-defined
 - mutability and immutability
-- list, indexes, nested list, `print(*list1)`, `list1.insert(index, element)`, `list1.append(element)`, `list1.extend(new_list)`
+- list, indexes, nested list, 
+  - `list1 = [1, 2.3, 'A', True]`, `list1[index]`
+  - `print(*list1)`, `list1.insert(index, element)`, `list1.append(element)`, `list1.extend(new_list)`
+  - `list1.pop(element)`, `del list1[index]`
+  - `for element in list1:`
+- tuple, immutability
+  - `tuple1 = (1, 2.3, 'A', True)`, `tuple1[index]`  
+  - `tuple1.count(2.3)`,`tuple1.index(2.3)`
+  - `for element in tuple1:`
 
 ## Assignments[^1]
 
