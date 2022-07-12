@@ -13,7 +13,11 @@
 - Create, read and write data in files
 
 ## Subjects covered
-- 
+- declaring and calling functions, `def`
+- variable scope: local, enclosing, global, built-in
+- data structures: built-in, user-defined
+- mutability and immutability
+- list, indexes, nested list, `print(*list1)`, `list1.insert(index, element)`, `list1.append(element)`, `list1.extend(new_list)`
 
 ## Assignments[^1]
 
