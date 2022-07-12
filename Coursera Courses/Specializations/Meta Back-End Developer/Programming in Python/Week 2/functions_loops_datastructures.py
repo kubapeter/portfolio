@@ -17,12 +17,13 @@ temperatures = {
 
 def calculate_average_temperature(selection):
     """ Calculates the average temperature of the selected days
-
+    
     Args:
         selection: list of dicts that contain a name of a day and a temperature
 
     Returns:
         float = the average temperature of the days in selected
+        
     """
     print('Calculating average temperature...')
     temperature_sum = 0.0
@@ -39,6 +40,7 @@ def convert_to_fahrenheit(temperature):
 
     Returns:
         float - the temperature in Fahrenheit.
+        
     """
     print('Conversion from Celsius to Fahrenheit...')
     return (temperature * 1.8) + 32
@@ -87,10 +89,12 @@ def select_days():
         selection.append(temperatures[int(item)])
     return selection
 
+
 '''
 Here are some sample function calls to help you test your implementations.
 Feel free to change, uncomment, and add these as you wish.
 '''
+
 def main():
     selection = select_days()
     print_selected_days(selection)
