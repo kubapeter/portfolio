@@ -29,7 +29,12 @@
 - set
   - `set1 = {1, 1, 2.3, 'A', True}`
   - `set1.add(element)`, `set1.remove(element)`, `set1.discard(element)`
-  - `set1.union(set2)`, `set1 | set2`, `set1.intersection(set2)`, `set1 & set2`, `set1.difference(set2)`, `set1 - set2`, `set1.symmetric_difference(set2)`, `set1 ^ set2`,
+  - `set1.union(set2)`, `set1 | set2`, `set1.intersection(set2)`, `set1 & set2`, `set1.difference(set2)`, `set1 - set2`, `set1.symmetric_difference(set2)`, `set1 ^ set2`
+- dictionary, key, value
+  - `dict1 = {'a': 1, 100: True, 10.25: 1}`, `dict1[key]`
+  - `dict1[key] = new_value`, `del dict1[key]`
+  - `for key in dict1:`, `for key, value in dict1.items()`
+- args: `def funct(*args)` -> `for argument in args:`, kwargs: `def funct(**kwargs)` -> `for key, value in kwargs.items():`
 
 ## Assignments[^1]
 
@@ -37,7 +42,7 @@
 
 There are two assignments for week 2. 
 
-#### [Functions, loops and data structures](./typecast.py)
+#### [Functions, loops and data structures](./functions_loops_datastructures.py)
 
 > "In this lab you will be presented with a menu ordering system which will allow users to input three choices for a select menu. You are tasked with completing the menu system so that it returns and calculates the final bill for the user.
 > 
@@ -46,7 +51,7 @@ There are two assignments for week 2.
 >- Gain experience of using for loops to iterate over different data collections.
 >- Create and use data structures to store, retrieve and loop over data.
 
-#### [Read in data, store, manipulate and output new data to a file](./typecast.py)
+#### [Read in data, store, manipulate and output new data to a file](./read_write.py)
 
 > "In this lab you must read the contents of a file and then write the contents to another file. You must also store the contents of a file into a list so that it can be accessed in different ways. 
 > 
