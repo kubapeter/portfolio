@@ -49,5 +49,3 @@ There is no assignment for week 3. There are two lab exercises.
 >- Add a Badge component to the page to notify customers of the new falafel dish.
 >- Add an Alert component to the page to notify customers that the restaurant will be closed on New Year's Day.
 >- Add a Button component to the page with the text Order Online."
-
-
