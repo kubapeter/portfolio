@@ -17,7 +17,7 @@
 
 ## Assignments[^1]
 
-[^1]: Please note that the codes I share here are not the codes submitted in the course for it would be against the [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). I solve a similar problem with similar techniques, so it cannot be submitted, but covers roughly the same knowledge. 
+[^1]: Please note that the codes I share here are not the codes submitted in the course for it would be against the [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). I solve a similar problems with similar techniques, so they cannot be submitted, but they cover roughly the same scope of knowledge. 
 
 There is one assignment for week 1. 
 
