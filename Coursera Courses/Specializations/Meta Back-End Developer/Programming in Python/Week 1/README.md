@@ -25,7 +25,7 @@
 
 There is one assignment for week 1. 
 
-#### [Type casting input](./index1.html)
+#### [Type casting input](./typecast.py)
 
 > "In this lab you will be presented with three exercises to demonstrate how explicit type casting can be used to solve data being inputted from an end user. Each exercise will ask you to solve a particular problem relating to types.
 > 
