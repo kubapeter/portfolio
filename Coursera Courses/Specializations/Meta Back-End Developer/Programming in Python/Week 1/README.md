@@ -21,7 +21,9 @@
 - control flow: `if`, `else`, `elif`, `match`, `while`
   - `for char in string:`, `for variable in sequence:`, `range(n)`, nested loops
 
-## Assignments
+## Assignment[^1]
+
+[^1]: Please note that the code I share here is not the code submitted in the course for it would be against the [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). I solve a similar problem with similar techniques, so it cannot be submitted, but covers roughly the same knowledge. 
 
 There is one assignment for week 1. 
 
