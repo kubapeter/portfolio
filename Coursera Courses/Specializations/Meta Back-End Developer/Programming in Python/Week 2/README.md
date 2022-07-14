@@ -35,6 +35,11 @@
   - `dict1[key] = new_value`, `del dict1[key]`
   - `for key in dict1:`, `for key, value in dict1.items()`
 - args: `def funct(*args)` -> `for argument in args:`, kwargs: `def funct(**kwargs)` -> `for key, value in kwargs.items():`
+- error, exception, `try:`, `except:`, `except ZeroDivisionError as e:`
+- `Exception` class
+- file handling, `open()`, `close()`, `with open(filename, mode) as alias`
+- `alias.write("text")`, `alias.writelines(['some', '\nLines'])`
+
 
 ## Assignments[^1]
 
