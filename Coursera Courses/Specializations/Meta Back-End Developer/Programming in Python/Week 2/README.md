@@ -56,7 +56,7 @@ There are two assignments for week 2.
 > Objectives
 >- Create new functions to solve specific problems.
 >- Gain experience of using for loops to iterate over different data collections.
->- Create and use data structures to store, retrieve and loop over data.
+>- Create and use data structures to store, retrieve and loop over data."
 
 #### [Read in data, store, manipulate and output new data to a file](./read_write.py)
 
@@ -66,4 +66,4 @@ There are two assignments for week 2.
 > 
 > Objectives
 >- Create a function for reading in a file.
->- Create a function for writing files.
+>- Create a function for writing files."
