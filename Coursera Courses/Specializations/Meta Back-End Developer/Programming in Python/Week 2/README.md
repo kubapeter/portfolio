@@ -39,6 +39,8 @@
 - `Exception` class
 - file handling, `open()`, `close()`, `with open(filename, mode) as alias`
 - `alias.write("text")`, `alias.writelines(['some', '\nLines'])`
+- `alias.read()`, `alias.read(10)`, `alias.readline()`, `alias.readline(10)`, `alias.readlines()`
+- absolute path, relative path
 
 
 ## Assignments[^1]
