@@ -35,4 +35,4 @@ There is one assignment for week 1.
 > 
 > Objectives
 >- Exercise 1: Use explicit casting to apply the correct cast type
->- Exercise 2: Fix the script so it correctly outputs the bill total
+>- Exercise 2: Fix the script so it correctly outputs the bill total"
