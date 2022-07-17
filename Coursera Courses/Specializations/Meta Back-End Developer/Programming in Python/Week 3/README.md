@@ -21,7 +21,7 @@
   - recursion
   - `map(mapping_function, mapped_list)`, `filter(filtering_function,filtered_list)`
   - comprehension: `fourxsub = [x-1 for x in new_data if x%4 == 0]`
-  - ``` dfgfdg ```
+  - ```python  dfgfdg  ```
 
 ## Assignments[^1]
 
