@@ -23,16 +23,10 @@ There are two assignments for week 3.
 
 #### [Mapping key-values to Dictionary data structures](./functions_loops_datastructures.py)
 
-> "So far you have learned that Python has different techniques to modify a given iterator sequence such as list or dictionary using comprehensions, map() function and so on. Now you will be utilising what you have learned. Let’s say you have a list of employee data for the Little Lemon company. You want to create login accounts for the employees and you will create usernames for these employees in the first example. 
+> "So far you have learned that Python has different techniques to modify a given iterator sequence such as list or dictionary using comprehensions, `map()` function and so on. Now you will be utilising what you have learned. Let’s say you have a list of employee data for the Little Lemon company. You want to create login accounts for the employees and you will create usernames for these employees in the first example. 
 > 
 > You also want to update the roster for these employees on the calendar and want easy access to their initials and employee IDs, as they are all unique. To get that, in the second example, you will create a dictionary with the required information."
 
 #### [Abstract Classes and Methods](./read_write.py)
 
-> "In this lab you must read the contents of a file and then write the contents to another file. You must also store the contents of a file into a list so that it can be accessed in different ways. 
-> 
-> Goal: Use the open function for reading and writing files.
-> 
-> Objectives
->- Create a function for reading in a file.
->- Create a function for writing files."
+> "In this assignment, you will be creating an abstract class for a bank that will be used to create a regular class for a specific bank. This class will contain the implementation of the abstract method from the abstract class. "
