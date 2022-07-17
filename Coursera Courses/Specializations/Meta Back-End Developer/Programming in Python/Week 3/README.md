@@ -12,8 +12,12 @@
 - Explain the object-oriented programming concepts that underpin Python
 
 ## Subjects covered
-
-
+- DRY principle (Don't repeat yourself)
+- procedural programming
+- algorithms, algorithmic complexity, big-O notation, refactoring
+- functional programming 
+  - traditional and pure functions
+  - first-class citizen functions
 
 ## Assignments[^1]
 
