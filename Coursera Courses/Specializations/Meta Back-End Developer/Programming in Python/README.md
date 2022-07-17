@@ -13,7 +13,7 @@ Taught by: [Meta Staff](https://www.coursera.org/instructor/~30575670)
 
 ---
 
-**45 hours** to complete - 5 quizzes, 7 [coding assignments]
+**45 hours** to complete - 5 quizzes, 7 coding assignments
 
 Course 2 of the [Meta Back-End Developer Specialization](../) 
 
