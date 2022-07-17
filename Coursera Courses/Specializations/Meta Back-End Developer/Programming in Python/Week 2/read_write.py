@@ -6,8 +6,8 @@ def read_words(file_name):
         2. Split the string to lowercase words
         3. Strip all words from anything non alphanumeric 
         4. Adds the trimmed words to a set 
-        2. Print the set of words
-        3. Return the set of words
+        5. Print the set of words
+        6. Return the set of words
 
     Args:
         file_name: the name of the file to be read
