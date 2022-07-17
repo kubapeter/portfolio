@@ -107,8 +107,7 @@ def write_last_line_backwards(file_name, output_filename):
     last_line_words = lines[-1].split()
     with open(output_filename, 'w') as output_file:
         for i in range(len(last_line_words)):
-            output_file.write(last_line_words[len(last_line_words) - i - 1] + 
-            "\n")
+            output_file.write(last_line_words[len(last_line_words) - i - 1] + "\n")
 
 '''
 Here are some sample commands to help you run/test your implementations.
