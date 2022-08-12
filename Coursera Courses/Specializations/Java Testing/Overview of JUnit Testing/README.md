@@ -29,6 +29,7 @@ Course 1 of the [Java Testing Specialization](../)
 This folder contains 
 - [x] [slides](./Slides) (.png images)
 - [x] [detailed descriptions](./Labs) of lab exercises
+- [x] [source code](./Codes) of lab exercises
 - [x] [certificate](./Coursera_Certificate_Oracle_Database_Foundations.pdf) ([verification](https://coursera.org/verify/FYSHE8KEFD6D))
 
 ## Syllabus
