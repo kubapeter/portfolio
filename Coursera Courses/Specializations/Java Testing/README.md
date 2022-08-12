@@ -3,7 +3,7 @@
 </a>
 
 <div width="120", height="120">
-<img src="/img/Oracle_SQL_logo.avif" width="120" align="left">
+<img src="/img/LearnQuest_logo.png" width="120" align="left">
 </div>
   
 # Java Testing Specialization
