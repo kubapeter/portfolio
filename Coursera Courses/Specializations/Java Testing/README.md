@@ -1,5 +1,5 @@
 <a href="https://gb.coursera.org/specializations/learnquest-java-testing">
-  <img src="/img/Oracle_SQL_logo.avif" width="150" align="right">
+  <img src="/img/Java_Testing_logo.avif" width="150" align="right">
 </a>
 
 <div width="120", height="120">
