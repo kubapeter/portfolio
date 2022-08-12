@@ -13,7 +13,7 @@ Taught by: [Grayson Lyvers](https://www.coursera.org/instructor/~80014260)
 
 ---
 
-**9 hours** to complete - 2 quizzes
+**9 hours** to complete - 2 quizzes, 2 programming labs
 
 Course 1 of the [Java Testing Specialization](../) 
 
