@@ -16,8 +16,8 @@ class StudentRegistrationTest {
 	@Test
 	public void test() {
 		IFeeProvider feeProvider = createMock(IFeeProvider.class);
-		// feed it to the business object
-		Student student = new Student(100, "Bruce", "Banner", "Engineering");
+		IMockBuilder<Student> builder = EasyMock.createMockBuilder(Student.class);
+		Student student = builder.createMock();
 		StudentRegistration studentRegistration = new StudentRegistration(student, feeProvider);
 
 		// public String setFee(Double fee)
