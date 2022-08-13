@@ -24,8 +24,8 @@ public class ArrayListTest {
 		// below will throw exception because it's not mocked
 		// mockList.add(30);
 
-		assertTrue(mockList.get(0) == 10);
 		assertEquals(mockList.size(), 2);
-
+		assertTrue(mockList.get(0) == 15);
+		
 	}
 }
