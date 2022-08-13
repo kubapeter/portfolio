@@ -30,7 +30,7 @@ This folder contains
 - [x] [slides](./Slides/README.md) (.png images)
 - [x] [detailed descriptions](./Labs) of lab exercises
 - [x] [source code](./Codes/StudentWork/solutions) of lab exercises
-- [x] [certificate](./Coursera_Certificate) ([verification](https:))
+- [x] [certificate](./Coursera_Certificate_Overview_of_JUnit_Testing.pdf) ([verification](https://coursera.org/verify/R9DQXAGRSU7S))
 
 ## Syllabus
 
