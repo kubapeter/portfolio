@@ -29,14 +29,9 @@
 
 # Module 2: More Mock Objects
 
-![m2_01](./m2_01_Display%20Name_1.PNG)
-![m2_02](./m2_02_Display%20Name_2.PNG)
-![m2_03](./m2_03_Display%20Name_3.PNG)
-![m2_04](./m2_04_Display%20Name_4.PNG)
-![m2_05](./m2_05_Display%20Name_5.PNG)
-![m2_06](./m2_06_Group%20Assertions_1.PNG)
-![m2_07](./m2_07_Group%20Assertions_2.PNG )
-![m2_08](./m2_08_Group%20Assertions_3.PNG)
-![m2_09](./m2_09_Group%20Assertions_4.PNG)
-![m2_10](./m2_10_Parameterized%20Tests_1.PNG)
-![m2_11](./m2_11_Parameterized%20Tests_2.PNG)
+![m2_01](./m2_01_Mock%20Object%20Controller_1.PNG)
+![m2_02](./m2_02_Mock%20Object%20Controller_2.PNG)
+![m2_03](./m2_03_Mock%20Object%20Controller_3.PNG)
+![m2_04](./m2_04_Mock%20Object%20Controller_4.PNG)
+![m2_05](./m2_05_Mock%20Object%20Controller_5.PNG)
+![m2_06](./m2_06_Mock%20Object%20Controller_6.PNG)
