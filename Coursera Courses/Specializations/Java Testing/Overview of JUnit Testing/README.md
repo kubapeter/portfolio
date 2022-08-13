@@ -34,7 +34,7 @@ This folder contains
 
 ## Syllabus
 
-#### Week 1: Testing with JUnit
+#### Module 1: Testing with JUnit
 
 >"This module will introduce the student to the benefits of unit testing and the basics of creating and running JUnit 5 tests"
 >- Be able to explain what JUnit is and its benefits
@@ -42,7 +42,7 @@ This folder contains
 >- Execute your tests in eclipse
 >- Learn how to use assertions to test actual against expected results
 
-#### Week 2: More JUnit Features
+#### Module 2: More JUnit Features
 
 >"In this module the student will learn about how to enhance their unit tests, use data driven testing techniques such as parameterized tests"
 >- Create data driven Parameterized Tests
