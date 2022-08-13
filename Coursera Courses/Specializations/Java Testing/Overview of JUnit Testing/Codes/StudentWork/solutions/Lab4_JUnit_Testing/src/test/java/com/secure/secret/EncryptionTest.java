@@ -8,11 +8,8 @@ class EncryptionTest {
 
 	@Test
 	void testEncrypt() {
-    assertAll( () -> assertEquals("Khoor#Zroug", BasicEncryption.encrypt("Hello World")),
-             () ->  assertEquals("d", BasicEncryption.encrypt("a"))
-//             , () -> assertTrue(false)
-//             , () -> assertTrue(true)
-//             , () -> assertSame(11, 12)
+		assertAll( () -> assertEquals("Khoor#Zroug", BasicEncryption.encrypt("Hello World")),
+			   () ->  assertEquals("Dssoh", BasicEncryption.encrypt("Apple"))
              );
 	}
 
