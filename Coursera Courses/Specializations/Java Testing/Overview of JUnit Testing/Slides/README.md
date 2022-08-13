@@ -1,4 +1,4 @@
-# Week 1 : Testing with JUnit
+# Module 1 : Testing with JUnit
 
 ![m1_01](./m1_01_Welcome%20Video.PNG)
 ![m1_02](./m1_02_What%20is%20JUnit_1.PNG)
@@ -16,7 +16,7 @@
 ![m1_14](./m1_14_JUnit%20Methods_4.PNG)
 ![m1_15](./m1_15_Running%20Tests.PNG)
 
-# Week 2: More JUnit Features
+# Module 2: More JUnit Features
 
 ![m2_01](./m2_01_Display%20Name_1.PNG)
 ![m2_02](./m2_02_Display%20Name_2.PNG)
