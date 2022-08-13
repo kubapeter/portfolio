@@ -1,4 +1,4 @@
-<a href="https://gb.coursera.org/specializations/learnquest-java-testing">
+<a href="https://coursera.org/specializations/learnquest-java-testing">
   <img src="/img/Java_Testing_logo.avif" width="150" align="right">
 </a>
 
@@ -26,7 +26,7 @@ The specialization consists of 4 courses.
 
 >"This specialization is intended for students interested to learn Java testing, mocking, improving their Java code, developing test-first Java artifacts, and building quality Enterprise Applications. There are four courses in the Specialization. Each course takes two weeks and about 3-5 hours of study time each week."
 
-<p align="right">More details on <a href="https://gb.coursera.org/specializations/learnquest-java-testing">website</a></p>
+<p align="right">More details on <a href="https://coursera.org/specializations/learnquest-java-testing">website</a></p>
 
 ## Courses of the specialization
 
