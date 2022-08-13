@@ -34,7 +34,7 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1
+#### Module 1: Intro to using Mock Objects
 
 >"This module is an introduction to mocking objects and why you would want to use mocks."
 >- Explain why mocking is useful
