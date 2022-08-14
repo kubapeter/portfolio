@@ -34,6 +34,6 @@ The specialization consists of 4 courses.
 
 1. [Overview of JUnit Testing](./Overview%20of%20JUnit%20Testing)
 2. [Mocking with JUnit](./Mocking%20with%20JUnit)
-3. [Java Testing: An Introduction to TDD](./)
+3. [Java Testing: An Introduction to TDD](./Java%20Testing:%20An%20Introduction%20to%20TDD)
 4. [Parameterized and Dynamic Testing in JUnit](./)
 
