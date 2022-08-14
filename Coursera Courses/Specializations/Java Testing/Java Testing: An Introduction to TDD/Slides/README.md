@@ -1,4 +1,4 @@
-# Module 1 : Intro to using Mock Objects
+# Module 1 : A Test First Approach
 
 ![m1_01](./m1_01_Instructor%20Introduction.PNG)
 ![m1_02](./m1_02_TDD%20With%20JUnit5_1.PNG)
@@ -18,7 +18,7 @@
 ![slide](./m1_16_TDD%20Benefits_1.PNG)
 ![slide](./m1_17_TDD%20Benefits_2.PNG)
 
-# Module 2: More Mock Objects
+# Module 2: Core Principles
 
 ![m2_01](./m2_01_Mock%20Object%20Controller_1.PNG)
 ![m2_02](./m2_02_Mock%20Object%20Controller_2.PNG)
