@@ -20,9 +20,11 @@
 
 # Module 2: Core Principles
 
-![m2_01](./m2_01_Mock%20Object%20Controller_1.PNG)
-![m2_02](./m2_02_Mock%20Object%20Controller_2.PNG)
-![m2_03](./m2_03_Mock%20Object%20Controller_3.PNG)
-![m2_04](./m2_04_Mock%20Object%20Controller_4.PNG)
-![m2_05](./m2_05_Mock%20Object%20Controller_5.PNG)
-![m2_06](./m2_06_Mock%20Object%20Controller_6.PNG)
+![slide](./m2_01_TDD_Best_Practices_1.PNG)
+![slide](./m2_02_TDD_Best_Practices_2.PNG)
+![slide](./m2_03_TDD_Best_Practices_3.PNG)
+![slide](./m2_04_TDD_Best_Practices_4.PNG)
+![slide](./m2_05_TDD_Best_Practices_5.PNG)
+![slide](./m2_06_TDD_Best_Practices_6.PNG)
+![slide](./m2_07_TDD_Best_Practices_7.PNG)
+![slide](./m2_08_TDD_Best_Practices_8.PNG)
