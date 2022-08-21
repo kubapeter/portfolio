@@ -18,20 +18,20 @@ class StudentRegistrationTest {
 		try {
 			studentReg.addStudent(new Student(stuIdNum,"Micheal","Smith","computer science",5,6,1940));
 			stuIdNum += 1000;
+			assertTrue(true);
+		}catch(InvalidStudentException e) {
+			assertTrue(e instanceof InvalidStudentException);
+		}
+	}
+  	@Test
+  	void addStudentValidIdTestFail() {
+		try {
+			studentReg.addStudent(new Student(10001,"Micheal","Smith","computer science",5,6,1940));
 			assertTrue(false);
 		}catch(InvalidStudentException e) {
 			assertTrue(e instanceof InvalidStudentException);
 		}
 	}
-//	@Test
-//	void addStudentValidIdTestFail() {
-//		try {
-//			studentReg.addStudent(new Student(10001,"Micheal","Smith","computer science",5,6,1940));
-//			assertTrue(false);
-//		}catch(InvalidStudentException e) {
-//			assertTrue(e instanceof InvalidStudentException);
-//		}
-//	}
 	@RepeatedTest(value = 2)
 	void addStudentDuplicateIdTest() {
 		try {
