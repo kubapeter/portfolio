@@ -22,11 +22,6 @@
 
 # Module 2: Dynamic Tests
 
-![slide](./m2_01_TDD_Best_Practices_1.PNG)
-![slide](./m2_02_TDD_Best_Practices_2.PNG)
-![slide](./m2_03_TDD_Best_Practices_3.PNG)
-![slide](./m2_04_TDD_Best_Practices_4.PNG)
-![slide](./m2_05_TDD_Best_Practices_5.PNG)
-![slide](./m2_06_TDD_Best_Practices_6.PNG)
-![slide](./m2_07_TDD_Best_Practices_7.PNG)
-![slide](./m2_08_TDD_Best_Practices_8.PNG)
+![slide](./m2_01_Dynamic_Testing_1.PNG)
+![slide](./m2_02_Dynamic_Testing_2.PNG)
+![slide](./m2_03_Dynamic_Testing_3.PNG)
