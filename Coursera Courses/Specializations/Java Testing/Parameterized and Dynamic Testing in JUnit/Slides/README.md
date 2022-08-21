@@ -18,7 +18,7 @@
 ![slide](./m1_16_Argument_Sources_7.PNG)
 ![slide](./m1_17_Argument_Sources_8.PNG)
 ![slide](./m1_18_Argument_Sources_9.PNG)
-![slide](./m1_19_ Repeated_Tests.PNG)
+![slide](./m1_19_%20Repeated_Tests.PNG)
 
 # Module 2: Dynamic Tests
 
