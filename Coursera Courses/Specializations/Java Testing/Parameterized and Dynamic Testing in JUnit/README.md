@@ -30,7 +30,7 @@ This folder contains
 - [x] [slides](./Slides/README.md) 
 - [x] [detailed descriptions](./Labs) of lab exercises
 - [x] [source code](./Codes) of lab exercises
-- [x] [certificate](./Coursera_Certificate_Java_Testing_An_Introduction_to_TDD.pdf) ([verification](https://coursera.org/verify/4Y58Q5CT7RC6))
+- [x] [certificate](./Coursera_Certificate_Parameterized_and_Dynamic_Testing_in_JUnit.pdf) ([verification](https://coursera.org/verify/4Y58Q5CT7RC6))
 
 ## Syllabus
 
