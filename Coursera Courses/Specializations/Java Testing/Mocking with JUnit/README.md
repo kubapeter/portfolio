@@ -27,7 +27,7 @@ Course 2 of the [Java Testing Specialization](../)
 
 ## Content
 This folder contains 
-- [x] [slides](./Slides/README.md) (.png images)
+- [x] [slides](./Slides/README.md) 
 - [x] [detailed descriptions](./Labs) of lab exercises
 - [x] [source code](./Codes/solution) of lab exercises
 - [x] [certificate](./Coursera_Certificate_Mocking_with_JUnit.pdf) ([verification](https://coursera.org/verify/L2BM7DAMRJKE))
