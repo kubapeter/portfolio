@@ -15,8 +15,7 @@ Taught by: [Grayson Lyvers](https://gb.coursera.org/instructor/~80014260)
 
 ---
 
-**31 hours** to complete ([certificate](./), 
-[verification](https://))
+**31 hours** to complete ([certificate](./), [verification](https://coursera.org/verify/specialization/3TLR6X7ZJMD5))
 
 The specialization consists of 4 courses.
 
