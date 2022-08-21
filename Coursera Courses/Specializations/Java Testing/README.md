@@ -11,7 +11,7 @@
 Offered by 
 ### *LearnQuest*
 
-Taught by: [Grayson Lyvers](https://gb.coursera.org/instructor/~80014260)
+Taught by: [Grayson Lyvers](https://coursera.org/instructor/~80014260)
 
 ---
 
