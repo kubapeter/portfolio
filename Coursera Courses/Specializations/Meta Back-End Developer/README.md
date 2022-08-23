@@ -73,9 +73,9 @@ The specialization consists of 10 courses.
 </a>
 
 2. [Programming in Python](./Programming%20in%20Python)
-3. [Course2](./course3_folder)
-4. [Course2](./course4_folder)
-5. [Course2](./course5_folder)
-6. [Course2](./course6_folder)
+3. [Version Control](./Version%20Control)
+4. [Course4](./course4_folder)
+5. [Course5](./course5_folder)
+6. [Course6](./course6_folder)
 
 ## Remarks
