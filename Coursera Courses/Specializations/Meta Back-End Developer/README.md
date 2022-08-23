@@ -48,8 +48,8 @@ The specialization consists of 10 courses.
 <a href="course4_homepage">
   <img src="/img/course4_logo" width="75" align="right">
 </a>
-<a href="course3_homepage">
-  <img src="/img/course3_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/introduction-to-version-control">
+  <img src="/img/Version_Control_logo.jpg" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/programming-in-python">
   <img src="/img/Programming_in_Python_logo.avif" width="75" align="right">
