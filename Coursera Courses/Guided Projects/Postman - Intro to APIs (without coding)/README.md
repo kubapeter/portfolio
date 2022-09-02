@@ -32,4 +32,4 @@ Taught by: [Laura Gemmell](https://www.coursera.org/instructor/laura-gemmell)
 
 ## Content
 This folder contains 
-- [x] [certificate](./Coursera_Certificate_Postman_-\_Intro_to_APIs_(without coding).pdf) ([verification](https://coursera.org/verify/TZXN6G478TGV))
+- [x] [certificate](./Coursera_Certificate_Postman_-\_Intro_to_APIs_(without%20coding).pdf) ([verification](https://coursera.org/verify/TZXN6G478TGV))
