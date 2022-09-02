@@ -24,12 +24,12 @@ Taught by: [Laura Gemmell](https://www.coursera.org/instructor/laura-gemmell)
 <p align="right">More details on <a href="https://www.coursera.org/projects/laura-gemmell-intro-postman-apis">website</a></p>
 
 ## Learning Objectives
-- Verify the Golang installation on a windows machine
-- Write Golang scripts to connect to a machine in the cloud
-- Build and implement a Command Line Interface for cloud services
-- Showcase this hands-on experience in an interview
+-  Understand API and how to send
+-  Understand the different parts of an API (including methods, URL, params and headers)
+-  Understand how to read API documentation
+-  Send APIs using Postman
+-  Troubleshoot APIs sent in Postman
 
 ## Content
 This folder contains 
-- [x] [source code](./CLIUsingGoLang.go) 
-- [x] [certificate](./Coursera_Certification_Command_Line_Interface_(CLI)_With_Golang_From_Infosys.pdf) ([verification](https://coursera.org/verify/F9GEHZ3YS6UC))
+- [x] [certificate](./Coursera_Certificate_Postman_-_Intro_to_APIs_(without coding).pdf) ([verification](https://coursera.org/verify/TZXN6G478TGV))
