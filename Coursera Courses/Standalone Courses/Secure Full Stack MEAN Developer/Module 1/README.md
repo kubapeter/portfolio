@@ -2,7 +2,7 @@
   <img src="/img/Secure_Full_Stack_MEAN_Developer_logo.png" width="120" align="right">
 </a>
 
-# Week 1 <br> Introduction
+# Module 1 <br> Introduction
 
 ## Learning Objectives
 - Explore the benefits and career opportunities post-completion.
