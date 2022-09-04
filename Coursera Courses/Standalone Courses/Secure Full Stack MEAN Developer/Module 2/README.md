@@ -5,7 +5,7 @@
 # Module 2 <br> Introduction
 
 ## Learning Objectives
-- Learn how to can route your Node.js files and write your very first sample Node.js code!
+- Learn how to route your Node.js files and write your very first sample Node.js code!
 - Explore the Node.js HTTP module, how to create an HTTP webserver with Node.js and how to respond to HTTP requests.
 - Get to know how you can create Node.js modules.
 - Learn about the Node.js module, a simple javascript file with a .js extension
