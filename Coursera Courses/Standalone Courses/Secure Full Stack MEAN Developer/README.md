@@ -35,13 +35,36 @@ This folder contains
 - [x] [certificate](./Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([verification](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
 
 ## Syllabus
-- [Module 1](./Module%201): Introduction
-- [Module 2](./Module%202): Getting Started with Node.js (N)
-- [Module 3](./Module%203): Server-Side Development with Express (E)
-- [Module 4](./Module%204): Getting Started with MongoDB (M)
-- [Module 5](./Module%205): Configuring the Backend
-- [Module 6](./Module%206): Frontend Development with JavaScript
-- [Module 7](./Module%207): Configuring the Frontend
-- [Module 8](./Module%208): Performing CRUD Operations
+#### [Module 1](./Module%201): Introduction
+
+> "In this module, To begin with, you will understand the goals, objectives, and summary of the entire course. You will get to know the author, his areas of expertise and his accomplishments. Later, you will explore Visual Studio Code, its installation process and how to set it up for your coding environment. You will start learning about the MEAN stack from the most fundamental element, which is MEAN Stack Architecture."
+
+#### [Module 2](./Module%202): Getting Started with Node.js (N)
+
+> "In this section, you will walk through the most integral part of the MEAN Stack, i.e. Node.js. You will get your hold on its installation process. You will also get to learn many significant parameters of Node.js like Node.js module, event loops, Node.js HTTP module, how to create servers and work with them."
+
+#### [Module 3](./Module%203): Server-Side Development with Express (E)
+
+> "In this module, you will start learning about the Express framework the installation process. You will understand the most basic functionalities like testing your framework. You will get a hold on how to create various pages in Express, how to delete the data. Finally, you will master the concept of REST APIs."
+
+#### [Module 4](./Module%204): Getting Started with MongoDB (M)
+
+> "In this module, you will start learning about MongoDB, a NoSQL database and its installation process. You will get hold on how to use MongoDB Compass, shell interface. You will learn how you can establish a connection with MongoDB Database"
+
+#### [Module 5](./Module%205): Configuring the Backend
+
+> "Moving on to the most intersting part, in this module, you will learn and play with the CRUD (Create, Read, Update, Delete) operations of the database. You'll have fun playing withthe data by applying various sorts of command to segment or retrieve the data"
+
+#### [Module 6](./Module%206): Frontend Development with JavaScript 
+
+> "In this module, you will grasp all the fundamental concepts of front end development. You'll start by understanding Angular.Js, its key funtions and elements. You will also learn how to work woth Angular.Js, create its file structure. This section will make sure that you learn code in Angular like a pro."
+
+#### [Module 7](./Module%207): Configuring the Frontend
+
+> "In this module, you will learn the configuration process of the front end. This section involves a detailed break down where you will know how to configure the aspects like navigations, templates. You will also work with forms and get to know how the data validation if performed."
+
+#### [Module 8](./Module%208): Performing CRUD Operations
+
+> "This section involves a lot of detailed study of CRUD operations. Learn how to read,write amd manipulate the database to retrieve the information as per your requirements. Understand the concept of dependeny injections, why they are needed and how they work."
 
 ## Remarks
