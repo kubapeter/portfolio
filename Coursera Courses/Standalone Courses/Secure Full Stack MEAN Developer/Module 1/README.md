@@ -1,5 +1,5 @@
 <a href="../">
-  <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="120" align="right">
+  <img src="/img/Secure_Full_Stack_MEAN_Developer_logo.png" width="120" align="right">
 </a>
 
 # Week 1 <br> Introduction
