@@ -29,8 +29,7 @@ Taught by: [EC-Council](https://www.coursera.org/instructor/ec-council)
 
 ## Content
 This folder contains 
-- [x] source code for labs
-- [x] short descriptions of the modules 
+- [x] source code 
 - [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([verification](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
 
