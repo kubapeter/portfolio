@@ -20,10 +20,6 @@
 ## [Codes](./Codes)
 
 In the coding sessions the lecturer shows
-- the asynchronous nature of the [I/O cycle](./Codes/IO%20Cycle/iocycle.js)
-- how modules [export and import](./Codes/Modules)
-- the creation of an [HTTP webserver](./Codes/Creating%20HTTP%20Webserver/app.js)
-- how an HTTP webserver [responds to requests](./Codes/Responding%20to%20HTTP%20Requests)
-- how [rounting](./Codes/Routing/app.js) is made 
+- how to create the same [simple app](../Module%202/Codes/Simple%20Node%20App) of the end of the previous module, but this time [using Express](./Codes/Simple%20Express%20Application)
 
 All these smaller steps lead to a final [simple Node.js application](./Codes/Simple%20Node%20App). 
