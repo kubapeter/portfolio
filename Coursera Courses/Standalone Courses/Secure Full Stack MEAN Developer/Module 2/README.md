@@ -19,3 +19,16 @@
 - Traverse in the world of Node.js, explore the scope and uses.
 
 ## [Slides](./Slides/README.md)
+
+## [Codes](./Codes)
+
+In the coding sessions the lecturer shows
+- the asynchronous nature of the I/O cycle
+- how modules export and import
+- the creation of an HTTP webserver
+- how an HTTP webserver responds to requests
+- how rounting is made 
+
+All these smaller steps lead to a final simple Node.js application. 
+
+
