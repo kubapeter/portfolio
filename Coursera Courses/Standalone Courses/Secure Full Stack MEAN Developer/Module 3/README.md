@@ -22,5 +22,6 @@
 In the coding sessions the lecturer shows
 - how to create the same [simple app](../Module%202/Codes/Simple%20Node%20App) of the end of the previous module, but this time [using Express](./Codes/Simple%20Express%20Application)
 - generating and Express app using `view=hbs`
+- restructuring the generated app according to MVC model
 
 All these smaller steps lead to a final [simple Node.js application](./Codes/Simple%20Node%20App). 
