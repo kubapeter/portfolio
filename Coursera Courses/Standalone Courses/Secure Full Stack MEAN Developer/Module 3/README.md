@@ -5,15 +5,15 @@
 # Module 3 <br> Server-Side Development with Express (E)
 
 ## Learning Objectives
-- Learn how you can test and refactor REST APIs
-- Study about RESTful Application Programming Interface.
-- Get to know how you can get rid of data.
-- Learn how to create, list, details, edit, and add pages.
-- Get to know what middleware functions are in express and how to use them.
-- Learn how to restructure the Express app and how to create templates.
-- Create your first Node.js express app.
-- Learn how to install and test the Express framework.
 - Welcome to the world of Express.js, another integral part of the MEAN Stack.
+- Learn how to install and test the Express framework.
+- Create your first Node.js express app.
+- Learn how to restructure the Express app and how to create templates.
+- Get to know what middleware functions are in express and how to use them.
+- Learn how to create, list, details, edit, and add pages.
+- Get to know how you can get rid of data.
+- Study about RESTful Application Programming Interface.
+- Learn how you can test and refactor REST APIs
 
 ## [Slides](./Slides/README.md)
 
