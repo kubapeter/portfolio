@@ -2,7 +2,7 @@
   <img src="/img/Secure_Full_Stack_MEAN_Developer_logo.png" width="120" align="right">
 </a>
 
-# Module 2 <br> Introduction
+# Module 2 <br> Getting Started with Node.js (N)
 
 ## Learning Objectives
 - Traverse in the world of Node.js, explore the scope and uses.
