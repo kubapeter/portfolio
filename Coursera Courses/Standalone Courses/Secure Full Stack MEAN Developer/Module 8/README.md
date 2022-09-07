@@ -2,7 +2,7 @@
   <img src="/img/Secure_Full_Stack_MEAN_Developer_logo.png" width="120" align="right">
 </a>
 
-# Module 7 <br> Performing CRUD Operations
+# Module 8 <br> Performing CRUD Operations
 
 ## Learning Objectives
 - Learn how you can delete from the database
