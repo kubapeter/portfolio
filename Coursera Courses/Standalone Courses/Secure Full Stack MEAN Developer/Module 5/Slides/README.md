@@ -6,5 +6,10 @@
 ![slide](./m5_04_Inserting_Documents_Using_create().PNG)
 ![slide](./m5_05_Inserting_Documents_Using_create().PNG)
 ![slide](./m5_06_Inserting_Documents_Using_create().PNG)
-![slide](./m5_m5_07_Updating_Documents_Using_findOneAndUpdate().PNG)
-
+![slide](./m5_07_Updating_Documents_Using_findOneAndUpdate().PNG)
+![slide](./m5_08_Updating_Documents_Using_findOneAndUpdate().PNG)
+![slide](./m5_09_Updating_Documents_Using_findOneAndUpdate().PNG)
+![slide](./m5_10_Deleting_Documents_Using_findOneAndDelete()_%26_deleteMany().PNG)
+![slide](./m5_11_Deleting_Documents_Using_findOneAndDelete()_%26_deleteMany().PNG)
+![slide](./m5_12_Deleting_Documents_Using_findOneAndDelete()_%26_deleteMany().PNG)
+![slide](./m5_13_Deleting_Documents_Using_findOneAndDelete()_%26_deleteMany().PNG)
