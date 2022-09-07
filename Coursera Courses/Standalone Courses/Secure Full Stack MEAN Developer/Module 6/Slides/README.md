@@ -1,4 +1,4 @@
-# Module 5 : Frontend Development with JavaScript (A)
+# Module 6 : Frontend Development with JavaScript (A)
 
 ![slide](./m6_01_Getting_Started_with_Angular.PNG)
 ![slide](./m6_02_Getting_Started_with_Angular.PNG)
