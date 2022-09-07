@@ -1,4 +1,4 @@
-# Module 2 : Getting Started with Node.js (N)
+# Module 2: Getting Started with Node.js (N)
 
 ![slide](./m2_01_Introduction_to_Node.js.PNG)
 ![slide](./m2_02_Introduction_to_Node.js.PNG)
