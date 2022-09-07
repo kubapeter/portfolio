@@ -54,7 +54,7 @@ This folder contains
 
 > "Moving on to the most intersting part, in this module, you will learn and play with the CRUD (Create, Read, Update, Delete) operations of the database. You'll have fun playing withthe data by applying various sorts of command to segment or retrieve the data"
 
-### [Module 6](./Module%206): Frontend Development with JavaScript 
+### [Module 6](./Module%206): Frontend Development with JavaScript (A)
 
 > "In this module, you will grasp all the fundamental concepts of front end development. You'll start by understanding Angular.Js, its key funtions and elements. You will also learn how to work woth Angular.Js, create its file structure. This section will make sure that you learn code in Angular like a pro."
 
