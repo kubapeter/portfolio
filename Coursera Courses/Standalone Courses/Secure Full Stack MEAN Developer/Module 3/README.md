@@ -24,4 +24,3 @@ In the coding sessions the lecturer shows
 - generating and Express app using Handlebars template
 - restructuring the generated app according to MVC model
 
-All these smaller steps lead to a final [simple Node.js application](./Codes/Simple%20Node%20App). 
