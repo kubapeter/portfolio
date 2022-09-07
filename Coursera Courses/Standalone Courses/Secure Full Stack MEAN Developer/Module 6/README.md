@@ -2,7 +2,7 @@
   <img src="/img/Secure_Full_Stack_MEAN_Developer_logo.png" width="120" align="right">
 </a>
 
-# Module 6 <br> Frontend Development with JavaScript
+# Module 6 <br> Frontend Development with JavaScript (A)
 
 ## Learning Objectives
 - Learn what JavaScript is and how important it is for any webpage/website.
