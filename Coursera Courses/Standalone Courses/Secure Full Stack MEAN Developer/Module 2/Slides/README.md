@@ -18,6 +18,6 @@
 ![slide](./m2_16_Exploring_the_Node.js_HTTP_Module.PNG)
 ![slide](./m2_17_Exploring_the_Node.js_HTTP_Module.PNG)
 ![slide](./m2_18_Exploring_the_Node.js_HTTP_Module.PNG)
-![slide](./m2_19_Responding to HTTP Requests.PNG)
+![slide](./m2_19_Responding%20to%20HTTP%20Requests.PNG)
 ![slide](./m2_20_Routing_in_Node.js.PNG)
 ![slide](./m2_21_Creating_a_Simple_Node.js_Application.PNG)
