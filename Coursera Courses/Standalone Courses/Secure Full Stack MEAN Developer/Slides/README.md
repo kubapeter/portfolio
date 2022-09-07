@@ -10,7 +10,7 @@
 
 ### [Module 5](../Module%205/Slides/README.md): Configuring the Backend
 
-### [Module 6](../Module%206/Slides/README.md): Frontend Development with JavaScript 
+### [Module 6](../Module%206/Slides/README.md): Frontend Development with JavaScript (A)
 
 ### [Module 7](../Module%207/Slides/README.md): Configuring the Frontend
 
