@@ -1,4 +1,4 @@
-# Module 5 : Configuring the Backend
+# Module 5: Configuring the Backend
 
 ![slide](./m5_01_Querying_Documents_Using_find().PNG)
 ![slide](./m5_02_Querying_Documents_Using_find().PNG)
