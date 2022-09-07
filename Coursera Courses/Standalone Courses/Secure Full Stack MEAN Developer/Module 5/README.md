@@ -2,7 +2,7 @@
   <img src="/img/Secure_Full_Stack_MEAN_Developer_logo.png" width="120" align="right">
 </a>
 
-# Module 5 <br> Getting Started with MongoDB (M)
+# Module 5 <br> Configuring the Backend
 
 ## Learning Objectives
 - Have fun with the data manipulation.
