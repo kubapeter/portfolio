@@ -1,4 +1,4 @@
-# Module 1 : Introduction
+# Module 1: Introduction
 
 ![slide](./m1_01_Author%20Introduction.PNG)
 ![slide](./m1_02_Course%20Overview.PNG)
