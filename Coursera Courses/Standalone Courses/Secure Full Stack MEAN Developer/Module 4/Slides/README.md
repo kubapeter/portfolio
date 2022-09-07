@@ -1,4 +1,4 @@
-# Module 4 : Getting Started with MongoDB (M)
+# Module 4: Getting Started with MongoDB (M)
 
 ![slide](./m4_01_Introduction_to_MongoDB.PNG)
 ![slide](./m4_02_Introduction_to_MongoDB.PNG)
