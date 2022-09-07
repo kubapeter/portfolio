@@ -15,7 +15,7 @@
 ![slide](./m6_13_Anatomy_of_an_Angular_Component.PNG)
 ![slide](./m6_14_Anatomy_of_an_Angular_Component.PNG)
 ![slide](./m6_15_One-way_Data_Binding.PNG)
-![slide](./m6_16_Two-way%20Data Binding.PNG)
+![slide](./m6_16_Two-way%20Data%20Binding.PNG)
 ![slide](./m6_17_Using_Nglf_Directive.PNG)
 ![slide](./m6_18_Using_Nglf_Directive.PNG)
 ![slide](./m6_19_Using_Nglf_Directive.PNG)
