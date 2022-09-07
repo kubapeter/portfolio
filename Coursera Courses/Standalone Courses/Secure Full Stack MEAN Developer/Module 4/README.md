@@ -15,4 +15,3 @@
 - Get your hands dirty by creating the schemas and modules
 
 ## [Slides](./Slides/README.md)
-
