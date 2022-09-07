@@ -1,4 +1,4 @@
-# Module 3 : Server-Side Development with Express (E)
+# Module 3: Server-Side Development with Express (E)
 
 ![slide](./m3_01_Introduction_to_the_Express_Framework.PNG)
 ![slide](./m3_02_Introduction_to_the_Express_Framework.PNG)
