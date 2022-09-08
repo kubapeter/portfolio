@@ -4,10 +4,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="120" height="120" align="left">
 
-# Course Title
+# Introduction to DevOps
 
 Offered by 
-### *IBM*
+### *IBM Skills Network*
 
 Taught by: [John Rofrano](https://www.coursera.org/instructor/johnrofrano)
 
