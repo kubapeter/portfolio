@@ -45,7 +45,7 @@ The specialization consists of 3 courses.
 
 ---
 
-1. [Introduction to DevOps](./course1_folder)
+1. [Introduction to DevOps](./Introduction%20to%20DevOps)
 2. [Introduction to Cloud Computing](./course2_folder)
 3. [Introduction to Agile Development and Scrum](./course3_folder)
 
