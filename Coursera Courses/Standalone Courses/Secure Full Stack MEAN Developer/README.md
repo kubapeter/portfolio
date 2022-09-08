@@ -31,7 +31,7 @@ Taught by: [EC-Council](https://www.coursera.org/instructor/ec-council)
 This folder contains 
 - [x] source code 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Coursera_Certifcate_Secure_Full_Stack_MEAN_Developer) ([verification](https://coursera.org/verify/XNBC4S6X2QTL))
+- [x] [certificate](./Coursera_Certifcate_Secure_Full_Stack_MEAN_Developer.pdf) ([verification](https://coursera.org/verify/XNBC4S6X2QTL))
 
 ## Syllabus
 ### [Module 1](./Module%201): Introduction
