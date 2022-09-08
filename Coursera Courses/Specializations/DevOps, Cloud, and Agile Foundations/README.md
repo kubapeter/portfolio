@@ -7,7 +7,7 @@
 # DevOps, Cloud, and Agile Foundations Specialization
 
 Offered by 
-### *Uni*
+### *IBM*
 
 Taught by: [John Rofrano](https://www.coursera.org/instructor/johnrofrano) and [Rav Ahuja](https://www.coursera.org/instructor/ravahuja)
 
