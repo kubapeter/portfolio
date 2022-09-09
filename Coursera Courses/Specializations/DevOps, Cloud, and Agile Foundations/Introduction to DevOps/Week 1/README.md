@@ -21,3 +21,5 @@
 - Books such as Continuous Delivery in 2011, The Phoenix Project in 2015, and The DevOps Handbook in 2016, helped practitioners understand how DevOps worked.
 - The major influential people of the early DevOps movement: Patrick Debois, Andrew Clay Shafer, John Allspaw, Jez Humble, Gene Kim, John Willis, Bridget Kromhout, and Nicole Forsgren, went out and made a difference, showing the results that could be achieved with DevOps.
 - The message spread from practitioner to practitioner until they began to realize what was possible with DevOps and that it was a better way to work.
+
+## [Slides](./Slides/README.md)
