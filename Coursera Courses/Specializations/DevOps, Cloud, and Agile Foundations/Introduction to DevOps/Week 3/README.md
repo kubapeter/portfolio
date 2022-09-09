@@ -23,3 +23,5 @@
 - The benefits of Continuous Integration include faster reaction time, moving faster, and reducing the risk in integrating code. 
 - Continuous Delivery ensures that code can be rapidly and safely deployed to production by delivering every change to a production-like environment. 
 - The five principles of Continuous Delivery have to do with quality, working in small batches, automation, continuous improvement, and shared responsibility. 
+
+## [Slides](./Slides/README.md)
