@@ -24,3 +24,5 @@
 - Cloud native architecture enables independently deployable microservices that take advantage of horizontal scaling and result in more resilient services. 
 - Failure is inevitable, so we design for failure rather than trying to avoid failure. 
 - It is important to embrace failure and quickly recover when failures happen.  
+
+## [Slides](./Slides/README.md)
