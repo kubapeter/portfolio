@@ -5,10 +5,10 @@
 # Week 1 <br> Overview of DevOps
 
 ## Learning Objectives
-- Briefly summarize the history of DevOps.
-- Describe the essential characteristics of DevOps.
-- Define DevOps.
 - Make a business case for DevOps.
+- Define DevOps.
+- Describe the essential characteristics of DevOps.
+- Briefly summarize the history of DevOps.
 
 ## Highlights
 - Technology is the enabler of innovation, rather than the driver of innovation. You must have an innovative business idea to leverage technology.
