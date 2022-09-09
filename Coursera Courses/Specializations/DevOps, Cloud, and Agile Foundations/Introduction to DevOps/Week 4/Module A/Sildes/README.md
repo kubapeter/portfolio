@@ -1,1 +1,27 @@
+# Week 4 Module A: Organizing for DevOps
 
+![slide](./m4A_01_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_02_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_03_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_04_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_05_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_06_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_07_Organizational_Impact_of_DevOps.PNG)
+![slide](./m4A_08_Organizational_Impact_of_DevOps.PNG)
+
+![slide](./m4A_09_There_is_No_DevOps_Team.PNG)
+![slide](./m4A_10_There_is_No_DevOps_Team.PNG)
+![slide](./m4A_11_There_is_No_DevOps_Team.PNG)
+![slide](./m4A_12_There_is_No_DevOps_Team.PNG)
+![slide](./m4A_13_There_is_No_DevOps_Team.PNG)
+![slide](./m4A_14_There_is_No_DevOps_Team.PNG)
+![slide](./m4A_15_There_is_No_DevOps_Team.PNG)
+
+![slide](./m4A_16_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_17_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_18_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_19_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_20_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_21_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_22_Everyone_is_Responsible_for_Success.PNG)
+![slide](./m4A_23_Everyone_is_Responsible_for_Success.PNG)
