@@ -4,7 +4,7 @@
 
 # [Week 3](../Week%203/Slides/README.md): Working DevOps
 
-# [Week 4 Module A](../Week%204/Module%20A/Slides/README.md): Organizing for DevOps
+# [Week 4 Module A](../Week%204/Module%20A/Sildes/README.md): Organizing for DevOps
 
 # [Week 4 Module B](../Week%204/Module%20B/Slides/README.md): Measuring DevOps
 
