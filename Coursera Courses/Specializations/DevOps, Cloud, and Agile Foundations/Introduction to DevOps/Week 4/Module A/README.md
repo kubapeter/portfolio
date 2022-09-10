@@ -20,4 +20,4 @@
 - Allowing teams to feel the effect of their actions fosters empathy, resulting in higher-quality work. 
 - The organizational objective of DevOps is to attain a shared mindset and empower everyone to deliver customer value. 
 
-## [Slides](./Slides/README.md)
+## [Slides](./Sildes/README.md)
