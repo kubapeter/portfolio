@@ -35,12 +35,8 @@ Course 1 of the [DevOps, Cloud, and Agile Foundations Specialization](../)
 
 ## Content
 This folder contains 
-- [x] source code for assignments[^1]
-- [x] all practice exercises
-- [x] short descriptions of the modules 
-- [x] [course map](./Resources/course_map) (detailed description of the modules)
-- [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
-- [x] [glossary](./Resources/glossary) (definitions of the main concepts)
+- [x] learning objectives and highlights of the modules 
+- [x] [case studies](./Week%205/Case%20Studies) for the final exam
 - [x] [slides](./Slides) 
 - [x] [certificate](./Coursera_Certificate_Introduction_to_DevOps.pdf) ([verification](https://coursera.org/verify/W8R4FRTQGLTT))
 
@@ -69,5 +65,3 @@ This folder contains
 ### [Week 5](./Week%205): Case Studies and Final Exam
 
 > In these  case studies, you will read and analyze DevOps-based scenarios, apply what you learned in the Introduction to DevOps course, and answer graded quiz questions based on these scenarios.
-
-[^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I share the source code of another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
