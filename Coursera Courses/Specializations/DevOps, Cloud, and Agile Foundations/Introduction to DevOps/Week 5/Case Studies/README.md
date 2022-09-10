@@ -8,7 +8,7 @@
 >
 >Two more days passed. In a meeting with the Dev team, Jim, one of the team members, said, “Well, I do kind of have access to something.” He explained that he had a personal Cloud account where he could have the VMs provisioned within the hour. Miguel asked whether this was in concert with corporate policy. Jim replied, “We have to do what it takes to meet customer commitments.” They deployed the application on Jim’s cloud account.
 
-Questions: 
+### Questions: 
 
 1. How could the company organize to reflect a DevOps culture?
 2. Which of these is a positive step toward having a DevOps culture?
@@ -24,7 +24,7 @@ Questions:
 >
 > The development team gets everything working and they are ready to deploy to production. They manually deploy the new release into production only to have it fail. The team had to roll back the release so they could determine the cause of the failure. They meticulously went through every feature change to find the cause of the failure. It took three days to test each new feature in isolation. They determined that the schema update for Roopa’s new feature was never applied. Once the schema was updated, everything started working. Roopa overhears a manager complain about how long this took. One developer shrugs and says, “It’s pretty much always like this.”
 
-Questions: 
+### Questions: 
 
 1. What could the company do differently to avoid having to spend time coordinating across teams?
 2. What could have been done to avoid the missing schema change?
@@ -47,7 +47,7 @@ Questions:
 >
 >Kiet, who never received any credit for his contribution thought to himself, “That’s the last time I help the account team with anything.”
 
-Questions: 
+### Questions: 
 
 1. Who contributed the most to the project in terms of social coding?
 2. What could the product team have done differently to align with social coding principles?
