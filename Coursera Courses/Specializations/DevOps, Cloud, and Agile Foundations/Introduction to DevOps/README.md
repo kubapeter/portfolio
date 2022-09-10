@@ -42,7 +42,7 @@ This folder contains
 - [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
 - [x] [glossary](./Resources/glossary) (definitions of the main concepts)
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
+- [x] [certificate](./Coursera_Certificate_Introduction_to_DevOps.pdf) ([verification](https://coursera.org/verify/W8R4FRTQGLTT))
 
 ## Syllabus
 
