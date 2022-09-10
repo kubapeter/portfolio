@@ -1,1 +1,36 @@
+# Week 4 Module B: Measuring DevOps
+
+![slide](./m5_01_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_02_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_03_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_04_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_05_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_06_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_07_Rewarding_for_A_while_hoping_for_B.PNG)
+![slide](./m5_08_Rewarding_for_A_while_hoping_for_B.PNG)
+
+![slide](./m5_09_Vanity_metrics_vs._actionable_metrics.PNG)
+![slide](./m5_10_Vanity_metrics_vs._actionable_metrics.PNG)
+![slide](./m5_11_Vanity_metrics_vs._actionable_metrics.PNG)
+![slide](./m5_12_Vanity_metrics_vs._actionable_metrics.PNG)
+![slide](./m5_13_Vanity_metrics_vs._actionable_metrics.PNG)
+![slide](./m5_14_Vanity_metrics_vs._actionable_metrics.PNG)
+![slide](./m5_15_Vanity_metrics_vs._actionable_metrics.PNG)
+
+![slide](./m5_16_How_to_Measure_Your_Culture.PNG)
+![slide](./m5_17_How_to_Measure_Your_Culture.PNG)
+![slide](./m5_18_How_to_Measure_Your_Culture.PNG)
+![slide](./m5_19_How_to_Measure_Your_Culture.PNG)
+![slide](./m5_20_How_to_Measure_Your_Culture.PNG)
+
+![slide](./m5_21_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_22_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_23_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_24_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_25_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_26_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_27_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_28_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_29_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
+![slide](./m5_30_Comparison_of_DevOps_to_Site_Reliability_Engineering.PNG)
 
