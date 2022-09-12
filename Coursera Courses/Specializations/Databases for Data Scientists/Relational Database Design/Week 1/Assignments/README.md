@@ -30,11 +30,11 @@ Cars, Supervisors, Drivers, Division, DetailProfile, Dependents
 Read the following statements about a Database for Art Galleries and collections of drawings. Draw the Entity-Relationship Attribute Diagram with Crow’s Foot Notation. No credit will be granted for other notations. Make sure you have all entities, all attributes (and identifiers), all relationships, and proper multiplicities.
 
 - A gallery must have one and only one location and each location must have one and only one gallery. 
-- - Galleries have attributes: GalleryNum(identifier), Name, Phone, Hours, and Intro. 
-- - Locations have attributes: ID(identifier), Country, State, City, Street, and ZipCode.
+  - Galleries have attributes: GalleryNum(identifier), Name, Phone, Hours, and Intro. 
+  - Locations have attributes: ID(identifier), Country, State, City, Street, and ZipCode.
 - A gallery may have one or more drawings and each drawing may belong to one and only one gallery. 
-- - Drawings have attributes: DrawingNum(identifier), Title, Size, Material, and Date.
+  - Drawings have attributes: DrawingNum(identifier), Title, Size, Material, and Date.
 - A drawing must be created by at least one artist and each artist must create at least one drawing. 
-- - Artists have attributes: ArtistNum(identifier), Name, Phone, Birthday, and Email.
+  - Artists have attributes: ArtistNum(identifier), Name, Phone, Birthday, and Email.
 - An artist may have a bio statement and a bio statement must belong to one artist.
-- - BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s), and BriefIntroduction.
+  - BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s), and BriefIntroduction.
