@@ -2,7 +2,7 @@
   <img src="/img/Relational_Database_Design_logo.png" width="120" align="right">
 </a>
 
-# Week 1 <br> Getting Data from Multiple Tables
+# Week 1 <br> Introduction to DBMS, and Entity Relational Models
 
 ## Learning Objectives
 - Be able to understand the usage of Database Management Systems (DBMS) and different types of DBMS
