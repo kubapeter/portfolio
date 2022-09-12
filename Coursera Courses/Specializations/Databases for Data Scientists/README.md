@@ -1,8 +1,8 @@
-<a href="spec_homepage">
-  <img src="/img/spec_logo" width="150" align="right">
+<a href="https://www.coursera.org/specializations/databases-for-data-scientists">
+  <img src="/img/Databases_for_Data_Scientists_Specialization_logo.png" width="150" align="right">
 </a>
 
-<img src="uni_logo" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Colorado_Buffaloes_wordmark.svg" width="120" height="120" align="left">
 
 # Databases for Data Scientists Specialization
 
@@ -13,7 +13,7 @@ Taught by: [Di Wu](https://www.coursera.org/instructor/di-wu) and [Alan Paradise
 
 ---
 
-**? hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
+**78 hours** to complete ([certificate](./Certificate/cert.pdf), [verification](verification_link))
 
 The specialization consists of 3 courses. 
 
@@ -21,38 +21,30 @@ The specialization consists of 3 courses.
 
 ## Description of the specialization
 
->"description"
+>"Whether you are a beginning programmer with an interest in Data Science, a data scientist working closely with content experts, or a software developer seeking to learn about the database layer of the stack this specialization is for you!
+>
+>We focus on the relational database which is the most widely used type of database.  Relational databases have dominated the database software marketplace for nearly four decades and form a core, foundational part of software development. 
+>
+>In this specialization you will learn about database design, database software fundamentals, and how to use the Structured Query Language (SQL) to work with databases. The specialization, will conclude with an overview of future trends in databases, including non-relational databases (NoSQL) and Big Data. Upon completion of this specialization you will be well prepared to design and create efficient and effective relational databases, fill them with data, and work with them using SQL."
 
-<p align="right">More details on <a href="spec_homepage">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/specializations/databases-for-data-scientists">website</a></p>
 
-<a href="course6_homepage">
-  <img src="/img/course6_logo" width="75" align="right">
-</a>
-<a href="course5_homepage">
-  <img src="/img/course5_logo" width="75" align="right">
-</a>
-<a href="course4_homepage">
-  <img src="/img/course4_logo" width="75" align="right">
-</a>
-<a href="course3_homepage">
+<a href="https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies">
   <img src="/img/course3_logo" width="75" align="right">
 </a>
-<a href="course2_homepage">
+<a href="https://www.coursera.org/learn/the-structured-query-language-sql">
   <img src="/img/course2_logo" width="75" align="right">
 </a>
-<a href="course1_homepage">
-  <img src="/img/course1_logo" width="75" align="right">
+<a href="https://www.coursera.org/learn/relational-database-design">
+  <img src="/img/Relational_Database_Design_logo.png" width="75" align="right">
 </a>
 
 ## Courses of the specialization
 
 ---
 
-1. [Course1](./course1_folder)
-2. [Course2](./course2_folder)
-3. [Course2](./course3_folder)
-4. [Course2](./course4_folder)
-5. [Course2](./course5_folder)
-6. [Course2](./course6_folder)
+1. [Relational Database Design](./course1_folder)
+2. [The Structured Query Language (SQL)](./course2_folder)
+3. [Advanced Topics and Future Trends in Database Technologies](./course3_folder)
 
 ## Remarks
