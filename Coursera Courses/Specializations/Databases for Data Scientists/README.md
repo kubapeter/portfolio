@@ -43,7 +43,7 @@ The specialization consists of 3 courses.
 
 ---
 
-1. [Relational Database Design](./course1_folder)
+1. [Relational Database Design](./Relational%20Database%20Design)
 2. [The Structured Query Language (SQL)](./course2_folder)
 3. [Advanced Topics and Future Trends in Database Technologies](./course3_folder)
 
