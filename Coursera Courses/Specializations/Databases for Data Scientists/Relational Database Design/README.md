@@ -25,7 +25,7 @@ Course 1 of the Databases for Data Scientists Specialization
 >
 >Relational Database Design can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder."
 
-<p align="right">More details on <a href="https://https://www.coursera.org/learn/the-structured-query-language-sql">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/relational-database-design">website</a></p>
 
 ## Content
 This folder contains 
