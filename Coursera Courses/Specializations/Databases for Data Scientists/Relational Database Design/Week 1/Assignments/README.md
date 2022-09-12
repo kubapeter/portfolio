@@ -42,3 +42,5 @@ Cars, Supervisors, Drivers, Division, DetailProfile, Dependents
 >- Artists have attributes: ArtistNum(identifier), Name, Phone, Birthday, and Email.
 >- An artist may have a bio statement and a bio statement must belong to one artist.
 >- BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s), and BriefIntroduction.
+
+>![ERD diagram](../img/q3.png)
