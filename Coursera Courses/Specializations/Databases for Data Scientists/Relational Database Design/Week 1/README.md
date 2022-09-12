@@ -12,7 +12,4 @@
 - Be able to interpret Entity Relationship Diagrams
 - Be able to create Entity Relationship Diagrams
 
-## Subjects covered
-
-
 ## [Slides](../Slides/DBMS-Course-1-Module-1---Entity-Relational-Models.pdf)
