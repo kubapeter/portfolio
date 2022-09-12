@@ -11,3 +11,5 @@
 - Be able to convert ERDs to Relational Models
 
 ## [Slides](../Slides/DBMS-Course-1-Module-2---Relational-Models.pdf)
+
+## [Final Assignments](./Assignments/README.md)
