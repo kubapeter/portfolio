@@ -33,7 +33,7 @@ The specialization consists of 3 courses.
   <img src="/img/course3_logo" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/the-structured-query-language-sql">
-  <img src="/img/course2_logo" width="75" align="right">
+  <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/relational-database-design">
   <img src="/img/Relational_Database_Design_logo.png" width="75" align="right">
