@@ -2,7 +2,7 @@
   <img src="/img/Relational_Database_Design_logo.png" width="120" align="right">
 </a>
 
-# Week 1 <br> Relational Models
+# Week 2 <br> Relational Models
 
 ## Learning Objectives
 - Be able to explain what a relational model is
