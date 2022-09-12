@@ -30,7 +30,7 @@ The specialization consists of 3 courses.
 <p align="right">More details on <a href="https://www.coursera.org/specializations/databases-for-data-scientists">website</a></p>
 
 <a href="https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies">
-  <img src="/img/Advanced_Topics_and_Future_Trends_in_Database_Technologies_logo" width="75" align="right">
+  <img src="/img/Advanced_Topics_and_Future_Trends_in_Database_Technologies_logo.png" width="75" align="right">
 </a>
 <a href="https://www.coursera.org/learn/the-structured-query-language-sql">
   <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="75" align="right">
