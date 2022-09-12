@@ -43,4 +43,4 @@ Cars, Supervisors, Drivers, Division, DetailProfile, Dependents
 >- An artist may have a bio statement and a bio statement must belong to one artist.
 >- BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s), and BriefIntroduction.
 
->![ERD diagram](../img/q3.png)
+![ERD diagram](../img/q3.png)
