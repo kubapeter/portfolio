@@ -10,12 +10,12 @@
 >
 >Now you can draw the ER Diagram based on the ER Model."
 
-![ERD diagram](../img/q1.png)
+![ERD diagram](./img/q1.png)
 
 # Question 2: Interpret an ERD
 >"Read and understand the ERD below, and answer the questions:
 >
->![ERD diagram](../img/q2.png)
+>![ERD diagram](./img/q2.png)
 >
 >A: What are the entities in the ERD?"
 
@@ -31,7 +31,7 @@ Cars, Supervisors, Drivers, Division, DetailProfile, Dependents
 
 # Question 3: Create an ERD
 
->Read the following statements about a Database for Art Galleries and collections of drawings. Draw the Entity-Relationship Attribute Diagram with Crow’s Foot Notation. No credit will be granted for other notations. Make sure you have all entities, all attributes (and identifiers), all relationships, and proper multiplicities.
+>"Read the following statements about a Database for Art Galleries and collections of drawings. Draw the Entity-Relationship Attribute Diagram with Crow’s Foot Notation. No credit will be granted for other notations. Make sure you have all entities, all attributes (and identifiers), all relationships, and proper multiplicities.
 >
 >- A gallery must have one and only one location and each location must have one and only one gallery. 
 >- Galleries have attributes: GalleryNum(identifier), Name, Phone, Hours, and Intro. 
@@ -41,6 +41,6 @@ Cars, Supervisors, Drivers, Division, DetailProfile, Dependents
 >- A drawing must be created by at least one artist and each artist must create at least one drawing. 
 >- Artists have attributes: ArtistNum(identifier), Name, Phone, Birthday, and Email.
 >- An artist may have a bio statement and a bio statement must belong to one artist.
->- BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s), and BriefIntroduction.
+>- BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s), and BriefIntroduction."
 
-![ERD diagram](../img/q3.png)
+![ERD diagram](./img/q3.png)
