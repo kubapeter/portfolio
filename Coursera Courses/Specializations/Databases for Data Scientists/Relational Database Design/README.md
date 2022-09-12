@@ -1,27 +1,29 @@
-<a href="https://www.coursera.org/learn/the-structured-query-language-sql">
-  <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="150" height="150" align="right">
+<a href="https://www.coursera.org/learn/relational-database-design">
+  <img src="/img/Relational_Database_Design_logo.png" width="150" height="150" align="right">
 </a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Colorado_Buffaloes_wordmark.svg" width="120" height="120" align="left">
 
-# The Structured Query Language (SQL)
+# Relational Database Design
 
 Offered by 
 ### *University of Colorado Boulder*
 
-Taught by: [Alan Paradise](https://www.coursera.org/instructor/alan-paradise)
+Taught by: [Di Wu](https://www.coursera.org/instructor/di-wu)
 
 ---
 
-**25 hours** to complete - 5 quizzes, 13 lab practices
+**36 hours** to complete - 17 quizzes, 4 peer reviewed assignments
 
-Course 2 of the Databases for Data Scientists Specialization
+Course 1 of the Databases for Data Scientists Specialization
 
 ---
 
 ## Course description
 
->"In this course you will learn all about the Structured Query Language ("SQL".)   We will review the origins of the language and its conceptual foundations.  But primarily, we will focus on learning all the standard SQL commands, their syntax, and how to use these commands to conduct analysis of the data within a relational database.  Our scope includes not only the SELECT statement for retrieving data and creating analytical reports, but also includes the DDL ("Data Definition Language") and DML ("Data Manipulation Language") commands necessary to create and maintain database objects."
+>"Have you ever wanted to build a database but don't know where to start? This course will provide you a step-by-step guidance. We are going to start from a raw idea to an implementable relational database. Getting on the path, practicing the real-life mini cases, you will be confident and comfortable with Relational Database Design. Let's get started!
+>
+>Relational Database Design can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder."
 
 <p align="right">More details on <a href="https://https://www.coursera.org/learn/the-structured-query-language-sql">website</a></p>
 
@@ -30,15 +32,25 @@ This folder contains
 - [x] source code for labs
 - [x] short descriptions of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/Coursera%20Certificate%20The%20Structured%20Query%20Language%20(SQL).pdf) ([verification](https://www.coursera.org/account/accomplishments/certificate/HS8PCQ2LVVQN))
+- [x] [certificate](./Certificate/Coursera) ([verification](https:))
 
 ## Syllabus
-- [Week 1](./Week%201): Introduction to SQL - Structured Query Language
-- [Week 2](./Week%202): The Basic SELECT Statement
-- [Week 3](./Week%203): Group Functions, SubTotals, and Subqueries
-- [Week 4](./Week%204): Getting Data from Multiple Tables
-- [Week 5](./Week%205): DDL and DML
-- [Week 6](./Week%206): Advanced SQL Commands
+
+### [Week 1](./Week%201): Introduction to DBMS, and Entity Relational Models
+
+>Introduce students to Database Management Systems. Introduce and train students with how to build conceptual entity relationship models.
+
+### [Week 2](./Week%202): Relational Models
+
+>Introduce the concepts about relational models. Train students with how to convert a conceptual entity relationship model to a relational model.
+
+### [Week 3](./Week%203): Normalization
+
+>Introduce students with the reasons and process of normalization. Train students with skills to normalize a relational model to 3NF.
+
+### [Week 4](./Week%204): Case Study
+
+>A summary of the knowledge we learned in this course, starting from an Entity Relationship Model to a Relational Model in 3NF and ready for implementation.
 
 ## Remarks
 - The course teaches PostgreSQL.
