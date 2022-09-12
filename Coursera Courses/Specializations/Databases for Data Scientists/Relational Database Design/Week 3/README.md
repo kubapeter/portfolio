@@ -11,6 +11,6 @@
 - Understanding and utilize the definition of Normal Forms
 - Be able to conduct Normalization Process
 
-## [Slides](../Slides/DBMS-Course-1-Module-2---Relational-Models.pdf)
+## [Slides](../Slides/DBMS-Course-1-Module-3---Normalization.pdf)
 
 ## [Final Assignments](./assignments.md)
