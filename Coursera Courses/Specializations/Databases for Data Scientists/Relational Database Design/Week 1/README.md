@@ -15,4 +15,4 @@
 ## Subjects covered
 
 
-## [Slides]()
+## [Slides](../Slides/DBMS-Course-1-Module-1---Entity-Relational-Models.pdf)
