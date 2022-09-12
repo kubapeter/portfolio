@@ -12,4 +12,4 @@
 
 ## [Slides](../Slides/DBMS-Course-1-Module-2---Relational-Models.pdf)
 
-## [Final Assignments](./Assignments/README.md)
+## [Final Assignments](./assignments.md)
