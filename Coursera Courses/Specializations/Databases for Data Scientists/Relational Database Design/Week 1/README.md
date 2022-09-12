@@ -1,26 +1,18 @@
 <a href="../">
-  <img src="/img/The_Structured_Query_Language_(SQL)_logo.avif" width="120" align="right">
+  <img src="/img/Relational_Database_Design_logo.png" width="120" align="right">
 </a>
 
 # Week 1 <br> Getting Data from Multiple Tables
 
 ## Learning Objectives
-- Understand how to retrieve data from multiple tables using the `JOIN`
-- Demonstrate awareness of the risks of the Cartesian Product
-- Describe the `LEFT` and `RIGHT OUTER JOIN` and demonstrate when and how to use them
+- Be able to understand the usage of Database Management Systems (DBMS) and different types of DBMS
+- Be able to construct an Entity Relational Model
+- Be able to represent the Entity Relational Model using Crow's foot notation
+- Understanding the key concepts of Entity Relationship Models
+- Be able to interpret Entity Relationship Diagrams
+- Be able to create Entity Relationship Diagrams
 
 ## Subjects covered
-- primary key, common key, foreign key
-- Inner Join (implicit, explicit)
-- Three-Way Join
-- Join as meaningful rows (`ON <A> = <B>`) of the Cartesian Product
-  - in implicit `JOIN` without `WHERE` SQL returns the whole Cartesian Product
-- Outer Join
-  - Left Outer Join
-  - Right Outer Join
 
-## Labs
 
-There are 2 labs for week 2. All the lab exercises are done on [this](https://bit.io/alanparadise/nw) database.
-- [Inner JOINS](./lab6.sql)
-- [Outer JOINS](./lab7.sql)
+## [Slides]()
