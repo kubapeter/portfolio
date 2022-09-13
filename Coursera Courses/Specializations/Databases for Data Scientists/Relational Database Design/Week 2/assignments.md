@@ -22,9 +22,9 @@ What is the domain of CRASH DATE: date
 >
 >![ERD diagram](./img/q1.png)
 
-- Drivers(Name, EmployeeID, SSN, DoB, Phone, MentorID(fk), DivisionName(fk))
-- Drivers_Drivers(EmployeeID(fk), FriendID(fk))
-- Dependents(ID, Name, Gender, DoB, EmployeeID(fk))
-- Cars(CarID, Manufactor, Model, Year)
-- Driver_Car(EmployeeID(fk), CarID(fk))
-- Division(DivisionName, Location, Phone, Email)
+- Drivers(Name, <ins>EmployeeID</ins>, SSN, DoB, Phone, MentorID(fk), DivisionName(fk))
+- Drivers_Drivers(<ins>EmployeeID(fk)</ins>, <ins>FriendID(fk)</ins>)
+- Dependents(<ins>ID</ins>, Name, Gender, DoB, EmployeeID(fk))
+- Cars(<ins>CarID</ins>, Manufactor, Model, Year)
+- Driver_Car(<ins>EmployeeID(fk)</ins>, <ins>CarID(fk)</ins>)
+- Division(<ins>DivisionName</ins>, Location, Phone, Email)
