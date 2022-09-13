@@ -32,3 +32,17 @@
 - It is in 1NF because it is a relation.
 - It is in 2NF because there is no partial FD.
 - It is not in 3NF because there is a transitive SKU → Vendor, Style  and Vendor, Style → Warranty.
+
+# Question 2: Normalization Process
+
+> "We have a relational model represented as a relational schema and its functional dependencies  given as below: 
+>
+> TRANSCRIPT (ID, fName, lName, major, majorDescription, courseID, courseDescription, courseGrade)
+>- FD1: ID, courseID → fName, lName, major, majorDescription, courseDescription, courseGrade
+>- FD2: ID → fName, 1Name, major, majorDescription
+>- FD3: courseID → curseDescription
+>- FD4: major → majorDescription
+>
+> 2A: Normalize it to 2NF
+>
+> 2B: Check all the relations you got from 2A. Are they in 3NF? If not, normalize them to 3NF."
