@@ -2,20 +2,20 @@
 
 > "1A: What normal form is the following relation in (key is underlined), and Why? Make sure you provide both Answer and Reasoning:
 >
-> STORE_ITEM (SKU, EventID, Vendor, Style, Price, Warranty)
+> STORE_ITEM (<ins>SKU</ins>, <ins>EventID</ins>, Vendor, Style, Price, Warranty)
 >- FD1: SKU, EventID → Vendor, Style, Price
 >- FD2: SKU → Vendor, Style, Warranty
 >- FD3: Vendor → Warranty
 >
 > 1B: What normal form is the following relation in (key is underlined), and Why? Make sure you provide both Answer and Reasoning:
 >
-> SKU (SKU, Vendor, Style, Warranty)
+> SKU (<ins>SKU</ins>, Vendor, Style, Warranty)
 >- FD1: SKU → Vendor, Style, Warranty
 >- FD2: Vendor → Warranty
 >
 > 1C: What normal form is the following relation in (key is underlined), and Why? Make sure you provide both Answer and Reasoning:
 >
-> SKU (SKU, Vendor, Style, Warranty)
+> SKU (<ins>SKU</ins>, Vendor, Style, Warranty)
 >- FD1: SKU → Vendor, Style, Warranty
 >- FD2: Vendor, Style → Warranty"
 
@@ -37,7 +37,7 @@
 
 > "We have a relational model represented as a relational schema and its functional dependencies  given as below: 
 >
-> TRANSCRIPT (ID, fName, lName, major, majorDescription, courseID, courseDescription, courseGrade)
+> TRANSCRIPT (<ins>ID</ins>, fName, lName, major, majorDescription, <ins>courseID</ins>, courseDescription, courseGrade)
 >- FD1: ID, courseID → fName, lName, major, majorDescription, courseDescription, courseGrade
 >- FD2: ID → fName, lName, major, majorDescription
 >- FD3: courseID → curseDescription
@@ -55,16 +55,16 @@ Relation TRANSCRIPT is not in 2NF because there are partial functional dependenc
 
 To normalize it to 2NF, we need to create new relations:
 
-Student (ID, fName, lName, major, majorDescription)
+Student (<ins>ID</ins>, fName, lName, major, majorDescription)
 - FD1: ID → fName, lName, major, majorDescription 
 - FD2: major → majorDescription
 
-Course (courseID, curseDescription)
+Course (<ins>courseID</ins>, curseDescription)
 - FD1: courseID → curseDescription
 
 And modify the TRANSCRIPT relation to be:
 
-TRANSCRIPT (ID(fk), courseID(fk), courseGrade)
+TRANSCRIPT (<ins>ID(fk)</ins>, <ins>courseID(fk)</ins>, courseGrade)
 - FD1: ID, courseID → courseGrade
 
 ### 2B:
@@ -78,14 +78,14 @@ Major (major, majorDescription)
 
 And modify the Student to be:
 
-Student (ID, fName, lName, major(fk))
+Student (<ins>ID</ins>, fName, lName, major(fk))
 - FD1: ID → fName, lName, major
 
 # Question 3: Normalization Process
 
 > "You are given the following Relational Model represented as a relational schema and its functional dependencies. 
 >
-> Exam1 (A, B, C, D, E, F, G, H, I)
+> Exam1 (<ins>A</ins>, <ins>B</ins>, <ins>C</ins>, D, E, F, G, H, I)
 >- FD1: A, B, C → D, E, F, G, H, I
 >- FD2: B → E
 >- FD3: C → F, G, H, I
