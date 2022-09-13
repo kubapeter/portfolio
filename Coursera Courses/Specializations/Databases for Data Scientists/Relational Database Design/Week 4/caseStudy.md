@@ -99,7 +99,7 @@ Here is the normalization process:
 
 # Step 6: Final Output for Implementation
 
-"After the normalization process, summarize the relational model in 3NF."
+> "After the normalization process, summarize the relational model in 3NF."
 
 Now the final Relational Model in 3NF is as below:
 - Customers (<ins>CustomerID</ins>, FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID(fk)).
