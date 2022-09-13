@@ -80,3 +80,81 @@ And modify the Student to be:
 
 Student (ID, fName, lName, major(fk))
 - FD1: ID → fName, lName, major
+
+# Question 3: Normalization Process
+
+> You are given the following Relational Model represented as a relational schema and its functional dependencies. 
+>
+> Exam1 (A, B, C, D, E, F, G, H, I)
+>- FD1: A, B, C → D, E, F, G, H, I
+>- FD2: B → E
+>- FD3: C → F, G, H, I
+>- FD4: F, G → H, I
+>
+> 3A: Normalize it to 2NF
+>
+> 3B: Check all the relations you got from 3A. Are they in 3NF? If not, normalize them to 3NF.
+
+### 3A:
+
+Relation Exam1 is not in 2NF because there are partial functional dependencies: 
+
+FD2: B → E and B is part of the key (A, B, C)
+
+FD3: C → F, G, H, I and C is part of the key (A, B, C).
+
+To normalize it to 2NF, we need to create new relations:
+
+Relation1 (B, E)
+- FD1: B → E
+
+Relation2 (C, F, G, H, I)
+- FD1: C → F, G, H, I
+- FD2: F, G → H, I
+
+And modify the Exam1 to be:
+
+Exam1 (A, B(fk), C(fk), D)
+- fD1: A, B, C → D
+
+In summary, we now have a relational model in 2NF as:
+
+Exam1 (A, B(fk), C(fk), D)
+- FD1: A, B, C → D
+
+Relation1 (B, E)
+- FD1: B → E
+
+Relation2 (C, F, G, H, I)
+- FD1: C → F, G, H, I
+- FD2: F, G → H, I
+
+### 3B:
+
+Relation 1 and Exam 1 are in 3NF. Relation2 is not in 3NF because there is a transitive functional dependency: FD1: C → F, G and FD2: F, G → H.
+
+To normalize it to 3NF, we need to create a new relation:
+
+Relation3 (F, G, H, I)
+- FD1: F, G → H, I
+
+And modify the Relation2 to be:
+
+Relation2 (C, F(fk), G(fk))
+- FD1: C → F, G
+
+Relation2 and Relation3 are in 3NF. 
+
+In summary, we now have a relational model in 3NF as:
+
+Exam1 (A, B(fk), C(fk), D)
+- FD1: A, B, C → D
+
+Relation1 (B, E)
+- FD1: B → E
+
+Relation2 (C, F(fk), G(fk))
+- FD1: C → F, G 
+
+Relation3 (F, G, H, I)
+- FD1: F, G → H, I
