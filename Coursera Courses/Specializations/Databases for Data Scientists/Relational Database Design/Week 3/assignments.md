@@ -83,7 +83,7 @@ Student (ID, fName, lName, major(fk))
 
 # Question 3: Normalization Process
 
-> You are given the following Relational Model represented as a relational schema and its functional dependencies. 
+> "You are given the following Relational Model represented as a relational schema and its functional dependencies. 
 >
 > Exam1 (A, B, C, D, E, F, G, H, I)
 >- FD1: A, B, C → D, E, F, G, H, I
@@ -93,7 +93,7 @@ Student (ID, fName, lName, major(fk))
 >
 > 3A: Normalize it to 2NF
 >
-> 3B: Check all the relations you got from 3A. Are they in 3NF? If not, normalize them to 3NF.
+> 3B: Check all the relations you got from 3A. Are they in 3NF? If not, normalize them to 3NF."
 
 ### 3A:
 
