@@ -18,3 +18,17 @@
 > SKU (SKU, Vendor, Style, Warranty)
 >- FD1: SKU → Vendor, Style, Warranty
 >- FD2: Vendor, Style → Warranty"
+
+### 1A:
+- It is in 1NF because it is a relation.
+- It is not in 2NF because there is a partial FD: FD2: SKU → Vendor, Style, Warranty and SKU is part of the key (SKU, EventID)
+
+### 1B:
+- It is in 1NF because it is a relation.
+- It is in 2NF because there is no partial FD.
+- It is not in 3NF because there is a transitive FD: SKU → Vendor and Vendor → Warranty.
+
+### 1C:
+- It is in 1NF because it is a relation.
+- It is in 2NF because there is no partial FD.
+- It is not in 3NF because there is a transitive SKU → Vendor, Style  and Vendor, Style → Warranty.
