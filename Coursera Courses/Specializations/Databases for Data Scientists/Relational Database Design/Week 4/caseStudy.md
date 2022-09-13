@@ -80,21 +80,21 @@ Here is the normalization process:
 - Customers, Staff, and Pets_Staff relations are in 3NF, because they are in 1NF; they have no partial functional dependencies so they are in 2NF; and they have no transitive functional dependencies so they are in 3NF.
 - Pets relation is in 1NF. However, it is not in 2NF because FD2: CustomerID → Address, Email, Phone. CustomerID as part of the primary key, determines non-primary-key attributes. This leads to a partial functional dependency. We need to normalize Pets to 2NF:
   - Create a new relation to put CustomerID, Address, Email, Phone. Since Customer relation has these attributes, we can simply remove them from Pets, and keep CustomerID as a foreign key.
-  - Pets (CustomerID(fk), Pet#, NickName, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes). 
+  - Pets (<ins>CustomerID(fk)</ins>, <ins>Pet#</ins>, NickName, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes). 
     - FD1: CustomerID, Pet# → NickName, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes.
     - FD2: Species/Breed → Species/Breed Description
 - Pets relation now is in 2NF. However, it is not in 3NF because of FD2: Species/Breed → Species/Breed Description. (CustomerID, Pet#) → Species/Breed, and Species/Breed → Species/Breed Description is a transitive functional dependency. We need to normalize Pets to 3NF:
   - Create a new relation to put Species/Breed and Species/Breed Description and modify Pets: 
-  - Species (Species/Breed, Species/Breed Description)
+  - Species (<ins>Species/Breed</ins>, Species/Breed Description)
     - FD1: Species/Breed → Species/Breed Description
-  - Pets (CustomerID(fk), Pet#, NickName, Category, Species/Breed(fk), Gender, DoB, Notes). 
+  - Pets (<ins>CustomerID(fk)</ins>, <ins>Pet#</ins>, NickName, Category, Species/Breed(fk), Gender, DoB, Notes). 
     - FD1: CustomerID, Pet# → NickName, Category, Species/Breed, Gender, DoB, Notes.
 - Now Pets relation is in 3NF.
 - Visit relation is in 1NF, and 2NF. However, it is not in 3NF because of FD2: ServiceID  → ServiceName, ServicePrice, ServiceDescription. VisitID → ServiceID, and ServiceID  → ServiceName, ServicePrice, ServiceDescription is a transitive functional dependency. We need to normalize Visit to 3NF:
   - Create a new relation to put ServiceID, ServiceName, ServicePrice, ServiceDescription and modify visit.
-  - Service (ServiceID, ServiceName, ServicePrice, ServiceDescription)
+  - Service (<ins>ServiceID</ins>, ServiceName, ServicePrice, ServiceDescription)
     - FD1: ServiceID  → ServiceName, ServicePrice, ServiceDescription
-  - Visit (VisitID, Date, Time, CustomerID(fk), Pet(fk), ServiceID(fk), EmployeeID(fk), Bill, Paid).
+  - Visit (<ins>VisitID</ins>, Date, Time, CustomerID(fk), Pet(fk), ServiceID(fk), EmployeeID(fk), Bill, Paid).
     - FD1: VisitID → Date, Time, CustomerID, Pet, ServiceID, EmployeeID, Bill, Paid
 
 # Step 6: Final Output for Implementation
