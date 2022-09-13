@@ -39,10 +39,44 @@
 >
 > TRANSCRIPT (ID, fName, lName, major, majorDescription, courseID, courseDescription, courseGrade)
 >- FD1: ID, courseID → fName, lName, major, majorDescription, courseDescription, courseGrade
->- FD2: ID → fName, 1Name, major, majorDescription
+>- FD2: ID → fName, lName, major, majorDescription
 >- FD3: courseID → curseDescription
 >- FD4: major → majorDescription
 >
 > 2A: Normalize it to 2NF
 >
 > 2B: Check all the relations you got from 2A. Are they in 3NF? If not, normalize them to 3NF."
+
+### 2A:
+
+Relation TRANSCRIPT is not in 2NF because there are partial functional dependencies: 
+- FD2: ID → fName, lName, major, majorDescription and ID is part of the key (ID, courseID)
+- FD3: courseID → curseDescription and courseID is part of the key (ID, courseID).
+
+To normalize it to 2NF, we need to create new relations:
+
+Student (ID, fName, lName, major, majorDescription)
+- FD1: ID → fName, lName, major, majorDescription 
+- FD2: major → majorDescription
+
+Course (courseID, curseDescription)
+- FD1: courseID → curseDescription
+
+And modify the TRANSCRIPT relation to be:
+
+TRANSCRIPT (ID(fk), courseID(fk), courseGrade)
+- FD1: ID, courseID → courseGrade
+
+### 2B:
+
+Relation Course and TRANSCRIPT are in 3NF since there are no transitive functional dependencies. However, Relation Student is not in 3NF because there is a transitive functional dependency: ID → major, and major → majorDescription.
+
+To normalize it to 3NF, we need to create a new relation:
+
+Major (major, majorDescription)
+- FD1: major → majorDescription
+
+And modify the Student to be:
+
+Student (ID, fName, lName, major(fk))
+- FD1: ID → fName, lName, major
