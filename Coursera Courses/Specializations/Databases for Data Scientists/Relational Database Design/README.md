@@ -29,8 +29,8 @@ Course 1 of the Databases for Data Scientists Specialization
 
 ## Content
 This folder contains 
-- [x] source code for labs
 - [x] short descriptions of the modules 
+- [x] final assignments of the modules 
 - [x] [slides](./Slides) 
 - [x] [certificate](./Certificate/Coursera) ([verification](https:))
 
