@@ -6,7 +6,7 @@
 > 
 > PetsCare wants to record information about customers, pets, staff, visits. Claire will be available to meet via Zoom tomorrow to discuss details. You should prepare questions for building the DBMS.
 > 
-> **Task:** What questions should you ask during the meeting?
+> **Task:** What questions should you ask during the meeting?"
 
 One should prepare two categories of questions:
 
@@ -46,35 +46,35 @@ Their relationships are:
 > "Now you can convert the ERD to a Relational Model."
 
 Here is the relational model converted from the ERD:
-- Customers (CustomerID, FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID(fk)).
-- Pets (CustomerID(fk), Pet#, NickName, Address, Email, Phone, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes). 
-- Staff (EmployeeID, FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID(fk)). 
-- Visit (VisitID, Date, Time, CustomerID(fk), Pet(fk), ServiceID, ServiceName, ServicePrice, ServiceDescription, EmployeeID(fk), Bill, Paid).
-- Pets_Staff (CustomerID(fk), Pet#(fk),EmployeeID(fk))
+- Customers (<ins>CustomerID</ins>, FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID(fk)).
+- Pets (<ins>CustomerID(fk)</ins>, <ins>Pet#</ins>, NickName, Address, Email, Phone, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes). 
+- Staff (<ins>EmployeeID</ins>, FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID(fk)). 
+- Visit (<ins>VisitID</ins>, Date, Time, CustomerID(fk), Pet(fk), ServiceID, ServiceName, ServicePrice, ServiceDescription, EmployeeID(fk), Bill, Paid).
+- Pets_Staff (<ins>CustomerID(fk)</ins>, <ins>Pet#(fk)</ins>, <ins>EmployeeID(fk)</ins>)
 
 # Step 5: Normalize the Relational Model to 3NF
 
-"Before normalization, you should ask Claire about the Functional Dependencies of the relations. Here is what you got from her:
-
-Customers (CustomerID, FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID(fk)).
-- FD1: CustomerID → FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID
-
-Pets (CustomerID(fk), Pet#, NickName, Address, Email, Phone, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes). 
-- FD1: CustomerID, Pet# → NickName, Address, Email, Phone, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes.
-- FD2: CustomerID → Address, Email, Phone
-- FD3: Species/Breed → Species/Breed Description
-
-Staff (EmployeeID, FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID(fk)). 
-- FD1: EmployeeID  → FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID
-
-Visit (VisitID, Date, Time, CustomerID(fk), Pet(fk), ServiceID, ServiceName, ServicePrice, ServiceDescription, EmployeeID(fk), Bill, Paid).
-- FD1: VisitID → Date, Time, CustomerID, Pet, ServiceID, ServiceName, ServicePrice, ServiceDescription, EmployeeID, Bill, Paid
-- FD2: ServiceID  → ServiceName, ServicePrice, ServiceDescription.
-
-Pets_Staff(CustomerID(fk), Pet#(fk),EmployeeID(fk))
-- There is no non-primary-key attribute.
-
-Now you can normalize this Relational Model to 3NF."
+> "Before normalization, you should ask Claire about the Functional Dependencies of the relations. Here is what you got from her:
+>
+> Customers (<ins>CustomerID</ins>, FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID(fk)).
+>- FD1: CustomerID → FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID
+>
+> Pets (<ins>CustomerID(fk)</ins>, <ins>Pet#</ins>, NickName, Address, Email, Phone, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes). 
+>- FD1: CustomerID, Pet# → NickName, Address, Email, Phone, Category, Species/Breed, Species/Breed Description, Gender, DoB, Notes.
+>- FD2: CustomerID → Address, Email, Phone
+>- FD3: Species/Breed → Species/Breed Description
+>
+> Staff (<ins>EmployeeID</ins>, FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID(fk)). 
+>- FD1: EmployeeID  → FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID
+>
+> Visit (<ins>VisitID</ins>, Date, Time, CustomerID(fk), Pet(fk), ServiceID, ServiceName, ServicePrice, ServiceDescription, EmployeeID(fk), Bill, Paid).
+>- FD1: VisitID → Date, Time, CustomerID, Pet, ServiceID, ServiceName, ServicePrice, ServiceDescription, EmployeeID, Bill, Paid
+>- FD2: ServiceID  → ServiceName, ServicePrice, ServiceDescription.
+>
+> Pets_Staff(<ins>CustomerID(fk)</ins>, <ins>Pet#(fk)</ins>, <ins>EmployeeID(fk)</ins>)
+>- There is no non-primary-key attribute.
+>
+> Now you can normalize this Relational Model to 3NF."
 
 Here is the normalization process:
 - Customers, Staff, and Pets_Staff relations are in 3NF, because they are in 1NF; they have no partial functional dependencies so they are in 2NF; and they have no transitive functional dependencies so they are in 3NF.
@@ -99,3 +99,20 @@ Here is the normalization process:
 
 # Step 6: Final Output for Implementation
 
+"After the normalization process, summarize the relational model in 3NF."
+
+Now the final Relational Model in 3NF is as below:
+- Customers (<ins>CustomerID</ins>, FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID(fk)).
+  - FD1: CustomerID → FirstName, LastName, Address, Email, Phone, DoB, PaymentInfo, JoinDate, ReferredByCustomerID
+- Pets (<ins>CustomerID(fk)</ins>, <ins>Pet#</ins>, NickName, Category, Species/Breed, Gender, DoB, Notes). 
+  - FD1: CustomerID, Pet# → NickName, Category, Species/Breed, Gender, DoB, Notes.
+- Species (<ins>Species/Breed</ins>, Species/Breed Description)
+  - FD1: Species/Breed → Species/Breed Description
+- Staff (<ins>EmployeeID</ins>, FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID(fk)). 
+  - FD1: EmployeeID  → FirstName, LastName, SSN, Address, Email, Phone, DoB, SupervisorID
+- Visit (<ins>VisitID</ins>, Date, Time, CustomerID(fk), Pet(fk), ServiceID(fk), EmployeeID(fk), Bill, Paid).
+  - FD1: VisitID → Date, Time, CustomerID, Pet, ServiceID, EmployeeID, Bill, Paid
+- Service (<ins>ServiceID</ins>, ServiceName, ServicePrice, ServiceDescription)
+  - FD1: ServiceID  → ServiceName, ServicePrice, ServiceDescription
+- Pets_Staff(<ins>CustomerID(fk)</ins>, <ins>Pet#(fk)</ins>, <ins>EmployeeID(fk)</ins>)
+  - There is no non-primary-key attribute.
