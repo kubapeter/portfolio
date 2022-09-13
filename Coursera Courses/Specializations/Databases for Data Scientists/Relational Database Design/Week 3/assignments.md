@@ -105,27 +105,27 @@ FD3: C → F, G, H, I and C is part of the key (A, B, C).
 
 To normalize it to 2NF, we need to create new relations:
 
-Relation1 (B, E)
+Relation1 (<ins>B</ins>, E)
 - FD1: B → E
 
-Relation2 (C, F, G, H, I)
+Relation2 (<ins>C</ins>, F, G, H, I)
 - FD1: C → F, G, H, I
 - FD2: F, G → H, I
 
 And modify the Exam1 to be:
 
-Exam1 (A, B(fk), C(fk), D)
-- fD1: A, B, C → D
+Exam1 (<ins>A</ins>, <ins>B(fk)</ins>, <ins>C(fk)</ins>, D)
+- FD1: A, B, C → D
 
 In summary, we now have a relational model in 2NF as:
 
-Exam1 (A, B(fk), C(fk), D)
+Exam1 (<ins>A</ins>, <ins>B(fk)</ins>, <ins>C(fk)</ins>, D)
 - FD1: A, B, C → D
 
-Relation1 (B, E)
+Relation1 (<ins>B</ins>, E)
 - FD1: B → E
 
-Relation2 (C, F, G, H, I)
+Relation2 (<ins>C</ins>, F, G, H, I)
 - FD1: C → F, G, H, I
 - FD2: F, G → H, I
 
@@ -135,26 +135,26 @@ Relation 1 and Exam 1 are in 3NF. Relation2 is not in 3NF because there is a tra
 
 To normalize it to 3NF, we need to create a new relation:
 
-Relation3 (F, G, H, I)
+Relation3 (<ins>F</ins>, <ins>G</ins>, H, I)
 - FD1: F, G → H, I
 
 And modify the Relation2 to be:
 
-Relation2 (C, F(fk), G(fk))
+Relation2 (<ins>C</ins>, F(fk), G(fk))
 - FD1: C → F, G
 
 Relation2 and Relation3 are in 3NF. 
 
 In summary, we now have a relational model in 3NF as:
 
-Exam1 (A, B(fk), C(fk), D)
+Exam1 (<ins>A</ins>, <ins>B(fk)</ins>, <ins>C(fk)</ins>, D)
 - FD1: A, B, C → D
 
-Relation1 (B, E)
+Relation1 (<ins>B</ins>, E)
 - FD1: B → E
 
-Relation2 (C, F(fk), G(fk))
+Relation2 (<ins>C</ins>, F(fk), G(fk))
 - FD1: C → F, G 
 
-Relation3 (F, G, H, I)
+Relation3 (<ins>F</ins>, <ins>G</ins>, H, I)
 - FD1: F, G → H, I
