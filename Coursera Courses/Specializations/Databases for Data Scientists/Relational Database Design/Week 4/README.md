@@ -10,6 +10,4 @@
 - Be able to review the work of others and provide comments
 - Demonstrate mastery of the material presented in this course.
 
-## [Slides](../Slides/DBMS-Course-1-Module-3---Normalization.pdf)
-
-## [Final Assignments](./assignments.md)
+## [Case Study](./caseStudy.md)
