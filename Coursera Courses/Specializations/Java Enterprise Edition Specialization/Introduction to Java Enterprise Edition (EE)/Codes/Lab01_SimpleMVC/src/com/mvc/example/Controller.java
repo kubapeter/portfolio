@@ -12,5 +12,4 @@ class Controller {
 		LocalRepository.addContact(new Contact(anId,first_name,last_name));
 	}
 	
-	
 }
