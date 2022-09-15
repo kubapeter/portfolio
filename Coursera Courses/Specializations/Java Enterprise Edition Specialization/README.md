@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/specializations/java-ee">
-  <img src="/img/Java_Testing_logo.avif" width="150" align="right">
+  <img src="/img/Java_Enterprise_Edition_Specialization_logo.png" width="150" align="right">
 </a>
 
 <div width="120", height="120">
