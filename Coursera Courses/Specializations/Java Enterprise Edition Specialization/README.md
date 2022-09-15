@@ -35,7 +35,7 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Introduction to Java Enterprise Edition (EE)](./)
+1. [Introduction to Java Enterprise Edition (EE)](./Introduction%20to%20Java%20Enterprise%20Edition%20(EE))
 2. [Managing Scope in a Java Enterprise Edition Application](./)
 3. [Java Servlet Pages (JSPs)](./)
 4. [Enterprise Java Beans (EJBs) and the Jakarta Persistence API (JPA)](./)
