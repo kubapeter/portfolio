@@ -35,7 +35,7 @@ This folder contains
 
 ## Syllabus
 
-#### Module 1: A Test First Approach
+#### Module 1: JEE
 
 >"Module 1 focuses on JEE as a platform. We discuss the motivation and purpose, as well as some of the frequently used libraries and technologies in the Java Enterprise Edition."
 >- Understand how Web browsers interact with Web servers
@@ -43,7 +43,7 @@ This folder contains
 >- Describe the technologies underlying the Web
 >- Explain JEE and its benefits in enterprise Java development
 
-#### Module 2: Core Principles
+#### Module 2: Servlet Basics
 
 >"In Module 2, we take a look at Web basics, our building blocks for understanding how the internet works. Then, we get very hands on with understanding the Servlet hierarchy, and how servlets handle request/response cycles. Finally, we learn about transferring control via forward and redirect mechanisms."
 >- Create a Web project and deploy a Web application to a server 
