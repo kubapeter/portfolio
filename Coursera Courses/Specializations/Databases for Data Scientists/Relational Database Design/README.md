@@ -32,7 +32,7 @@ This folder contains
 - [x] short descriptions of the modules 
 - [x] final assignments of the modules 
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/Coursera) ([verification](https:))
+- [x] [certificate](./Coursera_Certificate_Relational_Database_Design.pdf) ([verification](https://coursera.org/verify/YJ7KX776Z7TX))
 
 ## Syllabus
 
@@ -53,3 +53,5 @@ This folder contains
 >A summary of the knowledge we learned in this course, starting from an Entity Relationship Model to a Relational Model in 3NF and ready for implementation.
 
 ## Remarks
+- After video lectures the student can do exercises to put the therory explained in the lecture into practice. After solving the exercises the correct solutions are presented to the student. 
+- The theory is very detailed in the videos. 
