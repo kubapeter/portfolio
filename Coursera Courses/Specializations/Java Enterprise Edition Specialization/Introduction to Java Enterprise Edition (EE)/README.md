@@ -30,7 +30,7 @@ Course 1 of the [Java Enterprise Edition Specialization](../)
 This folder contains 
 - [x] [slides](./Slides/README.md) 
 - [x] [detailed descriptions](./Labs) of lab exercises
-- [x] [source code](./Codes/solutions) of lab exercises
+- [x] [source code](./Codes) of lab exercises
 - [x] [certificate](./Coursera_Certificate_Introduction_to_Java_Enterprise_Edition_(EE).pdf) ([verification](https://coursera.org/verify/LPRESU8DGR5P))
 
 ## Syllabus
