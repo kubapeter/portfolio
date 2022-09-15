@@ -53,5 +53,5 @@ This folder contains
 >A summary of the knowledge we learned in this course, starting from an Entity Relationship Model to a Relational Model in 3NF and ready for implementation.
 
 ## Remarks
-- After video lectures the student can do exercises to put the therory explained in the lecture into practice. After solving the exercises the correct solutions are presented to the student. 
-- The theory is very detailed in the videos. 
+- After video lectures the student can do exercises to put the therory explained in the lecture into practice. After solving the exercises the correct solutions are presented to the student. After watching the videos it is quite clear how to solve the exercises. 
+- The theory is very detailed in the videos. At points it could use a bit more examples, or more practical examples. 
