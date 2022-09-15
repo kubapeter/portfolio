@@ -29,6 +29,4 @@ package com.mvc.example;
 		return "Contact id=" + id + "\tfirst_name=" + first_name + "\tlast_name=" + last_name;
 	}
 
-	
-	
 }
