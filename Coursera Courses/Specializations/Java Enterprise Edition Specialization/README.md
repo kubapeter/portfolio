@@ -35,7 +35,7 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Introduction to Java Enterprise Edition (EE)](./Overview%20of%20JUnit%20Testing)
-2. [Managing Scope in a Java Enterprise Edition Application](./Mocking%20with%20JUnit)
-3. [Java Servlet Pages (JSPs)](./Java%20Testing:%20An%20Introduction%20to%20TDD)
-4. [Enterprise Java Beans (EJBs) and the Jakarta Persistence API (JPA)](./Parameterized%20and%20Dynamic%20Testing%20in%20JUnit)
+1. [Introduction to Java Enterprise Edition (EE)](./)
+2. [Managing Scope in a Java Enterprise Edition Application](./)
+3. [Java Servlet Pages (JSPs)](./)
+4. [Enterprise Java Beans (EJBs) and the Jakarta Persistence API (JPA)](./)
