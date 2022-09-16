@@ -1,4 +1,4 @@
-# Module 1 : JEE
+# Module 1: JEE
 
 ![slide](./m1_01_Introduction.PNG)
 
