@@ -9,7 +9,7 @@
 Offered by 
 ### *LearnQuest*
 
-Taught by: [Ed Lance](https://www.coursera.org/instructor/~39758895) and
+Taught by: [Grayson Lyvers](https://www.coursera.org/instructor/~80014260) and
 [Elizabeth Campbell](https://www.coursera.org/instructor/~48400072)
 
 ---
