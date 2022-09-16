@@ -22,6 +22,6 @@
 
 ![slide](./m2_01_Web_Basics.PNG)
 
-# Module 2: Managing Scope II
+# Module 3: Managing Scope II
 
 ![slide](./m2_01_Web_Basics.PNG)
