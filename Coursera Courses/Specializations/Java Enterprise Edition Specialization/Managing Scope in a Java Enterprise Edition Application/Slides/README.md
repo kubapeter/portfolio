@@ -1,4 +1,4 @@
-# Module 1 : JEE
+# Module 1: Understanding Sessions
 
 ![slide](./m1_Instructor_Introduction_01.PNG)
 
@@ -18,6 +18,10 @@
 ![slide](./m1_Sessions_in_Action_14.PNG)
 ![slide](./m1_Sessions_in_Action_15.PNG)
 
-# Module 2: Servlet Basics
+# Module 2: Managing Scope
+
+![slide](./m2_01_Web_Basics.PNG)
+
+# Module 2: Managing Scope II
 
 ![slide](./m2_01_Web_Basics.PNG)
