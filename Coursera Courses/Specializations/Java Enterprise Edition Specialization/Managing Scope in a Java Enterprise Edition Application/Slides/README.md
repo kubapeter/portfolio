@@ -39,4 +39,11 @@
 
 # Module 3: Managing Scope II
 
-![slide](./m2_01_Web_Basics.PNG)
+![slide](./m3_01_Complementary_Scopes.PNG)
+![slide](./m3_02_Complementary_Scopes.PNG)
+![slide](./m3_03_Complementary_Scopes.PNG)
+![slide](./m3_04_Complementary_Scopes.PNG)
+![slide](./m3_05_Complementary_Scopes.PNG)
+![slide](./m3_06_Complementary_Scopes.PNG)
+![slide](./m3_07_Complementary_Scopes.PNG)
+![slide](./m3_08_Complementary_Scopes.PNG)
