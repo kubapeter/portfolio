@@ -20,7 +20,22 @@
 
 # Module 2: Managing Scope
 
-![slide](./m2_01_Web_Basics.PNG)
+![slide](./m2_01_Servlet_Infrastructure.PNG)
+![slide](./m2_02_Servlet_Infrastructure.PNG)
+![slide](./m2_03_Servlet_Infrastructure.PNG)
+![slide](./m2_04_Servlet_Infrastructure.PNG)
+![slide](./m2_05_Servlet_Infrastructure.PNG)
+![slide](./m2_06_Servlet_Infrastructure.PNG)
+![slide](./m2_07_Servlet_Infrastructure.PNG)
+![slide](./m2_08_Servlet_Infrastructure.PNG)
+
+![slide](./m2_09_Session_Scope.PNG)
+![slide](./m2_10_Session_Scope.PNG)
+![slide](./m2_11_Session_Scope.PNG)
+![slide](./m2_12_Session_Scope.PNG)
+![slide](./m2_13_Session_Scope.PNG)
+![slide](./m2_14_Session_Scope.PNG)
+![slide](./m2_15_Session_Scope.PNG)
 
 # Module 3: Managing Scope II
 
