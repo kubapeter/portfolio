@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/learn/internet-history">
-  <img src="/img/JSON_and_Natural_Language_Processing_in_PostgreSQL_logo.avif" width="150" align="right">
+  <img src="/img/Internet_History,_Technology,_and_Security_logo.png" width="150" align="right">
 </a>
 
 <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width="120" height="120" align="left">
