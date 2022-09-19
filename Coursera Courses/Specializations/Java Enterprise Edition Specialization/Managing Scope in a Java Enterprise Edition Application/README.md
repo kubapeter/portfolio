@@ -31,7 +31,7 @@ This folder contains
 - [x] [slides](./Slides/README.md) 
 - [x] [detailed descriptions](./Labs) of lab exercises
 - [x] [source code](./Codes) of lab exercises
-- [x] [certificate](./Coursera_Certificate) ([verification](https://coursera.org/verify/AZ6LXXJNZTNM))
+- [x] [certificate](./Coursera_Certificate_Managing_Scope_in_a_Java_Enterprise_Edition_Application.pdf) ([verification](https://coursera.org/verify/AZ6LXXJNZTNM))
 
 ## Syllabus
 
