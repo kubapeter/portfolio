@@ -36,3 +36,5 @@ The specialization consists of 4 courses.
 2. [Spring MVC, Spring Boot and Rest Controllers](./)
 3. [Spring Data Repositories](./)
 4. [Spring - Cloud Overview](./)
+
+## [Short Summary](./Slides/README.md)
