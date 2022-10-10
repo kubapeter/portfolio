@@ -1,8 +1,8 @@
 <a href="https://www.coursera.org/learn/spring-ecosystem-and-core">
-  <img src="/img/Java_Testing_logo.avif" width="150" align="right">
+  <img src="/img/Spring_Framework_Specialization_logo.png" width="150" align="right">
 </a>
 
-<img src="/img/Spring_Framework_Specialization_logo.png" width="120" align="left">
+<img src="/img/LearnQuest_logo.png" width="120" align="left">
 
 # Spring - Ecosystem and Core
 
