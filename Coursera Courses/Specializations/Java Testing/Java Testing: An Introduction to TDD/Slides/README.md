@@ -1,4 +1,4 @@
-# Module 1 : A Test First Approach
+# Module 1: A Test First Approach
 
 ![m1_01](./m1_01_Instructor%20Introduction.PNG)
 ![m1_02](./m1_02_TDD%20With%20JUnit5_1.PNG)
