@@ -1,7 +1,7 @@
 # Introductory Slides
 
-![slide](./s_01)
-![slide](./s_02)
-![slide](./s_03)
-![slide](./s_04)
-![slide](./s_05)
+![slide](./s_01.PNG)
+![slide](./s_02.PNG)
+![slide](./s_03.PNG)
+![slide](./s_04.PNG)
+![slide](./s_05.PNG)
