@@ -30,3 +30,18 @@
 ![slide](./m1_24_The_ApplicationContext_3.PNG)
 ![slide](./m1_25_The_ApplicationContext_4.PNG)
 
+![slide](./m1_26_Setter_Injection_1.PNG)
+![slide](./m1_27_Setter_Injection_2.PNG)
+![slide](./m1_28_Setter_Injection_3.PNG)
+![slide](./m1_29_Setter_Injection_4.PNG)
+![slide](./m1_30_Setter_Injection_5.PNG)
+![slide](./m1_31_Setter_Injection_6.PNG)
+![slide](./m1_32_Setter_Injection_7.PNG)
+![slide](./m1_33_Setter_Injection_8.PNG)
+![slide](./m1_34_Setter_Injection_9.PNG)
+![slide](./m1_35_Setter_Injection_10.PNG)
+
+![slide](./m1_36_Constructor_Injection_1.PNG)
+![slide](./m1_37_Constructor_Injection_2.PNG)
+![slide](./m1_38_Constructor_Injection_3.PNG)
+
