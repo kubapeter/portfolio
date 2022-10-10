@@ -32,7 +32,7 @@ The specialization consists of 4 courses.
 
 ---
 
-1. [Spring - Ecosystem and Core](./Spring - Ecosystem and Core)
+1. [Spring - Ecosystem and Core](./Spring%20-%20Ecosystem%20and%20Core)
 2. [Spring MVC, Spring Boot and Rest Controllers](./)
 3. [Spring Data Repositories](./)
 4. [Spring - Cloud Overview](./)
