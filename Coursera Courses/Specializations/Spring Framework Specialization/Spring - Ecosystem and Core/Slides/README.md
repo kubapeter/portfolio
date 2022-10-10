@@ -1,6 +1,6 @@
 # Module 1 : What is Spring?
 
-![slide](./m1_01_Course Introduction.PNG)
+![slide](./m1_01_Course%20Introduction.PNG)
 
 ![slide](./m1_02_What_is_Spring_1.PNG)
 ![slide](./m1_03_What_is_Spring_2.PNG)
