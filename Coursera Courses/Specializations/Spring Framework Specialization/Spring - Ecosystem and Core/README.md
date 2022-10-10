@@ -30,7 +30,7 @@ This folder contains
 - [x] [slides](./Slides/README.md) 
 - [x] [detailed descriptions](./Labs) of lab exercises
 - [x] [source code](./Codes/solutions) of lab exercises
-- [x] [certificate](./Coursera_Certificate_) ([verification](https://coursera.org/verify/4YMKHUFVUWKN))
+- [x] [certificate](./Coursera_Certificate_Spring_-_Ecosystem_and_Core.pdf) ([verification](https://coursera.org/verify/4YMKHUFVUWKN))
 
 ## Syllabus
 
