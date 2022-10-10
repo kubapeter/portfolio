@@ -44,7 +44,7 @@ This folder contains
 
 #### Module 2: Core Principles
 
->"In this module the student will learn about how to enhance their unit tests, use data driven testing techniques such as parameterized tests"
+>"In this module the student will learn about how to enhance their unit tests, use data driven testing techniques such as parameterized tests."
 >- Explain the core principles of Test Driven Development (TDD)
 >- Discover why we need TDD
 >- Discuss the benefits of TDD
