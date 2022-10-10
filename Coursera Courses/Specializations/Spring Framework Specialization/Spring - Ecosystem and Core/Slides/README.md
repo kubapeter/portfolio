@@ -1,4 +1,4 @@
-# Module 1 : What is Spring?
+# Module 1: What is Spring?
 
 ![slide](./m1_01_Course%20Introduction.PNG)
 
