@@ -30,7 +30,7 @@ This folder contains
 - [x] [slides](./Slides/README.md) 
 - [x] [detailed descriptions](./Labs) of lab exercises
 - [x] [source code](./Codes/solutions) of lab exercises
-- [x] [certificate](./Coursera_Certificate_) ([verification](https://coursera.org/verify/))
+- [x] [certificate](./Coursera_Certificate_) ([verification](https://coursera.org/verify/4YMKHUFVUWKN))
 
 ## Syllabus
 
