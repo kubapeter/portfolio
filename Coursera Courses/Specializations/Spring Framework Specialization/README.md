@@ -1,5 +1,5 @@
 <a href="https://www.coursera.org/specializations/spring-framework">
-  <img src="/img/Java_Testing_logo.avif" width="150" align="right">
+  <img src="/img/Spring_Framework_Specialization_logo.png" width="150" align="right">
 </a>
 
 <div width="120", height="120">
