@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans spring-beans-4.0.xsd
+    http://www.springframework.org/schema/context spring-context-4.0.xsd">
+ 
+ 
+ <bean id="studentService" class="com.student.service.StudentServiceImpl">
+    <property name="studentDao" ref="studentServiceDao"/>
+    <property name="numberOfStudents" value="2"/>
+ </bean>
+ 
+ <bean id="studentServiceDao" class="com.student.dao.StudentDaoImpl"/>
+ 
+</beans>
