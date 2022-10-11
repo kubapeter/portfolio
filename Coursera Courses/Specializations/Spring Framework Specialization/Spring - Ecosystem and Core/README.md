@@ -21,7 +21,7 @@ Course 1 of the [Spring Framework Specialization](../)
 
 ## Course description
 
->"In this course students will learn the why the Spring Framework is one of the dominant Java development Frameworks. the course covers a variety of techniques for Java Object Dependency Injection using various forms of configuration data i.e. XML, Annotations and Java Configuration Classes with Factory Methods. Configurations will be enhanced with Expression Languages  and Conditional Beans that are  available  based off certain conditions like development environment i.e. test and production. Students will build an extensive application iteratively in a succession of hands on labs."
+>"In this course students will learn why the Spring Framework is one of the dominant Java development Frameworks. the course covers a variety of techniques for Java Object Dependency Injection using various forms of configuration data i.e. XML, Annotations and Java Configuration Classes with Factory Methods. Configurations will be enhanced with Expression Languages  and Conditional Beans that are  available  based off certain conditions like development environment i.e. test and production. Students will build an extensive application iteratively in a succession of hands on labs."
 
 <p align="right">More details on <a href="https://www.coursera.org/learn/spring-ecosystem-and-core">website</a></p>
 
