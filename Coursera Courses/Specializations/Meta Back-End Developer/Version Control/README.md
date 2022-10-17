@@ -36,7 +36,7 @@ This folder contains
 - [x] [course notes](./Resources/course_notes (pdf document of 11 pages)
 - [x] [glossary](./Resources/glossary) (definitions of the main concepts)
 - [x] [slides](./Slides) 
-- [x] [certificate](./Certificate/certificate.pdf) ([verification](https://coursera.org/verify/U46RXZ3FHQDZ))
+- [x] [certificate](./Coursera_Certificate_Version_Control.pdf) ([verification](https://coursera.org/verify/U46RXZ3FHQDZ))
 
 ## Syllabus
 - [Week 1](./Week%201): Software collaboration
