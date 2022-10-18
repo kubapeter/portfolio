@@ -2,7 +2,7 @@
   <img src="/img/Version_Control_logo.jpg" width="120" align="right">
 </a>
 
-# Week 1 <br> Command Line
+# Week 2 <br> Command Line
 
 ## Learning Objectives
 - Describe how the command line is and how it is used.
